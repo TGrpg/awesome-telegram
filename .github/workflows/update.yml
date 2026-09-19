@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: 22
       - name: Test the generator
-        run: node --test scripts/
+        run: node --test scripts/*.test.mjs
       - name: Regenerate from tgbox.cc
         run: node scripts/generate.mjs
       - name: Commit when something changed

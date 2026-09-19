@@ -10,5 +10,5 @@ README 和 data/entries.json 每天由 tgbox.cc 自动生成，直接修改会�
 ## What / 改了什么
 
 ## Checked / 验证
-- [ ] `node --test scripts/`
+- [ ] `node --test scripts/*.test.mjs`
 - [ ] `node scripts/generate.mjs` renders both READMEs
