@@ -78,3 +78,17 @@ test("sections follow kind and category, largest first, and skip empty ones", ()
   assert.match(en, /<a id="bot-tools"><\/a>/);
   assert.match(en, /\[All tools on TGbox →\]\(https:\/\/tgbox\.cc\/en\/bot\/tools\/\)/);
 });
+
+test("the Traditional README links the Traditional pages and uses Traditional units", () => {
+  const hant = render(data, "zh-hant");
+  assert.match(hant, /^# Awesome Telegram 中文資源合集/m);
+  assert.match(hant, /\[Title big\]\(https:\/\/tgbox\.cc\/zh-hant\/detail\/big\/\)/);
+  assert.match(hant, /https:\/\/tgbox\.cc\/data\/entries\.json/);
+  assert.doesNotMatch(hant, /\/zh-hant\/data\//);
+  assert.match(hant, /\*\*繁體中文\*\*/);
+  assert.equal(compact(120_000, "zh-hant"), "12萬");
+  // Every README links the other two.
+  assert.match(render(data, "en"), /\[繁體中文\]\(README\.zh-Hant\.md\)/);
+  assert.match(render(data, "zh"), /\[繁體中文\]\(README\.zh-Hant\.md\)/);
+  assert.match(hant, /\[简体中文\]\(README\.zh-CN\.md\)/);
+});
