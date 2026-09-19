@@ -1,0 +1,41 @@
+name: Update list
+
+# Daily on its own; TGbox's deploy also pings `tgbox-updated` when it has a token for it.
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [tgbox-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Test the generator
+        run: node --test scripts/
+      - name: Regenerate from tgbox.cc
+        run: node scripts/generate.mjs
+      - name: Commit when something changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md README.zh-CN.md data/entries.json
+          git commit -m "Update list $(date -u +%F)"
+          git push

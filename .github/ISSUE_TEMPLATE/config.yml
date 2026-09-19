@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📮 Submit through the bot (fastest) / 通过机器人提交（最快）
+    url: https://t.me/tgboxccbot?start=submit
+    about: Send the t.me link to @tgboxccbot. Reviewed entries appear here the next day. / 把链接发给 @tgboxccbot，审核通过后第二天出现在这里。
+  - name: 🌐 Browse the directory / 浏览导航站
+    url: https://tgbox.cc
+    about: Search, categories, member counts and recent posts. / 搜索、分类、人数和最新消息。
+  - name: 🤝 Exchange links / 交换友链
+    url: https://t.me/tgboxccbot?start=links
+    about: Apply for a link on tgbox.cc. / 申请 tgbox.cc 友情链接。

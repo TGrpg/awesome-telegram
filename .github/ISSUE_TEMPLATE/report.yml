@@ -1,0 +1,28 @@
+name: 🚩 Report an entry / 举报条目
+description: A dead link, wrong information, or harmful content. / 失效、信息错误或有害内容。
+title: "[Report] @"
+labels: [report]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Entry / 条目
+      description: The t.me link, @username or the tgbox.cc page. / t.me 链接、@用户名或 tgbox.cc 页面。
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Problem / 问题
+      options:
+        - Dead or deleted / 已失效或已删除
+        - Wrong category or information / 分类或信息错误
+        - Spam, scam or illegal content / 垃圾、诈骗或违法内容
+        - I own it and want it removed / 我是所有者，申请删除
+        - Other / 其他
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details / 说明

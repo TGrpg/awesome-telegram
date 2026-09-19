@@ -1,0 +1,42 @@
+name: ➕ Suggest an entry / 推荐收录
+description: Suggest a public Telegram channel, group or bot. / 推荐一个公开的 Telegram 频道、群组或机器人。
+title: "[Submit] @"
+labels: [submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Fastest way:** send the link to [@tgboxccbot](https://t.me/tgboxccbot?start=submit) — no GitHub account needed and you get notified when it's reviewed.
+        **最快的方式：**把链接发给 [@tgboxccbot](https://t.me/tgboxccbot?start=submit)，不需要 GitHub 账号，审核结果会通知你。
+
+        This README is generated every day from [tgbox.cc](https://tgbox.cc); approved entries appear here automatically. / 本页每天从 tgbox.cc 自动生成，通过审核的条目会自动出现。
+  - type: input
+    id: link
+    attributes:
+      label: Link / 链接
+      description: "https://t.me/username or @username (public only; invite links can't be listed) / 仅公开用户名，邀请链接无法收录"
+      placeholder: https://t.me/example
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type / 类型
+      options:
+        - Channel / 频道
+        - Group / 群组
+        - Bot / 机器人
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth listing? / 推荐理由
+      description: One or two sentences. / 一两句话即可。
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules / 收录规则
+      options:
+        - label: It is public, active and lawful — no adult, gambling or scam content. / 公开、在更新、内容合法，不涉及色情、赌博、诈骗。
+          required: true
