@@ -1,12 +1,12 @@
 {
  "version": 1,
  "site": "https://tgbox.cc",
- "generatedAt": "2026-09-19T14:38:10.891Z",
+ "generatedAt": "2026-09-19T15:08:14.522Z",
  "stats": {
-  "total": 722,
+  "total": 808,
   "channels": 279,
   "groups": 182,
-  "bots": 261
+  "bots": 347
  },
  "categories": [
   {
@@ -14,105 +14,105 @@
    "slug": "tools",
    "nameZh": "实用工具",
    "nameEn": "Utilities",
-   "count": 58
+   "count": 73
   },
   {
    "kind": "bot",
    "slug": "messaging",
    "nameZh": "消息收发",
    "nameEn": "Messaging",
-   "count": 1
+   "count": 3
   },
   {
    "kind": "bot",
    "slug": "group-admin",
    "nameZh": "群组管理",
    "nameEn": "Group Admin",
-   "count": 36
+   "count": 50
   },
   {
    "kind": "bot",
    "slug": "search",
    "nameZh": "搜索",
    "nameEn": "Search",
-   "count": 28
+   "count": 36
   },
   {
    "kind": "bot",
    "slug": "media",
    "nameZh": "影音下载",
    "nameEn": "Media Download",
-   "count": 31
+   "count": 40
   },
   {
    "kind": "bot",
    "slug": "ai",
    "nameZh": "AI助手",
    "nameEn": "AI Assistants",
-   "count": 5
+   "count": 7
   },
   {
    "kind": "bot",
    "slug": "giveaway",
    "nameZh": "抽奖机器人",
    "nameEn": "Giveaways",
-   "count": 7
+   "count": 9
   },
   {
    "kind": "bot",
    "slug": "files",
    "nameZh": "文件网盘",
    "nameEn": "Files & Storage",
-   "count": 8
+   "count": 11
   },
   {
    "kind": "bot",
    "slug": "stickers",
    "nameZh": "表情贴纸",
    "nameEn": "Stickers & Emoji",
-   "count": 9
+   "count": 16
   },
   {
    "kind": "bot",
    "slug": "crypto",
    "nameZh": "加密钱包",
    "nameEn": "Crypto & Wallets",
-   "count": 11
+   "count": 12
   },
   {
    "kind": "bot",
    "slug": "games",
    "nameZh": "游戏娱乐",
    "nameEn": "Games & Fun",
-   "count": 6
+   "count": 12
   },
   {
    "kind": "bot",
    "slug": "analytics",
    "nameZh": "数据分析",
    "nameEn": "Analytics",
-   "count": 5
+   "count": 6
   },
   {
    "kind": "bot",
    "slug": "productivity",
    "nameZh": "效率提醒",
    "nameEn": "Productivity",
-   "count": 19
+   "count": 27
   },
   {
    "kind": "bot",
    "slug": "rss",
    "nameZh": "订阅推送",
    "nameEn": "RSS & Feeds",
-   "count": 12
+   "count": 14
   },
   {
    "kind": "bot",
    "slug": "channel-tools",
    "nameZh": "频道运营",
    "nameEn": "Channel Tools",
-   "count": 11
+   "count": 17
   },
   {
    "kind": "bot",
@@ -399,7 +399,7 @@
    "slug": "ai-art",
    "nameZh": "AI绘画",
    "nameEn": "AI Art",
-   "count": 2
+   "count": 3
   },
   {
    "slug": "ai-coding",
@@ -411,7 +411,7 @@
    "slug": "ai-video",
    "nameZh": "AI视频",
    "nameEn": "AI Video",
-   "count": 0
+   "count": 1
   },
   {
    "slug": "airdrop",
@@ -429,7 +429,7 @@
    "slug": "anime",
    "nameZh": "动漫",
    "nameEn": "Anime",
-   "count": 16
+   "count": 19
   },
   {
    "slug": "api-relay",
@@ -465,7 +465,7 @@
    "slug": "ebooks",
    "nameZh": "电子书",
    "nameEn": "E-books",
-   "count": 10
+   "count": 11
   },
   {
    "slug": "exchange",
@@ -507,7 +507,7 @@
    "slug": "ios",
    "nameZh": "iOS",
    "nameEn": "iOS",
-   "count": 25
+   "count": 27
   },
   {
    "slug": "linux",
@@ -519,7 +519,7 @@
    "slug": "llm",
    "nameZh": "大模型",
    "nameEn": "LLMs",
-   "count": 15
+   "count": 17
   },
   {
    "slug": "memes",
@@ -537,13 +537,13 @@
    "slug": "music",
    "nameZh": "音乐",
    "nameEn": "Music",
-   "count": 10
+   "count": 13
   },
   {
    "slug": "official",
    "nameZh": "官方",
    "nameEn": "Official",
-   "count": 82
+   "count": 83
   },
   {
    "slug": "on-chain",
@@ -555,7 +555,7 @@
    "slug": "open-source",
    "nameZh": "开源",
    "nameEn": "Open Source",
-   "count": 58
+   "count": 77
   },
   {
    "slug": "photography",
@@ -567,7 +567,7 @@
    "slug": "programming",
    "nameZh": "编程",
    "nameEn": "Programming",
-   "count": 49
+   "count": 52
   },
   {
    "slug": "prompt",
@@ -591,7 +591,7 @@
    "slug": "security",
    "nameZh": "网络安全",
    "nameEn": "Security",
-   "count": 17
+   "count": 21
   },
   {
    "slug": "short-drama",
@@ -1112,6 +1112,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "manybot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "Manybot",
+   "description": "🔥Manybot lets you create your own bots. Send messages, create custom commands and menus. Press Send message to begin",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 977910,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "cjsy",
    "kind": "bot",
    "category": "search",
@@ -1416,6 +1431,21 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "fstikbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "fStik — Sticker & Emoji Bot | Create and Search",
+   "description": "Create stickers and emoji from photos, videos, GIFs. Sticker catalog and search. 🇺🇦",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 512566,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "telegramtipsid",
    "kind": "channel",
    "category": "software",
@@ -1467,6 +1497,25 @@
    "members": 371046,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "syntxaibot",
+   "kind": "bot",
+   "category": "ai",
+   "tags": [
+    "ai-art",
+    "ai-video",
+    "llm"
+   ],
+   "title": "Syntx AI",
+   "description": "The most powerful AI on TG: Seedance 2.0, Kling 3.0, VEO 3.1, Claude, GPT, Nano banana 2/Pro & more. Try it now",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 360367,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "binanceexchange",
@@ -1546,7 +1595,7 @@
    ],
    "title": "Telegram Contests",
    "description": "Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++. Discussion: @contests",
-   "descriptionZh": null,
+   "descriptionZh": "在这里,我们宣布了Android Java、iOS Swift、JS、C/C++中的Telegram编码比赛。",
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
@@ -2068,6 +2117,21 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "kinhrobot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "KinhRoBot",
+   "description": "❶毫秒级的响应速度（TG最快的机器人）\n②拥有超丰富的群管功能\n❸拥有超多的实用小指令\n④免费无限制的AI对话\n❺采用分布式微服务架构\n⑥由K8S强力驱动保证高可用\n❼全部功能免费使用\n官方群 @KinhRoBotGroup",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 136611,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "gif",
    "kind": "bot",
    "category": "search",
@@ -2112,7 +2176,7 @@
    ],
    "title": "BotNews",
    "description": "The official source for news about the Telegram Bot API. https://core.telegram.org/bots",
-   "descriptionZh": null,
+   "descriptionZh": "关于 Telegram Bot API 的官方消息来源. https://core.telegram.org/bots",
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
@@ -2411,6 +2475,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "werewolfbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Werewolf Moderator [☮]",
+   "description": "Werewolf Moderator bot - http://www.tgwerewolf.com for information\nSource: github.com/GreyWolfDev/Werewolf",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 86023,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "times001",
    "kind": "channel",
    "category": "news",
@@ -2423,7 +2504,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 84924,
+   "members": 84912,
    "tgCreatedAt": "2025-08-27T02:32:46.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -2836,6 +2917,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "channelactionsbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "Channel Actions Bot - Join Approver (Auto Approve Join Requests)",
+   "description": "I can auto approve as well as disapprove new channel join requests!\nhttps://channelactions.xditya.me\n- @BotzHub.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 63204,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "feiyu123",
    "kind": "channel",
    "category": "resources",
@@ -3166,7 +3262,7 @@
    ],
    "title": "Porady Telegrama",
    "description": "Telegram jest synonimem wolności i prywatności i ma wiele łatwych w użyciu funkcji.",
-   "descriptionZh": null,
+   "descriptionZh": "电报是自由和私人功能的同义词。",
    "descriptionEn": null,
    "lang": "pl",
    "verified": true,
@@ -3241,6 +3337,21 @@
    "members": 42398,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "transcriber_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Transcriber Bot",
+   "description": "This bot transcribes voice messages and pictures into text.\n@Transcriber_botNewsChannel & @transcribersupport_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 41572,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "nekogramapks",
@@ -4544,6 +4655,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "reactbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "React Bot",
+   "description": "I can help you to create rich posts with reactions and comments in your channels.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 24056,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "channelpanews",
    "kind": "channel",
    "category": "crypto",
@@ -4721,6 +4847,21 @@
    "members": 22621,
    "tgCreatedAt": "2017-02-16T00:25:38.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "junction_bot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "Junction Bot",
+   "description": "🤖 Automates your Telegram routine\nMessage forwarding, digests and more\n\n🌐 junctionbot.io\n👨🏻‍💻 @junction_support_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 22352,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "yeqingjie_gjg666",
@@ -6116,6 +6257,24 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "songidbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music",
+    "open-source"
+   ],
+   "title": "Song🆔",
+   "description": "Open-source bot that can identify music, similar to Shazam.\nSupport: @SongIDsupportbot\ngithub.com/smcclennon/SongID",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 13223,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "voicybot",
    "kind": "bot",
    "category": "tools",
@@ -6402,6 +6561,41 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "copilotofficialbot",
+   "kind": "bot",
+   "category": "ai",
+   "tags": [
+    "llm",
+    "official"
+   ],
+   "title": "Microsoft Copilot",
+   "description": "Your everyday AI companion, here to make life easier and talk about anything. Always here for you!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 11920,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "reddit_download_bot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Reddit Downloader",
+   "description": "A small bot to download the reddit posts, images and videos.\nSource: https://bit.ly/2QYYAHu",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 11910,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "gate_io",
    "kind": "group",
    "category": "crypto",
@@ -6436,6 +6630,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "parsehubot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "open-source"
+   ],
+   "title": "聚合解析姬",
+   "description": "多平台聚合解析 Bot\n\n问题反馈: @MisakaSisters\n更新推送: @mio_room\nGitHub: github.com/z-mio/parse_hub_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 11804,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "bandwagonhostnews",
    "kind": "channel",
    "category": "deals",
@@ -6451,6 +6662,21 @@
    "members": 11673,
    "tgCreatedAt": "2018-06-28T05:53:43.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "guanggaoshashoubot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "广告杀手 🥷🏻",
+   "description": "本机器人专业封杀中文广告内容以及广告号。\n把该机器人拉入群组中就可以使用，无需任何繁琐设置。\n💡如果遇误封，请让被封禁的人私信本机器人，可以看到解封方式。",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 11667,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "eco_cn",
@@ -6910,6 +7136,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "myluckystar8_bot",
+   "kind": "bot",
+   "category": "giveaway",
+   "tags": [],
+   "title": "LuckyStar | 抽奖机器人🎁",
+   "description": "🌟 Unlock your luck! The easiest way to host fair giveaways and pick winners. 📢官方频道：https://t.me/MyLuckyStar6",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 10102,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "ooapps",
    "kind": "channel",
    "category": "deals",
@@ -7362,7 +7603,7 @@
    ],
    "title": "Telegram Web A",
    "description": "Story of the official Telegram Web app web.telegram.org/a.",
-   "descriptionZh": null,
+   "descriptionZh": "官方电报 Web 应用程序 web.telegram.org/a 的故事。",
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
@@ -10370,6 +10611,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "alita_robot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Alita ✨",
+   "description": "Hey I'm Alita, an fast group management bot with tons of features. I can manage your groups with ease! | @DivideProjects",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "aliyunpanbot",
    "kind": "bot",
    "category": "search",
@@ -10474,6 +10732,72 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "antitrackingbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "security"
+   ],
+   "title": "Anti-Tracking Bot",
+   "description": "Send any link, and the bot tries its best to remove all tracking from the link you sent. For support contact @l_eon.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "auddbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "title": "AudD",
+   "description": "Identifies music in voice messages, audio files, and videos\n\nMusic Recognition API — audd.io",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "avalonbg_bot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "Avalon",
+   "description": "Avalon Game Bot. News channel: http://telegram.me/avalonbgbot. Support group: http://telegram.me/avalonsupport",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "awesomeopensource_search_bot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "open-source"
+   ],
+   "title": "每日 AWESOME 搜索",
+   "description": "这里是 @awesomeopensource 的搜索 Bot，直接发送你要搜索的内容即可。\n\nGithub：https://github.com/EYHN/telegram-search",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "babelgrambot",
    "kind": "bot",
    "category": "translate",
@@ -10506,6 +10830,23 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "bilifeedbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Bilibili Feed Bot",
+   "description": "B站链接内容提取器，同时支持 Inline 、群组和频道文本匹配，支持视频、音频、动态、文章、直播\n维护: @simonsmh\n源码: github.com/simonsmh/telegram-bili-feed-helper",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "bingdict_bot",
    "kind": "bot",
    "category": "translate",
@@ -10521,6 +10862,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "blackjackbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "BlackJack Bot",
+   "description": "This is a simple Bot to play the game BlackJack. You can also add it to a group.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "bold",
@@ -10576,6 +10932,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "cleaningtoolboxbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Cleaning Toolbox",
+   "description": "Be able to kick all your users or delete all messages from your channel/group easily!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "cnlottery_bot",
    "kind": "bot",
    "category": "giveaway",
@@ -10594,6 +10965,38 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "colorcodebot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "programming"
+   ],
+   "title": "Color Code",
+   "description": "Share code snippets as beautiful syntax-highlighted images.\n\nBugs @ https://github.com/AndydeCleyre/colorcodebot/issues",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "comenbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "ComenBot",
+   "description": "The first comment platform in Telegram.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "corsabot",
    "kind": "bot",
    "category": "tools",
@@ -10609,6 +11012,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "crawlerhunterbot",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "security"
+   ],
+   "title": "ChainCrawler",
+   "description": "AML wallet check tool to avoid scam, rug pulls, honeypots and those under sanctions.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "crexp_bot",
@@ -10726,6 +11146,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "ebook_converter_bot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [
+    "ebooks"
+   ],
+   "title": "eBook Converter Bot",
+   "description": "Convert E-Books to various formats for free. Since 2022. Supports 57 input formats and 31 output formats.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "el_monitorro_bot",
@@ -10849,6 +11286,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "exploretelegrambot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [],
+   "title": "Telegram Explorer",
+   "description": "Explore the world of Telegram, find bots, channels, groups, stickers, masks AND secret tips for Telegram 😍🤐",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "fanyi_bot",
@@ -11050,6 +11502,21 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "giveaways_bot",
+   "kind": "bot",
+   "category": "giveaway",
+   "tags": [],
+   "title": "GiveawaysBot 🎰",
+   "description": "Hi, i'm GiveawaysBot and i'm here to create and manage giveaways on Telegram.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "group_confirmation_bot",
    "kind": "bot",
    "category": "group-admin",
@@ -11065,6 +11532,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "groupbutler_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Group Butler",
+   "description": "This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "haoyybot",
@@ -11083,6 +11567,38 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "hexlightning_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "hexlightning ⚡️",
+   "description": "台灣人自己的黑名單機器人。\n更多的創意，打造一個可以被信任的服務。\n\n公開說明書：https://docs.hexelf.dev\n專用群組：@hexjudge\n計畫主持人：@hexlightning",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "hitagibot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "anime"
+   ],
+   "title": "Hitagi",
+   "description": "Hitagi is qt anime bot capable of searching for TV shows, manga, characters, and fan art.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "icbcbot",
@@ -11152,6 +11668,75 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "iosjailbreakbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "ios"
+   ],
+   "title": "iOS Jailbreak Bot",
+   "description": "iOS 越狱插件搜索机器人\n\n如果有没收录到的源，请至交流群 ( @iOS_Jailbreaking ) 中向管理员反馈",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "iqdb_org_bot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "anime"
+   ],
+   "title": "IQDB bot",
+   "description": "Contact @Nakagawa_Kanon for more information.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "iruncode_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "open-source",
+    "programming"
+   ],
+   "title": "I Run Code",
+   "description": "I run code.\n\nSource code: https://github.com/tusharsadhwani/piston_bot\n\nAdmin: @drunktimelord",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "isphishbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "security"
+   ],
+   "title": "isPhishBot",
+   "description": "This bot is going to check if an URL has been reported as a phishing site.\nisPhishBot is a Moises Garciaguirre project.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "iwordcloudbot",
@@ -11240,6 +11825,53 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "keduckbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "呆呆兽",
+   "description": "群组讨论：@SparkDis\n更新日志：@slowStudy\n问题反馈：@intOrderBot\n使用说明：https://ddsh.gitbook.io/free/",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "keyword_alert_bot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [
+    "open-source"
+   ],
+   "title": "keyword alert bot",
+   "description": "Keyword bots that can help you subscribe to messages\n\n可以帮你订阅消息的关键字机器人\nBUG反馈: https://git.io/JJ0Ey\n⚠️建议自行部署以保证稳定！！",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "keyworddel_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "miniBot",
+   "description": "本机器人基于人工智能、机器学习、深度学习，自动删除群组\"推广/广告/菠菜\"等等消息",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "killerbgbot",
    "kind": "bot",
    "category": "tools",
@@ -11256,6 +11888,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "kimmyxyc_approve_by_poll_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Approve By Poll",
+   "description": "A Bot for voting to join the group.\n\nOpen-source repository: https://github.com/KimmyXYC/ApproveByPoll-V2",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "kingdk_bot",
@@ -11288,6 +11937,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "likecombot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "Like and Comment",
+   "description": "The bot helps automatically add Like and Comment buttons under every post in the channel on Telegram.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "linkgrambot",
@@ -11341,6 +12005,38 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "mastertagalertbot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "Master Tag Alert",
+   "description": "Unique Notification Center on Telegram, for mentions, replies, hashtags and much more!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "mattatabot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "open-source"
+   ],
+   "title": "mattata",
+   "description": "Powerful multi-purpose bot by @wrxck. Open source! Spread the ❤️ and check it out: https://github.com/wrxck/mattata",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "mine_sweeper_bot",
    "kind": "bot",
    "category": "games",
@@ -11357,6 +12053,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "moreformbot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "Moreform",
+   "description": "Forms and Surveys builder for Telegram\n\nSupport - @Samandar_Yusupov",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "mtproxybot",
@@ -11378,6 +12089,36 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "multisaverxbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [],
+   "title": "Multi Saver | Tiktok Facebook Instagram Twitter",
+   "description": "For Support/Feedback message:\n@superuser_bots\n\nHappy Usage!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "mypackbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "MyPack",
+   "description": "I can create your personal pack with any media files. Without limits and installing. In any chat. For free.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "newcnlotterybot",
    "kind": "bot",
    "category": "giveaway",
@@ -11391,6 +12132,53 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "newstickeroptimizerbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "Sticker Optimizer",
+   "description": "Written by Luca Patera (@Lukasss93).",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "nminfobot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "ID查询机器人",
+   "description": "1.转发一条聊天信息给我，快速查询对方 ID\n2.发送任意消息查询自己的ID\n3.将机器人添加到群组中，群组中发送\"id\"查看群组ID\n更多机器人👉 @NiMingKeJi",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "nodeforwardbot",
+   "kind": "bot",
+   "category": "messaging",
+   "tags": [
+    "open-source"
+   ],
+   "title": "NodeForwardBot",
+   "description": "双向私聊转发机器人，无广告，无数量限制，永久在线\n频道 @nodeselect",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "noderss_bot",
@@ -11445,6 +12233,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "notion_echo_bot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "Save to Notion Bot",
+   "description": "Telegram support group: https://t.me/+BOWbMpNPh6IzNTY0\nOfficial website: https://notion-echo.fulvio.dev",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "ocrthis_bot",
    "kind": "bot",
    "category": "tools",
@@ -11458,6 +12261,40 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "odesli_bot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "title": "OdesliBot",
+   "description": "Send a link to a song in a streaming service and get back a message with the links in other services. git.io/JSUIy",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "onetimepassbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "security"
+   ],
+   "title": "TOTP",
+   "description": "Yet, just another bot to generate totp",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "onlyoffice_bot",
@@ -11509,6 +12346,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "pixiv_bot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "anime"
+   ],
+   "title": "Pixiv",
+   "description": "[unoffoical]\nwiki: https://pixiv-bot.pages.dev\nstatus: https://status.ugoira.com\n\nmaintainer: @makeding",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "podcastly_bot",
    "kind": "bot",
    "category": "media",
@@ -11522,6 +12376,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "polarisseekbot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [],
+   "title": "北极星搜索",
+   "description": "您好,我能给您导航Telegram群组/频道.\n\n可以点击分类搜索,也可以输入关键字搜索.\n/help 查看详细说明.\n\n官方群组: @polarisseek",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "policr_mini_bot",
@@ -11559,6 +12428,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "premiumjoinbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Premium Join Bot",
+   "description": "Automatically approve join requests from Telegram Premium users.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "pressbot",
    "kind": "bot",
    "category": "tools",
@@ -11574,6 +12458,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "prgitrelbot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [
+    "programming"
+   ],
+   "title": "Github Releases",
+   "description": "Will send you updates for the repos you tell me to watch",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "pronunciationbot",
@@ -11676,6 +12577,36 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "ratestickerbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "RateStickerBot",
+   "description": "This bot allows you to rate random stickers and discover new sticker sets.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "receiptaisplit_bot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "Receipt AI Split",
+   "description": "Split the bill without math: snap the receipt → AI reads it → who owes whom. Telegram, MAX, web.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "redditdownloader_bot",
    "kind": "bot",
    "category": "media",
@@ -11743,6 +12674,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "reverse_image_search_bot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [],
+   "title": "Image Reverse Search",
+   "description": "Reverse image search bot for various engines like SauceNAO, Google, Yandex and more.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "richtextdemobot",
    "kind": "bot",
    "category": "tools",
@@ -11760,6 +12706,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "rjailbreakbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "ios"
+   ],
+   "title": "Jailbreak Bot",
+   "description": "Tools for iOS and/or jailbreak.\nSave SHSH2, get device info, firmware etc\nDonate : https://donate.spydar007.com",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "rss2tg_bot",
@@ -11795,6 +12758,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "rssifyxbot",
+   "kind": "bot",
+   "category": "rss",
+   "tags": [],
+   "title": "RSS-ify",
+   "description": "Made by @Burhanverse\n\nhttps://burhanverse.eu.org/blog/rssify",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "rsstt_bot",
@@ -11935,6 +12913,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "spammenotbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "SpamMeNotBot",
+   "description": "This bot provides a simple and fully automatic way to protect your group from spam/flood attacks.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "splittabsbot",
    "kind": "bot",
    "category": "productivity",
@@ -11984,6 +12977,36 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "sslmonitoringbot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "SSL & Uptime monitoring",
+   "description": "Domain certificate and uptime monitoring system",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "sticker_convert_bot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "Sticker Convert Bot",
+   "description": "Converts images and URLs into the required format for Telegram Stickers, so you can submit them to @stickers",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "sticker_time_bot",
@@ -12037,6 +13060,38 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "stickerifyimagebot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Stickerify",
+   "description": "Convert images and videos into the format required to be used as Telegram stickers.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "stickerizerbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "Stickerizer",
+   "description": "This bot let's you create stickers on the fly, via Telegram Mini App\nDeveloped by @Lukasss93.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "stickerset2packbot",
    "kind": "bot",
    "category": "stickers",
@@ -12052,6 +13107,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "storebot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [],
+   "title": "Telegram Store Bot",
+   "description": "@Storebot helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and enjoy updates! StoreBot.me",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "subtitle_dl_bot",
@@ -12087,6 +13157,36 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "taskslistsbot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "TasksListsBot",
+   "description": "A multiple tasks lists manager for groups and private chats.\n\n- by @Pablo_Davila",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "tchannelsbot",
+   "kind": "bot",
+   "category": "search",
+   "tags": [],
+   "title": "Telegram Channels Bot",
+   "description": "Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy updates! TChannels.me",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "telefeedbot",
@@ -12134,6 +13234,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "tgchessbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "Telegram Chess Bot",
+   "description": "A bot that allows you to play chess with friends!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "tgcnjoincaptchabot",
@@ -12188,6 +13303,21 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "the_ocr_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Image to Text (OCR) bot",
+   "description": "Extract text from images using this bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "the_translator_bot",
    "kind": "bot",
    "category": "tools",
@@ -12236,6 +13366,38 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "thesecrethitlerbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "Secret Hitler Moderator",
+   "description": "This bot acts as a moderator for the card game Secret Hitler by Max Temkin",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "thestats_bot",
+   "kind": "bot",
+   "category": "analytics",
+   "tags": [
+    "open-source"
+   ],
+   "title": "The Stats",
+   "description": "Daily stats for your channels.\n\nCreated by @thedevs\n\nGithub:\nhttps://github.com/poeti8/thestats_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "tidabot",
@@ -12408,6 +13570,21 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "triviabot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "TriviaBot",
+   "description": "This bot allows you to test your trivia knowledge. Add it to groups if you'd like to compete with friends.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "tv_subtitles_bot",
    "kind": "bot",
    "category": "media",
@@ -12423,6 +13600,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "txt2speechbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Text 2 Speech Bot",
+   "description": "Get audios in several languages from your text or even store and use your own audios. Contact @supremoh for support.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "tyzenhausbot",
@@ -12442,6 +13634,23 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "ubervotebot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "open-source"
+   ],
+   "title": "ubervotebot",
+   "description": "I'm the best 🤖 to create polls with. Check out my source code and screenshots:\nhttps://haselkern.com/ubervotebot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "unibotsniper_bot",
    "kind": "bot",
    "category": "trading",
@@ -12457,6 +13666,38 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "unicodeinfobot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Unicode Bot",
+   "description": "Gives codepoints of the characters in your message. Try inline mode! github.com/JuanPotato/unicode_bot by @JuanPotato",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "unzip_edm115bot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [],
+   "title": "Unarchive files by @EDM115 (unzip, unrar, …)",
+   "description": "Unarchiver bot, supports ≈ all archives types including splitted ones, allows thumb change and file rename\n@EDM115bots",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "userid_checkbot",
@@ -12506,6 +13747,36 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "vidcom_robot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [],
+   "title": "Video Compressor Bot",
+   "description": "Video Compressor Bot || Check Bot's Live Status: @VideoCompressLogs || By @Discovery_Updates",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "videotubebot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [],
+   "title": "VideoTubeBot",
+   "description": "Downloads audio/video from YouTube.\n\nSupport: @MediaTube_chat\nChannel: @MediaTube_stream",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "fr",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "voice_translator_bot",
    "kind": "bot",
    "category": "translate",
@@ -12519,6 +13790,21 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "voicetranscriberobot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Voice Transcriber Bot",
+   "description": "Transcribe voice messages to text in a snap!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "wallet",
@@ -12572,6 +13858,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "wayback_machine_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Internet Archive: Wayback Machine",
+   "description": "Arhive your webpage to https://archive.org/web/",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "web2album_bot",
    "kind": "bot",
    "category": "media",
@@ -12587,6 +13888,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "wegram_bot",
+   "kind": "bot",
+   "category": "messaging",
+   "tags": [
+    "open-source"
+   ],
+   "title": "WegramBot",
+   "description": "来创建属于自己的私聊机器人吧，绝无广告的那种。",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "whatanimebot",
@@ -12606,6 +13924,36 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "whois_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Whois_Bot",
+   "description": "@Whois_Bot is a simple domain whois lookup tool. The service is provided by Whois7.com",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "woomaibot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "干物妹！小霾",
+   "description": "公告频道 @woomaibotchannel\n使用手册 https://xiaomai.docs.wmlabs.net",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "wordfreqbot",
@@ -12641,6 +13989,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "youtubenotifbot",
+   "kind": "bot",
+   "category": "rss",
+   "tags": [
+    "open-source"
+   ],
+   "title": "YouTube Notifier",
+   "description": "https://github.com/xditya/YouTubeFeeds",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "zh_groups_bot",

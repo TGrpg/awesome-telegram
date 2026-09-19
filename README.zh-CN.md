@@ -4,11 +4,11 @@
 
 # Awesome Telegram 中文资源合集 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选并每日自动更新的 722 个公开 Telegram 频道、群组和机器人（电报导航），在 [TGbox](https://tgbox.cc) 查看实时人数、最新消息和分类。
+精选并每日自动更新的 808 个公开 Telegram 频道、群组和机器人（电报导航），在 [TGbox](https://tgbox.cc) 查看实时人数、最新消息和分类。
 
 [🌐 访问网站](https://tgbox.cc) · [📮 提交收录](https://t.me/tgboxccbot?start=submit) · [🤝 交换友链](https://t.me/tgboxccbot?start=links) · [English](README.md) · **简体中文**
 
-[![Entries](https://img.shields.io/badge/%E9%A2%91%E9%81%93%20%2B%20%E7%BE%A4%E7%BB%84%20%2B%20%E6%9C%BA%E5%99%A8%E4%BA%BA-722-2AABEE?logo=telegram&logoColor=white)](https://tgbox.cc/)
+[![Entries](https://img.shields.io/badge/%E9%A2%91%E9%81%93%20%2B%20%E7%BE%A4%E7%BB%84%20%2B%20%E6%9C%BA%E5%99%A8%E4%BA%BA-808-2AABEE?logo=telegram&logoColor=white)](https://tgbox.cc/)
 [![Updated](https://img.shields.io/badge/updated-2026--09--19-brightgreen)](https://github.com/TGrpg/awesome-telegram/actions/workflows/update.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
@@ -16,7 +16,7 @@
 
 > 下面每个名称都链接到 **TGbox** 上的详情页——一个免费、开源的 Telegram 导航站：订阅人数与增长、最近消息、创建时间、活跃度和相似频道，中英双语。列表每天根据网站的[开放数据](https://tgbox.cc/data/entries.json)重新生成，失效或被封的条目会自动消失。
 
-**279** 个频道 · **182** 个群组 · **261** 个机器人 · 更新于 2026-09-19
+**279** 个频道 · **182** 个群组 · **347** 个机器人 · 更新于 2026-09-19
 
 ## 目录
 
@@ -59,24 +59,24 @@
   - [其他](#group-other) (2)
   - [游戏](#group-games) (1)
   - [招聘求职](#group-jobs) (1)
-- [机器人](#bot) (261)
-  - [实用工具](#bot-tools) (58)
-  - [群组管理](#bot-group-admin) (36)
-  - [影音下载](#bot-media) (31)
-  - [搜索](#bot-search) (28)
-  - [效率提醒](#bot-productivity) (19)
-  - [订阅推送](#bot-rss) (12)
-  - [频道运营](#bot-channel-tools) (11)
-  - [加密钱包](#bot-crypto) (11)
-  - [表情贴纸](#bot-stickers) (9)
-  - [文件网盘](#bot-files) (8)
-  - [抽奖机器人](#bot-giveaway) (7)
+- [机器人](#bot) (347)
+  - [实用工具](#bot-tools) (73)
+  - [群组管理](#bot-group-admin) (50)
+  - [影音下载](#bot-media) (40)
+  - [搜索](#bot-search) (36)
+  - [效率提醒](#bot-productivity) (27)
+  - [频道运营](#bot-channel-tools) (17)
+  - [表情贴纸](#bot-stickers) (16)
+  - [订阅推送](#bot-rss) (14)
+  - [加密钱包](#bot-crypto) (12)
+  - [游戏娱乐](#bot-games) (12)
+  - [文件网盘](#bot-files) (11)
+  - [抽奖机器人](#bot-giveaway) (9)
+  - [AI助手](#bot-ai) (7)
   - [交易机器人](#bot-trading) (7)
   - [翻译](#bot-translate) (7)
-  - [游戏娱乐](#bot-games) (6)
-  - [AI助手](#bot-ai) (5)
-  - [数据分析](#bot-analytics) (5)
-  - [消息收发](#bot-messaging) (1)
+  - [数据分析](#bot-analytics) (6)
+  - [消息收发](#bot-messaging) (3)
 - [列表是怎么来的](#how)
 - [提交或举报](#contribute)
 - [许可](#license)
@@ -104,16 +104,16 @@
 
 | 名称 | 分类 | 收录 | 简介 |
 | --- | --- | ---: | --- |
-| [Notcoin Community](https://tgbox.cc/detail/notcoin/) ✔️ | 频道 · 加密货币 | 2026-09-19 | notcoin.org |
-| [新必搜 xbso 🔍 中文搜索](https://tgbox.cc/detail/xbso1/) | 机器人 · 搜索 | 2026-09-19 | 新必搜 @xbso 是一个智能搜索机器人。 向我发送关键词，帮你找到有趣的内容。 官方频道： @xbso9 公告频道：… |
-| [LikeBot](https://tgbox.cc/detail/like/) | 机器人 · 频道运营 | 2026-09-19 | A cool bot to create posts with emoji-based like buttons. |
-| [xRocket](https://tgbox.cc/detail/xrocket/) ✔️ | 机器人 · 加密钱包 | 2026-09-19 | \#1 CEX & SocialFi platform on Telegram. @xrocketnews — news… |
-| [ChatKeeperBot](https://tgbox.cc/detail/chatkeeperbot/) | 机器人 · 群组管理 | 2026-09-19 | Just do my work ✅ More than 500,000 Admins trust me with… |
-| [在花🎗️科技圈](https://tgbox.cc/detail/zaihuapd/) | 频道 · 资讯新闻 | 2026-09-19 | 分享 科技、AI、数码、互联网及前沿资讯，分享见闻与实用内容。 📌 群规 • 文明交流，理性讨论 •… |
-| [竹新社](https://tgbox.cc/detail/tnews365/) | 频道 · 资讯新闻 | 2026-09-19 | 7×24不定时编译国内外媒体的即时新闻报道。 查阅新闻资料，前往竹新资料室： t.me/kt\_database… |
-| [Shadowrocket](https://tgbox.cc/detail/shadowrocketapp/) | 群组 · 科学上网 | 2026-09-19 | Shadowrocket 仅支持 Apple 平台 ⚠️ 提问前请先查看已知教程，友好、平等交流，避免争吵 ⚠️… |
-| [你不知道的内幕消息🅥](https://tgbox.cc/detail/inside1024/) | 频道 · 资讯新闻 | 2026-09-19 | 一些你不知道的内幕消息，最新资讯、大公司负面、时政财经、网友发布等高质量消息。 投稿/合作：… |
-| [PIXIV站每日 Top50搬运\|动漫\|ACG\|二次元\|每日精选图片\|動漫\|P站](https://tgbox.cc/detail/pixiv_top50/) | 频道 · 壁纸图片 | 2026-09-19 | 搬運PIXIV每天綜合排行榜前50圖片資源，不定時更新。 圖片順序為圖片第一次上榜時當天的排名順序。… |
+| [Manybot](https://tgbox.cc/detail/manybot/) | 机器人 · 频道运营 | 2026-09-19 | 🔥Manybot lets you create your own bots. Send messages,… |
+| [fStik — Sticker & Emoji Bot \| Create…](https://tgbox.cc/detail/fstikbot/) | 机器人 · 表情贴纸 | 2026-09-19 | Create stickers and emoji from photos, videos, GIFs.… |
+| [Syntx AI](https://tgbox.cc/detail/syntxaibot/) | 机器人 · AI助手 | 2026-09-19 | The most powerful AI on TG: Seedance 2.0, Kling 3.0, VEO… |
+| [KinhRoBot](https://tgbox.cc/detail/kinhrobot/) | 机器人 · 群组管理 | 2026-09-19 | ❶毫秒级的响应速度（TG最快的机器人） ②拥有超丰富的群管功能 ❸拥有超多的实用小指令 ④免费无限制的AI对话… |
+| [Werewolf Moderator \[☮\]](https://tgbox.cc/detail/werewolfbot/) | 机器人 · 游戏娱乐 | 2026-09-19 | Werewolf Moderator bot - http://www.tgwerewolf.com for… |
+| [Channel Actions Bot - Join Approver…](https://tgbox.cc/detail/channelactionsbot/) | 机器人 · 频道运营 | 2026-09-19 | I can auto approve as well as disapprove new channel join… |
+| [Transcriber Bot](https://tgbox.cc/detail/transcriber_bot/) | 机器人 · 实用工具 | 2026-09-19 | This bot transcribes voice messages and pictures into text.… |
+| [React Bot](https://tgbox.cc/detail/reactbot/) | 机器人 · 频道运营 | 2026-09-19 | I can help you to create rich posts with reactions and… |
+| [Junction Bot](https://tgbox.cc/detail/junction_bot/) | 机器人 · 频道运营 | 2026-09-19 | 🤖 Automates your Telegram routine Message forwarding,… |
+| [Song🆔](https://tgbox.cc/detail/songidbot/) | 机器人 · 影音下载 | 2026-09-19 | Open-source bot that can identify music, similar to Shazam.… |
 
 <a id="channel"></a>
 
@@ -215,7 +215,7 @@
 | --- | ---: | --- |
 | [小声逼逼](https://tgbox.cc/detail/me888888888888/) | 5万 | 🔍 挖宝Appletv/iOS/Mac神软｜🎁 定期抽奖｜📰 独家资讯｜📺 Emby影音指南 「小声逼逼」频道，让你的Apple设备更好玩，数字生活更有趣！ <sub>`iOS`</sub> |
 | [折腾啥](https://tgbox.cc/detail/zhetengsha/) | 4.9万 | Power Users/Automators 折腾/讨论/分享各种开源工具/脚本/自动化工作流 👥 @zhetengsha\_group 🎁 恰饭… <sub>`开源`</sub> |
-| [Porady Telegrama](https://tgbox.cc/detail/telegramtipspl/) ✔️ | 4.5万 | Telegram jest synonimem wolności i prywatności i ma wiele łatwych w użyciu funkcji. <sub>`免费` `官方`</sub> |
+| [Porady Telegrama](https://tgbox.cc/detail/telegramtipspl/) ✔️ | 4.5万 | 电报是自由和私人功能的同义词。 <sub>`免费` `官方`</sub> |
 | [Nekogram APKs](https://tgbox.cc/detail/nekogramapks/) | 4.2万 | The official APKs channel for Nekogram. News: @NekoUpdates Discussion: @NekoChat Чат:… <sub>`安卓` `开源`</sub> |
 | [APPDO 数字生活指南](https://tgbox.cc/detail/appdodo/) | 4万 | 💡互联网/数码/App/羊毛/相机/数字指南 📨商务联系：@appdo\_bot （唯一，谨防诈骗） 📰独立网站：appdo.xyz 🧑🏻‍💻博客 song.al 📷浮生东京… |
 | [少数派sspai](https://tgbox.cc/detail/sspai/) | 3.8万 | 少数派 (sspai.com) 官方频道。Weibo: @少数派sspai，公众号：sspaime <sub>`iOS`</sub> |
@@ -232,7 +232,7 @@
 | [Hell Cell 功能教学](https://tgbox.cc/detail/hellcellzc123/) | 1.1万 | YouTube视频教学频道 商务联系 @Tartarus2014 通过视频演示，讲解一些实用软件有用有趣的功能。 博主YouTube：http://bit.ly/HellCellY… <sub>`免费`</sub> |
 | [TestFlight News](https://tgbox.cc/detail/testflights/) | 1.1万 | 收集分享IOS的TestFlight版申请地址与相关信息、注意事项。 有趣的互联网新闻：https://t.me/iNewsCN <sub>`iOS`</sub> |
 | [ALL About RSS](https://tgbox.cc/detail/aboutrss/) | 9527 | 关于 \#RSS 技术的 \#应用 \#周边 \#介绍 \#方法 \#教程 \#指南 \#讨论 \#观点 \#技巧 RSS = Really Simple Syndication / Rich… |
-| [Telegram Web A](https://tgbox.cc/detail/webachannel/) ✔️ | 8230 | Story of the official Telegram Web app web.telegram.org/a. <sub>`官方`</sub> |
+| [Telegram Web A](https://tgbox.cc/detail/webachannel/) ✔️ | 8230 | 官方电报 Web 应用程序 web.telegram.org/a 的故事。 <sub>`官方`</sub> |
 | [Office Tool Plus 📰](https://tgbox.cc/detail/otp_channel/) | 7145 | Office Tool Plus 的官方频道。 Official channel of Office Tool Plus. 频道默认使用静默模式发布消息，只有紧急事情才会发布通知。… <sub>`免费` `Windows`</sub> |
 | [简悦 - SimpRead 📢](https://tgbox.cc/detail/simpread/) | 5687 | 简悦的发布通道，简悦 - 让你瞬间进入沉浸式阅读的 Chrome 扩展，还原阅读的本质，提升你的阅读体验。地址 https://simpread.pro 讨论群地址… |
 | [Fedora News](https://tgbox.cc/detail/fedoranews/) | 5465 | This channel is for news relating to the Fedora Project (getfedora.org). <sub>`Linux` `官方`</sub> |
@@ -305,8 +305,8 @@
 
 | 名称 | 订阅 | 简介 |
 | --- | ---: | --- |
-| [Telegram Contests](https://tgbox.cc/detail/contest/) ✔️ | 30万 | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++.… <sub>`官方` `编程`</sub> |
-| [BotNews](https://tgbox.cc/detail/botnews/) ✔️ | 13万 | The official source for news about the Telegram Bot API. https://core.telegram.org/bots <sub>`官方` `编程`</sub> |
+| [Telegram Contests](https://tgbox.cc/detail/contest/) ✔️ | 30万 | 在这里,我们宣布了Android Java、iOS Swift、JS、C/C++中的Telegram编码比赛。 <sub>`官方` `编程`</sub> |
+| [BotNews](https://tgbox.cc/detail/botnews/) ✔️ | 13万 | 关于 Telegram Bot API 的官方消息来源. https://core.telegram.org/bots <sub>`官方` `编程`</sub> |
 | [Linuxgram 🐧](https://tgbox.cc/detail/linuxgram/) | 7.3万 | News and info from the Linux world 🐧 📨 linuxgr4m@gmail.com 📨 💸 If you want to support… <sub>`Linux`</sub> |
 | [Demo Store](https://tgbox.cc/detail/teststore/) | 6.9万 | This test store features the most exotic imaginary goods no money can buy, so you can… <sub>`官方` `编程`</sub> |
 | [VPS信号旗播报](https://tgbox.cc/detail/vps_xhq/) | 5万 | VPS新闻频道，VPS信号旗是即时发布简要讯息的小组织，关注VPS和通信自由。为你甄选最具价值的信息，提供业界热点新闻调查。 🌞… <sub>`主机VPS`</sub> |
@@ -999,17 +999,18 @@
 | [Telegraph](https://tgbox.cc/detail/telegraph/) ✔️ | 6.9万 | 这个机器人可以帮助您登录 Telegra.ph,管理您的文章,并获得页面视图统计数据。 <sub>`免费` `官方`</sub> |
 | [Transparency Reports](https://tgbox.cc/detail/transparency/) ✔️ | 6.6万 | 获取Telegram透明度报告。 <sub>`官方` `网络安全`</sub> |
 | [IDBot](https://tgbox.cc/detail/username_to_id_bot/) | 5.2万 | 机器人获取用户、组和频道ID <sub>`免费`</sub> |
+| [Transcriber Bot](https://tgbox.cc/detail/transcriber_bot/) | 4.2万 | This bot transcribes voice messages and pictures into text. @Transcriber\_botNewsChannel &… |
 | [DropMail.me](https://tgbox.cc/detail/dropmailbot/) | 3.9万 | https://dropmail.me/ 在电报 <sub>`免费` `网络安全`</sub> |
 | [Search Report Bot](https://tgbox.cc/detail/searchreport/) ✔️ | 3.7万 | 报告有问题的搜索术语。 <sub>`官方` `网络安全`</sub> |
 | [Creation Date](https://tgbox.cc/detail/creationdatebot/) | 3.6万 | 顯示電報上任何帳戶的大約創建日期: @devctl <sub>`免费`</sub> |
 | [Webpage Bot](https://tgbox.cc/detail/webpagebot/) | 3.6万 | <sub>`免费`</sub> |
-| [GetIDs Bot](https://tgbox.cc/detail/getidsbot/) | 3万 | 这个机器人为您提供了关于消息的电报内部信息 by @wjclub <sub>`免费`</sub> |
 
 <details>
-<summary>展开其余 43 个</summary>
+<summary>展开其余 58 个</summary>
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
+| [GetIDs Bot](https://tgbox.cc/detail/getidsbot/) | 3万 | 这个机器人为您提供了关于消息的电报内部信息 by @wjclub <sub>`免费`</sub> |
 | [Texify - Image to Text (OCR) - Photo to…](https://tgbox.cc/detail/texifybot/) | 2万 | 将任何照片、书籍或文档转换为可编辑的文本,使用快速、准确的OCR - 超过 100 种语言。 |
 | [Username Bot](https://tgbox.cc/detail/username_bot/) ✔️ | 1.9万 | 要求您的Telegram帐户、公共群组或频道使用的用户名。 <sub>`免费` `官方`</sub> |
 | [toncenter.com bot](https://tgbox.cc/detail/toncenter/) | 1.9万 | Bot for managing toncenter.com keys. Support: @toncenter\_help\_bot Terms of Use:… <sub>`编程` `TON生态`</sub> |
@@ -1019,8 +1020,10 @@
 | [Durger King](https://tgbox.cc/detail/durgerkingbot/) | 1.4万 | 使用这个机器人来订购虚构的快餐 - 唯一有益于您的健康的快餐! <sub>`免费` `官方` `编程`</sub> |
 | [Voicy 🇺🇦](https://tgbox.cc/detail/voicybot/) | 1.3万 | 语音将任何语音消息,音频文件和视频消息转换为文本. 来源:bit.ly/2FNr0vx <sub>`免费` `开源`</sub> |
 | [Account Created Date](https://tgbox.cc/detail/accountcreatedbot/) | — | Get Telegram account information and estimated creation dates using various methods.… |
+| [Anti-Tracking Bot](https://tgbox.cc/detail/antitrackingbot/) | — | Send any link, and the bot tries its best to remove all tracking from the link you sent.… <sub>`网络安全`</sub> |
 | [Markdown Bot](https://tgbox.cc/detail/bold/) | — | <sub>`免费` `官方`</sub> |
 | [Bugs and Suggestions](https://tgbox.cc/detail/bugs/) ✔️ | — | 报告错误并建议Telegram的新功能 <sub>`免费` `官方`</sub> |
+| [Color Code](https://tgbox.cc/detail/colorcodebot/) | — | Share code snippets as beautiful syntax-highlighted images. Bugs @… <sub>`编程`</sub> |
 | [InstantViewBot](https://tgbox.cc/detail/corsabot/) | — | 立即查看任何文章. 新闻 @instantViewBotUpdates 广告 @FPeople348463838fh <sub>`免费`</sub> |
 | [docHostBot](https://tgbox.cc/detail/dochost_bot/) | — | 立即将文本、转发消息、标记和HTML转换为清洁的公共链接,无需登录。 <sub>`免费`</sub> |
 | [中英翻譯(English Chinese(Mandarin)…](https://tgbox.cc/detail/en_to_tw_bot/) | — | 這個可以在超級群中用 -\> @en\_to\_tw2\_bot 自動翻譯 英\<-\> 中 自動翻譯 英文 \<-\> 中文(中文) <sub>`免费`</sub> |
@@ -1030,14 +1033,19 @@
 | [翻译](https://tgbox.cc/detail/fanyi_bot/) | — | 为全世界语言提供中英翻译。支持私聊、群组、行内请求。 讨论 @fanyi\_group 开源 https://github.com/reycn/fanyi\_bot <sub>`免费`</sub> |
 | [Gist Bot](https://tgbox.cc/detail/github_gist_bot/) | — | Create Gist link of your texts, codes or snippets. <sub>`编程`</sub> |
 | [GitHub](https://tgbox.cc/detail/githubbot/) | — | 在您的公共 GitHub 存储库中获取有关事件的通知,并直接从 Telegram 发布评论。 <sub>`编程`</sub> |
+| [iOS Jailbreak Bot](https://tgbox.cc/detail/iosjailbreakbot/) | — | iOS 越狱插件搜索机器人 如果有没收录到的源，请至交流群 ( @iOS\_Jailbreaking ) 中向管理员反馈 <sub>`iOS`</sub> |
+| [I Run Code](https://tgbox.cc/detail/iruncode_bot/) | — | I run code. Source code: https://github.com/tusharsadhwani/piston\_bot Admin:… <sub>`开源` `编程`</sub> |
+| [isPhishBot](https://tgbox.cc/detail/isphishbot/) | — | This bot is going to check if an URL has been reported as a phishing site. isPhishBot is… <sub>`网络安全`</sub> |
 | [Jobs Bot](https://tgbox.cc/detail/jobs_bot/) ✔️ | — | 这个机器人在Telegram上列出职业机会,并接受候选人的申请。 <sub>`官方`</sub> |
 | [Json Dump Bot](https://tgbox.cc/detail/jsondumpbot/) | — | 这个机器人是开发的,并向您发送从您的客户端收到的JSON。 <sub>`免费` `编程`</sub> |
 | [JSONiceBot \| View JSON Interactively](https://tgbox.cc/detail/jsonicebot/) | — | A Nice JSON Viewer! + View Telegram's message details in JSON. <sub>`编程`</sub> |
 | [KillerBgBot - Remove background](https://tgbox.cc/detail/killerbgbot/) | — | 这个机器人可以让你快速删除图像背景,无限制订阅,没有质量损失,和大批量上传。 <sub>`设计` `摄影`</sub> |
 | [Language Translator](https://tgbox.cc/detail/lang_translate_bot/) | — | 我会将任何语言翻译成任何语言,我也可以在群组中工作。 <sub>`免费`</sub> |
 | [MTProxy Admin Bot](https://tgbox.cc/detail/mtproxybot/) ✔️ | — | 设置和管理Telegram MTProxy服务器。 <sub>`免费` `官方` `开源`</sub> |
+| [ID查询机器人](https://tgbox.cc/detail/nminfobot/) | — | 1.转发一条聊天信息给我，快速查询对方 ID 2.发送任意消息查询自己的ID 3.将机器人添加到群组中，群组中发送"id"查看群组ID 更多机器人👉 @NiMingKeJi |
 | [NodeRssBot](https://tgbox.cc/detail/noderssbot/) | — | 作者: @sinchang github: https://github.com/sinchang/rssbot <sub>`免费`</sub> |
 | [OCR this](https://tgbox.cc/detail/ocrthis_bot/) | — | 捐款: BTC: bc1qvezhs7mrwvg9j56ulxj2cplfcdps8w06p3qr47 paypal: megashurik@protonmail.com |
+| [TOTP](https://tgbox.cc/detail/onetimepassbot/) | — | Yet, just another bot to generate totp <sub>`网络安全`</sub> |
 | [Telegram Press Team](https://tgbox.cc/detail/pressbot/) ✔️ | — | 这个机器人可以用来向Telegram团队提交新闻请求。 <sub>`官方`</sub> |
 | [PronunciationBot](https://tgbox.cc/detail/pronunciationbot/) | — | 这是一个机器人,允许你将文本转换为84种语言的语音。 <sub>`免费`</sub> |
 | [QRwizard](https://tgbox.cc/detail/qr_wizardbot/) | — | 机器人可以神奇地将QR图像和照片解码为数据,并将数据编码为QR代码图像。 <sub>`免费`</sub> |
@@ -1045,14 +1053,21 @@
 | [QR Code Bot](https://tgbox.cc/detail/qrcoderobot/) | — | 转换任何QR代码,我会得到它解码。 <sub>`免费`</sub> |
 | [Resize Image](https://tgbox.cc/detail/resizertool_bot/) | — | Resizer 图像机器人 bots8.com <sub>`设计` `免费`</sub> |
 | [Rich Text Demo](https://tgbox.cc/detail/richtextdemobot/) | — | 获取Telegram污秽丰富的文本格式选项的样本。 <sub>`免费` `官方` `编程`</sub> |
+| [Jailbreak Bot](https://tgbox.cc/detail/rjailbreakbot/) | — | Tools for iOS and/or jailbreak. Save SHSH2, get device info, firmware etc Donate :… <sub>`iOS`</sub> |
 | [Shop Bot](https://tgbox.cc/detail/shopbot/) | — | 尝试新的Telegram付款,而实际上不支付任何东西。 <sub>`免费` `官方` `编程`</sub> |
 | [Sticker Time Bot](https://tgbox.cc/detail/sticker_time_bot/) | — | 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 / 主页 /… <sub>`免费`</sub> |
 | [TempMail](https://tgbox.cc/detail/temp_mail_bot/) | — | 机器人禁用 机器人禁用 <sub>`免费`</sub> |
 | [Temp Mail](https://tgbox.cc/detail/tempmailbot/) | — | Disposable temporary emails — your inbox will be clean: no spam, ads and malwares By… |
+| [Image to Text (OCR) bot](https://tgbox.cc/detail/the_ocr_bot/) | — | Extract text from images using this bot |
 | [Translator - مترجم](https://tgbox.cc/detail/the_translator_bot/) | — | 翻译文本到 69 种语言,无论是 \#直接还是 \#聊天 翻译 متن 到 69 语言, بصورت \#مستقیم و یا در \#چتها <sub>`免费`</sub> |
 | [TIDA Bot](https://tgbox.cc/detail/tidabot/) ✔️ | — | TIDA or TAKE IT DOWN Act:工具来解决网站和网络上不动用技术深陷的已知剥削问题 <sub>`免费` `官方` `网络安全`</sub> |
 | [Translate Father](https://tgbox.cc/detail/translatefather_bot/) | — | <sub>`免费`</sub> |
+| [Text 2 Speech Bot](https://tgbox.cc/detail/txt2speechbot/) | — | Get audios in several languages from your text or even store and use your own audios.… |
+| [Unicode Bot](https://tgbox.cc/detail/unicodeinfobot/) | — | Gives codepoints of the characters in your message. Try inline mode!… <sub>`开源`</sub> |
 | [🔎 What's your User Id? 🪪](https://tgbox.cc/detail/userid_checkbot/) | — | Find your Telegram User ID, Chat ID or Channel ID instantly. Tap Start — done. Free… |
+| [Voice Transcriber Bot](https://tgbox.cc/detail/voicetranscriberobot/) | — | Transcribe voice messages to text in a snap! |
+| [Internet Archive: Wayback Machine](https://tgbox.cc/detail/wayback_machine_bot/) | — | Arhive your webpage to https://archive.org/web/ |
+| [Whois\_Bot](https://tgbox.cc/detail/whois_bot/) | — | @Whois\_Bot is a simple domain whois lookup tool. The service is provided by Whois7.com |
 
 </details>
 
@@ -1075,36 +1090,50 @@
 | [Shieldy](https://tgbox.cc/detail/shieldy_bot/) | 21万 | Shieldy 打击 Telegram 垃圾邮件. 通过使用,您同意使用条款 bit.ly/4tpqkp4 & 隐私政策 bit.ly/46t9zQ2 <sub>`免费` `开源`</sub> |
 | [SangMata](https://tgbox.cc/detail/sangmata_bot/) | 16万 | 可以跟踪名称和用户名更改,并在您的组中通知机器人. 现在添加我开始跟踪。 |
 | [MBot](https://tgbox.cc/detail/mbot/) | 16万 | 🤖让频道 & 群组管理更智能！ 📢 帮助频道： @MyBots 👥 讨论群组： @GroupTG 🎁 抽奖频道： @TGBot\_lottery |
+| [KinhRoBot](https://tgbox.cc/detail/kinhrobot/) | 14万 | ❶毫秒级的响应速度（TG最快的机器人） ②拥有超丰富的群管功能 ❸拥有超多的实用小指令 ④免费无限制的AI对话 ❺采用分布式微服务架构 ⑥由K8S强力驱动保证高可用… |
 | [Protectron](https://tgbox.cc/detail/protectronbot/) | 9.5万 | 人工智能驱动的安全,反垃圾邮件和分析. 加入数以千计的群体,拥有数百万的会员 protectronbot.com <sub>`网络安全`</sub> |
 | [OrgRobot](https://tgbox.cc/detail/orgrobot/) | 3万 | 机器人挑战用户在用户加入聊天组时提出问题。 |
 | [群管理机器人 @qunbot](https://tgbox.cc/detail/qunbot/) | 2.1万 | @qunguanjia 更新公告。 ✅ 世面上的群管机器人功能都有 ✅ 定时发送功能 ✅ 关注指定关注频道才能发言功能 ✅ 群里关键词自动回复功能 ✅ 发言限制字数 ✅… |
-| [The Join Captcha Bot](https://tgbox.cc/detail/join_captcha_bot/) | 1.7万 | 机器人验证是否进入组用户是真正的人类。检查机器人信息频道: https://t.me/info\_join\_captcha\_bot <sub>`免费` `开源`</sub> |
 
 <details>
-<summary>展开其余 21 个</summary>
+<summary>展开其余 35 个</summary>
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
+| [The Join Captcha Bot](https://tgbox.cc/detail/join_captcha_bot/) | 1.7万 | 机器人验证是否进入组用户是真正的人类。检查机器人信息频道: https://t.me/info\_join\_captcha\_bot <sub>`免费` `开源`</sub> |
 | [PollBot](https://tgbox.cc/detail/pollbot/) | 1.7万 | Add this bot to groups to create simple polls. |
+| [广告杀手 🥷🏻](https://tgbox.cc/detail/guanggaoshashoubot/) | 1.2万 | 本机器人专业封杀中文广告内容以及广告号。 把该机器人拉入群组中就可以使用，无需任何繁琐设置。 💡如果遇误封，请让被封禁的人私信本机器人，可以看到解封方式。 |
 | [joinhider\_bot](https://tgbox.cc/detail/joinhider_bot/) | 1.2万 | 机器人可以删除系统消息,例如当用户加入或离开聊天组时。 <sub>`免费`</sub> |
 | [入群验证机器人](https://tgbox.cc/detail/p4captchabot/) | 1.1万 | Source: https://github.com/fossifer/Telegram-CAPTCHA-bot <sub>`免费` `开源`</sub> |
 | [TGCN-币&黄广告专杀](https://tgbox.cc/detail/adnamekillerbot/) | — | <sub>`免费`</sub> |
+| [Alita ✨](https://tgbox.cc/detail/alita_robot/) | — | Hey I'm Alita, an fast group management bot with tons of features. I can manage your… <sub>`开源`</sub> |
 | [AntiArabicScriptBot](https://tgbox.cc/detail/antiarabicscriptbot/) | — | 删除包含阿拉伯语脚本的邮件. 更多广告免费机器人 @GroupOwnerBots。 <sub>`免费`</sub> |
 | [反频道马甲 Bot](https://tgbox.cc/detail/antichannelspammersbot/) | — | 自动删除群成员以频道身份发送的消息，以及几个实用小功能。 源码：https://github.com/AnotiaWang/AntiChannelSpammersBot… <sub>`免费`</sub> |
 | [AntiHyperlinkBot](https://tgbox.cc/detail/antihyperlinkbot/) | — | 删除包含超链接的消息(URL,文本链接)。 <sub>`免费`</sub> |
 | [AntiServiceMessageBot](https://tgbox.cc/detail/antiservicemessagebot/) | — | 删除加入、添加和留言(服务消息)。 <sub>`免费`</sub> |
+| [Cleaning Toolbox](https://tgbox.cc/detail/cleaningtoolboxbot/) | — | Be able to kick all your users or delete all messages from your channel/group easily! |
 | [DaySandBox](https://tgbox.cc/detail/daysandbox_bot/) | — | 机器人管理聊天组。 <sub>`免费`</sub> |
 | [大掌门](https://tgbox.cc/detail/fengdoorbot/) | — | 欢迎消息，消息自毁，进群验证 - 峰哥出品 本机器人的代码开源 欢迎小伙伴们提交 pull request https://github.com/fengnz/fengdoorbo… |
 | [群主の蜜 - 雪儿](https://tgbox.cc/detail/fengfaqbot/) | — | 本机器人需要管理员权限. 本机器人应该是TG里自定义程度最高的机器人了. 自由的规则, 唯一的限制是你的脑洞. 自动回复, 脏话检测, 防刷屏都不是事. 自定义键盘, 按钮,… |
 | [验证机器人](https://tgbox.cc/detail/group_confirmation_bot/) | — | https://t.me/dockertutorial <sub>`免费`</sub> |
+| [Group Butler](https://tgbox.cc/detail/groupbutler_bot/) | — | This bot can help you in managing your group with rules, anti-flood, description, custom… <sub>`开源`</sub> |
+| [hexlightning ⚡️](https://tgbox.cc/detail/hexlightning_bot/) | — | 台灣人自己的黑名單機器人。 更多的創意，打造一個可以被信任的服務。 公開說明書：https://docs.hexelf.dev 專用群組：@hexjudge… |
 | [Captcha](https://tgbox.cc/detail/joincaptchabot/) | — | <sub>`开源`</sub> |
+| [呆呆兽](https://tgbox.cc/detail/keduckbot/) | — | 群组讨论：@SparkDis 更新日志：@slowStudy 问题反馈：@intOrderBot 使用说明：https://ddsh.gitbook.io/free/ |
+| [miniBot](https://tgbox.cc/detail/keyworddel_bot/) | — | 本机器人基于人工智能、机器学习、深度学习，自动删除群组"推广/广告/菠菜"等等消息 |
+| [Approve By Poll](https://tgbox.cc/detail/kimmyxyc_approve_by_poll_bot/) | — | A Bot for voting to join the group. Open-source repository: https://github.com/KimmyXYC/Ap… <sub>`开源`</sub> |
+| [mattata](https://tgbox.cc/detail/mattatabot/) | — | Powerful multi-purpose bot by @wrxck. Open source! Spread the ❤️ and check it out:… <sub>`开源`</sub> |
 | [NoSticker](https://tgbox.cc/detail/nosticker_bot/) | — | 机器人管理聊天组。 <sub>`免费`</sub> |
 | [Policr Mini (控制台版)](https://tgbox.cc/detail/policr_mini_bot/) | — | 一个验证机器人，近期更新 @policr\_changelog 反馈 @policr\_community ‧开源 git.io/Jfd8x ‧官网… <sub>`免费` `开源`</sub> |
+| [Premium Join Bot](https://tgbox.cc/detail/premiumjoinbot/) ✔️ | — | Automatically approve join requests from Telegram Premium users. |
+| [SpamMeNotBot](https://tgbox.cc/detail/spammenotbot/) | — | This bot provides a simple and fully automatic way to protect your group from spam/flood… |
 | [Tag Everyone](https://tgbox.cc/detail/tageveryone_thebot/) | — | 提到组中的所有用户! 更新: @tageveryone\_news <sub>`免费` `开源`</sub> |
 | [TGCN-CAPTCHA加群验证](https://tgbox.cc/detail/tgcnjoincaptchabot/) | — | <sub>`免费`</sub> |
 | [天童AL-1S🤖 Powered by @TooruchanNews](https://tgbox.cc/detail/toorucaptchabot/) | — | 一个用于加群验证的机器人 项目捐助: https://afdian.net/@tooruchan https://github.com/Tooruchan/Telegram-CAP… <sub>`免费` `开源`</sub> |
+| [ubervotebot](https://tgbox.cc/detail/ubervotebot/) | — | I'm the best 🤖 to create polls with. Check out my source code and screenshots:… <sub>`开源`</sub> |
 | [WatchDog Robot](https://tgbox.cc/detail/watchdog_robot/) | — | 机器人管理聊天组。 <sub>`免费`</sub> |
 | [Watch Door \[beta\]](https://tgbox.cc/detail/watchdoorbot/) | — | 这个机器人可以帮助你管理你的群组. 有关于机器人的问题吗? pm @smailzhu <sub>`免费`</sub> |
+| [干物妹！小霾](https://tgbox.cc/detail/woomaibot/) | — | 公告频道 @woomaibotchannel 使用手册 https://xiaomai.docs.wmlabs.net |
 | [查特皮皮鸡](https://tgbox.cc/detail/zuoluotv_ai_bot/) | — | 🐣 查特皮皮鸡，用爱发癫 ，基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。… <sub>`网络安全`</sub> |
 
 </details>
@@ -1126,21 +1155,29 @@
 | [InstaSave](https://tgbox.cc/detail/instasave_bot/) | 6.1万 | 我帮助你从Instagram下载内容. 更新: @instasavestatus 联系: @InstaSaveSupport |
 | [🇺🇦YoutubeDL - YouTube Download Bot](https://tgbox.cc/detail/ytbdownbot/) | 5万 | 从YouTube和TT首席执行官下载视频: @alexmboss <sub>`免费`</sub> |
 | [Douyin Downloader](https://tgbox.cc/detail/douyin_download_bot/) | 2万 | 请在遇到任何错误时通知 @robinhust。 <sub>`免费`</sub> |
+| [Song🆔](https://tgbox.cc/detail/songidbot/) | 1.3万 | Open-source bot that can identify music, similar to Shazam. Support: @SongIDsupportbot… <sub>`音乐` `开源`</sub> |
 | [YouTube Downloader](https://tgbox.cc/detail/safe_utubebot/) | 1.3万 | 我可以下载任何视频的限制. 最大限制 500 mb. 如果你想下载大的文件,请联系管理员 <sub>`免费`</sub> |
+| [Reddit Downloader](https://tgbox.cc/detail/reddit_download_bot/) | 1.2万 | A small bot to download the reddit posts, images and videos. Source:… <sub>`开源`</sub> |
+| [聚合解析姬](https://tgbox.cc/detail/parsehubot/) | 1.2万 | 多平台聚合解析 Bot 问题反馈: @MisakaSisters 更新推送: @mio\_room GitHub: github.com/z-mio/parse\_hub\_bot <sub>`开源`</sub> |
 | [CloudMusicDownloader](https://tgbox.cc/detail/music163bot/) | 1万 | 一个下载网易云歌曲的bot 交流群 @Music163\_group Github: github.com/XiaoMengXinX/Music163bot-Go 爱发电:… <sub>`免费` `音乐`</sub> |
-| [AI在线解析视频 (DC5)](https://tgbox.cc/detail/bilibiliparse_bot/) | — | 目前已支持哔哩哔哩解析、 抖音解析、 小红书解析、 Twitter(推特)解析、 Instagram解析、 Youtube(油管)解析、 Tiktok解析、 快手解析、… <sub>`免费`</sub> |
-| [抖音Tiktok去水印bot](https://tgbox.cc/detail/douyintg_bot/) | — | 抖音 tiktok X(推特) 小红书等视频图集解析 支持批量解析，多个链接请换行 <sub>`免费`</sub> |
-| [多平台解析下载机器人](https://tgbox.cc/detail/freedlvideo_bot/) | — | 支持Twitter / X、Instagram、YouTube、Facebook、Threads、Bilibili、抖音 / TikTok、微博、小红书、贴吧、微信公众号、快手、酷… <sub>`免费`</sub> |
-| [GatMedia \> SaveMediaBot](https://tgbox.cc/detail/getmediabot/) | — | ⬇️ 随时随地获取任何媒体文件。 |
+| [AudD](https://tgbox.cc/detail/auddbot/) | — | Identifies music in voice messages, audio files, and videos Music Recognition API —… <sub>`音乐`</sub> |
 
 <details>
-<summary>展开其余 16 个</summary>
+<summary>展开其余 25 个</summary>
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
+| [AI在线解析视频 (DC5)](https://tgbox.cc/detail/bilibiliparse_bot/) | — | 目前已支持哔哩哔哩解析、 抖音解析、 小红书解析、 Twitter(推特)解析、 Instagram解析、 Youtube(油管)解析、 Tiktok解析、 快手解析、… <sub>`免费`</sub> |
+| [Bilibili Feed Bot](https://tgbox.cc/detail/bilifeedbot/) | — | B站链接内容提取器，同时支持 Inline 、群组和频道文本匹配，支持视频、音频、动态、文章、直播 维护: @simonsmh 源码:… <sub>`开源`</sub> |
+| [抖音Tiktok去水印bot](https://tgbox.cc/detail/douyintg_bot/) | — | 抖音 tiktok X(推特) 小红书等视频图集解析 支持批量解析，多个链接请换行 <sub>`免费`</sub> |
+| [多平台解析下载机器人](https://tgbox.cc/detail/freedlvideo_bot/) | — | 支持Twitter / X、Instagram、YouTube、Facebook、Threads、Bilibili、抖音 / TikTok、微博、小红书、贴吧、微信公众号、快手、酷… <sub>`免费`</sub> |
+| [GatMedia \> SaveMediaBot](https://tgbox.cc/detail/getmediabot/) | — | ⬇️ 随时随地获取任何媒体文件。 |
 | [🎧好音乐搜索](https://tgbox.cc/detail/haoyybot/) | — | 歌曲音乐搜索机器人，输入歌曲名或者歌手名，把TG变成音乐播放器！ 欢迎把机器人 @haoyybot 添加到你的群组！广告投放请联系 @haoyykfAdmins <sub>`免费` `音乐`</sub> |
 | [全网视频下载](https://tgbox.cc/detail/icbcbot/) | — | 支持的平台: 抖音视频\|图文、哔哩哔哩视频\|动态、YouTube、YouTube Music、TikTok视频\|图文、小红书视频\|图文、Twitter视频\|图文、百度贴吧图文\|视频… <sub>`免费`</sub> |
+| [Multi Saver \| Tiktok Facebook Instagram…](https://tgbox.cc/detail/multisaverxbot/) | — | For Support/Feedback message: @superuser\_bots Happy Usage! |
+| [OdesliBot](https://tgbox.cc/detail/odesli_bot/) | — | Send a link to a song in a streaming service and get back a message with the links in… <sub>`音乐`</sub> |
 | [视频解析中心](https://tgbox.cc/detail/parsehubbot/) | — | 支持的平台: 抖音视频\|图文、哔哩哔哩视频\|动态、YouTube、YouTube Music、TikTok视频\|图文、小红书视频\|图文、Twitter视频\|图文、百度贴吧图文\|视频… <sub>`免费`</sub> |
+| [Pixiv](https://tgbox.cc/detail/pixiv_bot/) | — | \[unoffoical\] wiki: https://pixiv-bot.pages.dev status: https://status.ugoira.com… <sub>`动漫`</sub> |
 | [Podcastly](https://tgbox.cc/detail/podcastly_bot/) | — | Find new podcasts by search or recommendation system, deliver notification on new… |
 | [Reddit Video Downloader](https://tgbox.cc/detail/redditdownloader_bot/) | — | 使用音频下载Reddit和Facebook视频。 <sub>`免费`</sub> |
 | [YoutubeDL](https://tgbox.cc/detail/remoteyoutubedl_bot/) | — | Youtube 不再起作用 其他网站可能起作用. 幸运! 查看更多信息: @remoteyoutubedl\_botinfo <sub>`免费`</sub> |
@@ -1152,6 +1189,7 @@
 | [TV Subtitles](https://tgbox.cc/detail/tv_subtitles_bot/) | — | I'll Provide English Subtitles of 电视剧 @odbots <sub>`剧集`</sub> |
 | [utubebot](https://tgbox.cc/detail/utubebot/) | — | I am the Best Video Downloader with MP3 Conversion support. To search videos use… |
 | [Загрузчик видео \| Ютуб \| ВкВидео \|…](https://tgbox.cc/detail/vid_download_robot/) | — | 从1800+平台下载视频完全免费 <sub>`免费`</sub> |
+| [VideoTubeBot](https://tgbox.cc/detail/videotubebot/) | — | Downloads audio/video from YouTube. Support: @MediaTube\_chat Channel: @MediaTube\_stream |
 | [Web to Album](https://tgbox.cc/detail/web2album_bot/) | — | 这个机器人会将网页URL转换为你的专辑,在私人消息中,在组中和在频道中。 <sub>`免费`</sub> |
 | [WAIT: What Anime Is This](https://tgbox.cc/detail/whatanimebot/) | — | 送给我任何动漫的屏幕截图或GIF,我会告诉你准确的动漫,集和时刻标记! 由 @trace\_moe提供 <sub>`动漫` `免费` `开源`</sub> |
 
@@ -1182,7 +1220,7 @@
 | [一起搜电影](https://tgbox.cc/detail/sotv/) | 7.1万 | TG必备影视搜索神器，找到您喜欢的电影、电视剧！欢迎将 @SOTV 添加到您的群组。 <sub>`电影` `剧集`</sub> |
 
 <details>
-<summary>展开其余 13 个</summary>
+<summary>展开其余 21 个</summary>
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
@@ -1192,11 +1230,19 @@
 | [Wikipedia Search](https://tgbox.cc/detail/wiki/) | 1.3万 | <sub>`免费` `官方`</sub> |
 | [阿里云盘资源 Bot](https://tgbox.cc/detail/aliyunpanbot/) | — | 集投稿、搜索、收藏、关注、分享和导出于一身，做 Telegram 上更全能的阿里云盘资源机器人 \~ 请关注更新消息和使用帮助频道: @YunPanHelp 频道:… <sub>`网盘` `电影`</sub> |
 | [阿里云盘搜索机器人🤖️](https://tgbox.cc/detail/aliyunshare_bot/) | — | 关于我 我是阿里云盘资源搜索机器人 汇聚全网最全资源 如何使用我 1、可以添加本机器人到任何群组 然后在群组里发送\#+资源名称即可 例如 \#人民的名义 2、可以私聊机器人… <sub>`网盘` `电影`</sub> |
+| [每日 AWESOME 搜索](https://tgbox.cc/detail/awesomeopensource_search_bot/) | — | 这里是 @awesomeopensource 的搜索 Bot，直接发送你要搜索的内容即可。 Github：https://github.com/EYHN/telegram-sear… <sub>`开源`</sub> |
 | [BotList Bot 🤖](https://tgbox.cc/detail/botlistbot/) | — | 官方 @BotList <sub>`免费`</sub> |
 | [达摩索引](https://tgbox.cc/detail/damososobot/) | — | 索引机器🔍 @SUOBOT｜ @SYJQ 专业索引工具，整合海量信息资源，帮助您快速找到所需内容。 📢 @SYJQNEWS ｜ 👩‍💻 @SUOadminBOT <sub>`免费`</sub> |
 | [TG群组/频道导航](https://tgbox.cc/detail/daohangbot/) | — |  |
+| [Telegram Explorer](https://tgbox.cc/detail/exploretelegrambot/) | — | Explore the world of Telegram, find bots, channels, groups, stickers, masks AND secret… |
+| [Hitagi](https://tgbox.cc/detail/hitagibot/) | — | Hitagi is qt anime bot capable of searching for TV shows, manga, characters, and fan art. <sub>`动漫`</sub> |
 | [IMDb](https://tgbox.cc/detail/imdb/) | — | 这个机器人自动在所有聊天和群组中工作,无需在任何地方添加它。 <sub>`免费` `电影` `官方`</sub> |
+| [IQDB bot](https://tgbox.cc/detail/iqdb_org_bot/) | — | Contact @Nakagawa\_Kanon for more information. <sub>`动漫`</sub> |
+| [北极星搜索](https://tgbox.cc/detail/polarisseekbot/) | — | 您好,我能给您导航Telegram群组/频道. 可以点击分类搜索,也可以输入关键字搜索. /help 查看详细说明. 官方群组: @polarisseek |
 | [群组大全\_Bot](https://tgbox.cc/detail/qunzudaquan_bot/) | — | 本Bot目前已暂停收录，只维持现有链接，失效链接自动删除 <sub>`免费`</sub> |
+| [Image Reverse Search](https://tgbox.cc/detail/reverse_image_search_bot/) | — | Reverse image search bot for various engines like SauceNAO, Google, Yandex and more. |
+| [Telegram Store Bot](https://tgbox.cc/detail/storebot/) | — | @Storebot helps you discover the best bots 👾 on Telegram. Explore charts, rate bots and… |
+| [Telegram Channels Bot](https://tgbox.cc/detail/tchannelsbot/) | — | Discover the best channels 📢 available on Telegram. Explore charts, rate ⭐️ and enjoy… |
 | [TGCN-群组频道狐🦊(不是猫)](https://tgbox.cc/detail/zh_groups_bot/) | — | TGCN-群组索引计划 机器人 更新频道： @zh\_groups 社区帮助：https://t.me/zh\_CN/294 <sub>`免费`</sub> |
 | [SE-索引秘书](https://tgbox.cc/detail/zh_secretary_bot/) | — | 中文索引导航 用户体验至上 开源\|非盈利 SE-索引社群： @se\_talks <sub>`免费`</sub> |
 
@@ -1217,20 +1263,28 @@
 | [ExpenseBot](https://tgbox.cc/detail/expensebot/) | — | HTTPS://github.com/muety/telegram-expense-bot 通讯机 <sub>`财经` `开源`</sub> |
 | [Gitlab](https://tgbox.cc/detail/gitlab_bot/) | — | Receive notifications from Gitlab(cloud and hosted version) and response to them quickly! <sub>`编程`</sub> |
 | [IFTTT](https://tgbox.cc/detail/ifttt/) ✔️ | — | 将您的Telegram组或频道连接到360多个其他服务。 |
+| [keyword alert bot](https://tgbox.cc/detail/keyword_alert_bot/) | — | Keyword bots that can help you subscribe to messages 可以帮你订阅消息的关键字机器人 BUG反馈:… <sub>`开源`</sub> |
 | [King打卡](https://tgbox.cc/detail/kingdk_bot/) | — | 打卡考勤机器人，上班、下班、吃饭、上厕所、抽烟等行为记录，统计员工实际工作时间。 |
+| [Master Tag Alert](https://tgbox.cc/detail/mastertagalertbot/) | — | Unique Notification Center on Telegram, for mentions, replies, hashtags and much more! |
+| [Moreform](https://tgbox.cc/detail/moreformbot/) | — | Forms and Surveys builder for Telegram Support - @Samandar\_Yusupov |
+| [Save to Notion Bot](https://tgbox.cc/detail/notion_echo_bot/) | — | Telegram support group: https://t.me/+BOWbMpNPh6IzNTY0 Official website:… |
 | [ONLYOFFICE](https://tgbox.cc/detail/onlyoffice_bot/) | — | 使用 ONLYOFFICE 机器人轻松创建、转换、编辑和协作办公文件。 |
 | [Pomodoro Bot](https://tgbox.cc/detail/pomodoro_timer_bot/) | — | Pomodoro计时器. 反馈: @CaddisFly. 另外,尝试 @platon\_platon\_bot - 来自我的创作者的文本和视频总结机器人。 <sub>`免费`</sub> |
+| [Github Releases](https://tgbox.cc/detail/prgitrelbot/) | — | Will send you updates for the repos you tell me to watch <sub>`编程`</sub> |
+
+<details>
+<summary>展开其余 12 个</summary>
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [Receipt AI Split](https://tgbox.cc/detail/receiptaisplit_bot/) | — | Split the bill without math: snap the receipt → AI reads it → who owes whom. Telegram,… |
 | [RMB](https://tgbox.cc/detail/remindmegabot/) | — | 博特在平台上工作 HostiMan.ru 支持 🇪🇸🇺🇺 → @RMBSupport 服务 收入和支出 → @budgetmoneybot |
 | [Save to Notion](https://tgbox.cc/detail/savetonotionbot/) | — | Save content to your Notion Workspace! |
 | [Email to self bot](https://tgbox.cc/detail/selfmailbot/) | — | 發送給我一個訊息,並在您的郵箱中找到它。 為GTD和電子郵件迷人。 作者 — fedor@borshev.com <sub>`开源`</sub> |
 | [SplitTabs · Split Bills](https://tgbox.cc/detail/splittabsbot/) | — | 组账单分割器: /add 20 晚餐 @anna, /balance, /settle. 每组 20 个费用免费。 <sub>`财经`</sub> |
+| [SSL & Uptime monitoring](https://tgbox.cc/detail/sslmonitoringbot/) | — | Domain certificate and uptime monitoring system |
+| [TasksListsBot](https://tgbox.cc/detail/taskslistsbot/) | — | A multiple tasks lists manager for groups and private chats. - by @Pablo\_Davila |
 | [To do list manager](https://tgbox.cc/detail/todobot/) | — | <sub>`免费`</sub> |
-
-<details>
-<summary>展开其余 4 个</summary>
-
-| 名称 | 月活 | 简介 |
-| --- | ---: | --- |
 | [Todorant](https://tgbox.cc/detail/todorant_bot/) | — | 智能助理 智能助理 智能助理 智能助理 |
 | [push.tg](https://tgbox.cc/detail/trafficrobot/) | — | 电子邮件和 API 到您的电报 |
 | [Tyzenhaus](https://tgbox.cc/detail/tyzenhausbot/) | — | Tyzenhaus is a shared expenses tracking bot. 📃: https://github.com/madhead/tyzenhaus ✍️:… <sub>`开源`</sub> |
@@ -1239,6 +1293,73 @@
 </details>
 
 [在 TGbox 查看全部效率提醒 →](https://tgbox.cc/bot/productivity/)
+
+<a id="bot-channel-tools"></a>
+
+### 频道运营
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [Post Bot](https://tgbox.cc/detail/postbot/) | 333万 | ️ 最终的帖子构建器. 模板,内线按钮,高级情感片,单击发送到任何聊天! @dostoyno by g.media <sub>`免费`</sub> |
+| [Channel Help](https://tgbox.cc/detail/chelpbot/) | 280万 | 最完整的频道机器人:发布按钮和PREMIUM EMOJI,欢迎消息,重复的帖子,加入过滤器等! |
+| [Tribute](https://tgbox.cc/detail/tribute/) ✔️ | 179万 | 通过捐赠和订阅赚钱内容. 新闻: @TributeNewsEN TRBT Limited https://tribute.tg/terms.html <sub>`财经`</sub> |
+| [Manybot](https://tgbox.cc/detail/manybot/) | 98万 | 🔥Manybot lets you create your own bots. Send messages, create custom commands and menus.… |
+| [LikeBot](https://tgbox.cc/detail/like/) | 60万 | A cool bot to create posts with emoji-based like buttons. |
+| [TelepostBot](https://tgbox.cc/detail/telepostbot/) | 60万 | 管理面板:app.telepost.me/login 官方博客 - @telepost\_blog 技术支持 @TelepostSupport |
+| [Controller Bot](https://tgbox.cc/detail/controllerbot/) | 25万 | 巨大的bot 为频道所有者,帮助您创建丰富的帖子,查看统计数据和更多。 |
+| [Channel Actions Bot - Join Approver…](https://tgbox.cc/detail/channelactionsbot/) | 6.3万 | I can auto approve as well as disapprove new channel join requests!… |
+| [DiscussBot](https://tgbox.cc/detail/discussbot/) ✔️ | 3.6万 | 让这个机器人在你的频道中成为一个管理员,将评论按钮添加到所有帖子中。 <sub>`免费` `官方`</sub> |
+| [Comments Bot](https://tgbox.cc/detail/commentsbot/) | 2.5万 | 我可以帮助您创建评论的帖子,将其分享到您的频道或组。 <sub>`免费`</sub> |
+| [React Bot](https://tgbox.cc/detail/reactbot/) | 2.4万 | I can help you to create rich posts with reactions and comments in your channels. |
+| [Junction Bot](https://tgbox.cc/detail/junction_bot/) | 2.2万 | 🤖 Automates your Telegram routine Message forwarding, digests and more 🌐 junctionbot.io… |
+| [ComenBot](https://tgbox.cc/detail/comenbot/) | — | The first comment platform in Telegram. |
+| [Donate](https://tgbox.cc/detail/donate/) ✔️ | — | This bot helps content creators receive financial support from their followers directly… <sub>`官方`</sub> |
+| [InviteMember](https://tgbox.cc/detail/invitememberbot/) | — | InviteMember - 用于付费电报频道和群组的会员机器人平台。 <sub>`财经`</sub> |
+
+<details>
+<summary>展开其余 2 个</summary>
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [Like and Comment](https://tgbox.cc/detail/likecombot/) | — | The bot helps automatically add Like and Comment buttons under every post in the channel… |
+| [Markdown](https://tgbox.cc/detail/markdownbot/) | — | Translates text to markdown style. It has a function for the post to channels. Channel… |
+
+</details>
+
+[在 TGbox 查看全部频道运营 →](https://tgbox.cc/bot/channel-tools/)
+
+<a id="bot-stickers"></a>
+
+### 表情贴纸
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [QuotLy](https://tgbox.cc/detail/quotlybot/) | 67万 | 要做到这一点,请写作响应消息 /q 支持: @ly\_oBot <sub>`表情包`</sub> |
+| [Stickers Bot](https://tgbox.cc/detail/stickers/) ✔️ | 65万 | 创建Telegram贴纸,并通过这个机器人获得您的贴纸的使用统计数据。 <sub>`免费` `表情包` `官方`</sub> |
+| [fStik — Sticker & Emoji Bot \| Create…](https://tgbox.cc/detail/fstikbot/) | 51万 | Create stickers and emoji from photos, videos, GIFs. Sticker catalog and search. 🇺🇦 |
+| [Sticker Downloader](https://tgbox.cc/detail/stickerdownloadbot/) | 3.7万 | 下载 jpg、png 和 Webp 格式的任何电报贴纸,或整个贴纸包以 zip 形式。 <sub>`免费`</sub> |
+| [StickerBot](https://tgbox.cc/detail/sticker/) | 1.4万 | 这个机器人将帮助您为您最喜欢的情感符号找到新的相关贴纸。 <sub>`免费` `官方`</sub> |
+| [Sticker Downloader](https://tgbox.cc/detail/downloadstickersbot/) | 1.1万 | 下载您最喜欢的贴纸在 jpg、png、webp 格式或整个包作为 zip 文件。 <sub>`免费`</sub> |
+| [Favorite Stickers Bot](https://tgbox.cc/detail/favorite_stickers_bot/) | — | 轻松创建贴纸包! 视频、复制、协作编辑等等! 反馈: @FishingFW。 <sub>`免费`</sub> |
+| [MyPack](https://tgbox.cc/detail/mypackbot/) | — | I can create your personal pack with any media files. Without limits and installing. In… |
+| [Sticker Optimizer](https://tgbox.cc/detail/newstickeroptimizerbot/) | — | Written by Luca Patera (@Lukasss93). |
+| [RateStickerBot](https://tgbox.cc/detail/ratestickerbot/) | — | This bot allows you to rate random stickers and discover new sticker sets. |
+| [Sticker Convert Bot](https://tgbox.cc/detail/sticker_convert_bot/) | — | Converts images and URLs into the required format for Telegram Stickers, so you can… |
+| [Sticker To GIF](https://tgbox.cc/detail/sticker2gifbot/) | — | 将贴纸转换为 gif,在其他应用中使用. 联系 @rankun203 任何问题,谢谢 <sub>`免费`</sub> |
+| [AI Sticker Maker 🎨](https://tgbox.cc/detail/stickeraimakerbot/) | — | AI 贴纸制造商 自我定制包 9 星星 邀请朋友免费 <sub>`AI绘画`</sub> |
+| [Stickerify](https://tgbox.cc/detail/stickerifyimagebot/) | — | Convert images and videos into the format required to be used as Telegram stickers. <sub>`开源`</sub> |
+| [Stickerizer](https://tgbox.cc/detail/stickerizerbot/) | — | This bot let's you create stickers on the fly, via Telegram Mini App Developed by… |
+
+<details>
+<summary>展开其余 1 个</summary>
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [StickerSetBot](https://tgbox.cc/detail/stickerset2packbot/) | — | 将贴纸导出到 PNG,或将多个贴纸/贴纸设置到 PNG/JPG 的 zip。 <sub>`免费`</sub> |
+
+</details>
+
+[在 TGbox 查看全部表情贴纸 →](https://tgbox.cc/bot/stickers/)
 
 <a id="bot-rss"></a>
 
@@ -1253,33 +1374,15 @@
 | [一个勤勤恳恳的RSS订阅器](https://tgbox.cc/detail/pdorss_bot/) | — | <sub>`免费`</sub> |
 | [RSS bot](https://tgbox.cc/detail/rss2tg_bot/) | — | 快速通知机器人 RSS 和原子电源. 网站: https://rss2tg.duck.consulting/ 聊天: @rss2tg\_community <sub>`免费`</sub> |
 | [flowerss](https://tgbox.cc/detail/rssflowbot/) | — | flowerss是一个支持应用内阅读的RSS机器人，源码地址： https://github.com/indes/flowerss-bot <sub>`免费` `开源`</sub> |
+| [RSS-ify](https://tgbox.cc/detail/rssifyxbot/) | — | Made by @Burhanverse https://burhanverse.eu.org/blog/rssify |
 | [RSS to Telegram Bot](https://tgbox.cc/detail/rsstt_bot/) | — | 频道: @RSStT\_频道组: @RSStT\_Group GitHub: https://git.io/RSStT <sub>`免费` `开源`</sub> |
 | [RSS屋](https://tgbox.cc/detail/rsswbot/) | — | 更多精彩 https://t.me/aheatwave <sub>`免费`</sub> |
 | [RSSBot](https://tgbox.cc/detail/rustrssbot/) | — | 中文 Telegram RSS 机器人 项目地址: https://github.com/iovxw/rssbot 如有任何疑问请联系作者 @iovxw <sub>`免费` `开源`</sub> |
 | [telefeedbot - web/rss reader](https://tgbox.cc/detail/telefeedbot/) | — | 阅读 RSS 源和社交网络在电报中。我的其他机器人: @BlogFatherBot 渠道: @memefeed (ru), @crazydoge |
 | [Feed Reader Bot](https://tgbox.cc/detail/thefeedreaderbot/) | — | Feed Reader Bot监控RSS源,X / YouTube帐户,每次发布新帖子时向您发送通知。 |
+| [YouTube Notifier](https://tgbox.cc/detail/youtubenotifbot/) | — | https://github.com/xditya/YouTubeFeeds <sub>`开源`</sub> |
 
 [在 TGbox 查看全部订阅推送 →](https://tgbox.cc/bot/rss/)
-
-<a id="bot-channel-tools"></a>
-
-### 频道运营
-
-| 名称 | 月活 | 简介 |
-| --- | ---: | --- |
-| [Post Bot](https://tgbox.cc/detail/postbot/) | 333万 | ️ 最终的帖子构建器. 模板,内线按钮,高级情感片,单击发送到任何聊天! @dostoyno by g.media <sub>`免费`</sub> |
-| [Channel Help](https://tgbox.cc/detail/chelpbot/) | 280万 | 最完整的频道机器人:发布按钮和PREMIUM EMOJI,欢迎消息,重复的帖子,加入过滤器等! |
-| [Tribute](https://tgbox.cc/detail/tribute/) ✔️ | 179万 | 通过捐赠和订阅赚钱内容. 新闻: @TributeNewsEN TRBT Limited https://tribute.tg/terms.html <sub>`财经`</sub> |
-| [LikeBot](https://tgbox.cc/detail/like/) | 60万 | A cool bot to create posts with emoji-based like buttons. |
-| [TelepostBot](https://tgbox.cc/detail/telepostbot/) | 60万 | 管理面板:app.telepost.me/login 官方博客 - @telepost\_blog 技术支持 @TelepostSupport |
-| [Controller Bot](https://tgbox.cc/detail/controllerbot/) | 25万 | 巨大的bot 为频道所有者,帮助您创建丰富的帖子,查看统计数据和更多。 |
-| [DiscussBot](https://tgbox.cc/detail/discussbot/) ✔️ | 3.6万 | 让这个机器人在你的频道中成为一个管理员,将评论按钮添加到所有帖子中。 <sub>`免费` `官方`</sub> |
-| [Comments Bot](https://tgbox.cc/detail/commentsbot/) | 2.5万 | 我可以帮助您创建评论的帖子,将其分享到您的频道或组。 <sub>`免费`</sub> |
-| [Donate](https://tgbox.cc/detail/donate/) ✔️ | — | This bot helps content creators receive financial support from their followers directly… <sub>`官方`</sub> |
-| [InviteMember](https://tgbox.cc/detail/invitememberbot/) | — | InviteMember - 用于付费电报频道和群组的会员机器人平台。 <sub>`财经`</sub> |
-| [Markdown](https://tgbox.cc/detail/markdownbot/) | — | Translates text to markdown style. It has a function for the post to channels. Channel… |
-
-[在 TGbox 查看全部频道运营 →](https://tgbox.cc/bot/channel-tools/)
 
 <a id="bot-crypto"></a>
 
@@ -1295,29 +1398,33 @@
 | [Bitget Wallet Lite](https://tgbox.cc/detail/bitgetwallet_tgbot/) ✔️ | 3.8万 | Join 10M+ users to securely earn and transfer crypto on the TON blockchain Learn more… <sub>`TON生态`</sub> |
 | [Tonkeeper](https://tgbox.cc/detail/tonkeeper/) ✔️ | 3.6万 | Tonkeeper bot is a wallet and a direct line to our support team. Ask us any question… <sub>`TON生态`</sub> |
 | [极搜UT钱包](https://tgbox.cc/detail/utbot/) | 1.6万 | 安全、便捷、且匿名的存储或兑换加密货币 官方频道 @utqianbao <sub>`财经`</sub> |
+| [ChainCrawler](https://tgbox.cc/detail/crawlerhunterbot/) | — | AML wallet check tool to avoid scam, rug pulls, honeypots and those under sanctions. <sub>`网络安全`</sub> |
 | [Crypto Explorer (Crex)](https://tgbox.cc/detail/crexp_bot/) | — | Get information about cryptocurrency transactions and wallets. Site: https://bots8.com <sub>`链上数据`</sub> |
 | [区块链助手 - 链上信息查询](https://tgbox.cc/detail/querytokenbot/) | — | 链上信息查询助手 能量闪租\|TRX兑换\|地址交易查询\|地址实时监听\|余额查询\| 飞机查群\|支持TON 和 NFT监听\|更多 把此机器人拉进群组可直接在群里查询。 疑问/建议联系… <sub>`链上数据`</sub> |
 | [Wallet](https://tgbox.cc/detail/wallet/) | — | 购买和发送美元,黄金,比特币,格拉姆和其他加密货币 由150万用户信任 24/7支持: @wallet\_supportbot <sub>`财经`</sub> |
 
 [在 TGbox 查看全部加密钱包 →](https://tgbox.cc/bot/crypto/)
 
-<a id="bot-stickers"></a>
+<a id="bot-games"></a>
 
-### 表情贴纸
+### 游戏娱乐
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
-| [QuotLy](https://tgbox.cc/detail/quotlybot/) | 67万 | 要做到这一点,请写作响应消息 /q 支持: @ly\_oBot <sub>`表情包`</sub> |
-| [Stickers Bot](https://tgbox.cc/detail/stickers/) ✔️ | 65万 | 创建Telegram贴纸,并通过这个机器人获得您的贴纸的使用统计数据。 <sub>`免费` `表情包` `官方`</sub> |
-| [Sticker Downloader](https://tgbox.cc/detail/stickerdownloadbot/) | 3.7万 | 下载 jpg、png 和 Webp 格式的任何电报贴纸,或整个贴纸包以 zip 形式。 <sub>`免费`</sub> |
-| [StickerBot](https://tgbox.cc/detail/sticker/) | 1.4万 | 这个机器人将帮助您为您最喜欢的情感符号找到新的相关贴纸。 <sub>`免费` `官方`</sub> |
-| [Sticker Downloader](https://tgbox.cc/detail/downloadstickersbot/) | 1.1万 | 下载您最喜欢的贴纸在 jpg、png、webp 格式或整个包作为 zip 文件。 <sub>`免费`</sub> |
-| [Favorite Stickers Bot](https://tgbox.cc/detail/favorite_stickers_bot/) | — | 轻松创建贴纸包! 视频、复制、协作编辑等等! 反馈: @FishingFW。 <sub>`免费`</sub> |
-| [Sticker To GIF](https://tgbox.cc/detail/sticker2gifbot/) | — | 将贴纸转换为 gif,在其他应用中使用. 联系 @rankun203 任何问题,谢谢 <sub>`免费`</sub> |
-| [AI Sticker Maker 🎨](https://tgbox.cc/detail/stickeraimakerbot/) | — | AI 贴纸制造商 自我定制包 9 星星 邀请朋友免费 <sub>`AI绘画`</sub> |
-| [StickerSetBot](https://tgbox.cc/detail/stickerset2packbot/) | — | 将贴纸导出到 PNG,或将多个贴纸/贴纸设置到 PNG/JPG 的 zip。 <sub>`免费`</sub> |
+| [Quiz Bot](https://tgbox.cc/detail/quizbot/) ✔️ | 133万 | 创建一个有几个多选项问题的测验,并测试你的朋友。 <sub>`免费` `官方`</sub> |
+| [Gamee](https://tgbox.cc/detail/gamee/) ✔️ | 28万 | 电报上最大的游戏平台! 🔥 加入社区 👉 @gameechannel 优惠,礼品,空气滴和更多 🎁 🎉 <sub>`免费`</sub> |
+| [GameBot](https://tgbox.cc/detail/gamebot/) ✔️ | 21万 | 我是Telegram游戏平台的演示机器人,我可以给你一些有趣的样本游戏来玩。 <sub>`免费` `官方`</sub> |
+| [Werewolf Moderator \[☮\]](https://tgbox.cc/detail/werewolfbot/) | 8.6万 | Werewolf Moderator bot - http://www.tgwerewolf.com for information Source:… <sub>`开源`</sub> |
+| [UNO Bot](https://tgbox.cc/detail/unobot/) | 4.2万 | 通过内线命令玩UNO牌游戏 <sub>`免费` `开源`</sub> |
+| [Inline Games 🎲](https://tgbox.cc/detail/inlinegamesbot/) | 1.3万 | 我只是一个简单的机器人,它使用内线键盘来提供一些娱乐。 <sub>`免费`</sub> |
+| [Avalon](https://tgbox.cc/detail/avalonbg_bot/) | — | Avalon Game Bot. News channel: http://telegram.me/avalonbgbot. Support group:… |
+| [BlackJack Bot](https://tgbox.cc/detail/blackjackbot/) | — | This is a simple Bot to play the game BlackJack. You can also add it to a group. |
+| [Minesweeper](https://tgbox.cc/detail/mine_sweeper_bot/) | — | https://github.com/hczhcz/电报机器人 <sub>`免费` `开源`</sub> |
+| [Telegram Chess Bot](https://tgbox.cc/detail/tgchessbot/) | — | A bot that allows you to play chess with friends! |
+| [Secret Hitler Moderator](https://tgbox.cc/detail/thesecrethitlerbot/) | — | This bot acts as a moderator for the card game Secret Hitler by Max Temkin |
+| [TriviaBot](https://tgbox.cc/detail/triviabot/) | — | This bot allows you to test your trivia knowledge. Add it to groups if you'd like to… |
 
-[在 TGbox 查看全部表情贴纸 →](https://tgbox.cc/bot/stickers/)
+[在 TGbox 查看全部游戏娱乐 →](https://tgbox.cc/bot/games/)
 
 <a id="bot-files"></a>
 
@@ -1330,9 +1437,12 @@
 | [URL Uploader](https://tgbox.cc/detail/uploadbot/) | 1.9万 | 快速方式将文件上传到电报的URL. 允许的最大文件大小 500MB 每日上传限制 1GB, /upgrade for more <sub>`网盘` `免费`</sub> |
 | [PDF Bot](https://tgbox.cc/detail/pdfbot/) | 1.4万 | 一个可以做很多与PDF文件相关的事情的机器人 |
 | [Get Public Link Bot](https://tgbox.cc/detail/getpubliclinkbot/) | 1.4万 | 只需发送我任何文件文件的任何大小我会生成一个外部链接. 任何问题阅读 FAQ 在帮助 <sub>`网盘`</sub> |
+| [eBook Converter Bot](https://tgbox.cc/detail/ebook_converter_bot/) | — | Convert E-Books to various formats for free. Since 2022. Supports 57 input formats and 31… <sub>`电子书`</sub> |
 | [Linkgrambot ™](https://tgbox.cc/detail/linkgrambot/) | — | • 聯絡我們: @RelinkSupp kanal rبات: @RegramChannel —----- 聯絡我們: @RelinkSupp Channel:… <sub>`网盘` `免费`</sub> |
 | [Safe Bot](https://tgbox.cc/detail/thesafebot/) | — | 使用这个机器人将您想要的所有文件保存在无限和免费的云中 <sub>`网盘` `免费`</sub> |
 | [To PDF](https://tgbox.cc/detail/topdf_bot/) | — | 给我发送 .doc、 .docx、 .odt、 .txt 或 .jpg 文件,我会将它们转换为 .pdf。 <sub>`免费`</sub> |
+| [Unarchive files by @EDM115 (unzip,…](https://tgbox.cc/detail/unzip_edm115bot/) | — | Unarchiver bot, supports ≈ all archives types including splitted ones, allows thumb… |
+| [Video Compressor Bot](https://tgbox.cc/detail/vidcom_robot/) | — | Video Compressor Bot \|\| Check Bot's Live Status: @VideoCompressLogs \|\| By… |
 
 [在 TGbox 查看全部文件网盘 →](https://tgbox.cc/bot/files/)
 
@@ -1342,8 +1452,10 @@
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
+| [LuckyStar \| 抽奖机器人🎁](https://tgbox.cc/detail/myluckystar8_bot/) | 1万 | 🌟 Unlock your luck! The easiest way to host fair giveaways and pick winners.… |
 | [Telegram 抽奖助手](https://tgbox.cc/detail/cnlottery_bot/) | — | 方便好用、公平公正的 Telegram 群组抽奖工具。 抽奖活动导航 @Lottery\_home 抽奖活动索引 @cnLottery\_123 抽奖活动群组… <sub>`免费` `羊毛福利`</sub> |
 | [抽奖秘书](https://tgbox.cc/detail/fengdrawbot/) | — | 本机器人由峰哥开发，关注抽奖活动公布频道 https://t.me/FengDraw 一有抽奖就通知您。 意见交流请加群 https://t.me/fengsharegroup… <sub>`免费` `羊毛福利`</sub> |
+| [GiveawaysBot 🎰](https://tgbox.cc/detail/giveaways_bot/) | — | Hi, i'm GiveawaysBot and i'm here to create and manage giveaways on Telegram. |
 | [抽奖助手](https://tgbox.cc/detail/lotteryhelperbot/) | — | TG Bot 之父专用抽奖机器人 <sub>`免费` `羊毛福利`</sub> |
 | [Cnlottery V2【公测中】](https://tgbox.cc/detail/newcnlotterybot/) | — | 方便好用、公平公正的 Telegram 群组抽奖工具。 抽奖活动导航 @Lottery\_home 抽奖活动索引 @cnLottery\_123 抽奖活动群组… |
 | [Lottery Bot V2](https://tgbox.cc/detail/tglotterybot/) | — | 中国公平抽奖机器人 <sub>`免费` `羊毛福利`</sub> |
@@ -1351,6 +1463,22 @@
 | [抽奖机器人](https://tgbox.cc/detail/xiaocailotterybot/) | — | 一个支持用户、匿名频道、带有头衔的匿名群组管理员抽奖的Bot，无需管理员权限。 注：如果群组开启了慢速模式或不允许发送文件，请务必给机器人一个管理员（无需任何权限）。 警告⚠️… <sub>`免费` `羊毛福利`</sub> |
 
 [在 TGbox 查看全部抽奖机器人 →](https://tgbox.cc/bot/giveaway/)
+
+<a id="bot-ai"></a>
+
+### AI助手
+
+| 名称 | 月活 | 简介 |
+| --- | ---: | --- |
+| [ChatGPT 6 \| Seedance \| Nano Banana](https://tgbox.cc/detail/gpt4telegrambot/) | 245万 | 全在一的AI机器人:ChatGPT,克劳德,双胞胎,DeepSeek,Midjourney等加入我们: @perplexity <sub>`AI绘画` `ChatGPT` `大模型`</sub> |
+| [Mira](https://tgbox.cc/detail/mira_ibot/) ✔️ | 53万 | 个人AI代理将对话转化为行动. 频道 @miramedia\_en 支持 @mira\_support\_team <sub>`AI智能体` `大模型`</sub> |
+| [Syntx AI](https://tgbox.cc/detail/syntxaibot/) | 36万 | The most powerful AI on TG: Seedance 2.0, Kling 3.0, VEO 3.1, Claude, GPT, Nano banana… <sub>`AI绘画` `AI视频` `大模型`</sub> |
+| [Perplexity](https://tgbox.cc/detail/askplexbot/) ✔️ | 1.9万 | 什么都问! <sub>`大模型`</sub> |
+| [Chat Norris 🤠](https://tgbox.cc/detail/chatnorrisbot/) | 1.5万 | 🎙 AI Саммари Бот для чатов Канал: @chatnorris Поддержка & реклама: @norrischat <sub>`大模型`</sub> |
+| [Microsoft Copilot](https://tgbox.cc/detail/copilotofficialbot/) ✔️ | 1.2万 | Your everyday AI companion, here to make life easier and talk about anything. Always here… <sub>`大模型` `官方`</sub> |
+| [SaveDay AI Bot](https://tgbox.cc/detail/savedaybot/) | — | SaveDay Bot - 捕捉多媒体. 搜索你的想法. 从任何文章或YouTube视频中获得重要笔记。 <sub>`大模型`</sub> |
+
+[在 TGbox 查看全部AI助手 →](https://tgbox.cc/bot/ai/)
 
 <a id="bot-trading"></a>
 
@@ -1384,35 +1512,6 @@
 
 [在 TGbox 查看全部翻译 →](https://tgbox.cc/bot/translate/)
 
-<a id="bot-games"></a>
-
-### 游戏娱乐
-
-| 名称 | 月活 | 简介 |
-| --- | ---: | --- |
-| [Quiz Bot](https://tgbox.cc/detail/quizbot/) ✔️ | 133万 | 创建一个有几个多选项问题的测验,并测试你的朋友。 <sub>`免费` `官方`</sub> |
-| [Gamee](https://tgbox.cc/detail/gamee/) ✔️ | 28万 | 电报上最大的游戏平台! 🔥 加入社区 👉 @gameechannel 优惠,礼品,空气滴和更多 🎁 🎉 <sub>`免费`</sub> |
-| [GameBot](https://tgbox.cc/detail/gamebot/) ✔️ | 21万 | 我是Telegram游戏平台的演示机器人,我可以给你一些有趣的样本游戏来玩。 <sub>`免费` `官方`</sub> |
-| [UNO Bot](https://tgbox.cc/detail/unobot/) | 4.2万 | 通过内线命令玩UNO牌游戏 <sub>`免费` `开源`</sub> |
-| [Inline Games 🎲](https://tgbox.cc/detail/inlinegamesbot/) | 1.3万 | 我只是一个简单的机器人,它使用内线键盘来提供一些娱乐。 <sub>`免费`</sub> |
-| [Minesweeper](https://tgbox.cc/detail/mine_sweeper_bot/) | — | https://github.com/hczhcz/电报机器人 <sub>`免费` `开源`</sub> |
-
-[在 TGbox 查看全部游戏娱乐 →](https://tgbox.cc/bot/games/)
-
-<a id="bot-ai"></a>
-
-### AI助手
-
-| 名称 | 月活 | 简介 |
-| --- | ---: | --- |
-| [ChatGPT 6 \| Seedance \| Nano Banana](https://tgbox.cc/detail/gpt4telegrambot/) | 245万 | 全在一的AI机器人:ChatGPT,克劳德,双胞胎,DeepSeek,Midjourney等加入我们: @perplexity <sub>`AI绘画` `ChatGPT` `大模型`</sub> |
-| [Mira](https://tgbox.cc/detail/mira_ibot/) ✔️ | 53万 | 个人AI代理将对话转化为行动. 频道 @miramedia\_en 支持 @mira\_support\_team <sub>`AI智能体` `大模型`</sub> |
-| [Perplexity](https://tgbox.cc/detail/askplexbot/) ✔️ | 1.9万 | 什么都问! <sub>`大模型`</sub> |
-| [Chat Norris 🤠](https://tgbox.cc/detail/chatnorrisbot/) | 1.5万 | 🎙 AI Саммари Бот для чатов Канал: @chatnorris Поддержка & реклама: @norrischat <sub>`大模型`</sub> |
-| [SaveDay AI Bot](https://tgbox.cc/detail/savedaybot/) | — | SaveDay Bot - 捕捉多媒体. 搜索你的想法. 从任何文章或YouTube视频中获得重要笔记。 <sub>`大模型`</sub> |
-
-[在 TGbox 查看全部AI助手 →](https://tgbox.cc/bot/ai/)
-
 <a id="bot-analytics"></a>
 
 ### 数据分析
@@ -1423,6 +1522,7 @@
 | [TGStat Bot](https://tgbox.cc/detail/tgstat_bot/) | 6.7万 | 发送任何电报频道的统计数据,聊天,出版物。 |
 | [统计秘书](https://tgbox.cc/detail/fengstatsbot/) | — | 本秘书做群中各种统计， 发言次数等 <sub>`免费`</sub> |
 | [词云机器人](https://tgbox.cc/detail/iwordcloudbot/) | — | 受API限制，授予管理员后，机器人才能接收到聊天文本，为了安全，您可以将所有权限关闭。 \| BUG反馈: @devourbots \| 定制机器人 @pmlubot <sub>`免费`</sub> |
+| [The Stats](https://tgbox.cc/detail/thestats_bot/) | — | Daily stats for your channels. Created by @thedevs Github: https://github.com/poeti8/thest… <sub>`开源`</sub> |
 | [Word Frequency](https://tgbox.cc/detail/wordfreqbot/) | — | 统计组内用词频率。 <sub>`免费`</sub> |
 
 [在 TGbox 查看全部数据分析 →](https://tgbox.cc/bot/analytics/)
@@ -1434,6 +1534,8 @@
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
 | [Livegram Bot](https://tgbox.cc/detail/livegrambot/) | 102万 | Livegram Bot 是 Telegram 的反馈机器人开发商。 <sub>`免费`</sub> |
+| [NodeForwardBot](https://tgbox.cc/detail/nodeforwardbot/) | — | 双向私聊转发机器人，无广告，无数量限制，永久在线 频道 @nodeselect <sub>`开源`</sub> |
+| [WegramBot](https://tgbox.cc/detail/wegram_bot/) | — | 来创建属于自己的私聊机器人吧，绝无广告的那种。 <sub>`开源`</sub> |
 
 [在 TGbox 查看全部消息收发 →](https://tgbox.cc/bot/messaging/)
 
