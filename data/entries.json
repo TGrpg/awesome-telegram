@@ -1,11 +1,11 @@
 {
  "version": 1,
  "site": "https://tgbox.cc",
- "generatedAt": "2026-09-19T15:08:14.522Z",
+ "generatedAt": "2026-09-19T15:35:47.501Z",
  "stats": {
-  "total": 808,
-  "channels": 279,
-  "groups": 182,
+  "total": 838,
+  "channels": 296,
+  "groups": 195,
   "bots": 347
  },
  "categories": [
@@ -133,7 +133,7 @@
    "slug": "news",
    "nameZh": "资讯新闻",
    "nameEn": "News",
-   "count": 50
+   "count": 52
   },
   {
    "kind": "channel",
@@ -147,7 +147,7 @@
    "slug": "software",
    "nameZh": "软件综合",
    "nameEn": "Software",
-   "count": 41
+   "count": 48
   },
   {
    "kind": "channel",
@@ -161,7 +161,7 @@
    "slug": "learning",
    "nameZh": "知识学习",
    "nameEn": "Learning",
-   "count": 3
+   "count": 4
   },
   {
    "kind": "channel",
@@ -175,14 +175,14 @@
    "slug": "books",
    "nameZh": "书报刊漫",
    "nameEn": "Books & Comics",
-   "count": 5
+   "count": 6
   },
   {
    "kind": "channel",
    "slug": "blog",
    "nameZh": "博客杂谈",
    "nameEn": "Blogs",
-   "count": 22
+   "count": 24
   },
   {
    "kind": "channel",
@@ -217,7 +217,7 @@
    "slug": "games",
    "nameZh": "游戏",
    "nameEn": "Games",
-   "count": 7
+   "count": 8
   },
   {
    "kind": "channel",
@@ -245,7 +245,7 @@
    "slug": "crypto",
    "nameZh": "加密货币",
    "nameEn": "Crypto & Web3",
-   "count": 38
+   "count": 40
   },
   {
    "kind": "channel",
@@ -266,7 +266,7 @@
    "slug": "jobs",
    "nameZh": "招聘求职",
    "nameEn": "Jobs & Careers",
-   "count": 2
+   "count": 3
   },
   {
    "kind": "channel",
@@ -287,7 +287,7 @@
    "slug": "software",
    "nameZh": "软件社群",
    "nameEn": "Software",
-   "count": 18
+   "count": 19
   },
   {
    "kind": "group",
@@ -301,7 +301,7 @@
    "slug": "tech",
    "nameZh": "技术开发",
    "nameEn": "Development",
-   "count": 33
+   "count": 34
   },
   {
    "kind": "group",
@@ -322,7 +322,7 @@
    "slug": "ios",
    "nameZh": "iOS社区",
    "nameEn": "iOS",
-   "count": 10
+   "count": 11
   },
   {
    "kind": "group",
@@ -336,14 +336,14 @@
    "slug": "crypto",
    "nameZh": "加密货币",
    "nameEn": "Crypto & Web3",
-   "count": 22
+   "count": 26
   },
   {
    "kind": "group",
    "slug": "vpn",
    "nameZh": "科学上网",
    "nameEn": "VPN & Proxy",
-   "count": 15
+   "count": 19
   },
   {
    "kind": "group",
@@ -364,7 +364,7 @@
    "slug": "jobs",
    "nameZh": "招聘求职",
    "nameEn": "Jobs & Careers",
-   "count": 1
+   "count": 2
   },
   {
    "kind": "group",
@@ -385,7 +385,7 @@
    "slug": "ai",
    "nameZh": "AI交流",
    "nameEn": "AI",
-   "count": 15
+   "count": 16
   }
  ],
  "tags": [
@@ -393,7 +393,7 @@
    "slug": "ai-agent",
    "nameZh": "AI智能体",
    "nameEn": "AI Agents",
-   "count": 3
+   "count": 4
   },
   {
    "slug": "ai-art",
@@ -423,7 +423,7 @@
    "slug": "android",
    "nameZh": "安卓",
    "nameEn": "Android",
-   "count": 13
+   "count": 16
   },
   {
    "slug": "anime",
@@ -453,7 +453,7 @@
    "slug": "daily-news",
    "nameZh": "每日早报",
    "nameEn": "Daily Digest",
-   "count": 17
+   "count": 18
   },
   {
    "slug": "design",
@@ -471,7 +471,7 @@
    "slug": "exchange",
    "nameZh": "交易所",
    "nameEn": "Exchanges",
-   "count": 7
+   "count": 8
   },
   {
    "slug": "finance",
@@ -507,13 +507,13 @@
    "slug": "ios",
    "nameZh": "iOS",
    "nameEn": "iOS",
-   "count": 27
+   "count": 31
   },
   {
    "slug": "linux",
    "nameZh": "Linux",
    "nameEn": "Linux",
-   "count": 16
+   "count": 17
   },
   {
    "slug": "llm",
@@ -543,7 +543,7 @@
    "slug": "official",
    "nameZh": "官方",
    "nameEn": "Official",
-   "count": 83
+   "count": 87
   },
   {
    "slug": "on-chain",
@@ -555,7 +555,7 @@
    "slug": "open-source",
    "nameZh": "开源",
    "nameEn": "Open Source",
-   "count": 77
+   "count": 82
   },
   {
    "slug": "photography",
@@ -585,7 +585,7 @@
    "slug": "science",
    "nameZh": "科学",
    "nameEn": "Science",
-   "count": 3
+   "count": 4
   },
   {
    "slug": "security",
@@ -1518,6 +1518,23 @@
    "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
+   "username": "ayugramreleases",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "open-source"
+   ],
+   "title": "AyuGram Releases",
+   "description": "Official AyuGram builds channel for all platforms.\n\n@ayugram, @ayugramchat, @ayugramfaq",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "ru",
+   "verified": false,
+   "members": 351840,
+   "tgCreatedAt": "2025-05-20T20:51:50.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "binanceexchange",
    "kind": "group",
    "category": "crypto",
@@ -2031,7 +2048,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
-   "members": 158398,
+   "members": 158374,
    "tgCreatedAt": "2021-11-25T23:38:35.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -2356,6 +2373,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "exteragram",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "android"
+   ],
+   "title": "exteraGram",
+   "description": "Website: exteraGram.app\nAPKs: @exteraReleases\nBeta: @exteraGramCI\nFAQ: @exteraFAQ\nForum: @exteraForum\nBoosty: boosty.to/exteraGram",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 98652,
+   "tgCreatedAt": "2021-11-21T17:39:04.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "protectronbot",
    "kind": "bot",
    "category": "group-admin",
@@ -2371,6 +2405,21 @@
    "members": 94846,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "ayugramchat",
+   "kind": "group",
+   "category": "software",
+   "tags": [],
+   "title": "🤙 AyuGram MaxGround",
+   "description": "📈 Channel: @ayugram\n🔬 FAQ: @AyuGramFAQ\n💘 exteraGram: @exteraGram\n😂 Memes: @ayugramfun\n📚 Crowdin: translate.ayugram.one\n\n🌐 Languages: RU/EN\n\n📝 Rules: Read in /rules\n💢 Ignorance of the rules does not exempt from responsibility!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 94774,
+   "tgCreatedAt": "2023-04-08T06:42:59.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "music",
@@ -2782,6 +2831,24 @@
    "members": 68884,
    "tgCreatedAt": "2020-08-13T17:41:57.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "bitget_cnofficial",
+   "kind": "group",
+   "category": "crypto",
+   "tags": [
+    "exchange",
+    "official"
+   ],
+   "title": "Bitget海外华语社区",
+   "description": "Bitget 成立于2018年，是世界领先的加密货币交易平台和 Web 3 公司。Bitget为全球100多个国家和地区提供服务，通过领先的跟单服务等多种交易解决方案，帮助超2500万用户实现交易“智”变。\n\n网址:\nhttps://www.bitget.site/zh-CN/\nwww.bitget.com\nhttps://www.bitgetapp.com/zh-CN/\n\n人工客服：@BitgetCNSupportbot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 67758,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "newlearnerchannel",
@@ -3271,6 +3338,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "landiansub",
+   "kind": "channel",
+   "category": "news",
+   "tags": [
+    "daily-news"
+   ],
+   "title": "蓝点网订阅频道",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 44844,
+   "tgCreatedAt": "2017-08-04T05:33:38.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "toncoin_chat",
    "kind": "group",
    "category": "crypto",
@@ -3387,6 +3471,24 @@
    "members": 41475,
    "tgCreatedAt": "2019-07-23T09:27:51.000Z",
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "cherrygram",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "android",
+    "open-source"
+   ],
+   "title": "Cherrygram 🍒",
+   "description": "The official channel of the Cherrygram.\n\nSupport and discussion: @CherrygramSupport\n\nAPKs: @CherrygramAPKs\nBeta APKs: @CherrygramBetaAPKs\n\nList of features and the source code: https://github.com/arsLan4k1390/Cherrygram#readme",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 41428,
+   "tgCreatedAt": "2021-10-14T15:37:51.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "outsightchina",
@@ -4421,7 +4523,7 @@
    "lang": "en",
    "verified": false,
    "members": 26500,
-   "tgCreatedAt": null,
+   "tgCreatedAt": "2018-01-10T08:59:33.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
@@ -4438,6 +4540,24 @@
    "members": 26348,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "stashfans",
+   "kind": "group",
+   "category": "vpn",
+   "tags": [
+    "ios",
+    "official"
+   ],
+   "title": "Stash",
+   "description": "Stash 官方讨论群组。\n\nStash 是 Clash 规则在 iOS 平台的最佳选择。\n\nStash macOS 下载 https://stash.ws\nStash AppleStore https://apps.apple.com/app/stash/id1596063349\nStash 用户手册 https://stash.wiki\n\n订阅频道 @StashFeed",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 26164,
+   "tgCreatedAt": "2021-11-21T15:14:06.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "awavenue",
@@ -5336,9 +5456,24 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 18044,
+   "members": 18045,
    "tgCreatedAt": "2022-01-10T06:29:04.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "rootdatalabs",
+   "kind": "channel",
+   "category": "crypto",
+   "tags": [],
+   "title": "RootData",
+   "description": "Daily update Rootdata project database status, including new projects, new fundraising, and projects recently launched Mainnet and Testnet, etc.\nWebsite: https://www.rootdata.com/\nApp: https://www.rootdata.com/download",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 18026,
+   "tgCreatedAt": "2023-01-04T08:51:24.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "limboprossr",
@@ -6109,6 +6244,21 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
+   "username": "isaiahsystem",
+   "kind": "channel",
+   "category": "blog",
+   "tags": [],
+   "title": "404 KIDS SEE GHOSTS (生产力之王版",
+   "description": "科技丨社科哲丨泛文化与艺术\n\nGroup: @ghosttown666\nContact: @madebyblackstack",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 13573,
+   "tgCreatedAt": "2021-09-15T14:16:24.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "skeddybot",
    "kind": "bot",
    "category": "productivity",
@@ -6257,6 +6407,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "cnsmydream",
+   "kind": "channel",
+   "category": "learning",
+   "tags": [
+    "science"
+   ],
+   "title": "来一点医学科学前沿🤯🤯🥹🥹",
+   "description": "摸鱼时看看顶刊上的生物医学大佬们又干了啥。\n讯息频道 @sci_feed\n欢迎大家投稿 @sciReviewer_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 13306,
+   "tgCreatedAt": "2024-09-28T01:12:21.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "songidbot",
    "kind": "bot",
    "category": "media",
@@ -6273,6 +6440,23 @@
    "members": 13223,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "hiddify_board",
+   "kind": "group",
+   "category": "vpn",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Hiddify Discussion",
+   "description": "Hiddify, Internet Freedom Solution\nSupporting:\n\n🎯 Mieru\n🎯 Naive\n🎯 xHTTP\n🎯 HTTPUpgrade\n🎯 Shadowsocks 2022\n🎯 Wireguard\n🎯 Reality\n🎯 TUIC 5\n🎯 Hysteria 2\n🎯 Auto CDN\n🎯 VLess\n🎯 Vmess\n🎯 Trojan\n🎯 SSH\n🎯 MTProto\n\n📣 @Hiddify\n\n📚@Hiddify_Teacher",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 13109,
+   "tgCreatedAt": "2023-03-03T19:47:12.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "voicybot",
@@ -6709,8 +6893,8 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
-   "members": 11602,
-   "tgCreatedAt": null,
+   "members": 11593,
+   "tgCreatedAt": "2019-03-13T08:22:21.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
@@ -6931,6 +7115,21 @@
    "members": 10842,
    "tgCreatedAt": "2020-02-16T08:54:10.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "mrblocktw",
+   "kind": "group",
+   "category": "crypto",
+   "tags": [],
+   "title": "區塊先生 Mrblock (DeFi Asia)",
+   "description": "圖書館：https://t.me/mrblock_info\nYouTube: 區塊先生 or mrblocktw\nDiscord: https://discord.gg/mrblock\nX: https://x.com/mrblock",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 10798,
+   "tgCreatedAt": "2019-06-06T15:24:33.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "blindgamer",
@@ -7394,6 +7593,40 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "yuanshen",
+   "kind": "channel",
+   "category": "games",
+   "tags": [
+    "official"
+   ],
+   "title": "原神 | Genshin Impact CN",
+   "description": "踏入充满冒险的神奇世界 | Step into a vast magical world of adventure\n\n本频道半自动推送《原神》官方活动信息、公告和宣传视频等。\n\nThis channel semi-automatically posts official news and videos.\n\n** 非官方频道 | UNOFFICIAL CHANNEL **",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 8924,
+   "tgCreatedAt": "2020-02-03T15:57:03.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
+   "username": "tronnetworkcn",
+   "kind": "group",
+   "category": "crypto",
+   "tags": [
+    "official"
+   ],
+   "title": "TRON China",
+   "description": "❤️ 欢迎有兴趣交流互动的用户加入波场官方Telegram 03 群： https://t.me/tronnetworkCN03 一起畅聊波场最新动态！\n\n⚠管理员绝不会主动私聊用户。请警惕任何声称自己是波场TRON官方人员发来的私信，切勿上当受骗。\n\n本群管理员：@TronService01\n\n波场官方微信客服：TRON-牛牛（微信号：TronService02 ）",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 8882,
+   "tgCreatedAt": "2018-01-18T08:32:23.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "javaer",
    "kind": "group",
    "category": "tech",
@@ -7409,6 +7642,23 @@
    "members": 8863,
    "tgCreatedAt": "2016-07-03T13:17:08.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "forkgram",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Forkgram",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 8860,
+   "tgCreatedAt": "2018-07-10T10:12:38.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "ivcontest",
@@ -7578,6 +7828,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "surgecommunity",
+   "kind": "group",
+   "category": "vpn",
+   "tags": [
+    "ios"
+   ],
+   "title": "Surge Community",
+   "description": "❏ 本群是Surge第三方社区，限正版用户，本群不提供售后服务;\n❏ 基础教学可触发Bot教程:关键词列表;\n❏ 为避免纠纷，除管理人员外一律不允许合租开车、机场推广相关及“明文广告频道或 ID”。请群友谅解;\n\n❏ 本群频道： t.me/SurgeChannel\n❏ 群规： t.me/SurgeChannel/3",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 8274,
+   "tgCreatedAt": "2023-05-21T14:06:33.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "dockertutorial",
    "kind": "group",
    "category": "tech",
@@ -7593,6 +7860,23 @@
    "members": 8269,
    "tgCreatedAt": "2016-07-06T05:54:19.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "egern_app",
+   "kind": "group",
+   "category": "vpn",
+   "tags": [
+    "ios"
+   ],
+   "title": "Egern",
+   "description": "Egern 已经在 App Store 上架，如果你喜欢 Egern 请支持一下作者并分享给身边的朋友。\n\nApp Store\nhttps://apps.apple.com/us/app/egern/id1616105820\n\n关注作者 Twtter\nhttps://twitter.com/byteallen",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 8239,
+   "tgCreatedAt": "2022-07-14T16:18:11.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "webachannel",
@@ -7930,6 +8214,23 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "openclaw_group",
+   "kind": "group",
+   "category": "ai",
+   "tags": [
+    "ai-agent"
+   ],
+   "title": "OpenClaw 中文社区",
+   "description": "本群为 OpenClaw 中文免费社区，用于技术学习交流；\n禁止一切邀请、推广、拉人头链接，禁止向国内平台引流！\n\n置顶消息: https://t.me/OpenClaw_Group/44325\n\n⚠️群规如下，如有违反，立ban不解\n🈲 政治、色情、NSFW、广告、刷屏、血腥暴力\n🈲 粗鄙辱骂、仇恨言论、违法行为\n🈲 恶意鼓动、引导DDOS",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 6848,
+   "tgCreatedAt": "2026-02-03T02:20:30.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "v2fly_chat",
    "kind": "group",
    "category": "vpn",
@@ -8225,6 +8526,23 @@
    "members": 6169,
    "tgCreatedAt": "2015-11-19T06:53:47.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "octogramapp",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "android"
+   ],
+   "title": "OctoGram | News",
+   "description": "🕯 OctoGram is an unofficial messaging app that uses Telegram's API.\n\n💭 Group: @OctoGramChat\n📦 APK: @OctoGramAPKs\n🧪 βeta: @OctoGramBeta\n🔗 Website: octogramapp.github.io",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 6133,
+   "tgCreatedAt": "2023-04-12T14:51:14.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "beta_legado",
@@ -8571,6 +8889,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "v2ex_hot",
+   "kind": "channel",
+   "category": "news",
+   "tags": [],
+   "title": "V2EX 最热主题",
+   "description": "v2ex最热主题 RSS推送\n\nwww.V2EX.com\nV2EX is a community of start-ups, designers, developers and creative people.\nV2EX 是创意工作者们的社区。V2EX 希望能够成为创意工作者们的生活和事业的一部分。\n\n交流群组： @v2ex_chat",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 5179,
+   "tgCreatedAt": "2024-05-18T11:55:39.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "lihai",
    "kind": "channel",
    "category": "deals",
@@ -8601,6 +8934,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "bupt_moe",
+   "kind": "channel",
+   "category": "blog",
+   "tags": [],
+   "title": "bupt.moe",
+   "description": "为了全人类的发展和解放而奋斗！\nhrx@bupt.moe\n\n原创内容保留所有权利，允许直接Telegram内部转发，允许带链接转载。消息内容可能会有更新，如有必要请定期查看。\n申请加入评论区请使用正常名字和头像，长期未通过请私信。\nGPG Key 0x2430EEF39419D263 (老) 0xCC7801A4C3E3A368 (新)",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 5105,
+   "tgCreatedAt": "2018-01-04T19:52:48.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "catops",
    "kind": "channel",
    "category": "tech",
@@ -8616,6 +8964,23 @@
    "members": 5086,
    "tgCreatedAt": "2017-05-22T09:14:16.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "wwwengshare",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "ios"
+   ],
+   "title": "WWWeng🐝の分享",
+   "description": "主要分享一些快捷指令或其他实用工具\n\n必看：https://t.me/wwwengshare/192",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 5074,
+   "tgCreatedAt": "2017-03-20T04:30:14.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "priceaicc",
@@ -8810,6 +9175,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "dejob_official_group",
+   "kind": "group",
+   "category": "jobs",
+   "tags": [],
+   "title": "DeJob求职交流群",
+   "description": "DeJob｜Web3 & AI 专业服务平台\n\n62K+用户 · 1,890+ Web3企业\n🌐 dejob.ai\n📢 中文 @DeJob_official @DeJob_official_group\n🌍 English @DeJob_Global @DeJob_Global_group\n🇰🇷 Korean @DeJob_Korean\n💼 人才 @DeJob_Talent\n👤 管理员 @kukudeacaijy｜欢迎DM",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 4600,
+   "tgCreatedAt": "2022-07-18T01:13:54.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "pythontrendingweekly",
    "kind": "channel",
    "category": "tech",
@@ -8936,6 +9316,21 @@
    "members": 4382,
    "tgCreatedAt": "2021-02-04T00:00:45.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "panewsselected",
+   "kind": "channel",
+   "category": "crypto",
+   "tags": [],
+   "title": "PANews 编辑部Web3资讯严选",
+   "description": "📢 厌倦了无尽的资讯轰炸？不想被信息淹没？PANews 编辑部为您送上精挑细选的“必读”内容，三分钟掌握行业精华，不再被信息噪音淹没。\n\n了解核心动态，开启高效阅读模式，尽在【PANews 编辑部Web3资讯严选】！\n加入PA严选编辑部聊天室参与讨论：https://t.me/PAeditorial\n\n更多新闻内容：\n7*24小时新闻频道: t.me/ChannelPANews\n参与讨论: t.me/PANewsLab\n官网: PANewsLab.com\n预测市场聪明钱监控：t.me/+5wXnvGdC",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 4316,
+   "tgCreatedAt": "2024-08-23T02:08:12.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "mrblock_info",
@@ -9552,6 +9947,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "what_to_read_today",
+   "kind": "channel",
+   "category": "books",
+   "tags": [],
+   "title": "随机漫谈",
+   "description": "读有所记，思有所痕 | 订阅每月书单：https://quail.ink/rambling",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 3078,
+   "tgCreatedAt": "2022-09-09T04:18:04.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "igeekshare",
    "kind": "group",
    "category": "software",
@@ -9665,6 +10075,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "swiftgramchat",
+   "kind": "group",
+   "category": "ios",
+   "tags": [],
+   "title": "Swiftgram Chat",
+   "description": "Discuss Swiftgram in English\n\nNews - @swiftgram\nBeta - @SGBetaSlots\nSource Code and More - @SwiftgramLinks",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 2735,
+   "tgCreatedAt": "2021-07-08T21:20:26.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "macoser",
    "kind": "group",
    "category": "software",
@@ -9742,6 +10167,21 @@
    "members": 2556,
    "tgCreatedAt": "2021-10-05T07:56:43.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "dejob_talent",
+   "kind": "channel",
+   "category": "jobs",
+   "tags": [],
+   "title": "DeJob｜求职频道 Job Seekers🔍",
+   "description": "🌐 DeJob | Web3 × AI\n\n62K+ Users · 1,890+ Web3 Companies\n\nJobs · Talent · Professional Services\n\n🌐 dejob.ai\n📢 @DeJob_official · @DeJob_Global\n🇰🇷 @DeJob_Korean · 💼 @DeJob_Talent\n\n📩 Admin: @kukudeacaijy (DM)",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 2523,
+   "tgCreatedAt": "2024-09-11T00:13:41.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "iosdevotee",
@@ -9925,6 +10365,21 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
+   "username": "lighter_asia",
+   "kind": "group",
+   "category": "crypto",
+   "tags": [],
+   "title": "Lighter 中文社區",
+   "description": "Lighter.xyz 是一個針對永續合約的去中心化交易協議，透過專屬的 zk‑Rollup 技術（稱為 zkLighter）提供可驗證的訂單撮合與清算引擎。整個系統運行在以太坊 Layer 2 上，具備性能、安全與透明並重的特性\n\nhttps://x.com/lighter_xyz/",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 2197,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "shortcuts_cn",
    "kind": "group",
    "category": "ios",
@@ -10039,6 +10494,23 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "nixos_zhcn",
+   "kind": "group",
+   "category": "tech",
+   "tags": [
+    "linux"
+   ],
+   "title": "NixOS 中文",
+   "description": "加群后请先阅读 https://t.me/nixos_zhcn/343893",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 2089,
+   "tgCreatedAt": "2020-04-09T14:46:06.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
    "username": "frontend_talk",
    "kind": "group",
    "category": "tech",
@@ -10134,6 +10606,23 @@
    "members": 1912,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "materialgram",
+   "kind": "channel",
+   "category": "software",
+   "tags": [
+    "open-source"
+   ],
+   "title": "materialgram",
+   "description": "Telegram Desktop fork with material icons and some improvements\nkukuruzka165.github.io/materialgram",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 1906,
+   "tgCreatedAt": "2023-08-13T22:35:13.000Z",
+   "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
    "username": "grammyjs",
@@ -10278,8 +10767,8 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 1630,
-   "tgCreatedAt": null,
+   "members": 1629,
+   "tgCreatedAt": "2017-01-20T12:46:27.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
