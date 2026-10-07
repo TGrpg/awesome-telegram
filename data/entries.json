@@ -1,10 +1,10 @@
 {
  "version": 1,
  "site": "https://tgbox.cc",
- "generatedAt": "2026-10-06T07:31:52.254Z",
+ "generatedAt": "2026-10-07T06:51:47.680Z",
  "stats": {
-  "total": 1171,
-  "channels": 387,
+  "total": 1169,
+  "channels": 385,
   "groups": 244,
   "bots": 540
  },
@@ -133,7 +133,7 @@
    "slug": "news",
    "nameZh": "资讯新闻",
    "nameEn": "News",
-   "count": 65
+   "count": 64
   },
   {
    "kind": "channel",
@@ -147,7 +147,7 @@
    "slug": "software",
    "nameZh": "软件综合",
    "nameEn": "Software",
-   "count": 59
+   "count": 58
   },
   {
    "kind": "channel",
@@ -393,19 +393,19 @@
    "slug": "ai-agent",
    "nameZh": "AI智能体",
    "nameEn": "AI Agents",
-   "count": 5
+   "count": 4
   },
   {
    "slug": "ai-art",
    "nameZh": "AI绘画",
    "nameEn": "AI Art",
-   "count": 4
+   "count": 3
   },
   {
    "slug": "ai-coding",
    "nameZh": "AI编程",
    "nameEn": "AI Coding",
-   "count": 5
+   "count": 4
   },
   {
    "slug": "ai-video",
@@ -423,7 +423,7 @@
    "slug": "android",
    "nameZh": "安卓",
    "nameEn": "Android",
-   "count": 28
+   "count": 27
   },
   {
    "slug": "anime",
@@ -453,7 +453,7 @@
    "slug": "daily-news",
    "nameZh": "每日早报",
    "nameEn": "Daily Digest",
-   "count": 23
+   "count": 22
   },
   {
    "slug": "design",
@@ -519,7 +519,7 @@
    "slug": "llm",
    "nameZh": "大模型",
    "nameEn": "LLMs",
-   "count": 23
+   "count": 22
   },
   {
    "slug": "memes",
@@ -639,7 +639,7 @@
    "slug": "windows",
    "nameZh": "Windows",
    "nameEn": "Windows",
-   "count": 7
+   "count": 6
   }
  ],
  "entries": [
@@ -764,7 +764,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
-   "members": 7643259,
+   "members": 7549772,
    "tgCreatedAt": null,
    "listedAt": "2026-09-17T06:24:41.366Z"
   },
@@ -919,6 +919,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "kuai",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "free"
+   ],
+   "title": "快搜🔍资源搜索@kuai",
+   "description": "帮你发现有趣群组、频道、视频、音乐、电影、新闻 | Find cool stuff all in one bot!\n\n机器人： @kuai @kuaia @kuaiaa\n频道： @kuaisoupd\n群组 ： @kuaisouqz",
+   "descriptionZh": null,
+   "descriptionEn": "Find cool stuff all in one bot! Robot: @kuai @kuaiaa Channel: @kuaisoupd Group: @kuaisouqz",
+   "lang": "zh",
+   "verified": false,
+   "members": 2650587,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-17T13:43:37.465Z"
+  },
+  {
    "username": "gpt4telegrambot",
    "kind": "bot",
    "category": "ai",
@@ -936,23 +953,6 @@
    "members": 2622033,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
-   "username": "kuai",
-   "kind": "bot",
-   "category": "search",
-   "tags": [
-    "free"
-   ],
-   "title": "快搜🔍资源搜索@kuai",
-   "description": "帮你发现有趣群组、频道、视频、音乐、电影、新闻 | Find cool stuff all in one bot!\n\n机器人： @kuai @kuaia @kuaiaa\n频道： @kuaisoupd\n群组 ： @kuaisouqz",
-   "descriptionZh": null,
-   "descriptionEn": "Find cool stuff all in one bot! Robot: @kuai @kuaiaa Channel: @kuaisoupd Group: @kuaisouqz",
-   "lang": "zh",
-   "verified": false,
-   "members": 2612107,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-17T13:43:37.465Z"
   },
   {
    "username": "vkmusic_bot",
@@ -1088,7 +1088,7 @@
    "descriptionEn": null,
    "lang": "ar",
    "verified": true,
-   "members": 1613652,
+   "members": 1608544,
    "tgCreatedAt": "2021-01-17T12:37:36.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -1111,40 +1111,6 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "send",
-   "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "exchange"
-   ],
-   "title": "Crypto Bot",
-   "description": "Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram.",
-   "descriptionZh": "使用 @CryptoBot 购买,出售,存储, @发送和支付加密货币在电报中。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 1446804,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "cryptobot",
-   "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "finance"
-   ],
-   "title": "Crypto Bot",
-   "description": "Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram.",
-   "descriptionZh": "使用 @CryptoBot 购买,出售,存储, @发送和支付加密货币在电报中。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 1444523,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
    "username": "quizbot",
    "kind": "bot",
    "category": "games",
@@ -1161,6 +1127,40 @@
    "members": 1440697,
    "tgCreatedAt": null,
    "listedAt": "2026-09-17T06:24:41.366Z"
+  },
+  {
+   "username": "cryptobot",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "finance"
+   ],
+   "title": "Crypto Bot",
+   "description": "Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram.",
+   "descriptionZh": "使用 @CryptoBot 购买,出售,存储, @发送和支付加密货币在电报中。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 1411470,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "send",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "exchange"
+   ],
+   "title": "Crypto Bot",
+   "description": "Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram.",
+   "descriptionZh": "使用 @CryptoBot 购买,出售,存储, @发送和支付加密货币在电报中。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 1411470,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "xbso1",
@@ -1190,7 +1190,7 @@
    "descriptionEn": "Telegram Chinese Search and Growth Platform: Search groups, channels and content, manage group chats and channels, and enhance security, operations and growth through AI.",
    "lang": "zh",
    "verified": false,
-   "members": 1031765,
+   "members": 1028560,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
@@ -1242,7 +1242,7 @@
    "descriptionEn": "Most convenient Groups & Channels Robots Everything Configurable Latest Features Continuously Updated Group Help @aFoolGroupHelp Group Discussion Group @aFoolGroup",
    "lang": "zh",
    "verified": false,
-   "members": 933997,
+   "members": 918876,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -1277,6 +1277,23 @@
    "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
+   "username": "cjsy",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "free"
+   ],
+   "title": "🔍超级索引 @CJSY",
+   "description": "🔎 超级索引 @CJSY\n超强引擎，极速搜索，索见本源，引领全网！\n\n发送关键词，搜索频道、群组、Bot、视频、图片、资源等。🚀 搜你所需，发现更多；助力社群增长。\n\n官方频道 @SSYQ\n主机器人 @CJSY\n备机器人 @CJSYA",
+   "descriptionZh": null,
+   "descriptionEn": "Super index @CJSY Super powerful search engine, fast search, source search, lead the entire web! send keywords, search channels, groups, bots, videos, pictures, resources, and so on. search for what you need and discover more; help the community grow. official channel @SSYQ main robot @CJSY ready robot @CJSYA",
+   "lang": "zh",
+   "verified": false,
+   "members": 759751,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
    "username": "nmnmfunbot",
    "kind": "bot",
    "category": "group-admin",
@@ -1289,7 +1306,7 @@
    "descriptionEn": null,
    "lang": "de",
    "verified": false,
-   "members": 724434,
+   "members": 717613,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -1377,23 +1394,6 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
-   "username": "cjsy",
-   "kind": "bot",
-   "category": "search",
-   "tags": [
-    "free"
-   ],
-   "title": "🔍超级索引 @CJSY",
-   "description": "🔎 超级索引 @CJSY\n超强引擎，极速搜索，索见本源，引领全网！\n\n发送关键词，搜索频道、群组、Bot、视频、图片、资源等。🚀 搜你所需，发现更多；助力社群增长。\n\n官方频道 @SSYQ\n主机器人 @CJSY\n备机器人 @CJSYA",
-   "descriptionZh": null,
-   "descriptionEn": "Super index @CJSY Super powerful search engine, fast search, source search, lead the entire web! send keywords, search channels, groups, bots, videos, pictures, resources, and so on. search for what you need and discover more; help the community grow. official channel @SSYQ main robot @CJSY ready robot @CJSYA",
-   "lang": "zh",
-   "verified": false,
-   "members": 651377,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T07:49:15.945Z"
-  },
-  {
    "username": "stickers",
    "kind": "bot",
    "category": "stickers",
@@ -1426,21 +1426,6 @@
    "lang": "en",
    "verified": false,
    "members": 631860,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
-   "username": "telepostbot",
-   "kind": "bot",
-   "category": "channel-tools",
-   "tags": [],
-   "title": "TelepostBot",
-   "description": "Панель управления: app.telepost.me/login\n\nОфициальный блог - @telepost_blog\n\nТехподдержка @TelepostSupport",
-   "descriptionZh": "管理面板:app.telepost.me/login 官方博客 - @telepost_blog 技术支持 @TelepostSupport",
-   "descriptionEn": null,
-   "lang": "ru",
-   "verified": false,
-   "members": 620008,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -1480,6 +1465,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "telepostbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "TelepostBot",
+   "description": "Панель управления: app.telepost.me/login\n\nОфициальный блог - @telepost_blog\n\nТехподдержка @TelepostSupport",
+   "descriptionZh": "管理面板:app.telepost.me/login 官方博客 - @telepost_blog 技术支持 @TelepostSupport",
+   "descriptionEn": null,
+   "lang": "ru",
+   "verified": false,
+   "members": 591102,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
    "username": "userinfobot",
    "kind": "bot",
    "category": "tools",
@@ -1492,7 +1492,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 592176,
+   "members": 584995,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -1540,7 +1540,7 @@
    "descriptionEn": "Help channel: @MyBots  Discussion group: @GroupTG  Navigation channel: @LunTan 🎁 Lottery channel: @TGBot_lottery",
    "lang": "zh",
    "verified": false,
-   "members": 535601,
+   "members": 543109,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -1641,9 +1641,26 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 420763,
+   "members": 428879,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "wegrouprobot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [
+    "free"
+   ],
+   "title": "We Group Bot",
+   "description": "This is the best group management bot with hundreds of features and free to use. @WeGroup",
+   "descriptionZh": "这是最好的群组管理机器人,拥有数百个功能,可以免费使用。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 420508,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T08:42:12.971Z"
   },
   {
    "username": "instagramersbot",
@@ -1661,23 +1678,6 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "wegrouprobot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [
-    "free"
-   ],
-   "title": "We Group Bot",
-   "description": "This is the best group management bot with hundreds of features and free to use. @WeGroup",
-   "descriptionZh": "这是最好的群组管理机器人,拥有数百个功能,可以免费使用。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 409619,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T08:42:12.971Z"
-  },
-  {
    "username": "ayugramreleases",
    "kind": "channel",
    "category": "software",
@@ -1690,7 +1690,7 @@
    "descriptionEn": null,
    "lang": "ru",
    "verified": false,
-   "members": 361223,
+   "members": 362399,
    "tgCreatedAt": "2025-05-20T20:51:50.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -1707,7 +1707,7 @@
    "descriptionEn": "Extreme Search JISO helps you find interesting groups, channels, videos, music, movies, news. ✅ Permanent 4-digit username @JiSo, the rest are fake.",
    "lang": "zh",
    "verified": false,
-   "members": 344147,
+   "members": 340500,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
@@ -1759,7 +1759,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 332235,
+   "members": 332092,
    "tgCreatedAt": "2016-08-25T20:43:51.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -1846,7 +1846,7 @@
    "descriptionEn": "Share technology, AI, digital, Internet and cutting-edge information to share insights and practical content. 📌 Group rules • Civilization communication, rational discussion • Prohibition of screen brushing, advertising promotion, malicious distribution • Prohibition of illegal content such as pornography, pornography, gambling • Prohibition of religious politics, key politics, personal assault and malicious quarrels • Violating content will be removed, serious persons will be removed  Tech circles posted:@zaihuabot  Violation complaints:@BiuAsstBot  Alternative channel:@zaihuatg  Advertising cooperation:@zuaaih_ad_bot",
    "lang": "zh",
    "verified": false,
-   "members": 284697,
+   "members": 284759,
    "tgCreatedAt": "2017-07-31T19:40:43.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -1948,7 +1948,7 @@
    "descriptionEn": "Everything about yellow, black, gambling, gray, and politics will be kicked out Banned from publishing false rumors and other exchange screenshots Please keep community order and create a friendly discussion environment, thank you! Twitter: twitter.com/binancezh Discord: discord.gg/bnb Announcement channel: @binance_cn BNB Chain: @BNBChainZH API Chinese group: @Binance_api_Chinese",
    "lang": "zh",
    "verified": true,
-   "members": 268796,
+   "members": 268214,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -1982,7 +1982,7 @@
    "descriptionEn": "OKX announcement channel: https://t.me/OKXAnnouncements_CN Discord Chinese community: https://discord.gg/hkCGKbbbqf OKX registration link: https://www.okx.com/join?channelId=ACE505337 This group is the only official designated Chinese community, tagged replacement, interest, mining, smart contract, guarantee and so on are scams, administrators will not actively confide any user, please be careful, do not be scammed!",
    "lang": "zh",
    "verified": true,
-   "members": 263540,
+   "members": 263006,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T18:06:26.943Z"
   },
@@ -2006,6 +2006,21 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "fangzhang_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "方丈机器人",
+   "description": "方丈群管理机器人已实现的功能有：\n新人进群验证、新人进群欢迎词、垃圾信息拦截、自动回复、定时发送、强制订阅、消息统计、群成员管理等，欢迎使用。",
+   "descriptionZh": null,
+   "descriptionEn": "The functions implemented by the robot are: new entry group verification, new entry group welcome words, spam information interception, automatic response, timely sending, compulsory subscription, message statistics, group member management, etc. Welcome to use.",
+   "lang": "zh",
+   "verified": false,
+   "members": 252435,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-17T06:24:41.366Z"
+  },
+  {
    "username": "controllerbot",
    "kind": "bot",
    "category": "channel-tools",
@@ -2016,7 +2031,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 249962,
+   "members": 247443,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -2036,21 +2051,6 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "fangzhang_bot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "方丈机器人",
-   "description": "方丈群管理机器人已实现的功能有：\n新人进群验证、新人进群欢迎词、垃圾信息拦截、自动回复、定时发送、强制订阅、消息统计、群成员管理等，欢迎使用。",
-   "descriptionZh": null,
-   "descriptionEn": "The functions implemented by the robot are: new entry group verification, new entry group welcome words, spam information interception, automatic response, timely sending, compulsory subscription, message statistics, group member management, etc. Welcome to use.",
-   "lang": "zh",
-   "verified": false,
-   "members": 239635,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-17T06:24:41.366Z"
-  },
-  {
    "username": "wublockchainenglish",
    "kind": "channel",
    "category": "crypto",
@@ -2063,7 +2063,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 230672,
+   "members": 228222,
    "tgCreatedAt": "2021-09-30T08:47:04.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -2121,6 +2121,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "fragment",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [
+    "official"
+   ],
+   "title": "Fragment Auction Alerts",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 222591,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "toncnbot",
    "kind": "bot",
    "category": "search",
@@ -2147,23 +2164,6 @@
    "lang": "en",
    "verified": false,
    "members": 220841,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "fragment",
-   "kind": "bot",
-   "category": "productivity",
-   "tags": [
-    "official"
-   ],
-   "title": "Fragment Auction Alerts",
-   "description": "",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 220344,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -2217,7 +2217,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 198095,
+   "members": 195585,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -2240,22 +2240,19 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "gamebot",
+   "username": "mbot",
    "kind": "bot",
-   "category": "games",
-   "tags": [
-    "free",
-    "official"
-   ],
-   "title": "GameBot",
-   "description": "I'm a demo bot for the Telegram Gaming Platform. I can get you a few fun sample games to play.",
-   "descriptionZh": "我是Telegram游戏平台的演示机器人,我可以给你一些有趣的样本游戏来玩。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 189867,
+   "category": "group-admin",
+   "tags": [],
+   "title": "MBot",
+   "description": "🤖让频道 & 群组管理更智能！\n\n📢 帮助频道： @MyBots\n👥 讨论群组： @GroupTG\n🎁 抽奖频道： @TGBot_lottery",
+   "descriptionZh": null,
+   "descriptionEn": "Make channel & group management smarter!  Help channel: @MyBots  Discussion group: @GroupTG 🎁 Lottery channel: @TGBot_lottery",
+   "lang": "zh",
+   "verified": false,
+   "members": 189564,
    "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
+   "listedAt": "2026-09-18T08:42:28.523Z"
   },
   {
    "username": "telemetr_io_bot",
@@ -2273,19 +2270,22 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "mbot",
+   "username": "gamebot",
    "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "MBot",
-   "description": "🤖让频道 & 群组管理更智能！\n\n📢 帮助频道： @MyBots\n👥 讨论群组： @GroupTG\n🎁 抽奖频道： @TGBot_lottery",
-   "descriptionZh": null,
-   "descriptionEn": "Make channel & group management smarter!  Help channel: @MyBots  Discussion group: @GroupTG 🎁 Lottery channel: @TGBot_lottery",
-   "lang": "zh",
-   "verified": false,
-   "members": 185121,
+   "category": "games",
+   "tags": [
+    "free",
+    "official"
+   ],
+   "title": "GameBot",
+   "description": "I'm a demo bot for the Telegram Gaming Platform. I can get you a few fun sample games to play.",
+   "descriptionZh": "我是Telegram游戏平台的演示机器人,我可以给你一些有趣的样本游戏来玩。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 186132,
    "tgCreatedAt": null,
-   "listedAt": "2026-09-18T08:42:28.523Z"
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "telegramtipsit",
@@ -2317,21 +2317,6 @@
    "lang": "en",
    "verified": false,
    "members": 178157,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "ghelpbot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Group Help",
-   "description": "Official @GroupHelpBot clone.",
-   "descriptionZh": "官方 @GroupHelpBot 克隆。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 175281,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -2436,17 +2421,17 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "mkfrbot",
+   "username": "ghelpbot",
    "kind": "bot",
-   "category": "tools",
+   "category": "group-admin",
    "tags": [],
-   "title": "Echo Bots Maker",
-   "description": "The largest professional platform specialized in making Telegram Bots.",
-   "descriptionZh": "最大的专业平台,专门制作Telegram Bots。",
+   "title": "Group Help",
+   "description": "Official @GroupHelpBot clone.",
+   "descriptionZh": "官方 @GroupHelpBot 克隆。",
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 161175,
+   "members": 161627,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -2540,7 +2525,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 151243,
+   "members": 148650,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -2606,9 +2591,27 @@
    "descriptionEn": null,
    "lang": "pt",
    "verified": false,
-   "members": 139226,
+   "members": 141374,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
+   "username": "vote",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "free",
+    "official"
+   ],
+   "title": "VoteBot",
+   "description": "This bot will help you create polls and share them with friends.",
+   "descriptionZh": "这个机器人将帮助你创建民意调查,并与朋友分享。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 138714,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "tgcnx",
@@ -2753,7 +2756,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 126642,
+   "members": 126644,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -2791,24 +2794,6 @@
    "members": 124469,
    "tgCreatedAt": "2021-02-11T01:11:25.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
-  },
-  {
-   "username": "vote",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "free",
-    "official"
-   ],
-   "title": "VoteBot",
-   "description": "This bot will help you create polls and share them with friends.",
-   "descriptionZh": "这个机器人将帮助你创建民意调查,并与朋友分享。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 123403,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "hiddify",
@@ -2879,7 +2864,7 @@
    "descriptionEn": "Sorry to say, you are all here: @shadiaoooooo  Post Robot: @tougaotest_bot  Unchecked text: @shadiao_refuse This channel is for entertainment only, does not represent any views or positions, please do not enter; some content does not guarantee authenticity This channel message is published, reproduced or shared under the CC BY-NC-SA 4.0 protocol Please follow the content of the agreement, send the reserve source as you wish to delete the source ID in the message, please in the group @ or PM administrator 😉 Have fun!",
    "lang": "zh",
    "verified": false,
-   "members": 115010,
+   "members": 114999,
    "tgCreatedAt": "2020-06-02T01:30:01.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -2932,7 +2917,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 106987,
+   "members": 106849,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -2987,6 +2972,21 @@
    "members": 103233,
    "tgCreatedAt": "2021-11-21T17:39:04.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
+   "username": "acceptuserrobot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Auto Approve Accept User Pending Bot",
+   "description": "Объявления/Ads: @im_piro",
+   "descriptionZh": "廣告 / 廣告: @im_piro",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 102105,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "fakemailbot",
@@ -3065,24 +3065,9 @@
    "descriptionEn": "Likes, Street Shots, Software, Apple, EXE, Novels, Funny, Resources, Video, Chinese, Google, Return of Profit, Second Dimension, Self-Fotographs, Airports, Testimonials, King of Sheep, Light Stick Association, Weibo, Joint Rental, Soft Route",
    "lang": "zh",
    "verified": false,
-   "members": 100382,
+   "members": 100277,
    "tgCreatedAt": "2019-02-11T16:02:44.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
-  },
-  {
-   "username": "acceptuserrobot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Auto Approve Accept User Pending Bot",
-   "description": "Объявления/Ads: @im_piro",
-   "descriptionZh": "廣告 / 廣告: @im_piro",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 99724,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "ayugramchat",
@@ -3155,21 +3140,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "shortcutscn",
-   "kind": "channel",
-   "category": "fun",
-   "tags": [],
-   "title": "树洞🌳群友问❓有点意思🗳",
-   "description": "发现各种喜闻乐见，只要是问题，洞友都可以在这里问。群友问期待洞友的加入！\n\n洞友频道投稿： @zaihuabot （选择群友问投稿）\n禁止非法内容，一经发现拉黑投稿！\n\n频道内容搜索 @qywsobot\n侵权/解封/帮助 @zaihuaAskBot\n备用频道：@zaihuatg",
-   "descriptionZh": null,
-   "descriptionEn": "Discover all kinds of pleasures and ask questions as long as there are questions for the cave friends here. The cave friends ask that they look forward to joining the cave friends! The cave friends channel post: @zaihuabot (choose the cave friends ask posts) The illegal content is banned once the black posts are discovered! The channel content search @qywsobot infringement / unlock / help @zaihuaAskBot Alternative channel:@zaihuatg",
-   "lang": "zh",
-   "verified": false,
-   "members": 89229,
-   "tgCreatedAt": "2018-09-18T02:54:09.000Z",
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
    "username": "qunyouwen",
    "kind": "channel",
    "category": "fun",
@@ -3185,6 +3155,21 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "shortcutscn",
+   "kind": "channel",
+   "category": "fun",
+   "tags": [],
+   "title": "树洞🌳群友问❓有点意思🗳",
+   "description": "发现各种喜闻乐见，只要是问题，洞友都可以在这里问。群友问期待洞友的加入！\n\n洞友频道投稿： @zaihuabot （选择群友问投稿）\n禁止非法内容，一经发现拉黑投稿！\n\n频道内容搜索 @qywsobot\n侵权/解封/帮助 @zaihuaAskBot\n备用频道：@zaihuatg",
+   "descriptionZh": null,
+   "descriptionEn": "Discover all kinds of pleasures and ask questions as long as there are questions for the cave friends here. The cave friends ask that they look forward to joining the cave friends! The cave friends channel post: @zaihuabot (choose the cave friends ask posts) The illegal content is banned once the black posts are discovered! The channel content search @qywsobot infringement / unlock / help @zaihuaAskBot Alternative channel:@zaihuatg",
+   "lang": "zh",
+   "verified": false,
+   "members": 89125,
+   "tgCreatedAt": "2018-09-18T02:54:09.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
    "username": "tempmail_org_bot",
    "kind": "bot",
    "category": "tools",
@@ -3195,7 +3180,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 87764,
+   "members": 88775,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -3229,7 +3214,7 @@
    "descriptionEn": "kkpay is a Chinese market dedicated wallet created by @okay Group, more in line with global Chinese operating habits usingkkpay for easy transactions, secure storage of cryptocurrencies, and has overseas mobile call fee charging and digital red packs and other functions.",
    "lang": "zh",
    "verified": false,
-   "members": 85126,
+   "members": 86212,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
@@ -3318,23 +3303,6 @@
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
-   "username": "werewolfbot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [
-    "open-source"
-   ],
-   "title": "Werewolf Moderator [☮]",
-   "description": "Werewolf Moderator bot - http://www.tgwerewolf.com for information\nSource: github.com/GreyWolfDev/Werewolf",
-   "descriptionZh": "Werewolf Moderator bot - http://www.tgwerewolf.com 信息来源: github.com/GreyWolfDev/Werewolf",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 76606,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T14:58:32.768Z"
-  },
-  {
    "username": "customnotificationsounds",
    "kind": "channel",
    "category": "resources",
@@ -3353,6 +3321,23 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
+   "username": "werewolfbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [
+    "open-source"
+   ],
+   "title": "Werewolf Moderator [☮]",
+   "description": "Werewolf Moderator bot - http://www.tgwerewolf.com for information\nSource: github.com/GreyWolfDev/Werewolf",
+   "descriptionZh": "Werewolf Moderator bot - http://www.tgwerewolf.com 信息来源: github.com/GreyWolfDev/Werewolf",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 75771,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "ce_observe",
    "kind": "channel",
    "category": "news",
@@ -3368,21 +3353,6 @@
    "members": 75561,
    "tgCreatedAt": "2017-06-05T13:15:07.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "copyright_infrigment_saver_bot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "𝙋𝙍𝙊𝙏𝙀𝘾𝙏𝙄𝙊𝙉 𝘽𝙊𝙏⚡️",
-   "description": "𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝘾𝘼𝙉 𝙎𝘼𝙑𝙀 𝙔𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙁𝙍𝙊𝙈 𝘽𝙀𝙄𝙉𝙂 𝘽𝘼𝙉𝙉𝙀𝘿 𝘿𝙐𝙀 𝙏𝙊 𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝙎𝙏𝙍𝙄𝙆𝙀.🀄️✅\n\n♻️𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝘽𝙔:\n\n100𝙆+ 𝙂𝙍𝙊𝙐𝙋𝙎\n50𝙆+ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎",
-   "descriptionZh": "这个机器人可以拯救你的频道免受版权罢工。️✅ ️由: 100K+ 组 50K+ 频道信任",
-   "descriptionEn": null,
-   "lang": null,
-   "verified": false,
-   "members": 74737,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "linuxgram",
@@ -3412,7 +3382,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 72563,
+   "members": 72554,
    "tgCreatedAt": "2022-02-22T12:17:02.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -3512,7 +3482,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
-   "members": 70337,
+   "members": 69869,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -3529,7 +3499,7 @@
    "descriptionEn": "This channel regularly pushes new tech digital news, welcome attention! ©️ The content posted does not represent the channel's position, and if you disagree, welcome to comment in the comment zone, but please pay attention to speech and discouragement. !!️ Affiliate groups regularly clean up inactive members and zombies, please contact administrators.  Blog: https://yummy.best Group: @GodlyGroup  Post: @GodlyNewsBot  Ad collaboration: @yummybest_bot.",
    "lang": "zh",
    "verified": false,
-   "members": 69631,
+   "members": 69657,
    "tgCreatedAt": "2020-08-13T17:41:57.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -3552,21 +3522,6 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "nicehubsearchbot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [],
-   "title": "Nicegram Hub: Search bot 🔎 Open to get your link!",
-   "description": "Find any Telegram channel easily! Open the bot and get your link ⚡️",
-   "descriptionZh": "轻松找到任何电报频道! 打开机器人并获得您的链接 ☀️",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 69172,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "bitget_cnofficial",
    "kind": "group",
    "category": "crypto",
@@ -3580,7 +3535,7 @@
    "descriptionEn": "Established in 2018, Bitget is the world’s leading cryptocurrency trading platform and Web 3 company. Bitget serves more than 100 countries and regions around the world, helping more than 25 million users to make “smart” transactions through a variety of transaction solutions, including leading tracking services. Website: https://www.bitget.site/zh-CN/ www.bitget.com https://www.bitgetapp.com/zh-CN/ Human customer service:@BitgetCNSupportbot",
    "lang": "zh",
    "verified": false,
-   "members": 68376,
+   "members": 68337,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -3600,6 +3555,39 @@
    "members": 67574,
    "tgCreatedAt": "2019-08-12T04:23:41.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
+  },
+  {
+   "username": "nicehubsearchbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Nicegram Hub: Search bot 🔎 Open to get your link!",
+   "description": "Find any Telegram channel easily! Open the bot and get your link ⚡️",
+   "descriptionZh": "轻松找到任何电报频道! 打开机器人并获得您的链接 ☀️",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 67468,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "terabestbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "cloud-drive",
+    "free"
+   ],
+   "title": "TeraBot Link To Video Bot | Tera Box DL | Terabot Downloader Bot",
+   "description": "Another TeraBox Bot: @TeraRealBot\n\nAny issue ? Dm: @CheemsSupportBot\n\nBot Policy: @BotsPolicys",
+   "descriptionZh": "其他 TeraBox 机器人: @TeraRealBot 任何问题 ? Dm: @CheemsSupportBot 机器人政策: @BotsPolicys",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 67144,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
    "username": "gamefactorybot",
@@ -3650,24 +3638,6 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "terabestbot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [
-    "cloud-drive",
-    "free"
-   ],
-   "title": "TeraBot Link To Video Bot | Tera Box DL | Terabot Downloader Bot",
-   "description": "Another TeraBox Bot: @TeraRealBot\n\nAny issue ? Dm: @CheemsSupportBot\n\nBot Policy: @BotsPolicys",
-   "descriptionZh": "其他 TeraBox 机器人: @TeraRealBot 任何问题 ? Dm: @CheemsSupportBot 机器人政策: @BotsPolicys",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 65477,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T07:49:15.945Z"
-  },
-  {
    "username": "geekshare",
    "kind": "channel",
    "category": "resources",
@@ -3684,24 +3654,6 @@
    "members": 64930,
    "tgCreatedAt": "2022-04-27T14:49:04.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "sotv",
-   "kind": "bot",
-   "category": "search",
-   "tags": [
-    "movies",
-    "tv-series"
-   ],
-   "title": "一起搜电影",
-   "description": "TG必备影视搜索神器，找到您喜欢的电影、电视剧！欢迎将 @SOTV 添加到您的群组。",
-   "descriptionZh": null,
-   "descriptionEn": "TG must be a video search engine to find your favorite movies and TV shows! welcome to add @SOTV to your group.",
-   "lang": "zh",
-   "verified": false,
-   "members": 64491,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
    "username": "haoruanfenxiang",
@@ -3736,6 +3688,21 @@
    "members": 63708,
    "tgCreatedAt": "2019-07-23T16:17:32.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "copyright_infrigment_saver_bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "𝙋𝙍𝙊𝙏𝙀𝘾𝙏𝙄𝙊𝙉 𝘽𝙊𝙏⚡️",
+   "description": "𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝘾𝘼𝙉 𝙎𝘼𝙑𝙀 𝙔𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙁𝙍𝙊𝙈 𝘽𝙀𝙄𝙉𝙂 𝘽𝘼𝙉𝙉𝙀𝘿 𝘿𝙐𝙀 𝙏𝙊 𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝙎𝙏𝙍𝙄𝙆𝙀.🀄️✅\n\n♻️𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝘽𝙔:\n\n100𝙆+ 𝙂𝙍𝙊𝙐𝙋𝙎\n50𝙆+ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎",
+   "descriptionZh": "这个机器人可以拯救你的频道免受版权罢工。️✅ ️由: 100K+ 组 50K+ 频道信任",
+   "descriptionEn": null,
+   "lang": null,
+   "verified": false,
+   "members": 63590,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "shazenbot",
@@ -3800,6 +3767,24 @@
    "members": 62549,
    "tgCreatedAt": "2022-06-11T03:57:49.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "sotv",
+   "kind": "bot",
+   "category": "search",
+   "tags": [
+    "movies",
+    "tv-series"
+   ],
+   "title": "一起搜电影",
+   "description": "TG必备影视搜索神器，找到您喜欢的电影、电视剧！欢迎将 @SOTV 添加到您的群组。",
+   "descriptionZh": null,
+   "descriptionEn": "TG must be a video search engine to find your favorite movies and TV shows! welcome to add @SOTV to your group.",
+   "lang": "zh",
+   "verified": false,
+   "members": 62508,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
    "username": "aximobot",
@@ -3913,6 +3898,24 @@
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
   {
+   "username": "newfileconverterbot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [
+    "cloud-drive",
+    "free"
+   ],
+   "title": "File Converter",
+   "description": "This bot allows to convert files from one format to another easily. It works with images, audio files, and videos.",
+   "descriptionZh": "这个机器人可以轻松地将文件从一个格式转换到另一个格式. 它与图像,音频文件和视频一起工作。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 55494,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T07:49:15.945Z"
+  },
+  {
    "username": "galgamer_channel",
    "kind": "channel",
    "category": "games",
@@ -3930,24 +3933,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "newfileconverterbot",
-   "kind": "bot",
-   "category": "files",
-   "tags": [
-    "cloud-drive",
-    "free"
-   ],
-   "title": "File Converter",
-   "description": "This bot allows to convert files from one format to another easily. It works with images, audio files, and videos.",
-   "descriptionZh": "这个机器人可以轻松地将文件从一个格式转换到另一个格式. 它与图像,音频文件和视频一起工作。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 54861,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T07:49:15.945Z"
-  },
-  {
    "username": "terabox_downloader_new_bot",
    "kind": "bot",
    "category": "media",
@@ -3961,23 +3946,6 @@
    "members": 54172,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "username_to_id_bot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "free"
-   ],
-   "title": "IDBot",
-   "description": "Bot to get user, group and channel ids",
-   "descriptionZh": "机器人获取用户、组和频道ID",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 53568,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "quanxapp",
@@ -3995,6 +3963,23 @@
    "members": 53557,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "username_to_id_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "free"
+   ],
+   "title": "IDBot",
+   "description": "Bot to get user, group and channel ids",
+   "descriptionZh": "机器人获取用户、组和频道ID",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 53326,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "vip115hot",
@@ -4045,6 +4030,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "cdtchinesefeed",
+   "kind": "channel",
+   "category": "news",
+   "tags": [],
+   "title": "中国数字时代",
+   "description": "官方名片：http://cdt.media\n\n官方推特账号：https://twitter.com/CDTChinese\n\n404文库频道：https://t.me/cdt404notfound\n\n视频频道：https://t.me/cdt404tv\n\n本站现已开通匿名投稿Bot @cdtmedia_bot 404投给CDT～",
+   "descriptionZh": null,
+   "descriptionEn": "Official website: http://cdt.media Official Twitter Account: https://twitter.com/CDTChinese 404 Library Channel: https://t.me/cdt404notfound Video channel: https://t.me/cdt404tv This site is now open anonymous postBot @cdtmedia_bot 404 donated to CDT～",
+   "lang": "zh",
+   "verified": false,
+   "members": 51078,
+   "tgCreatedAt": "2017-06-16T04:30:10.000Z",
+   "listedAt": "2026-09-20T18:06:26.943Z"
+  },
+  {
    "username": "me888888888888",
    "kind": "channel",
    "category": "software",
@@ -4060,21 +4060,6 @@
    "members": 51028,
    "tgCreatedAt": "2023-11-16T05:14:22.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "cdtchinesefeed",
-   "kind": "channel",
-   "category": "news",
-   "tags": [],
-   "title": "中国数字时代",
-   "description": "官方名片：http://cdt.media\n\n官方推特账号：https://twitter.com/CDTChinese\n\n404文库频道：https://t.me/cdt404notfound\n\n视频频道：https://t.me/cdt404tv\n\n本站现已开通匿名投稿Bot @cdtmedia_bot 404投给CDT～",
-   "descriptionZh": null,
-   "descriptionEn": "Official website: http://cdt.media Official Twitter Account: https://twitter.com/CDTChinese 404 Library Channel: https://t.me/cdt404notfound Video channel: https://t.me/cdt404tv This site is now open anonymous postBot @cdtmedia_bot 404 donated to CDT～",
-   "lang": "zh",
-   "verified": false,
-   "members": 50903,
-   "tgCreatedAt": "2017-06-16T04:30:10.000Z",
-   "listedAt": "2026-09-20T18:06:26.943Z"
   },
   {
    "username": "zhetengsha",
@@ -4309,7 +4294,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 45372,
+   "members": 45626,
    "tgCreatedAt": "2017-08-04T05:33:38.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -4500,6 +4485,21 @@
    "listedAt": "2026-09-20T18:06:26.943Z"
   },
   {
+   "username": "ai_celestia_bot",
+   "kind": "bot",
+   "category": "ai",
+   "tags": [],
+   "title": "Celestia",
+   "description": "The best AI-powered group moderator with a powerful WebApp.\n\nNews and Updates: @CelestiaUpdates",
+   "descriptionZh": "拥有强大的 WebApp 的最佳 AI 支持群组导演. 新闻和更新: @CelestiaUpdates",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 42016,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "cherrygram",
    "kind": "channel",
    "category": "software",
@@ -4632,39 +4632,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "ai_celestia_bot",
-   "kind": "bot",
-   "category": "ai",
-   "tags": [],
-   "title": "Celestia",
-   "description": "The best AI-powered group moderator with a powerful WebApp.\n\nNews and Updates: @CelestiaUpdates",
-   "descriptionZh": "拥有强大的 WebApp 的最佳 AI 支持群组导演. 新闻和更新: @CelestiaUpdates",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 40334,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "unobot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [
-    "free",
-    "open-source"
-   ],
-   "title": "UNO Bot",
-   "description": "Play the UNO card game via inline commands",
-   "descriptionZh": "通过内线命令玩UNO牌游戏",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 40184,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
    "username": "gmailbot",
    "kind": "bot",
    "category": "productivity",
@@ -4708,9 +4675,27 @@
    "descriptionEn": "This group specifies telegra.ph/Sticker-Group-Rule-03-22 This group links t.me/StickerGroup",
    "lang": "nl",
    "verified": false,
-   "members": 39497,
+   "members": 39490,
    "tgCreatedAt": "2016-11-09T14:50:16.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "unobot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [
+    "free",
+    "open-source"
+   ],
+   "title": "UNO Bot",
+   "description": "Play the UNO card game via inline commands",
+   "descriptionZh": "通过内线命令玩UNO牌游戏",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 39257,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "lihaiba",
@@ -4772,7 +4757,7 @@
    "descriptionEn": "Telegram Chinese/Chinese/Knowledge/Tutorial, Technology, Airports, Scientific Internet... Group rules: * Prohibit rumors, piracy, advertising, screenshots * Prohibit blasphemy, physical assault, bloody violence content * Prohibit free streaming, open box, black production, dark networks, gambling * Prohibit religion, politics, key governance, gambling drugs, pornography and NSFW * Civilization exchanges, violators will be banned or blocked  Telegram Chinese channel @tgcnz  Telegram Chinese Group @tgcnx  Telegram Chinese Group II @tgzhcn",
    "lang": "zh",
    "verified": false,
-   "members": 38449,
+   "members": 38452,
    "tgCreatedAt": "2019-02-09T03:47:55.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -4890,7 +4875,7 @@
    "descriptionEn": "About AIGC Artificial Intelligence, Thinking, Knowledge Expansion, Capacity Enhancement, etc. Post/Collaborate: @inside1024_bot AIGC’s latest tools, open source projects, and industry events",
    "lang": "zh",
    "verified": false,
-   "members": 37314,
+   "members": 37329,
    "tgCreatedAt": "2023-01-08T10:56:06.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
   },
@@ -4912,21 +4897,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "gephusers",
-   "kind": "group",
-   "category": "vpn",
-   "tags": [],
-   "title": "Official Geph Users | 迷霧通官方用戶群",
-   "description": "Announcements | 通知頻道 https://t.me/gephannounce\nGroup rules | 群規 https://is.gd/geph_tg_rules\n違規處理條例 https://is.gd/elihig\n客服机器人 @GephSupportBot",
-   "descriptionZh": null,
-   "descriptionEn": "Announcements  Notification channels https://t.me/gephannounce Group rules  cluster rules https://is.gd/geph_tg_rules  violation rules https://is.gd/elihig  customer service robots @GephSupportBot",
-   "lang": "zh",
-   "verified": false,
-   "members": 37162,
-   "tgCreatedAt": "2019-12-26T22:26:40.000Z",
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
    "username": "someacg",
    "kind": "channel",
    "category": "wallpaper",
@@ -4941,6 +4911,21 @@
    "verified": false,
    "members": 37159,
    "tgCreatedAt": "2021-05-02T01:36:57.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "gephusers",
+   "kind": "group",
+   "category": "vpn",
+   "tags": [],
+   "title": "Official Geph Users | 迷霧通官方用戶群",
+   "description": "Announcements | 通知頻道 https://t.me/gephannounce\nGroup rules | 群規 https://is.gd/geph_tg_rules\n違規處理條例 https://is.gd/elihig\n客服机器人 @GephSupportBot",
+   "descriptionZh": null,
+   "descriptionEn": "Announcements  Notification channels https://t.me/gephannounce Group rules  cluster rules https://is.gd/geph_tg_rules  violation rules https://is.gd/elihig  customer service robots @GephSupportBot",
+   "lang": "zh",
+   "verified": false,
+   "members": 37139,
+   "tgCreatedAt": "2019-12-26T22:26:40.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
@@ -4978,23 +4963,6 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "lookonchain",
-   "kind": "group",
-   "category": "crypto",
-   "tags": [
-    "on-chain"
-   ],
-   "title": "Lookonchain",
-   "description": "Please contact @lookonchainsupport if you have any questions.\n\nWe will never DM you first!\n\nTwitter: https://twitter.com/lookonchain",
-   "descriptionZh": "请联系 @lookonchainsupport 如果您有任何问题,我们永远不会先DM你! 推特: https://twitter.com/lookonchain",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 36863,
-   "tgCreatedAt": "2022-05-17T12:52:20.000Z",
-   "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
    "username": "financial_express",
    "kind": "channel",
    "category": "news",
@@ -5007,25 +4975,25 @@
    "descriptionEn": "Affiliated group @Financial_Express_Chat Financial Slow News is the largest pan-financial news channel in TGJen, covering markets such as the global stock blockchain in real time, content is genuinely neutral and objective. Part of the content is taken from the original wall financial media and attached to the source, does not represent the position of this channel, please look at the relevant content objectively cautiously, beware of fishing misleading. Part of the screen content is transcribed on the site with no delay, pushing frequently for understanding.",
    "lang": "zh",
    "verified": false,
-   "members": 36843,
+   "members": 36817,
    "tgCreatedAt": "2026-06-02T13:04:39.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "bananagunsniper_bot",
-   "kind": "bot",
-   "category": "trading",
+   "username": "lookonchain",
+   "kind": "group",
+   "category": "crypto",
    "tags": [
-    "quant"
+    "on-chain"
    ],
-   "title": "Banana Gun Sniper Bot",
-   "description": "https://bananagun.io\nhttps://docs.bananagun.io\nhttps://bananagun.io/telegram\nhttps://twitter.com/BananaGunBot",
-   "descriptionZh": "https://bananagun.io https://docs.bananagun.io https://bananagun.io/电报 https://twitter.com/BananaGunBot",
+   "title": "Lookonchain",
+   "description": "Please contact @lookonchainsupport if you have any questions.\n\nWe will never DM you first!\n\nTwitter: https://twitter.com/lookonchain",
+   "descriptionZh": "请联系 @lookonchainsupport 如果您有任何问题,我们永远不会先DM你! 推特: https://twitter.com/lookonchain",
    "descriptionEn": null,
    "lang": "en",
-   "verified": false,
-   "members": 36658,
-   "tgCreatedAt": null,
+   "verified": true,
+   "members": 36814,
+   "tgCreatedAt": "2022-05-17T12:52:20.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
@@ -5075,7 +5043,25 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 36443,
+   "members": 36367,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "searchreport",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "official",
+    "security"
+   ],
+   "title": "Search Report Bot",
+   "description": "Report problematic search terms.",
+   "descriptionZh": "报告有问题的搜索术语。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 36276,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -5117,21 +5103,6 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
-   "username": "minroobot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [],
-   "title": "Minroob Game مینروب",
-   "description": "💣Play the multiplayer version of the classic Minesweeper game on Telegram!\n🛠Support: @minsupport",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 36177,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "jike_collection",
    "kind": "channel",
    "category": "blog",
@@ -5164,22 +5135,34 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "searchreport",
+   "username": "minroobot",
    "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "official",
-    "security"
-   ],
-   "title": "Search Report Bot",
-   "description": "Report problematic search terms.",
-   "descriptionZh": "报告有问题的搜索术语。",
+   "category": "games",
+   "tags": [],
+   "title": "Minroob Game مینروب",
+   "description": "💣Play the multiplayer version of the classic Minesweeper game on Telegram!\n🛠Support: @minsupport",
+   "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
-   "verified": true,
-   "members": 35290,
+   "verified": false,
+   "members": 35462,
    "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "beijingz",
+   "kind": "group",
+   "category": "local",
+   "tags": [],
+   "title": "北京",
+   "description": "禁止传播谣言/盗版\n禁止撕逼/谩骂/人身攻击\n禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW\n\n导航搜索 @Googlezs\n\n话题 @beijingv 上海 @shanghaiz\n广州 @guangzhouz 深圳 @shenzhenz\n武汉 @wuhanz 杭州 @hangzhouz\n重庆 @chongqingz 郑州 @zhengzhouz\n天津 @tianjinz 成都 @chengduzz\n中国 @cnchinese",
+   "descriptionZh": null,
+   "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brush/porno/driving/NSFW Navigation search @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
+   "lang": "zh",
+   "verified": false,
+   "members": 35278,
+   "tgCreatedAt": "2018-01-04T13:59:24.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
    "username": "audio_editorbot",
@@ -5199,39 +5182,6 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "beijingz",
-   "kind": "group",
-   "category": "local",
-   "tags": [],
-   "title": "北京",
-   "description": "禁止传播谣言/盗版\n禁止撕逼/谩骂/人身攻击\n禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW\n\n导航搜索 @Googlezs\n\n话题 @beijingv 上海 @shanghaiz\n广州 @guangzhouz 深圳 @shenzhenz\n武汉 @wuhanz 杭州 @hangzhouz\n重庆 @chongqingz 郑州 @zhengzhouz\n天津 @tianjinz 成都 @chengduzz\n中国 @cnchinese",
-   "descriptionZh": null,
-   "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brush/porno/driving/NSFW Navigation search @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
-   "lang": "zh",
-   "verified": false,
-   "members": 35209,
-   "tgCreatedAt": "2018-01-04T13:59:24.000Z",
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "discussbot",
-   "kind": "bot",
-   "category": "channel-tools",
-   "tags": [
-    "free",
-    "official"
-   ],
-   "title": "DiscussBot",
-   "description": "Make this bot an admin in your channel to add comment buttons to all posts.",
-   "descriptionZh": "让这个机器人在你的频道中成为一个管理员,将评论按钮添加到所有帖子中。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 34310,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
    "username": "niuyueshibao_rss",
    "kind": "channel",
    "category": "news",
@@ -5249,17 +5199,17 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "the_peach_admin_bot",
+   "username": "forcesubscriber_bot",
    "kind": "bot",
-   "category": "ai",
+   "category": "group-admin",
    "tags": [],
-   "title": "The Peach",
-   "description": "Welcome to 🍑 Peach — discover, choose, and chat with AI characters.\n\nSupport: @The_Peach_Support",
-   "descriptionZh": "欢迎来到  Peach - 发现,选择和与AI字符聊天。支持: @The_Peach_Support",
+   "title": "Force Subscriber",
+   "description": "An advanced force subscribe bot !\n\nBy @Memers_Gallery !",
+   "descriptionZh": "一个先进的力量订阅机器人 ! 由 @Memers_Gallery !",
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 34019,
+   "members": 34197,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -5281,38 +5231,6 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "tonkeeper",
-   "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "ton"
-   ],
-   "title": "Tonkeeper",
-   "description": "Tonkeeper bot is a wallet and a direct line to our support team. Ask us any question about TON or Tonkeeper.",
-   "descriptionZh": "Tonkeeper 机器人是一个钱包和直接线向我们的支持团队。 问我们有关 TON 或 Tonkeeper 的任何问题。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 33900,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "forcesubscriber_bot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Force Subscriber",
-   "description": "An advanced force subscribe bot !\n\nBy @Memers_Gallery !",
-   "descriptionZh": "一个先进的力量订阅机器人 ! 由 @Memers_Gallery !",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 33714,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "appinnfeed",
    "kind": "channel",
    "category": "software",
@@ -5330,6 +5248,56 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "the_peach_admin_bot",
+   "kind": "bot",
+   "category": "ai",
+   "tags": [],
+   "title": "The Peach",
+   "description": "Welcome to 🍑 Peach — discover, choose, and chat with AI characters.\n\nSupport: @The_Peach_Support",
+   "descriptionZh": "欢迎来到  Peach - 发现,选择和与AI字符聊天。支持: @The_Peach_Support",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 33502,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "tonkeeper",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "ton"
+   ],
+   "title": "Tonkeeper",
+   "description": "Tonkeeper bot is a wallet and a direct line to our support team. Ask us any question about TON or Tonkeeper.",
+   "descriptionZh": "Tonkeeper 机器人是一个钱包和直接线向我们的支持团队。 问我们有关 TON 或 Tonkeeper 的任何问题。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 33501,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "discussbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [
+    "free",
+    "official"
+   ],
+   "title": "DiscussBot",
+   "description": "Make this bot an admin in your channel to add comment buttons to all posts.",
+   "descriptionZh": "让这个机器人在你的频道中成为一个管理员,将评论按钮添加到所有帖子中。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 33482,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
    "username": "ipapkornezpzbot",
    "kind": "bot",
    "category": "media",
@@ -5345,23 +5313,6 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "word",
-   "kind": "bot",
-   "category": "productivity",
-   "tags": [
-    "official"
-   ],
-   "title": "Word — Учи английский",
-   "description": "Learn words easily and have fun! Take or create courses, track progress, and study with friends in Word.",
-   "descriptionZh": "轻松学习单词并有乐趣! 学习或创建课程,跟踪进度,并与朋友一起学习在 Word 中。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 32848,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "roundvideobot",
    "kind": "bot",
    "category": "media",
@@ -5372,9 +5323,26 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 32817,
+   "members": 33267,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "bananagunsniper_bot",
+   "kind": "bot",
+   "category": "trading",
+   "tags": [
+    "quant"
+   ],
+   "title": "Banana Gun Sniper Bot",
+   "description": "https://bananagun.io\nhttps://docs.bananagun.io\nhttps://bananagun.io/telegram\nhttps://twitter.com/BananaGunBot",
+   "descriptionZh": "https://bananagun.io https://docs.bananagun.io https://bananagun.io/电报 https://twitter.com/BananaGunBot",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 32638,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "creationdatebot",
@@ -5508,7 +5476,7 @@
    "descriptionEn": "Exclusively for Internet practitioners Content is broadly related to different topics such as technology, products, design, operations; the target audience is for different functions such as programmers, designers, product managers, operations management. Post/co-operation: @inside1024_bot Content Source Network",
    "lang": "zh",
    "verified": false,
-   "members": 31043,
+   "members": 31075,
    "tgCreatedAt": "2017-08-30T11:06:23.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -5543,21 +5511,6 @@
    "members": 30796,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
-   "username": "youtubednbot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [],
-   "title": "DOWNLOADER VIDEO YOUTUBE INSTAGRAM TIKTOK",
-   "description": "Скачивает фото, видео и аудио\nDownloads photo, video and audio\n\nby @AlexAza with ❤️",
-   "descriptionZh": "Скачивает фото, видео и аудио 下载照片,视频和音频 by @AlexAza with ❤️",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 30070,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "btcdayu2",
@@ -5639,6 +5592,21 @@
    "lang": "en",
    "verified": false,
    "members": 29416,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "youtubednbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [],
+   "title": "DOWNLOADER VIDEO YOUTUBE INSTAGRAM TIKTOK",
+   "description": "Скачивает фото, видео и аудио\nDownloads photo, video and audio\n\nby @AlexAza with ❤️",
+   "descriptionZh": "Скачивает фото, видео и аудио 下载照片,视频和音频 by @AlexAza with ❤️",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 29409,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -5754,6 +5722,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "followbun",
+   "kind": "channel",
+   "category": "software",
+   "tags": [],
+   "title": "Ai一线 | 软件 资讯 新闻",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 28645,
+   "tgCreatedAt": "2025-07-15T10:00:34.000Z",
+   "listedAt": "2026-09-20T10:07:05.780Z"
+  },
+  {
    "username": "ruheyushadiaoxiangchu",
    "kind": "channel",
    "category": "fun",
@@ -5850,19 +5833,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "followbun",
-   "kind": "channel",
-   "category": "software",
-   "tags": [],
-   "title": "Ai一线 | 软件 资讯 新闻",
-   "description": "",
+   "username": "speedupmebot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "title": "Speed Up & Slowed Reverb & Nightcore Bot",
+   "description": "🎧Create Speed Up & Slowed Reverb music\n🎧Сделать и скачать Speed Up & Slowed Reverb\n\nподдержка/реклама: @btcoin_dealer",
    "descriptionZh": null,
    "descriptionEn": null,
-   "lang": "zh",
+   "lang": "en",
    "verified": false,
-   "members": 28195,
-   "tgCreatedAt": "2025-07-15T10:00:34.000Z",
-   "listedAt": "2026-09-20T10:07:05.780Z"
+   "members": 28227,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "calculation_smart_bot",
@@ -5895,23 +5880,6 @@
    "members": 27955,
    "tgCreatedAt": "2017-10-27T10:28:55.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "speedupmebot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [
-    "music"
-   ],
-   "title": "Speed Up & Slowed Reverb & Nightcore Bot",
-   "description": "🎧Create Speed Up & Slowed Reverb music\n🎧Сделать и скачать Speed Up & Slowed Reverb\n\nподдержка/реклама: @btcoin_dealer",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 27731,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "bonkbot_bot",
@@ -6045,7 +6013,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 27074,
+   "members": 27078,
    "tgCreatedAt": "2018-04-03T06:03:49.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -6096,7 +6064,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 26767,
+   "members": 26747,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -6162,7 +6130,7 @@
    "descriptionEn": "Stash official discussion group. Stash is the best choice for Clash rules on iOS platform. Stash download macOS https://stash.ws Stash AppleStore https://apps.apple.com/app/stash/id1596063349 Stash user manual https://stash.wiki subscription channel @StashFeed",
    "lang": "zh",
    "verified": false,
-   "members": 26414,
+   "members": 26427,
    "tgCreatedAt": "2021-11-21T15:14:06.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -6178,6 +6146,21 @@
    "lang": "en",
    "verified": false,
    "members": 26350,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "footylivebot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [],
+   "title": "Football Live Goals",
+   "description": "Receive real-time updates about live football matches. Demo: @PL_live_football Ad/Partners -> @donetry",
+   "descriptionZh": "获取实时足球比赛的最新信息。演示: @PL_live_football Ad/Partners -> @donetry",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 26261,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -6248,6 +6231,23 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "bybitzh",
+   "kind": "group",
+   "category": "chat",
+   "tags": [
+    "exchange"
+   ],
+   "title": "Bybit 华语交流群",
+   "description": "官方公告频道👉 https://t.me/bybit_announcement_ZH\n\n❗️重要提醒：问题咨询请认准本群管理员标识！不要相信任何非管理员的私聊！\n\n❗️声明：根据相关监管要求，本群仅供非香港居民身份的华语用户进行讨论和交流之用。群内所有活动均为用户自发组织，用户一切行为均与 Bybit 官方无关。",
+   "descriptionZh": null,
+   "descriptionEn": "Official announcement channel👉 https://t.me/bybit_announcement_ZH ❗️ Important Reminder: Questions and Questions Please approve the group’s administrator ID! Don’t trust any non-administrator private chat! ❗️ Statement: According to relevant regulatory requirements, the group is only for discussion and communication with non-Hong Kong resident Chinese-speaking users. All activities within the group are organized by users spontaneously, and all user behavior is not related to Bibit officials.",
+   "lang": "zh",
+   "verified": true,
+   "members": 25929,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-20T18:06:26.943Z"
+  },
+  {
    "username": "front_end_first",
    "kind": "channel",
    "category": "tech",
@@ -6263,38 +6263,6 @@
    "members": 25878,
    "tgCreatedAt": "2016-07-01T14:51:31.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "bybitzh",
-   "kind": "group",
-   "category": "chat",
-   "tags": [
-    "exchange"
-   ],
-   "title": "Bybit 华语交流群",
-   "description": "官方公告频道👉 https://t.me/bybit_announcement_ZH\n\n❗️重要提醒：问题咨询请认准本群管理员标识！不要相信任何非管理员的私聊！\n\n❗️声明：根据相关监管要求，本群仅供非香港居民身份的华语用户进行讨论和交流之用。群内所有活动均为用户自发组织，用户一切行为均与 Bybit 官方无关。",
-   "descriptionZh": null,
-   "descriptionEn": "Official announcement channel👉 https://t.me/bybit_announcement_ZH ❗️ Important Reminder: Questions and Questions Please approve the group’s administrator ID! Don’t trust any non-administrator private chat! ❗️ Statement: According to relevant regulatory requirements, the group is only for discussion and communication with non-Hong Kong resident Chinese-speaking users. All activities within the group are organized by users spontaneously, and all user behavior is not related to Bibit officials.",
-   "lang": "zh",
-   "verified": true,
-   "members": 25835,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-20T18:06:26.943Z"
-  },
-  {
-   "username": "mentionbot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Mention Bot",
-   "description": "Send #admin (@admin) in the group with the bot to call all admins or #all (@all) to call everyone.\n\nSupport: @MentionMan",
-   "descriptionZh": "在 bot 组中发送 #admin (@admin) 以呼叫所有管理员或 #all (@all) 以呼叫所有人。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 25701,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "grokai",
@@ -6425,7 +6393,7 @@
    "descriptionEn": "Note: This channel discussion group is only used as a comment zone, does not accept anyone adding, attempt to add will be kicked immediately. If the mistake to join is kicked and can not access the comment zone, it takes a while to automatically unlock. In addition, this channel host is only one, so avoid disharmonious discussion, if in the future there is no time to manage can close the comment zone.",
    "lang": "zh",
    "verified": false,
-   "members": 24977,
+   "members": 24983,
    "tgCreatedAt": "2018-07-07T09:05:46.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -6477,38 +6445,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "footylivebot",
-   "kind": "bot",
-   "category": "productivity",
-   "tags": [],
-   "title": "Football Live Goals",
-   "description": "Receive real-time updates about live football matches. Demo: @PL_live_football Ad/Partners -> @donetry",
-   "descriptionZh": "获取实时足球比赛的最新信息。演示: @PL_live_football Ad/Partners -> @donetry",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 24799,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "uxuybot",
-   "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "on-chain"
-   ],
-   "title": "UXUY Wallet",
-   "description": "The first Self-Custody Multi-Chain Wallet based on Telegram, crafted by the @uxuycom team 🧑‍🤝‍🧑",
-   "descriptionZh": "第一个基于Telegram的自保多链钱包,由 @uxuycom 团队创建",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 24772,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "loveapps",
    "kind": "group",
    "category": "vpn",
@@ -6526,21 +6462,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "free_vpn_amnezia_bot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [],
-   "title": "Amnezia Free VPN Bot",
-   "description": "Free VPN bot for Instagram/Facebook/etc access",
-   "descriptionZh": "免费的VPN机器人为Instagram/Facebook/etc访问",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 24667,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "pikpak_bot",
    "kind": "bot",
    "category": "files",
@@ -6552,6 +6473,23 @@
    "lang": "en",
    "verified": false,
    "members": 24616,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "uxuybot",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "on-chain"
+   ],
+   "title": "UXUY Wallet",
+   "description": "The first Self-Custody Multi-Chain Wallet based on Telegram, crafted by the @uxuycom team 🧑‍🤝‍🧑",
+   "descriptionZh": "第一个基于Telegram的自保多链钱包,由 @uxuycom 团队创建",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 24511,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -6573,19 +6511,47 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "shazamchibot",
+   "username": "mentionbot",
    "kind": "bot",
-   "category": "media",
-   "tags": [
-    "music"
-   ],
-   "title": "SHAZAMBOT | MUZIKALAR",
-   "description": "😎\n\nReklama uchun : @...",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Mention Bot",
+   "description": "Send #admin (@admin) in the group with the bot to call all admins or #all (@all) to call everyone.\n\nSupport: @MentionMan",
+   "descriptionZh": "在 bot 组中发送 #admin (@admin) 以呼叫所有管理员或 #all (@all) 以呼叫所有人。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 24390,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "free_vpn_amnezia_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Amnezia Free VPN Bot",
+   "description": "Free VPN bot for Instagram/Facebook/etc access",
+   "descriptionZh": "免费的VPN机器人为Instagram/Facebook/etc访问",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 24386,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "nicegram_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Nicegram Bot",
+   "description": "Official @nicegramapp bot\n\nNicegram Web: https://my.nicegram.app",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 24335,
+   "members": 24336,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -6620,24 +6586,9 @@
    "descriptionEn": "Collaboration @ygwpBot Anti-Wrinkle ygwp.cc # short series # screening short series # TV series # movies # e-books # micro short series # cross screen short series # web series",
    "lang": "zh",
    "verified": false,
-   "members": 24038,
+   "members": 24041,
    "tgCreatedAt": "2024-05-11T08:11:12.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
-  },
-  {
-   "username": "randommeetbot",
-   "kind": "bot",
-   "category": "messaging",
-   "tags": [],
-   "title": "RandomMeetBot",
-   "description": "Hey lets chat.\n\nrandommeetbot.com",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 23979,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "ruyoblog",
@@ -6657,24 +6608,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "transparency",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "official",
-    "security"
-   ],
-   "title": "Transparency Reports",
-   "description": "Get Telegram transparency reports.",
-   "descriptionZh": "获取Telegram透明度报告。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 23936,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
    "username": "channelpanews",
    "kind": "channel",
    "category": "crypto",
@@ -6688,36 +6621,6 @@
    "members": 23787,
    "tgCreatedAt": "2021-05-27T08:22:14.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "nicegram_bot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [],
-   "title": "Nicegram Bot",
-   "description": "Official @nicegramapp bot\n\nNicegram Web: https://my.nicegram.app",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 23746,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "doodlegatorbot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [],
-   "title": "Doodle Gator — Draw & Guess charades game",
-   "description": "🎨 Draw and guess quick sketches right in your Telegram group!\nEn: @DoodleGator\nRu: @CrocoDrawChat\nSupport: @CrocoLab",
-   "descriptionZh": "在您的电报组中绘制并猜测快速草图! 英文: @DoodleGator Ru: @CrocoDrawChat 支持: @CrocoLab",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 23640,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "maoyingshi",
@@ -6735,6 +6638,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "usertagger2bot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "User Tagger",
+   "description": "I can tag users in the group for you\n\nlanguages: 🇬🇧 🇹🇷 🇦🇿 🇷🇺 🇮🇷 🇮🇳\nChannel @UserTagger\nReklam @destek_reklam",
+   "descriptionZh": "我可以标记组中的用户为你语言:                频道 @UserTagger Reklam @destek_reklam",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 23522,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "gmgnai",
    "kind": "group",
    "category": "crypto",
@@ -6748,7 +6666,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 23468,
+   "members": 23515,
    "tgCreatedAt": "2024-05-07T07:59:04.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -6765,9 +6683,24 @@
    "descriptionEn": "This series of works is only for study research, any behavior of the user is not related to the author of the application, please delete this application within 24 hours [download represents consent to this agreement] ↔️ If there is a violation of the law, please contact me to delete the content Please note that any technology done by myself will be open source, will not gain any benefit through this, only in the core of the system learning, aimed at promoting the rapid iteration of game detection soining the game environment If you think I have any violation of the law, please contact me to delete the content or provide the source code, I will actively cooperate.",
    "lang": "zh",
    "verified": false,
-   "members": 23327,
+   "members": 23313,
    "tgCreatedAt": "2024-10-06T04:18:41.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
+  },
+  {
+   "username": "imbbbbbbbbbbb",
+   "kind": "group",
+   "category": "chat",
+   "tags": [],
+   "title": "逼逼和他的精神股东们",
+   "description": "欢迎加入「小声逼逼」群组！退群100%自动被封禁，请三思！请先订阅频道后加入群组才能发言\n\n• 重要提示：群规每6小时自动发布一次，记得仔细看\n• 正版至上：禁止讨论盗版、破解，欢迎分享正版软件体验\n• 意外惊喜：不定时有各种正版软件的惊喜抽奖，记得别错过领奖时间！\n• 和谐交流：友好相处，勿怼人，尤其是管理员哦\n• AI助手：群里有多个不太聪明的广告机器人，被误封？有权限的管理都能处理！\n\n想发图的话，可以使用 https://imgbb.com/ 或者 https://photo.lily.lat",
+   "descriptionZh": null,
+   "descriptionEn": "Welcome to join the group of “Pirates!” 100% automatically blocked, please think! first subscribe to the channel and join the group to speak • Important tip: the group rules are automatically published every 6 hours, remember to look carefully • Original up: prohibited discussion of piracy, hacking, welcome to share the original software experience • Unexpected surprises: there are occasional surprises of various original software, remember not to miss the time to receive the prize! • Harmonious communication: friendly, don’t mess, especially administrators Oh • AI assistants: there are several less intelligent advertising robots in the group, blocked? authorized management can handle it!",
+   "lang": "zh",
+   "verified": false,
+   "members": 23292,
+   "tgCreatedAt": "2023-12-19T12:51:55.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "xkjdz55",
@@ -6787,32 +6720,17 @@
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
-   "username": "imbbbbbbbbbbb",
-   "kind": "group",
-   "category": "chat",
-   "tags": [],
-   "title": "逼逼和他的精神股东们",
-   "description": "欢迎加入「小声逼逼」群组！退群100%自动被封禁，请三思！请先订阅频道后加入群组才能发言\n\n• 重要提示：群规每6小时自动发布一次，记得仔细看\n• 正版至上：禁止讨论盗版、破解，欢迎分享正版软件体验\n• 意外惊喜：不定时有各种正版软件的惊喜抽奖，记得别错过领奖时间！\n• 和谐交流：友好相处，勿怼人，尤其是管理员哦\n• AI助手：群里有多个不太聪明的广告机器人，被误封？有权限的管理都能处理！\n\n想发图的话，可以使用 https://imgbb.com/ 或者 https://photo.lily.lat",
-   "descriptionZh": null,
-   "descriptionEn": "Welcome to join the group of “Pirates!” 100% automatically blocked, please think! first subscribe to the channel and join the group to speak • Important tip: the group rules are automatically published every 6 hours, remember to look carefully • Original up: prohibited discussion of piracy, hacking, welcome to share the original software experience • Unexpected surprises: there are occasional surprises of various original software, remember not to miss the time to receive the prize! • Harmonious communication: friendly, don’t mess, especially administrators Oh • AI assistants: there are several less intelligent advertising robots in the group, blocked? authorized management can handle it!",
-   "lang": "zh",
-   "verified": false,
-   "members": 23267,
-   "tgCreatedAt": "2023-12-19T12:51:55.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "usertagger2bot",
+   "username": "randommeetbot",
    "kind": "bot",
-   "category": "group-admin",
+   "category": "messaging",
    "tags": [],
-   "title": "User Tagger",
-   "description": "I can tag users in the group for you\n\nlanguages: 🇬🇧 🇹🇷 🇦🇿 🇷🇺 🇮🇷 🇮🇳\nChannel @UserTagger\nReklam @destek_reklam",
-   "descriptionZh": "我可以标记组中的用户为你语言:                频道 @UserTagger Reklam @destek_reklam",
+   "title": "RandomMeetBot",
+   "description": "Hey lets chat. Meet random people from all over Telegram. Make new friends, discover someone new.\n\nrandommeetbot.com",
+   "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 23207,
+   "members": 23225,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -6849,17 +6767,17 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "mentionmirrorbot",
+   "username": "doodlegatorbot",
    "kind": "bot",
-   "category": "group-admin",
+   "category": "games",
    "tags": [],
-   "title": "Mention Mirror",
-   "description": "Send #admin (@admin) in the group with the bot to call all admins or #all (@all) to call everyone.\n\nSupport: @MentionMan",
-   "descriptionZh": "在 bot 组中发送 #admin (@admin) 以呼叫所有管理员或 #all (@all) 以呼叫所有人。",
+   "title": "Doodle Gator — Draw & Guess charades game",
+   "description": "🎨 Draw and guess quick sketches right in your Telegram group!\nEn: @DoodleGator\nRu: @CrocoDrawChat\nSupport: @CrocoLab",
+   "descriptionZh": "在您的电报组中绘制并猜测快速草图! 英文: @DoodleGator Ru: @CrocoDrawChat 支持: @CrocoLab",
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 23012,
+   "members": 22984,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -6898,6 +6816,41 @@
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
+   "username": "savevybot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [
+    "music"
+   ],
+   "title": "Save YouTube Video Bot",
+   "description": "@savevybot Download file/video/audio.\nShazam and Search Music.\nSupport: @pony_bots",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 22769,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "transparency",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "official",
+    "security"
+   ],
+   "title": "Transparency Reports",
+   "description": "Get Telegram transparency reports.",
+   "descriptionZh": "获取Telegram透明度报告。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 22761,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
    "username": "wikipedia_zh_n",
    "kind": "group",
    "category": "learning",
@@ -6930,23 +6883,6 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "savevybot",
-   "kind": "bot",
-   "category": "files",
-   "tags": [
-    "music"
-   ],
-   "title": "Save YouTube Video Bot",
-   "description": "@savevybot Download file/video/audio.\nShazam and Search Music.\nSupport: @pony_bots",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 22530,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "reactbot",
    "kind": "bot",
    "category": "channel-tools",
@@ -6974,7 +6910,7 @@
    "descriptionEn": "Joining means agreeing to comply with: 1. Strictly prohibited: advertising/recruitment, fighting, pornography/humiliation, black-grey production, excessive speech, off-topic, scam/paid tasks, any form of spam. Violator warning or blocking. 2. blowwater/programming start: please move @coder_ot. 3. About AI: - Do not encourage AI to answer questions directly. - If you want to use it, use it yourself or share it after summing up. - It is strictly prohibited to directly copy large pieces of text generated by the paste AI (by brushing screen). 4. Long code: Use tools such as pastebin to display. 5. Keep the following: Non-violent/sensitive content, do not delete messages at will to ensure the conversation is complete.",
    "lang": "zh",
    "verified": false,
-   "members": 22453,
+   "members": 22447,
    "tgCreatedAt": "2017-02-16T00:25:38.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -6996,19 +6932,22 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "auto_reaction0_bot",
-   "kind": "bot",
-   "category": "stickers",
-   "tags": [],
-   "title": "Auto Reaction Bot ⚡️",
-   "description": "Adds emoji reactions to new channel and group posts.",
-   "descriptionZh": "向新频道和小组帖子添加情感片反应。",
-   "descriptionEn": null,
-   "lang": "en",
+   "username": "ai_news_cn",
+   "kind": "channel",
+   "category": "ai",
+   "tags": [
+    "chatgpt",
+    "llm"
+   ],
+   "title": "ChatGPT / AI新闻聚合",
+   "description": "https://t.me/AI_News_CN\n📈主流AI服务状态页通知 | 🆕汇集全网ChatGPT/AI新闻 #AI #ChatGPT\n🔙备用群 https://t.me/gpt345\n✨BEST AI中转 https://api.oaibest.com 2.8折起 支持OpenAI, Claude code, Gemini,Grok, Deepseek, Midjourney, 文件上传分析\n\nBuy ads: https://telega.io/c/AI_News_CN",
+   "descriptionZh": null,
+   "descriptionEn": "HTTPS://t.me/AI_News_CN Mainstream AI service status page Notification HTTPS ChatGPT/AI news #AI #ChatGPT backup group HTTPS://t.me/gpt345 BEST AI browsing HTTPS://api.oaibest.com 2.8 down support OpenAI, Claude code, Gemini, Grok, Deepseek, Midjourney, file upload analytics Buy ads: https://telega.io/c/AI_News_CN",
+   "lang": "zh",
    "verified": false,
-   "members": 22292,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
+   "members": 22326,
+   "tgCreatedAt": "2023-03-24T17:03:29.000Z",
+   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "zhetengsha_group",
@@ -7023,27 +6962,9 @@
    "descriptionEn": "Power Users/Automators toss/discuss/share various open-source tools/scripts/automated workflows  channel @zhetengsha 📌 resource aggregation navigation https://t.me/zhetengsha/2  advertising placed @xream, @xream_bot Buy ads: https://telega.io/c/zhetengsha ⚠️ does not advocate free streaming / murdering / hacking and other offenses ⚠️ does not spread pornography / superstition / cult / piracy / terror / violence / political / reactive content",
    "lang": "zh",
    "verified": false,
-   "members": 22219,
+   "members": 22223,
    "tgCreatedAt": "2022-02-20T03:20:14.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
-  },
-  {
-   "username": "ai_news_cn",
-   "kind": "channel",
-   "category": "ai",
-   "tags": [
-    "chatgpt",
-    "llm"
-   ],
-   "title": "ChatGPT / AI新闻聚合",
-   "description": "https://t.me/AI_News_CN\n📈主流AI服务状态页通知 | 🆕汇集全网ChatGPT/AI新闻 #AI #ChatGPT\n🔙备用群 https://t.me/gpt345\n✨BEST AI中转 https://api.oaibest.com 2.8折起 支持OpenAI, Claude code, Gemini,Grok, Deepseek, Midjourney, 文件上传分析\n\nBuy ads: https://telega.io/c/AI_News_CN",
-   "descriptionZh": null,
-   "descriptionEn": "HTTPS://t.me/AI_News_CN Mainstream AI service status page Notification HTTPS ChatGPT/AI news #AI #ChatGPT backup group HTTPS://t.me/gpt345 BEST AI browsing HTTPS://api.oaibest.com 2.8 down support OpenAI, Claude code, Gemini, Grok, Deepseek, Midjourney, file upload analytics Buy ads: https://telega.io/c/AI_News_CN",
-   "lang": "zh",
-   "verified": false,
-   "members": 22214,
-   "tgCreatedAt": "2023-03-24T17:03:29.000Z",
-   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "duckchain_bot",
@@ -7172,9 +7093,24 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 21378,
+   "members": 21365,
    "tgCreatedAt": "2018-03-12T13:09:42.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
+  },
+  {
+   "username": "auto_reaction0_bot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "Auto Reaction Bot ⚡️",
+   "description": "Adds emoji reactions to new channel and group posts.",
+   "descriptionZh": "向新频道和小组帖子添加情感片反应。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 21359,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "moeisland",
@@ -7192,6 +7128,38 @@
    "members": 21354,
    "tgCreatedAt": "2017-03-23T15:55:12.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "shazamchibot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "title": "SHAZAMBOT | MUZIKALAR",
+   "description": "😎\n\nReklama uchun : @...",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 21317,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "mentionmirrorbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Mention Mirror",
+   "description": "Send #admin (@admin) in the group with the bot to call all admins or #all (@all) to call everyone.\n\nSupport: @MentionMan",
+   "descriptionZh": "在 bot 组中发送 #admin (@admin) 以呼叫所有管理员或 #all (@all) 以呼叫所有人。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 21211,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "shumozy",
@@ -7237,6 +7205,21 @@
    "lang": "en",
    "verified": false,
    "members": 20918,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "mkfrbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Echo Bots Maker",
+   "description": "The largest professional platform specialized in making Telegram Bots.",
+   "descriptionZh": "最大的专业平台,专门制作Telegram Bots。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 20912,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -7322,6 +7305,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "getsomefrieschannel",
+   "kind": "channel",
+   "category": "blog",
+   "tags": [],
+   "title": "🍟 整点薯条: 频道",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 20187,
+   "tgCreatedAt": "2022-01-08T04:23:42.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
    "username": "douyin_download_bot",
    "kind": "bot",
    "category": "media",
@@ -7337,21 +7335,6 @@
    "members": 20157,
    "tgCreatedAt": null,
    "listedAt": "2026-09-18T07:49:15.945Z"
-  },
-  {
-   "username": "getsomefrieschannel",
-   "kind": "channel",
-   "category": "blog",
-   "tags": [],
-   "title": "🍟 整点薯条: 频道",
-   "description": "",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "zh",
-   "verified": false,
-   "members": 20152,
-   "tgCreatedAt": "2022-01-08T04:23:42.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "mentionrobot",
@@ -7392,7 +7375,7 @@
    "description": "投稿请发至投稿机器人 @miaowu_submission_bot\n有问题请戳管理 @pikameow @HCT_Nekobot\n让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ\n友链：狗狗频道 @wushuwang 兔兔频道 @pyon_channel",
    "descriptionZh": null,
    "descriptionEn": "Posted to Post Robot @miaowu_submission_bot With a problem please tap admin @pikameow @HCT_Nekobot Let's build a world that is all about cats!",
-   "lang": "en",
+   "lang": "zh",
    "verified": false,
    "members": 19963,
    "tgCreatedAt": "2015-12-30T14:11:00.000Z",
@@ -7427,7 +7410,7 @@
    "descriptionEn": "This group only discusses Bitcoin API and directly related program design topics. Do not deal with account problems, do not accept complaints, and do not receive its blocked complaints. Otherwise ban. If you do not understand the meaning of \"API\", then this group is not for you. API English group @Binance_api_English API document link https://github.com/binance/binance-official-api-docs before asking questions, make sure: 1. have read the documentation. 2. have searched in the group for historical discussions. 3. have eliminated the bugs of their own program and network environment to save everyone’s time.",
    "lang": "zh",
    "verified": false,
-   "members": 19801,
+   "members": 19814,
    "tgCreatedAt": "2017-11-23T02:16:07.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -7442,7 +7425,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": true,
-   "members": 19750,
+   "members": 19742,
    "tgCreatedAt": "2018-03-01T10:53:27.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -7542,7 +7525,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 18989,
+   "members": 19000,
    "tgCreatedAt": "2019-03-31T12:42:24.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -7565,6 +7548,21 @@
    "listedAt": "2026-09-18T07:49:15.945Z"
   },
   {
+   "username": "myluckystar8_bot",
+   "kind": "bot",
+   "category": "giveaway",
+   "tags": [],
+   "title": "LuckyStar | 抽奖机器人🎁",
+   "description": "👨🏻‍💻问题反馈：https://t.me/paocai6\n📢官方频道：https://t.me/MyLuckyStar6",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 18927,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "veomaxbot",
    "kind": "bot",
    "category": "ai",
@@ -7578,21 +7576,6 @@
    "lang": "en",
    "verified": false,
    "members": 18800,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "virustotal_av_bot",
-   "kind": "bot",
-   "category": "files",
-   "tags": [],
-   "title": "VirusTotal",
-   "description": "Send me a file and I will analyze it for viruses using over 70 different antiviruses.\n\n@kyelii",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 18786,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -7627,6 +7610,23 @@
    "members": 18706,
    "tgCreatedAt": "2024-08-06T04:30:48.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "cwallet_com_bot",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "on-chain"
+   ],
+   "title": "Cwallet Bot",
+   "description": "Unlock the Diverse Applications of Crypto in Web3.0 World.\n🔗 cwallet.com\n🌍 Channel: @CwalletNews",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 18703,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "w3bflixbot",
@@ -7703,24 +7703,37 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 18477,
+   "members": 18448,
    "tgCreatedAt": "2018-08-30T00:54:44.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "cwallet_com_bot",
+   "username": "calsibot",
    "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "on-chain"
-   ],
-   "title": "Cwallet Bot",
-   "description": "Unlock the Diverse Applications of Crypto in Web3.0 World.\n🔗 cwallet.com\n🌍 Channel: @CwalletNews",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Calsi Bot 🔱 @CalsiBotDev",
+   "description": "A general-purpose bot for your groups, from /roll and /hug, to /fish and /kys.\n\nJoin @CalsiBotDev to learn more.",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 18369,
+   "members": 18399,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "virustotal_av_bot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [],
+   "title": "VirusTotal",
+   "description": "Send me a file and I will analyze it for viruses using over 70 different antiviruses.\n\n@kyelii",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 18370,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -7738,21 +7751,6 @@
    "members": 18170,
    "tgCreatedAt": "2016-11-07T23:53:30.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "calsibot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Calsi Bot 🔱 @CalsiBotDev",
-   "description": "A general-purpose bot for your groups, from /roll and /hug, to /fish and /kys.\n\nJoin @CalsiBotDev to learn more.",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 18135,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "limboprossr",
@@ -7780,24 +7778,9 @@
    "descriptionEn": "Channel: https://t.me/routergroup Top: https://t.me/ruanlu/6608",
    "lang": "zh",
    "verified": false,
-   "members": 17829,
+   "members": 17814,
    "tgCreatedAt": "2020-04-23T11:46:24.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "myluckystar8_bot",
-   "kind": "bot",
-   "category": "giveaway",
-   "tags": [],
-   "title": "LuckyStar | 抽奖机器人🎁",
-   "description": "👨🏻‍💻问题反馈：https://t.me/paocai6\n📢官方频道：https://t.me/MyLuckyStar6",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "zh",
-   "verified": false,
-   "members": 17793,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "lychee_wood",
@@ -7828,7 +7811,7 @@
    "descriptionEn": "Support for all types of Linux/OpenWrt environments",
    "lang": "zh",
    "verified": false,
-   "members": 17667,
+   "members": 17689,
    "tgCreatedAt": "2020-11-27T01:55:53.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -7849,6 +7832,24 @@
    "members": 17635,
    "tgCreatedAt": "2021-07-08T21:13:15.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
+  },
+  {
+   "username": "lemaned1314",
+   "kind": "channel",
+   "category": "books",
+   "tags": [
+    "anime",
+    "ebooks"
+   ],
+   "title": "Lemaned的宝藏书屋（轻小说书库）",
+   "description": "分享各种有趣的轻小说",
+   "descriptionZh": null,
+   "descriptionEn": "Share some interesting little novels.",
+   "lang": "zh",
+   "verified": false,
+   "members": 17618,
+   "tgCreatedAt": "2025-12-16T16:06:16.000Z",
+   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "drwebbot",
@@ -7884,24 +7885,6 @@
    "members": 17493,
    "tgCreatedAt": "2022-01-10T06:29:04.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
-   "username": "lemaned1314",
-   "kind": "channel",
-   "category": "books",
-   "tags": [
-    "anime",
-    "ebooks"
-   ],
-   "title": "Lemaned的宝藏书屋（轻小说书库）",
-   "description": "分享各种有趣的轻小说",
-   "descriptionZh": null,
-   "descriptionEn": "Share some interesting little novels.",
-   "lang": "zh",
-   "verified": false,
-   "members": 17374,
-   "tgCreatedAt": "2025-12-16T16:06:16.000Z",
-   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "rootdatalabs",
@@ -8014,7 +7997,7 @@
    "description": "",
    "descriptionZh": null,
    "descriptionEn": null,
-   "lang": "zh",
+   "lang": "en",
    "verified": false,
    "members": 16984,
    "tgCreatedAt": "2021-12-07T02:22:28.000Z",
@@ -8147,24 +8130,9 @@
    "descriptionEn": "Please read the group rules in detail, all violations of the rules are prohibited! (Retreaters bot automatically permanently blocked) Prohibited political, political topics related content Prohibited pornography, children's cars, annoying and annoying Prohibited ads, any ads Please contact the group owner Prohibited fighting, including topics that may lead to warfare Prohibited backpack, management with final disposal Contact: @hwzy0_bot Resource channel: @HelloWorld_1024",
    "lang": "zh",
    "verified": false,
-   "members": 16411,
+   "members": 16409,
    "tgCreatedAt": "2022-11-30T13:08:07.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
-  },
-  {
-   "username": "menubuilderbot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Menu Builder Bot",
-   "description": "ℹ MenuBuilderBot - creates Menu Bots, eShops, works in Groups, has its own Ads Market.\n\n«💮MegaHub» project:\n@MegaHubBot",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 16382,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "cool_scripts",
@@ -8184,17 +8152,17 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "joinhidebot",
+   "username": "menubuilderbot",
    "kind": "bot",
    "category": "group-admin",
    "tags": [],
-   "title": "Joinhidebot",
-   "description": "Bot cleans joined and left service messages",
+   "title": "Menu Builder Bot",
+   "description": "ℹ MenuBuilderBot - creates Menu Bots, eShops, works in Groups, has its own Ads Market.\n\n«💮MegaHub» project:\n@MegaHubBot",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 16293,
+   "members": 16213,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -8216,6 +8184,24 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "voicybot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "free",
+    "open-source"
+   ],
+   "title": "Voicy 🇺🇦",
+   "description": "😎 Voicy converts any voice messages, audio files and video messages it gets to text. Source: bit.ly/2FNr0vx",
+   "descriptionZh": "语音将任何语音消息,音频文件和视频消息转换为文本. 来源:bit.ly/2FNr0vx",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 16123,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
    "username": "verifybot",
    "kind": "bot",
    "category": "tools",
@@ -8234,22 +8220,19 @@
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
-   "username": "voicybot",
+   "username": "joinhidebot",
    "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "free",
-    "open-source"
-   ],
-   "title": "Voicy 🇺🇦",
-   "description": "😎 Voicy converts any voice messages, audio files and video messages it gets to text. Source: bit.ly/2FNr0vx",
-   "descriptionZh": "语音将任何语音消息,音频文件和视频消息转换为文本. 来源:bit.ly/2FNr0vx",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Joinhidebot",
+   "description": "Bot cleans joined and left service messages",
+   "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 15881,
+   "members": 15911,
    "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "pdchinanews",
@@ -8298,27 +8281,9 @@
    "descriptionEn": "❤️ Welcome to the official Chinese community TRON: tron.network trondao.org official Chinese X: https://x.com/trondaoCN Wavefield official WeChat customer service: TRON-Boy (WeChat:TronService02 ) 🎁 Score system introduction: You can earn points by doing tasks, meet 80 points in private contact with the administrator for the beautiful surroundings of the wavefield. ⚠️ Administrators will never actively chat with users, your private chat is a scam! ⚠️ Don't trust the recommendation of projects, false advertising or other communication groups.",
    "lang": "zh",
    "verified": false,
-   "members": 15809,
+   "members": 15803,
    "tgCreatedAt": "2018-05-29T08:43:37.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
-  },
-  {
-   "username": "username_bot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "free",
-    "official"
-   ],
-   "title": "Username Bot",
-   "description": "Claim an occupied username for your Telegram account, public group or channel.",
-   "descriptionZh": "要求您的Telegram帐户、公共群组或频道使用的用户名。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 15774,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "projectxray",
@@ -8351,6 +8316,38 @@
    "members": 15748,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "pdfbot",
+   "kind": "bot",
+   "category": "files",
+   "tags": [],
+   "title": "PDF Bot",
+   "description": "A bot that can do a lot of things related to PDF files",
+   "descriptionZh": "一个可以做很多与PDF文件相关的事情的机器人",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 15739,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "skeddybot",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [
+    "free"
+   ],
+   "title": "Skeddy",
+   "description": "Skeddy is a simple yet powerful reminder tool that can help you create and manage your reminders. https://skeddy.me/",
+   "descriptionZh": "Skeddy是一个简单但强大的提醒工具,可以帮助您创建和管理提醒。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 15686,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "stopca",
@@ -8386,21 +8383,6 @@
    "members": 15569,
    "tgCreatedAt": "2021-06-05T16:10:58.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
-   "username": "pdfbot",
-   "kind": "bot",
-   "category": "files",
-   "tags": [],
-   "title": "PDF Bot",
-   "description": "A bot that can do a lot of things related to PDF files",
-   "descriptionZh": "一个可以做很多与PDF文件相关的事情的机器人",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 15515,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "mihomopartychannel",
@@ -8485,23 +8467,6 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "skeddybot",
-   "kind": "bot",
-   "category": "productivity",
-   "tags": [
-    "free"
-   ],
-   "title": "Skeddy",
-   "description": "Skeddy is a simple yet powerful reminder tool that can help you create and manage your reminders. https://skeddy.me/",
-   "descriptionZh": "Skeddy是一个简单但强大的提醒工具,可以帮助您创建和管理提醒。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 15418,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
-  },
-  {
    "username": "steamsteam",
    "kind": "channel",
    "category": "games",
@@ -8527,9 +8492,27 @@
    "descriptionEn": "[RSS full subscription real-time update] News @zhihuribao_rss New York Times @niuyueshibao_rss BBC Chinese @bbczhongwen_rss Reuters Chinese @lutouzhongwen_rss Voice of the United States @meiguozhiyin_rss FT Chinese @ftzhongwen_rss Bilingual News @shuangyunews_rss Early Reading Bookgroup @ideahub_ml",
    "lang": "zh",
    "verified": false,
-   "members": 15366,
+   "members": 15387,
    "tgCreatedAt": "2019-09-27T15:50:06.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "username_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [
+    "free",
+    "official"
+   ],
+   "title": "Username Bot",
+   "description": "Claim an occupied username for your Telegram account, public group or channel.",
+   "descriptionZh": "要求您的Telegram帐户、公共群组或频道使用的用户名。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 15213,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "goreading",
@@ -8631,21 +8614,6 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "blackwerewolfbot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [],
-   "title": "BlackWerewolf",
-   "description": "The second @blackwwrobot\nSee @BlackWolfAnnouncements for information and updates.\n\nFor support: @blackwolfhelp",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 14777,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "bug_bounty_channel",
    "kind": "channel",
    "category": "tech",
@@ -8731,6 +8699,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "blackwerewolfbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [],
+   "title": "BlackWerewolf",
+   "description": "The second @blackwwrobot\nSee @BlackWolfAnnouncements for information and updates.\n\nFor support: @blackwolfhelp",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 14574,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "orzmini",
    "kind": "channel",
    "category": "vpn",
@@ -8746,6 +8729,21 @@
    "members": 14540,
    "tgCreatedAt": "2020-04-04T21:46:18.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "refatherbot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Refather Bot",
+   "description": "❓ Помощь — @refather_support_bot",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 14513,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "gemini12pro_bot",
@@ -8846,17 +8844,49 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "refatherbot",
+   "username": "dogdairy",
+   "kind": "channel",
+   "category": "life",
+   "tags": [],
+   "title": "中年人生存报告",
+   "description": "关于职场、生活、创业、30+、失业、中年生活、夫妻关系等。投稿/合作： @inside1024_bot",
+   "descriptionZh": null,
+   "descriptionEn": "About workplace, life, entrepreneurship, 30+, unemployment, middle-aged life, couple relationships, etc. Post/co-operation: @inside1024_bot",
+   "lang": "zh",
+   "verified": false,
+   "members": 14079,
+   "tgCreatedAt": "2023-10-04T17:54:02.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "tmail_ton_bot",
    "kind": "bot",
    "category": "tools",
-   "tags": [],
-   "title": "Refather Bot",
-   "description": "❓ Помощь — @refather_support_bot",
+   "tags": [
+    "ton"
+   ],
+   "title": "Tmail App 💎",
+   "description": "Web3 & Web2 secure email on TON.\nOwn your digital identity, protect your privacy.\n\nChannel: @TmailOfficial",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 14219,
+   "members": 13978,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "xpress_postbot",
+   "kind": "bot",
+   "category": "channel-tools",
+   "tags": [],
+   "title": "Xpress Post Bot",
+   "description": "I'm Channel Managing Bot\nCreate Posts with Buttons for your Multiple Channels Schedule Deleting, Formatting etc.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 13974,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -8873,37 +8903,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 14169,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "dogdairy",
-   "kind": "channel",
-   "category": "life",
-   "tags": [],
-   "title": "中年人生存报告",
-   "description": "关于职场、生活、创业、30+、失业、中年生活、夫妻关系等。投稿/合作： @inside1024_bot",
-   "descriptionZh": null,
-   "descriptionEn": "About workplace, life, entrepreneurship, 30+, unemployment, middle-aged life, couple relationships, etc. Post/co-operation: @inside1024_bot",
-   "lang": "zh",
-   "verified": false,
-   "members": 14079,
-   "tgCreatedAt": "2023-10-04T17:54:02.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "xpress_postbot",
-   "kind": "bot",
-   "category": "channel-tools",
-   "tags": [],
-   "title": "Xpress Post Bot",
-   "description": "I'm Channel Managing Bot\nCreate Posts with Buttons for your Multiple Channels Schedule Deleting, Formatting etc.",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 13974,
+   "members": 13937,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -9039,6 +9039,21 @@
    "listedAt": "2026-09-17T06:24:41.366Z"
   },
   {
+   "username": "the_price_tracker_bot",
+   "kind": "bot",
+   "category": "tools",
+   "tags": [],
+   "title": "Price Tracker & Alert Bot",
+   "description": "\"Amazon, Amazon Prime, the Amazon logo and Amazon Prime logo are trademarks of Amazon.com, Inc. or its affiliates\"",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 13581,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "xgeekshare",
    "kind": "channel",
    "category": "software",
@@ -9132,7 +9147,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 13532,
+   "members": 13524,
    "tgCreatedAt": "2019-09-26T15:25:56.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -9154,6 +9169,24 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
+   "username": "songidbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [
+    "music",
+    "open-source"
+   ],
+   "title": "Song🆔",
+   "description": "Open-source bot that can identify music, similar to Shazam.\nSupport: @SongIDsupportbot\ngithub.com/smcclennon/SongID",
+   "descriptionZh": "可以识别音乐的开源机器人,类似于Shazam。支持: @SongIDsupportbot github.com/smcclennon/SongID",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 13472,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "pojieapp",
    "kind": "channel",
    "category": "deals",
@@ -9171,23 +9204,6 @@
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
-   "username": "datasciencechats",
-   "kind": "group",
-   "category": "tech",
-   "tags": [
-    "programming"
-   ],
-   "title": "Data Science,ML & AI Nugget Chats",
-   "description": "Discussion community for DS, ML, IOT, AI, DEEP LEARNING and much more from Main Channel @kdnuggets and discuss @DatascienceChats",
-   "descriptionZh": "DS、ML、IOT、AI、DEEP LEARNING 和更多来自主频道 @kdnuggets 的讨论社区,并讨论 @DatascienceChats",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 13388,
-   "tgCreatedAt": "2018-07-17T09:08:12.000Z",
-   "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
    "username": "googlevoice",
    "kind": "group",
    "category": "interest",
@@ -9203,19 +9219,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "the_price_tracker_bot",
-   "kind": "bot",
-   "category": "tools",
-   "tags": [],
-   "title": "Price Tracker & Alert Bot",
-   "description": "\"Amazon, Amazon Prime, the Amazon logo and Amazon Prime logo are trademarks of Amazon.com, Inc. or its affiliates\"",
-   "descriptionZh": null,
+   "username": "datasciencechats",
+   "kind": "group",
+   "category": "tech",
+   "tags": [
+    "programming"
+   ],
+   "title": "Data Science,ML & AI Nugget Chats",
+   "description": "Discussion community for DS, ML, IOT, AI, DEEP LEARNING and much more from Main Channel @kdnuggets and discuss @DatascienceChats",
+   "descriptionZh": "DS、ML、IOT、AI、DEEP LEARNING 和更多来自主频道 @kdnuggets 的讨论社区,并讨论 @DatascienceChats",
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 13351,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
+   "members": 13373,
+   "tgCreatedAt": "2018-07-17T09:08:12.000Z",
+   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "okx_wallet_bot",
@@ -9251,24 +9269,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "songidbot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [
-    "music",
-    "open-source"
-   ],
-   "title": "Song🆔",
-   "description": "Open-source bot that can identify music, similar to Shazam.\nSupport: @SongIDsupportbot\ngithub.com/smcclennon/SongID",
-   "descriptionZh": "可以识别音乐的开源机器人,类似于Shazam。支持: @SongIDsupportbot github.com/smcclennon/SongID",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 13238,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T14:58:32.768Z"
-  },
-  {
    "username": "ks_merlin",
    "kind": "channel",
    "category": "software",
@@ -9284,23 +9284,6 @@
    "members": 13091,
    "tgCreatedAt": "2020-03-17T14:32:33.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "maxswap_bot",
-   "kind": "bot",
-   "category": "crypto",
-   "tags": [
-    "on-chain"
-   ],
-   "title": "MaxSwap Crypto Wallet",
-   "description": "Crypto card for Apple & Google Pay\nTop up with crypto | @MaxSwap_bot\n🕹 Support @maxswap_support",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 13061,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "what_youread",
@@ -9400,19 +9383,17 @@
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
   {
-   "username": "tmail_ton_bot",
+   "username": "chattytutorbot",
    "kind": "bot",
-   "category": "tools",
-   "tags": [
-    "ton"
-   ],
-   "title": "Tmail App 💎",
-   "description": "Web3 & Web2 secure email on TON.\nOwn your digital identity, protect your privacy.\n\nChannel: @TmailOfficial",
+   "category": "ai",
+   "tags": [],
+   "title": "Chatty - English Tutor",
+   "description": "Bot №1 for studying English.\nChannel: @ChattyEnglishBotChannel\nAny questions: @chatty_boss",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 12919,
+   "members": 12896,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -9445,6 +9426,23 @@
    "members": 12784,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
+   "username": "inlinegamesbot",
+   "kind": "bot",
+   "category": "games",
+   "tags": [
+    "free"
+   ],
+   "title": "Inline Games 🎲",
+   "description": "I'm just a simple bot that uses inline keyboards to provide some entertainment.",
+   "descriptionZh": "我只是一个简单的机器人,它使用内线键盘来提供一些娱乐。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 12761,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-18T11:22:17.994Z"
   },
   {
    "username": "roundyourvideobot",
@@ -9493,6 +9491,23 @@
    "members": 12702,
    "tgCreatedAt": "2020-08-04T09:50:13.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
+  },
+  {
+   "username": "maxswap_bot",
+   "kind": "bot",
+   "category": "crypto",
+   "tags": [
+    "on-chain"
+   ],
+   "title": "MaxSwap Crypto Wallet",
+   "description": "Crypto card for Apple & Google Pay\nTop up with crypto | @MaxSwap_bot\n🕹 Support @maxswap_support",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 12685,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "cryptowhalebot",
@@ -9574,6 +9589,24 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
+   "username": "copilotofficialbot",
+   "kind": "bot",
+   "category": "ai",
+   "tags": [
+    "llm",
+    "official"
+   ],
+   "title": "Microsoft Copilot",
+   "description": "Your everyday AI companion, here to make life easier and talk about anything. Always here for you!",
+   "descriptionZh": "你的日常AI伴侣,在这里让生活更容易,谈论任何事情。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": 12518,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
    "username": "projectv2ray",
    "kind": "group",
    "category": "vpn",
@@ -9586,24 +9619,9 @@
    "descriptionEn": "Project V official discussion group, content limited to the use of wall tools and banned any content not related to network, computer, or security. official website: www.v2ray.com announcement: @v2msgclone V2fly (community): @v2fly_chat chat: t.me/joinchat/JiDjBEzQFLN5R_BdpMpelw Twitter: twitter.com/projectv2ray",
    "lang": "zh",
    "verified": false,
-   "members": 12508,
+   "members": 12502,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "chattytutorbot",
-   "kind": "bot",
-   "category": "ai",
-   "tags": [],
-   "title": "Chatty - English Tutor",
-   "description": "Bot №1 for studying English.\nChannel: @ChattyEnglishBotChannel\nAny questions: @chatty_boss",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 12500,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "rsshub",
@@ -9618,26 +9636,24 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 12500,
+   "members": 12494,
    "tgCreatedAt": "2018-04-12T03:14:29.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "inlinegamesbot",
+   "username": "guanggaoshashoubot",
    "kind": "bot",
-   "category": "games",
-   "tags": [
-    "free"
-   ],
-   "title": "Inline Games 🎲",
-   "description": "I'm just a simple bot that uses inline keyboards to provide some entertainment.",
-   "descriptionZh": "我只是一个简单的机器人,它使用内线键盘来提供一些娱乐。",
-   "descriptionEn": null,
-   "lang": "en",
+   "category": "group-admin",
+   "tags": [],
+   "title": "广告杀手 🥷🏻",
+   "description": "本机器人专业封杀中文广告内容以及广告号。\n把该机器人拉入群组中就可以使用，无需任何繁琐设置。\n💡如果遇误封，请让被封禁的人私信本机器人，可以看到解封方式。",
+   "descriptionZh": null,
+   "descriptionEn": "This robot professionally blocked Chinese advertising content as well as advertisement numbers. Drag the robot into the group can be used without any troublesome settings. 💡 If the blocked person, please let the blocked person private email this robot, you can see how to unlock.",
+   "lang": "zh",
    "verified": false,
-   "members": 12439,
+   "members": 12476,
    "tgCreatedAt": null,
-   "listedAt": "2026-09-18T11:22:17.994Z"
+   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "unounofficialbot",
@@ -9651,21 +9667,6 @@
    "lang": "en",
    "verified": false,
    "members": 12383,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
-   "username": "googleimgbot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [],
-   "title": "The UseLess Bot",
-   "description": "it was forbidden 🙊 to mention credits here due to annoying pm spam: https://t.me/c/1014048870/129579",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 12358,
    "tgCreatedAt": null,
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
@@ -9698,39 +9699,6 @@
    "members": 12331,
    "tgCreatedAt": "2019-06-24T01:20:34.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "guanggaoshashoubot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "广告杀手 🥷🏻",
-   "description": "本机器人专业封杀中文广告内容以及广告号。\n把该机器人拉入群组中就可以使用，无需任何繁琐设置。\n💡如果遇误封，请让被封禁的人私信本机器人，可以看到解封方式。",
-   "descriptionZh": null,
-   "descriptionEn": "This robot professionally blocked Chinese advertising content as well as advertisement numbers. Drag the robot into the group can be used without any troublesome settings. 💡 If the blocked person, please let the blocked person private email this robot, you can see how to unlock.",
-   "lang": "zh",
-   "verified": false,
-   "members": 12292,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T14:58:32.768Z"
-  },
-  {
-   "username": "copilotofficialbot",
-   "kind": "bot",
-   "category": "ai",
-   "tags": [
-    "llm",
-    "official"
-   ],
-   "title": "Microsoft Copilot",
-   "description": "Your everyday AI companion, here to make life easier and talk about anything. Always here for you!",
-   "descriptionZh": "你的日常AI伴侣,在这里让生活更容易,谈论任何事情。",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": true,
-   "members": 12287,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T14:58:32.768Z"
   },
   {
    "username": "xuehuashe",
@@ -9779,24 +9747,9 @@
    "descriptionEn": "Multi-platform aggregation bot problem feedback: @MisakaSisters Update push: @mio_room GitHub: github.com/z-mio/parse_hub_bot",
    "lang": "zh",
    "verified": false,
-   "members": 12080,
+   "members": 12040,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T14:58:32.768Z"
-  },
-  {
-   "username": "biscopemyanmar_bot",
-   "kind": "bot",
-   "category": "media",
-   "tags": [],
-   "title": "Biscope Myanmar App",
-   "description": "The First Myanmar Click to Watch Mini App",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 12058,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "telegramit",
@@ -9848,6 +9801,21 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
+   "username": "googleimgbot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [],
+   "title": "The UseLess Bot",
+   "description": "it was forbidden 🙊 to mention credits here due to annoying pm spam: https://t.me/c/1014048870/129579",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 11970,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "querytokenbot",
    "kind": "bot",
    "category": "crypto",
@@ -9880,21 +9848,6 @@
    "members": 11954,
    "tgCreatedAt": "2021-07-21T15:09:53.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "easymoderbot",
-   "kind": "bot",
-   "category": "stickers",
-   "tags": [],
-   "title": "Modero",
-   "description": "The most simple and useful bot with custom emojis for moderation chats and forums Telegram.\n\nMake it easy!",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 11890,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "reddit_download_bot",
@@ -9995,7 +9948,7 @@
    "descriptionEn": "Welcome! here is the official Chinese community for the opening of the gate.All about the gate ecology we can discuss here oh! New users please click the link to get exclusive to your $5 contract experience 👉 https://www.gate.io/rewards/task?from_telegram=1 Register now for 90 USDT & 5500 USDTest 👉 https://www.gate.io/signup ⚠️ Our administrators will never be active private chat users⚠️",
    "lang": "zh",
    "verified": false,
-   "members": 11695,
+   "members": 11683,
    "tgCreatedAt": "2017-10-19T09:16:07.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -10048,6 +10001,21 @@
    "members": 11568,
    "tgCreatedAt": "2025-12-19T08:20:25.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "easymoderbot",
+   "kind": "bot",
+   "category": "stickers",
+   "tags": [],
+   "title": "Modero",
+   "description": "The most simple and useful bot with custom emojis for moderation chats and forums Telegram.\n\nMake it easy!",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 11564,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "safe_utubebot",
@@ -10160,7 +10128,7 @@
    "descriptionEn": "For more tutorials please visit the forum https://www.openos.org Any post or forwarding message contains (Ban + fraud + unmanaged ads) All banned",
    "lang": "zh",
    "verified": false,
-   "members": 11334,
+   "members": 11330,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -10195,6 +10163,21 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
+   "username": "biscopemyanmar_bot",
+   "kind": "bot",
+   "category": "media",
+   "tags": [],
+   "title": "Biscope Myanmar App",
+   "description": "The First Myanmar Click to Watch Mini App",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 11204,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
+  },
+  {
    "username": "archlinuxcn",
    "kind": "channel",
    "category": "tech",
@@ -10211,21 +10194,6 @@
    "members": 11191,
    "tgCreatedAt": "2018-05-30T04:43:16.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
-   "username": "ghstaffbot",
-   "kind": "bot",
-   "category": "group-admin",
-   "tags": [],
-   "title": "Staff Group | GH",
-   "description": "This is an official @GroupHelpBot bot. It can be used to set up a staff group to manage multiple groups together.",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 11163,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "am_translationbot",
@@ -10258,6 +10226,21 @@
    "members": 11119,
    "tgCreatedAt": "2021-01-03T03:11:41.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "ghstaffbot",
+   "kind": "bot",
+   "category": "group-admin",
+   "tags": [],
+   "title": "Staff Group | GH",
+   "description": "This is an official @GroupHelpBot bot. It can be used to set up a staff group to manage multiple groups together.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 11049,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "oiwa_bot",
@@ -10359,6 +10342,21 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
+   "username": "shenzhenz",
+   "kind": "group",
+   "category": "local",
+   "tags": [],
+   "title": "深圳",
+   "description": "禁止传播谣言/盗版\n禁止撕逼/谩骂/人身攻击\n禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW\n\n搜索索引 @Googlezs\n\n话题 @beijingv 上海 @shanghaiz\n广州 @guangzhouz 深圳 @shenzhenz\n武汉 @wuhanz 杭州 @hangzhouz\n重庆 @chongqingz 郑州 @zhengzhouz\n天津 @tianjinz 成都 @chengduzz\n中国 @cnchinese",
+   "descriptionZh": null,
+   "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brushing/porno/driving/NSFW Search index @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
+   "lang": "zh",
+   "verified": false,
+   "members": 10799,
+   "tgCreatedAt": "2019-08-03T14:17:54.000Z",
+   "listedAt": "2026-09-20T09:52:16.457Z"
+  },
+  {
    "username": "tempmailbot",
    "kind": "bot",
    "category": "tools",
@@ -10391,19 +10389,22 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "shenzhenz",
-   "kind": "group",
-   "category": "local",
-   "tags": [],
-   "title": "深圳",
-   "description": "禁止传播谣言/盗版\n禁止撕逼/谩骂/人身攻击\n禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW\n\n搜索索引 @Googlezs\n\n话题 @beijingv 上海 @shanghaiz\n广州 @guangzhouz 深圳 @shenzhenz\n武汉 @wuhanz 杭州 @hangzhouz\n重庆 @chongqingz 郑州 @zhengzhouz\n天津 @tianjinz 成都 @chengduzz\n中国 @cnchinese",
-   "descriptionZh": null,
-   "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brushing/porno/driving/NSFW Search index @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
-   "lang": "zh",
+   "username": "ooapps",
+   "kind": "channel",
+   "category": "deals",
+   "tags": [
+    "free",
+    "ios"
+   ],
+   "title": " App Store 限免应用 & ...",
+   "description": " Limited-Time Free https://oodata.net",
+   "descriptionZh": " 限时免费 https://oodata.net",
+   "descriptionEn": null,
+   "lang": "en",
    "verified": false,
-   "members": 10757,
-   "tgCreatedAt": "2019-08-03T14:17:54.000Z",
-   "listedAt": "2026-09-20T09:52:16.457Z"
+   "members": 10770,
+   "tgCreatedAt": "2025-06-25T00:41:05.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "blindgamer",
@@ -10434,7 +10435,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 10685,
+   "members": 10694,
    "tgCreatedAt": "2020-03-03T06:31:22.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -10454,24 +10455,6 @@
    "members": 10677,
    "tgCreatedAt": "2018-08-09T12:34:52.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "ooapps",
-   "kind": "channel",
-   "category": "deals",
-   "tags": [
-    "free",
-    "ios"
-   ],
-   "title": " App Store 限免应用 & ...",
-   "description": " Limited-Time Free https://oodata.net",
-   "descriptionZh": " 限时免费 https://oodata.net",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 10661,
-   "tgCreatedAt": "2025-06-25T00:41:05.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "tg_internetsecurity",
@@ -10602,22 +10585,21 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
-   "username": "tdlibchat",
-   "kind": "group",
-   "category": "tech",
+   "username": "toncity_bot",
+   "kind": "bot",
+   "category": "games",
    "tags": [
-    "official",
-    "programming"
+    "ton"
    ],
-   "title": "TDLib chat",
-   "description": "",
+   "title": "TON City",
+   "description": "Let’s build the future together!\n\nAnnouncement channel: @toncity_hq\nCommunity group: @toncity_hq_group",
    "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 10369,
-   "tgCreatedAt": "2018-03-05T14:28:52.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
+   "members": 10378,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "scanidbot",
@@ -10789,6 +10771,24 @@
    "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
+   "username": "tdlibchat",
+   "kind": "group",
+   "category": "tech",
+   "tags": [
+    "official",
+    "programming"
+   ],
+   "title": "TDLib chat",
+   "description": "",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 10071,
+   "tgCreatedAt": "2018-03-05T14:28:52.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
    "username": "music163bot",
    "kind": "bot",
    "category": "media",
@@ -10819,7 +10819,7 @@
    "descriptionEn": "Provide valuable information and in-depth insights in the field of cryptocurrencies and blockchain. Join discussion: t.me/PANewsLab Subscription News: t.me/ChannelPANews PA Editorial: t.me/PANewsSelected Forecasting Market Smart Money Monitoring: t.me/+5wXnvGdCEKcwN Website: PANewsLab.com APP: panewslab.com/img/upload/app/down.html Chinese Twitter: twitter.com/PANewsCN TwitterEN: twitter.com/PANYGroup",
    "lang": "zh",
    "verified": false,
-   "members": 10005,
+   "members": 9997,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -10859,23 +10859,6 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "gpt_user",
-   "kind": "group",
-   "category": "ai",
-   "tags": [
-    "chatgpt"
-   ],
-   "title": "ChatGPT AI",
-   "description": "ChatGPT AI机器人使用交流讨论",
-   "descriptionZh": null,
-   "descriptionEn": "ChatGPT uses AI robots to communicate",
-   "lang": "zh",
-   "verified": false,
-   "members": 9902,
-   "tgCreatedAt": "2023-02-21T07:14:49.000Z",
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
    "username": "bnbchainzh",
    "kind": "group",
    "category": "crypto",
@@ -10891,6 +10874,23 @@
    "members": 9897,
    "tgCreatedAt": "2022-04-01T04:22:12.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
+  },
+  {
+   "username": "gpt_user",
+   "kind": "group",
+   "category": "ai",
+   "tags": [
+    "chatgpt"
+   ],
+   "title": "ChatGPT AI",
+   "description": "ChatGPT AI机器人使用交流讨论",
+   "descriptionZh": null,
+   "descriptionEn": "ChatGPT uses AI robots to communicate",
+   "lang": "zh",
+   "verified": false,
+   "members": 9889,
+   "tgCreatedAt": "2023-02-21T07:14:49.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
    "username": "dollcall",
@@ -10953,7 +10953,7 @@
    "descriptionEn": "About #RSS technology #application # surroundings # introduction # method # tutorial # guide # discussion # views # tips RSS = Really Simple Syndication / Rich Site Summary Twitter:https://twitter.com/aboutrss channel RSS Feed:https://feeds.feedburner.com/ALLAboutRSS channel bot:@channelmcbot group:@allaboutrss (benefit: Twitter account Retweet will be automatically sent to group)",
    "lang": "zh",
    "verified": false,
-   "members": 9526,
+   "members": 9513,
    "tgCreatedAt": "2019-07-09T13:52:07.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -10988,23 +10988,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "dajiajia",
-   "kind": "group",
-   "category": "interest",
-   "tags": [
-    "freebies"
-   ],
-   "title": "好棒 🌈 羊毛超级搜",
-   "description": "捡漏线报QQ微信群 https://jinshuju.net/f/tZwNdJ\n\n⬇️羊王🐏频道 @yangwangpindao\n🌈 羊毛超级搜群组 @dajiajia\n⬇️福利超级搜网站 tb.applebl.com\n⬇️小火箭共享ID 独享ID 兑换码\nwohaobang.cn\n🐷频道主 好棒的羊王 @haobangdada\n🌈 羊毛超级自助搜 @dajiajia",
-   "descriptionZh": null,
-   "descriptionEn": "QQ WeChat Group https://jinshuju.net/f/tZwNdJ ⬇️ Shepherd Channel @yangwangpindao  Shepherd Super Search Group @dajiajia ⬇️ Benefits Super Search Website tb.applebl.com ⬇️ Small Rocket Sharing ID Exclusive ID Conversion Code wohaobang.cn Shepherd Channel Master Good Shepherd @haobangdada ⬇️ Shepherd Super Self-Search @dajiajia",
-   "lang": "zh",
-   "verified": false,
-   "members": 9212,
-   "tgCreatedAt": "2018-01-22T11:24:31.000Z",
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
    "username": "theforum",
    "kind": "group",
    "category": "chat",
@@ -11017,9 +11000,26 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 9174,
+   "members": 9176,
    "tgCreatedAt": "2022-10-23T09:33:22.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
+  },
+  {
+   "username": "dajiajia",
+   "kind": "group",
+   "category": "interest",
+   "tags": [
+    "freebies"
+   ],
+   "title": "好棒 🌈 羊毛超级搜",
+   "description": "捡漏线报QQ微信群 https://jinshuju.net/f/tZwNdJ\n\n⬇️羊王🐏频道 @yangwangpindao\n🌈 羊毛超级搜群组 @dajiajia\n⬇️福利超级搜网站 tb.applebl.com\n⬇️小火箭共享ID 独享ID 兑换码\nwohaobang.cn\n🐷频道主 好棒的羊王 @haobangdada\n🌈 羊毛超级自助搜 @dajiajia",
+   "descriptionZh": null,
+   "descriptionEn": "QQ WeChat Group https://jinshuju.net/f/tZwNdJ ⬇️ Shepherd Channel @yangwangpindao  Shepherd Super Search Group @dajiajia ⬇️ Benefits Super Search Website tb.applebl.com ⬇️ Small Rocket Sharing ID Exclusive ID Conversion Code wohaobang.cn Shepherd Channel Master Good Shepherd @haobangdada ⬇️ Shepherd Super Self-Search @dajiajia",
+   "lang": "zh",
+   "verified": false,
+   "members": 9167,
+   "tgCreatedAt": "2018-01-22T11:24:31.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
    "username": "simfans",
@@ -11083,7 +11083,7 @@
    "descriptionEn": "❤️ Welcome users who are interested in interacting join the official Telegram 03 group: https://t.me/tronnetworkCN03 and chat with the latest dynamics! ⚠ Administrators will never activate private chat users. Please beware of any private message claiming to be sent by the officials of the TRON group, don't be fooled. The group administrator:@TronService01 Official WeChat Service:TRON-Boy (WeChat Number:TronService02 )",
    "lang": "zh",
    "verified": false,
-   "members": 9030,
+   "members": 9036,
    "tgCreatedAt": "2018-01-18T08:32:23.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -11182,7 +11182,7 @@
    "descriptionEn": "Bilibili for tvOS update push channel:https://t.me/miaorelease The main discussion / feedback on the use experience of Miao Project or Bug, and Apple TV related topics Apple TV is not a serious audio video device, high-end devices may not play out, so please don't lever on high-end topics such as audio Please don't randomly scratch your life in the group, will affect the mood of others Please discuss friendly, maintain the communication atmosphere within the group ⚠️ If you are wrongly blocked, please contact@paladinfeng",
    "lang": "zh",
    "verified": false,
-   "members": 8776,
+   "members": 8775,
    "tgCreatedAt": "2021-03-26T14:04:58.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -11317,7 +11317,7 @@
    "descriptionEn": "Egern is already on the App Store, so if you like Egern please support the author and share it with your friends. App Store https://apps.apple.com/us/app/egern/id1616105820 Contact the author Twtter https://twitter.com/byteallen",
    "lang": "zh",
    "verified": false,
-   "members": 8449,
+   "members": 8448,
    "tgCreatedAt": "2022-07-14T16:18:11.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -11334,7 +11334,7 @@
    "descriptionEn": "Main Topics: Main IT topics, including but not limited to open source sharing, hardware & operating system technology discussions, consumer digital electronics related topics \"to join\" · rational chat, reasonable · group rules see group chat top:https://t.me/NewlearnerGroup/1474374 · Considering the many other groups and routes, we do not recommend that you discuss too many agents related topics in this group Channel: @NewlearnerChannel",
    "lang": "zh",
    "verified": false,
-   "members": 8447,
+   "members": 8446,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -11349,7 +11349,7 @@
    "descriptionEn": "TGCN airport alliance official airport main communication center prohibited automatic sending/multi-small/interference group chat/NFSW/with AFF advertising prohibited pretending officials can not enter group account disclosure complaints etc https://t.me/+RV2W3t-HpnlkNGFl can only send one advertisement within 24H, multiple sending/hyper-interference must kick, welcoming peer reports advertising cooperation/transaction guarantee please find @Talocan airport guarantee 3% attached dispute resolution safe and reliable, has been guaranteed dozens of airports no problems, certified user name links to avoid fraud IEPL dedicated to Square/Thirdway domestic resources @Talocan report scammers group sent @admin Xi Jinping",
    "lang": "zh",
    "verified": false,
-   "members": 8424,
+   "members": 8427,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
@@ -11396,7 +11396,7 @@
    "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brushing/porno/driving/NSFW Search index @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
    "lang": "zh",
    "verified": false,
-   "members": 8287,
+   "members": 8303,
    "tgCreatedAt": "2019-08-03T14:32:40.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -11502,24 +11502,6 @@
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
   {
-   "username": "ruanjianfenxiang77",
-   "kind": "channel",
-   "category": "software",
-   "tags": [
-    "android",
-    "windows"
-   ],
-   "title": "互联网研习社（破解软件/游戏 | 实测）",
-   "description": "分享互联网实用技巧、实用软件、破解软件、有趣网站、实用工具，所有软件游戏都经过实测。\nTelegram知识库：https://tgnav.github.io/tgwiki/comment.html",
-   "descriptionZh": null,
-   "descriptionEn": "Share Internet utilities, utilities, hacking software, interesting websites, utilities, and all software games are tested. Telegram knowledge base: https://tgnav.github.io/tgwiki/comment.html",
-   "lang": "zh",
-   "verified": false,
-   "members": 8160,
-   "tgCreatedAt": "2024-03-26T02:59:18.000Z",
-   "listedAt": "2026-09-20T10:07:05.780Z"
-  },
-  {
    "username": "linsbooka",
    "kind": "channel",
    "category": "life",
@@ -11545,7 +11527,7 @@
    "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brushing/porno/driving/NSFW Search index @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
    "lang": "zh",
    "verified": false,
-   "members": 8007,
+   "members": 8044,
    "tgCreatedAt": "2019-08-03T14:07:08.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -11692,7 +11674,7 @@
    "descriptionEn": "Here is the official Hostloc group, forbidding discussing political content, forbidding quarrels, personal attacks, and forbidding NSFW content.",
    "lang": "zh",
    "verified": false,
-   "members": 7663,
+   "members": 7670,
    "tgCreatedAt": "2020-04-25T05:47:23.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -11707,7 +11689,7 @@
    "descriptionEn": "This group is used to discuss topics related to Xi'an's clothing and food housing, and can also talk about other topics, in principle do not make restrictions on topics and chat content. However, in order not to cause trouble to the large crowd, please abide by the following arrangements: 1. do not frequently send advertisements, commercial connections and other content; 2. do not send images containing exposed sexual content or bloody content, so as not to cause discomfort to the crowd; 3. do not speak out to attack others; 4. do not cheat and deceive in the crowd; 5. do not discuss political topics; 6. do not prohibit gambling, drugs, examination fraud, high-interest credit and other topics; 7. do not spread Falun Gong related content in the crowd; 8. do not use the group to engage in any",
    "lang": "zh",
    "verified": false,
-   "members": 7614,
+   "members": 7599,
    "tgCreatedAt": "2017-05-23T07:37:41.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -11848,7 +11830,7 @@
    "descriptionEn": "Includes a paid VPS community, dynamic feedback on important messages in the host community, high performance and cost-effective VPS information exchange. Signal flagship information feedback. Try not to discuss politics within the group and it will become chaotic. This group prohibits any form of discrimination, such as racism, targeting minorities, gender discrimination, etc. This group is neither a pink group nor an anti-theft group. Technical discussion please add: https://t.me/vpsxinhaoqi",
    "lang": "zh",
    "verified": false,
-   "members": 7391,
+   "members": 7388,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -11898,7 +11880,7 @@
    "descriptionEn": "The news channel @archlinuxcn needs to be checked before you join the group, and you can but don't recommend withdrawing after you join the group. Please read https://z.sh/arch and the group's top message before you join the group. The main group has banned the stickers. Please do not delete yourself unless it involves privacy or violation. Please do not discuss issues other than Arch such as Manjaro/SteamOS/CachyOS in advance. @nichi_matrix_bot is a reseller robot @archlinuxcn_offtopic game @archlinuxcn_game @ArchlinuxCN_Appearance Please do not discuss NSFW topics.",
    "lang": "zh",
    "verified": false,
-   "members": 7145,
+   "members": 7146,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -12032,9 +12014,26 @@
    "descriptionEn": "This group is a free OpenClaw Chinese community, for technical learning exchange; prohibit all invitations, promotions, head-to-head links, prohibits referrals to domestic platforms! top message: https://t.me/OpenClaw_Group/44325 ⚠️ group rules are as follows, if there is a violation, prohibited forbidden political, pornography, NSFW, advertising, screenshots, bloody violence prohibited abuse, hate speech, illegal acts prohibited malicious impulses, guiding DDoS",
    "lang": "zh",
    "verified": false,
-   "members": 6811,
+   "members": 6806,
    "tgCreatedAt": "2026-02-03T02:20:30.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
+  },
+  {
+   "username": "zaihuachat",
+   "kind": "group",
+   "category": "chat",
+   "tags": [
+    "gadgets"
+   ],
+   "title": "在花小茶馆🍵",
+   "description": "科技圈投稿：@zaihuabot\n\n【莫谈国事】 大家多多分享\n• 禁止推广/黑产/刷屏/色情/ NSFW\n• 禁止黄赌毒/宗教/政治/键政\n• 禁止撕逼/人身攻击/阴阳怪气\n\n侵权/申诉/帮助：@BiuAsstBot\n备用频道：@zaihuatg\n发图可用：https://img.lily.lat",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 6801,
+   "tgCreatedAt": "2026-04-16T02:01:20.000Z",
+   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "cnphotog_collect",
@@ -12066,25 +12065,27 @@
    "descriptionEn": "Announcement channel:@v2fly Please read:https://t.me/v2fly_chat/180673 Notice of copyright abuse Please send an email to chat_abuse@v2fly.org (group verification error Please do not spam this email) off-topic group (water):https://t.me/joinchat/TNAUs6D6iUG0wVxW",
    "lang": "zh",
    "verified": false,
-   "members": 6792,
+   "members": 6790,
    "tgCreatedAt": "2019-05-31T08:50:15.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "zaihuachat",
+   "username": "cliproxyapi",
    "kind": "group",
-   "category": "chat",
+   "category": "ai",
    "tags": [
-    "gadgets"
+    "ai-coding",
+    "api-relay",
+    "open-source"
    ],
-   "title": "在花小茶馆🍵",
-   "description": "科技圈投稿：@zaihuabot\n\n【莫谈国事】 大家多多分享\n• 禁止推广/黑产/刷屏/色情/ NSFW\n• 禁止黄赌毒/宗教/政治/键政\n• 禁止撕逼/人身攻击/阴阳怪气\n\n侵权/申诉/帮助：@BiuAsstBot\n备用频道：@zaihuatg\n发图可用：https://img.lily.lat",
+   "title": "CLIProxyAPI交流群",
+   "description": "",
    "descriptionZh": null,
    "descriptionEn": null,
-   "lang": "zh",
+   "lang": "en",
    "verified": false,
-   "members": 6787,
-   "tgCreatedAt": "2026-04-16T02:01:20.000Z",
+   "members": 6759,
+   "tgCreatedAt": "2025-09-05T16:18:21.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
@@ -12103,25 +12104,6 @@
    "members": 6753,
    "tgCreatedAt": "2019-07-14T17:11:38.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
-   "username": "cliproxyapi",
-   "kind": "group",
-   "category": "ai",
-   "tags": [
-    "ai-coding",
-    "api-relay",
-    "open-source"
-   ],
-   "title": "CLIProxyAPI交流群",
-   "description": "",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 6741,
-   "tgCreatedAt": "2025-09-05T16:18:21.000Z",
-   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "blockbeats_app",
@@ -12149,7 +12131,7 @@
    "descriptionEn": "Dedicated to spreading happiness Share some fun, charming and cute things with NSFW sand sculpture friends: @wtmsd",
    "lang": "zh",
    "verified": false,
-   "members": 6680,
+   "members": 6695,
    "tgCreatedAt": "2016-07-20T09:03:56.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12215,7 +12197,7 @@
    "descriptionEn": "Futures, options and speculations of various financial transactions Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity Equity",
    "lang": "zh",
    "verified": false,
-   "members": 6523,
+   "members": 6524,
    "tgCreatedAt": "2019-12-26T16:53:49.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -12398,7 +12380,7 @@
    "descriptionEn": "Beta Release Notification Channel: @Legado_Beta Release Discussion Group: @Beta_Legado",
    "lang": "zh",
    "verified": false,
-   "members": 6102,
+   "members": 6108,
    "tgCreatedAt": "2024-02-20T19:17:02.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
   },
@@ -12445,7 +12427,7 @@
    "descriptionEn": "Unblock @WidgetPlusBot Efficiency Tools, Software Review, Resource Sharing, Everything Here! • Banned Promotion/Black Production/Screen Brushing/NSFW • Banned Yellow Gambling Drugs/Religion/Politics • Banned Physical Attacks/Curse Attention Channel @WidgetChannel",
    "lang": "zh",
    "verified": false,
-   "members": 5895,
+   "members": 5881,
    "tgCreatedAt": "2019-06-12T08:50:39.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12479,7 +12461,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 5808,
+   "members": 5804,
    "tgCreatedAt": "2017-10-05T12:58:51.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12529,7 +12511,7 @@
    "descriptionEn": "Desktop GPT client that supports multi-model services",
    "lang": "zh",
    "verified": false,
-   "members": 5698,
+   "members": 5701,
    "tgCreatedAt": "2024-08-09T03:15:59.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -12674,7 +12656,7 @@
    "descriptionEn": "Group Old Names: I'm So Lonely * Prohibit the Spread of Rumors/Piracy * Prohibit Screen Brushing/Sharing/Bullying/Personal Attacks * Prohibited Drugs/Politics/Religion * Prohibited Advertising/Airport Links/aff * Prohibited Black Production/Gray Production/Dark Net/Porno/Driving/NSFW Unblocked/Missblocked Contact: @yummybest_bot",
    "lang": "zh",
    "verified": false,
-   "members": 5429,
+   "members": 5427,
    "tgCreatedAt": "2020-07-04T16:08:39.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12689,7 +12671,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 5407,
+   "members": 5396,
    "tgCreatedAt": "2021-06-05T15:35:16.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12739,7 +12721,7 @@
    "descriptionEn": "Free chat rooms for Taiwanese, welcome friends from Taiwan to participate. From food to travel, from life to views, from games to 3C. Topics are not limited, but do not argue. Can you find a great place to chat? come here ~\\(≧▽≦)/~ All types of advertisements, groups or channel links are blocked by robots. Please read the top.https://t.me/FormosaTaiwan/3621519 Northern Chat Rooms 🔸t.me/FormosaTaiwanNorth Southern Chat Rooms 🔸t.me/FormosaTaiwanMiddle GIF Group 🔸t.me/GIFgroupTW",
    "lang": "zh",
    "verified": false,
-   "members": 5329,
+   "members": 5332,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12754,7 +12736,7 @@
    "descriptionEn": "V2EX is a community of start-ups, designers, developers and creative people. V2EX is a community of creative workers. V2EX hopes to be part of the lives and careers of creative workers.",
    "lang": "zh",
    "verified": false,
-   "members": 5294,
+   "members": 5303,
    "tgCreatedAt": "2024-05-18T11:55:39.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -12880,7 +12862,7 @@
    "descriptionEn": "Dimensional Links 40Gbps Bandwidth Redundancy IEPL Special Lines Full Web Transfer Service Provider Official Domain Name: https://2cy.now Jumping Domain Name: https://dimensional.vip Backup Domain Name: https://cylink.sw80.me Official Tutorial: https://world.crisp.help Promo Code: M8KUGnxo (8% per user limit once) Announcement: @cylink_announcement",
    "lang": "zh",
    "verified": false,
-   "members": 5104,
+   "members": 5093,
    "tgCreatedAt": "2021-06-14T08:38:33.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
@@ -12897,7 +12879,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 5076,
+   "members": 5070,
    "tgCreatedAt": "2017-05-22T09:14:16.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -12912,8 +12894,25 @@
    "descriptionEn": "The group is a daily survey for BITWU, mainly for daily high-quality information push, BITWU Twitter analytics reserve, for BITWU!",
    "lang": "zh",
    "verified": false,
-   "members": 5047,
+   "members": 5065,
    "tgCreatedAt": "2021-06-28T06:27:10.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
+   "username": "vpsxinhaoqi",
+   "kind": "group",
+   "category": "vps",
+   "tags": [
+    "vps"
+   ],
+   "title": "VPS信号旗信息技术组",
+   "description": "💫专注于VPS等云服务的讨论，本群不讨论时政话题。\n\n建立背景：由于原先的资讯群组涵盖了VPS及科技新闻两个频道的群员，无法建立起讨论VPS的氛围，所以特建立本群组。🚩\n\n本群组只讨论VPS及互联网相关的内容，不讨论时政话题。多谢关注！",
+   "descriptionZh": null,
+   "descriptionEn": "Focus on the discussion of cloud services such as VPS, the group does not discuss current issues. Build a background: Because the original information group covers VPS and tech news two channels, it is not possible to establish an atmosphere for discussing VPS, so this group is specially established.",
+   "lang": "zh",
+   "verified": false,
+   "members": 5034,
+   "tgCreatedAt": "2023-01-07T13:33:34.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
@@ -12965,23 +12964,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "vpsxinhaoqi",
-   "kind": "group",
-   "category": "vps",
-   "tags": [
-    "vps"
-   ],
-   "title": "VPS信号旗信息技术组",
-   "description": "💫专注于VPS等云服务的讨论，本群不讨论时政话题。\n\n建立背景：由于原先的资讯群组涵盖了VPS及科技新闻两个频道的群员，无法建立起讨论VPS的氛围，所以特建立本群组。🚩\n\n本群组只讨论VPS及互联网相关的内容，不讨论时政话题。多谢关注！",
-   "descriptionZh": null,
-   "descriptionEn": "Focus on the discussion of cloud services such as VPS, the group does not discuss current issues. Build a background: Because the original information group covers VPS and tech news two channels, it is not possible to establish an atmosphere for discussing VPS, so this group is specially established.",
-   "lang": "zh",
-   "verified": false,
-   "members": 5004,
-   "tgCreatedAt": "2023-01-07T13:33:34.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
    "username": "wikinews_zh_broadcast",
    "kind": "channel",
    "category": "news",
@@ -13022,7 +13004,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 4893,
+   "members": 4896,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -13120,7 +13102,7 @@
    "descriptionEn": "Ubuntu Chinese Communications Group Language: Chinese (Simplified and Traditional) Joining is assumed to be in compliance with the following rules: Advertising, recruiting, fighting, driving, wrestling, politics, black, gray, exaggerated speech, out-of-the-topic, cheating, murdering, and paid tasks are prohibited, warning or blocking: @coder_ot If you refuse to join the group, please discontinue private chat administrator Friendship Alliance: @coderzh",
    "lang": "zh",
    "verified": false,
-   "members": 4607,
+   "members": 4603,
    "tgCreatedAt": "2017-05-15T14:57:13.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -13153,24 +13135,9 @@
    "descriptionEn": "DeJob Web3 & AI Professional Services Platform 62K+ Users · 1,890+ Web3 Enterprises  dejob.ai  Chinese @DeJob_official_group  English @DeJob_Global @DeJob_Global_group  Korean @DeJob_Korean  Talent @DeJob_Talent  Administrator @kukudeacaijy",
    "lang": "zh",
    "verified": false,
-   "members": 4556,
+   "members": 4542,
    "tgCreatedAt": "2022-07-18T01:13:54.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
-  },
-  {
-   "username": "hunantg",
-   "kind": "group",
-   "category": "local",
-   "tags": [],
-   "title": "湖南电报群",
-   "description": "本群创建于2018年，一直致力于打造优质、有序的中文交流群。\n🍀欢迎海内外华人朋友！\n💰群内交易需谨慎，不要被骗财骗色。\n🚫禁发广告和刷屏。\n🚫禁毒，任何与毒品相关的信息和人员必踢。\n🚫禁发幼童相关、开车、人身或地域攻击。\n⚠️没有用户名的号默认是骗子，看到一个踢一个！",
-   "descriptionZh": null,
-   "descriptionEn": "Created in 2018, the group has been committed to building a high-quality, orderly Chinese exchange group. Welcome Chinese friends at home and abroad! 💰 In-group transactions need to be careful, don’t get scammed. Stop advertising and screenshots. Stop drugs, any drug-related information and people will be kicked. Stop child-related, driving, personal or geographical attacks. ⚠️ No username is a scam by default, see a kick one!",
-   "lang": "zh",
-   "verified": false,
-   "members": 4508,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
    "username": "appdododo",
@@ -13185,6 +13152,21 @@
    "verified": false,
    "members": 4493,
    "tgCreatedAt": "2020-02-28T12:43:30.000Z",
+   "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "hunantg",
+   "kind": "group",
+   "category": "local",
+   "tags": [],
+   "title": "湖南电报群",
+   "description": "本群创建于2018年，一直致力于打造优质、有序的中文交流群。\n🍀欢迎海内外华人朋友！\n💰群内交易需谨慎，不要被骗财骗色。\n🚫禁发广告和刷屏。\n🚫禁毒，任何与毒品相关的信息和人员必踢。\n🚫禁发幼童相关、开车、人身或地域攻击。\n⚠️没有用户名的号默认是骗子，看到一个踢一个！",
+   "descriptionZh": null,
+   "descriptionEn": "Created in 2018, the group has been committed to building a high-quality, orderly Chinese exchange group. Welcome Chinese friends at home and abroad! 💰 In-group transactions need to be careful, don’t get scammed. Stop advertising and screenshots. Stop drugs, any drug-related information and people will be kicked. Stop child-related, driving, personal or geographical attacks. ⚠️ No username is a scam by default, see a kick one!",
+   "lang": "zh",
+   "verified": false,
+   "members": 4476,
+   "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
@@ -13203,24 +13185,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "hackerzh",
-   "kind": "group",
-   "category": "tech",
-   "tags": [
-    "linux",
-    "security"
-   ],
-   "title": "Kali / BlackArch Linux 中文交流",
-   "description": "Every day, we change the world.\n\n本群提倡有意义的发言，分享有价值的信息，例如技术讨论、安全资讯、新手教程等。\n\n无用消息将被删除，离题请适度。\n\n禁止交易、招募、求师收徒，提防上当受骗；\n禁止社工、黑产、广告、政治、开车等，包括用户名和简介；\n禁止 有问题不直接问、在吗有人吗有大佬吗、求求带带、拉我加我、懂的来、打招呼 等糟粕用语和行为；\n禁止随意私聊他人；\n禁止滥用机器人。\n\n如有违反，将删除、警告或封禁。谢谢配合。\n\n通用水群： @coder_ot",
-   "descriptionZh": null,
-   "descriptionEn": "Every day, we change the world. The group promotes meaningful speech, sharing valuable information, such as technical discussions, security information, beginner tutorials, etc. Unnecessary messages will be deleted, with moderation. Banned transactions, recruitment, teachers’ recruitment, beware of being cheated; Banned social work, black production, advertising, politics, driving, etc., including user names and profiles; Banned having questions not directly asking, is there a big guy, asking for a belt, pulling me, understanding, greeting, etc. Banned speech and behavior; Banned private talk to others; Banned abuse of robots. If there is a violation, will be deleted, warned or blocked. Thank you for cooperation.",
-   "lang": "zh",
-   "verified": false,
-   "members": 4469,
-   "tgCreatedAt": "2017-02-16T00:59:30.000Z",
-   "listedAt": "2026-09-19T08:25:20.143Z"
-  },
-  {
    "username": "haoruanfenxianglist",
    "kind": "channel",
    "category": "resources",
@@ -13236,6 +13200,24 @@
    "members": 4468,
    "tgCreatedAt": "2024-12-25T14:14:28.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
+  },
+  {
+   "username": "hackerzh",
+   "kind": "group",
+   "category": "tech",
+   "tags": [
+    "linux",
+    "security"
+   ],
+   "title": "Kali / BlackArch Linux 中文交流",
+   "description": "Every day, we change the world.\n\n本群提倡有意义的发言，分享有价值的信息，例如技术讨论、安全资讯、新手教程等。\n\n无用消息将被删除，离题请适度。\n\n禁止交易、招募、求师收徒，提防上当受骗；\n禁止社工、黑产、广告、政治、开车等，包括用户名和简介；\n禁止 有问题不直接问、在吗有人吗有大佬吗、求求带带、拉我加我、懂的来、打招呼 等糟粕用语和行为；\n禁止随意私聊他人；\n禁止滥用机器人。\n\n如有违反，将删除、警告或封禁。谢谢配合。\n\n通用水群： @coder_ot",
+   "descriptionZh": null,
+   "descriptionEn": "Every day, we change the world. The group promotes meaningful speech, sharing valuable information, such as technical discussions, security information, beginner tutorials, etc. Unnecessary messages will be deleted, with moderation. Banned transactions, recruitment, teachers’ recruitment, beware of being cheated; Banned social work, black production, advertising, politics, driving, etc., including user names and profiles; Banned having questions not directly asking, is there a big guy, asking for a belt, pulling me, understanding, greeting, etc. Banned speech and behavior; Banned private talk to others; Banned abuse of robots. If there is a violation, will be deleted, warned or blocked. Thank you for cooperation.",
+   "lang": "zh",
+   "verified": false,
+   "members": 4467,
+   "tgCreatedAt": "2017-02-16T00:59:30.000Z",
+   "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
    "username": "elevemberreview",
@@ -13394,7 +13376,7 @@
    "descriptionEn": "Gold Finance is a one-stop blockchain industry service platform that gathers industry news, news, travel, data and more. Twitter: https://twitter.com/jinsefinance Join discussion: https://t.me/Jinse2022 Telegram channel: https://t.me/jinse2017 app link: https://app.jinse.cn/ official website: www.jinse.cn Advertising partnership: ad@jinse.com Media partnership: media@jinse.com Business partnership:bd@jinse.com",
    "lang": "zh",
    "verified": false,
-   "members": 4310,
+   "members": 4308,
    "tgCreatedAt": "2021-11-04T09:19:35.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -13554,7 +13536,7 @@
    "descriptionEn": "This group is an affiliate group of \"Naranja ACG\" channel: @QingjuACG Naranja network: https://acgus.top",
    "lang": "zh",
    "verified": false,
-   "members": 4069,
+   "members": 4067,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -13569,7 +13551,7 @@
    "descriptionEn": "You are welcome to ask about any problems you encounter on Telegram, and also welcome to help newcomers solve all kinds of problems. Don’t discuss unrelated topics. The group provides: https://t.me/TGQNA/81",
    "lang": "zh",
    "verified": false,
-   "members": 4039,
+   "members": 4059,
    "tgCreatedAt": "2019-07-06T12:43:10.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -13586,7 +13568,7 @@
    "descriptionEn": "The Dead Sheep Series.",
    "lang": "zh",
    "verified": false,
-   "members": 4038,
+   "members": 4042,
    "tgCreatedAt": "2016-06-14T04:04:14.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -13601,7 +13583,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 4023,
+   "members": 4018,
    "tgCreatedAt": "2021-04-24T12:56:31.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -13638,6 +13620,21 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "onemillion_ai",
+   "kind": "channel",
+   "category": "ai",
+   "tags": [],
+   "title": "动察Beating AI News",
+   "description": "AI新闻信息流",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "zh",
+   "verified": false,
+   "members": 3894,
+   "tgCreatedAt": "2026-03-02T09:20:43.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
+  },
+  {
    "username": "vultr_group",
    "kind": "group",
    "category": "vps",
@@ -13655,19 +13652,19 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "onemillion_ai",
-   "kind": "channel",
-   "category": "ai",
+   "username": "zxfast",
+   "kind": "group",
+   "category": "vpn",
    "tags": [],
-   "title": "动察Beating AI News",
-   "description": "AI新闻信息流",
+   "title": "中信加速器/ZxfastVPN官方群 - IPLC专线/V2RAY引擎/4K极速体验",
+   "description": "🚚 优质线路，IPLC&BGP全中转线路\n🥳 全客户端，安卓/iOS/Win/Mac无缝切换\n🌐 全球覆盖，无缝连接亚美欧澳四大洲\n🇨🇳 版权限制，海外用户惬意使用回国节点\n🔐 安全加密，确保您的隐私与安全\n🚀 一键加速，流媒体/网页/APP流畅访问\n🆓 免费试用，满意再付款，付款后更好使\n💰 好用不贵，年费会员权益更多节省更多\n💯 客服支持，全天候解答您的任何问题\n\n网站： zxfast.com\n群组： @zxfast\n频道： @zxfast_channel\n奈飞合租： @b_netflixtown",
    "descriptionZh": null,
-   "descriptionEn": null,
+   "descriptionEn": "High-quality lines, IPLC & BGP all-transfer lines  Full client, Android/iOS/Win/Mac seamless switch  Global coverage, seamless connection to the four continents of Asia and Australia 🇳 copyright restrictions, overseas users are pleased to use home nodes  secure encryption, ensure your privacy and security  One-click acceleration, streaming media/web page/APP smooth access  Free trial, satisfied with re-payment, better after payment  Not expensive, annual membership benefits save more  customer support, all-day response to your questions Website: zxfast.com Group: @zxfast Channel: @zfastx_channel",
    "lang": "zh",
    "verified": false,
-   "members": 3868,
-   "tgCreatedAt": "2026-03-02T09:20:43.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
+   "members": 3871,
+   "tgCreatedAt": "2019-09-25T06:39:48.000Z",
+   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "nintendoswitchcn",
@@ -13683,21 +13680,6 @@
    "members": 3858,
    "tgCreatedAt": "2018-12-05T12:27:41.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
-   "username": "zxfast",
-   "kind": "group",
-   "category": "vpn",
-   "tags": [],
-   "title": "中信加速器/ZxfastVPN官方群 - IPLC专线/V2RAY引擎/4K极速体验",
-   "description": "🚚 优质线路，IPLC&BGP全中转线路\n🥳 全客户端，安卓/iOS/Win/Mac无缝切换\n🌐 全球覆盖，无缝连接亚美欧澳四大洲\n🇨🇳 版权限制，海外用户惬意使用回国节点\n🔐 安全加密，确保您的隐私与安全\n🚀 一键加速，流媒体/网页/APP流畅访问\n🆓 免费试用，满意再付款，付款后更好使\n💰 好用不贵，年费会员权益更多节省更多\n💯 客服支持，全天候解答您的任何问题\n\n网站： zxfast.com\n群组： @zxfast\n频道： @zxfast_channel\n奈飞合租： @b_netflixtown",
-   "descriptionZh": null,
-   "descriptionEn": "High-quality lines, IPLC & BGP all-transfer lines  Full client, Android/iOS/Win/Mac seamless switch  Global coverage, seamless connection to the four continents of Asia and Australia 🇳 copyright restrictions, overseas users are pleased to use home nodes  secure encryption, ensure your privacy and security  One-click acceleration, streaming media/web page/APP smooth access  Free trial, satisfied with re-payment, better after payment  Not expensive, annual membership benefits save more  customer support, all-day response to your questions Website: zxfast.com Group: @zxfast Channel: @zfastx_channel",
-   "lang": "zh",
-   "verified": false,
-   "members": 3826,
-   "tgCreatedAt": "2019-09-25T06:39:48.000Z",
-   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "firstamazon",
@@ -13725,7 +13707,7 @@
    "descriptionEn": "TokyoIT discussion group",
    "lang": "zh",
    "verified": false,
-   "members": 3668,
+   "members": 3670,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -13804,12 +13786,12 @@
     "linux"
    ],
    "title": "GNU/Linux",
-   "description": "Rules are pinned. Read them.\n\nPing for issues:\n— @watzon\n— @mazunki\n— @elfametesar\n\nAvatar source: https://twitter.com/cathodegaytube/status/1330030061324562433",
-   "descriptionZh": "规则是贴的。 阅读它们。 问题 Ping: — @watzon — @mazunki — @elfametesar Avatar 来源: https://twitter.com/cathodegaytube/status/1330030061324562433",
+   "description": "Rules are pinned. Read them.\n\nPing for issues:\n— @watzon\n— @mazunki\n\nAvatar source: https://twitter.com/cathodegaytube/status/1330030061324562433",
+   "descriptionZh": null,
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 3566,
+   "members": 3561,
    "tgCreatedAt": "2016-07-22T08:13:27.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -13841,7 +13823,7 @@
    "descriptionEn": "Currency Circle Daily - the leading currency circle news every day",
    "lang": "zh",
    "verified": false,
-   "members": 3543,
+   "members": 3536,
    "tgCreatedAt": "2024-06-13T15:21:29.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -13892,7 +13874,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 3499,
+   "members": 3494,
    "tgCreatedAt": "2018-09-13T13:22:23.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
@@ -13976,7 +13958,7 @@
    "descriptionEn": "Welcome to join Ali Yun☆Tencent Cloudtg group Channel Recommendation: Host information sharing @GCPCN",
    "lang": "zh",
    "verified": false,
-   "members": 3384,
+   "members": 3385,
    "tgCreatedAt": "2019-10-27T01:40:04.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -14009,6 +13991,24 @@
    "members": 3358,
    "tgCreatedAt": "2026-08-22T14:15:01.000Z",
    "listedAt": "2026-10-02T12:05:28.660Z"
+  },
+  {
+   "username": "octogramchat",
+   "kind": "group",
+   "category": "software",
+   "tags": [
+    "android",
+    "open-source"
+   ],
+   "title": "OctoGram | Chat",
+   "description": "🐙 Official channel: @OctoGramApp\n📦 Stable releases: @OctoGramAPKs\n🧪 Beta releases: @OctoGramBeta\n🔗 Website: https://octogram.me",
+   "descriptionZh": "官方频道: @OctoGramApp  稳定版本: @OctoGramAPKs  Beta 版本: @OctoGramBeta  网站: https://octogram.me",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 3345,
+   "tgCreatedAt": "2023-04-26T15:52:08.000Z",
+   "listedAt": "2026-09-20T09:52:16.457Z"
   },
   {
    "username": "tglukongtou",
@@ -14046,41 +14046,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "octogramchat",
-   "kind": "group",
-   "category": "software",
-   "tags": [
-    "android",
-    "open-source"
-   ],
-   "title": "OctoGram | Chat",
-   "description": "🐙 Official channel: @OctoGramApp\n📦 Stable releases: @OctoGramAPKs\n🧪 Beta releases: @OctoGramBeta\n🔗 Website: https://octogram.me",
-   "descriptionZh": "官方频道: @OctoGramApp  稳定版本: @OctoGramAPKs  Beta 版本: @OctoGramBeta  网站: https://octogram.me",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 3338,
-   "tgCreatedAt": "2023-04-26T15:52:08.000Z",
-   "listedAt": "2026-09-20T09:52:16.457Z"
-  },
-  {
-   "username": "timeandscents",
-   "kind": "channel",
-   "category": "deals",
-   "tags": [
-    "gadgets"
-   ],
-   "title": "Watch and Perfume Deals | Timeandscents.com",
-   "description": "Discover watch and perfume deals, price drops, discounts and offers from leading Indian retailers. We track prices so you can compare before you buy.\n\n🌐 timeandscents.com\n\n📲 Join our Telegram for deal alerts and price drops.",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 3331,
-   "tgCreatedAt": "2026-08-31T08:13:24.000Z",
-   "listedAt": "2026-10-05T12:50:37.768Z"
-  },
-  {
    "username": "adguard_chinese",
    "kind": "group",
    "category": "software",
@@ -14113,6 +14078,23 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
+   "username": "timeandscents",
+   "kind": "channel",
+   "category": "deals",
+   "tags": [
+    "gadgets"
+   ],
+   "title": "Watch and Perfume Deals | Timeandscents.com",
+   "description": "Discover watch and perfume deals, price drops, discounts and offers from leading Indian retailers. We track prices continuously so you can compare and get the best price.\n\n🌐 timeandscents.com\n\n📲 Join our Telegram for deal alerts and price drops.",
+   "descriptionZh": null,
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 3250,
+   "tgCreatedAt": "2026-08-31T08:13:24.000Z",
+   "listedAt": "2026-10-05T12:50:37.768Z"
+  },
+  {
    "username": "telegramiostalk",
    "kind": "group",
    "category": "ios",
@@ -14125,7 +14107,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 3228,
+   "members": 3240,
    "tgCreatedAt": "2018-08-13T08:03:27.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -14157,7 +14139,7 @@
    "descriptionEn": "Gugugu Peing https://peing.net/zh-CN/billchenchina Lyrics https://space.bilibili.com/7685686/favlist?fid=985056186 Gugu channel: @CamberLogistics @CyanCh @rvalue_daily @var_log_ciel @piggy_bin @rynif @CyunreiCollection @abcthoughts @bcimg",
    "lang": "zh",
    "verified": false,
-   "members": 3185,
+   "members": 3192,
    "tgCreatedAt": "2018-08-12T10:36:41.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -14204,7 +14186,7 @@
    "descriptionEn": "Here is the great share channel @geekshare @xgeekshare group chat The group’s only main contact: @Geekshare_bot Welcome to this group’s recommendation, self-recommendation “AI/open source products/free software/hosts/articles/resources” and more",
    "lang": "zh",
    "verified": false,
-   "members": 3078,
+   "members": 3080,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -14303,7 +14285,7 @@
    "descriptionEn": "Support Socks5, SSR, SSR, VMess, Trojan Proxy UDP NAT FullCone - Prohibited Advertising - Prohibited Political - Prohibited Pornography Contact @cuteSakurahime Official Website:https://netch.org Project Address:https://github.com/NetchX/Netch",
    "lang": "zh",
    "verified": false,
-   "members": 2949,
+   "members": 2942,
    "tgCreatedAt": "2019-06-01T12:20:02.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -14352,7 +14334,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 2932,
+   "members": 2919,
    "tgCreatedAt": "2023-02-06T18:38:21.000Z",
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
@@ -14389,21 +14371,6 @@
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
-   "username": "macoser",
-   "kind": "group",
-   "category": "software",
-   "tags": [],
-   "title": "macOS 交流组",
-   "description": "Setapp 开车、二手软件交易、使用经验交流",
-   "descriptionZh": null,
-   "descriptionEn": "Setapp driving, second-hand software trading, exchange of experience using",
-   "lang": "zh",
-   "verified": false,
-   "members": 2797,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-19T09:43:16.416Z"
-  },
-  {
    "username": "tiyu365",
    "kind": "group",
    "category": "interest",
@@ -14416,7 +14383,22 @@
    "descriptionEn": "Sports enthusiasts, football, basketball, NBA, CBA, exchanges All advertising / pornography / violence / political content is prohibited within the group",
    "lang": "zh",
    "verified": false,
-   "members": 2791,
+   "members": 2805,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-19T09:43:16.416Z"
+  },
+  {
+   "username": "macoser",
+   "kind": "group",
+   "category": "software",
+   "tags": [],
+   "title": "macOS 交流组",
+   "description": "Setapp 开车、二手软件交易、使用经验交流",
+   "descriptionZh": null,
+   "descriptionEn": "Setapp driving, second-hand software trading, exchange of experience using",
+   "lang": "zh",
+   "verified": false,
+   "members": 2797,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -14478,7 +14460,7 @@
    "descriptionEn": "Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault Prohibit the advertising/promotion/black/grey/dark web/screen brushing/porno/driving/NSFW Search index @Googlezs Theme @beijingv Shanghai @shanghaiz Guangzhouz Shenzhen @shenzhenz Wuhan @wuhanz Hangzhou @hangzhouz Chongqou @chongqingz Jiangsu @zhouz Tianjin @tianjinz Chengdu @chengduzz China @cnchinese",
    "lang": "zh",
    "verified": false,
-   "members": 2588,
+   "members": 2589,
    "tgCreatedAt": "2019-08-03T14:45:07.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -14511,7 +14493,7 @@
    "descriptionEn": "Navigation station: www.0xnav.com Airborne channel:@tglukongtou Navigation channel:@biquandaohang 40% discount fee (invitation code: FANXIAN) 30% discount fee (invitation code: 50253981) 40% discount fee (invitation code: xpi6a223) 40% discount fee (invitation code: 39sQL) ByBit 30% discount fee (invitation code: 66QLX94) Bitget (invitation code: QR4A7MPY) Gate.io (invitation code: VLDFUFEOAW)",
    "lang": "zh",
    "verified": false,
-   "members": 2557,
+   "members": 2559,
    "tgCreatedAt": "2025-09-09T06:04:50.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -14608,7 +14590,7 @@
    "descriptionEn": "You can get all the news about ad blocking and cybersecurity here. AdGuard official website: https://t.me/AdGuard_chinese",
    "lang": "zh",
    "verified": false,
-   "members": 2417,
+   "members": 2400,
    "tgCreatedAt": "2020-05-21T12:38:09.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -14625,7 +14607,7 @@
    "descriptionEn": "Take a look at your childhood memories! (prohibited advertising and any form of promotion) 🌟 T.me/yeqingjie_GJG666 🌟 T.me/yeqingjie 🌟 Channel resource search robot: @yeqing_channel_bot 🌟 Channel posting robot: @yeqinghuibot 🌟 See the detailed resource directory, see the channel top section information!!",
    "lang": "zh",
    "verified": false,
-   "members": 2386,
+   "members": 2387,
    "tgCreatedAt": "2021-09-07T13:13:33.000Z",
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
@@ -14755,7 +14737,7 @@
    "descriptionEn": "MugglePay EN: https://t.me/mugglepay_en MuggleWallet: https://mugglewallet.com/ MugglePay Business System: https://merchants.mugglepay.com/ Certified Administrator to Avoid Cheating: Signature and Products:@LivermoreYu Technology:@fayxu MugglePay Business Background 2.0 Product Feedback Collection:https://forms.gle/Ysh5zqvzCDmsQnnZA",
    "lang": "zh",
    "verified": false,
-   "members": 2228,
+   "members": 2232,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -14834,7 +14816,7 @@
    "descriptionEn": "This group is for AI rich people, mainly used to discuss technology-related topics, can also communicate network, security-related content, is not allowed to discuss other content, especially political topics, offenders second kick website:https://sealos.io Blog:https://icloudnative.io Black technology resource sharing channel:https://t.me/cloud_native_share Blog:https://t.me/cloud_native_blogs",
    "lang": "zh",
    "verified": false,
-   "members": 2108,
+   "members": 2107,
    "tgCreatedAt": "2021-12-28T04:49:38.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -14851,7 +14833,7 @@
    "descriptionEn": "Please read https://t.me/nixos_zhcn/343893",
    "lang": "zh",
    "verified": false,
-   "members": 2103,
+   "members": 2099,
    "tgCreatedAt": "2020-04-09T14:46:06.000Z",
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
@@ -14868,7 +14850,7 @@
    "descriptionEn": "Wikipedia science and technology, meteorology, programming, aerospace, etc. can be discussed here. Physics: @wikipedia_zh_physics Biological and Medical: @Wikipedia_zh_bio_and_med Chemical: @wikipedia_zh_chemistry Computer science: @wikipedia_zh_cs Physics: @cooltey : WMF Wikipedia App Engineer @xiplus @Bluedeck @artoria2e5 @shizhao Space Mission #Spaceflight",
    "lang": "zh",
    "verified": false,
-   "members": 2096,
+   "members": 2095,
    "tgCreatedAt": "2017-11-07T10:34:39.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -14888,21 +14870,6 @@
    "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
-   "username": "usr_bin_cat",
-   "kind": "channel",
-   "category": "blog",
-   "tags": [],
-   "title": "Cat Ch.",
-   "description": "不理性 不客观 不中立 想到什么写什么，就酱。\n本channel包含内容:奇妙深刻的键政言论，萌二发言，电子垃圾回收等。\n另：你说是，那就是。",
-   "descriptionZh": null,
-   "descriptionEn": "Unreasonable Unobjective Unneutral Think about what to write, soap. This channel contains content: wonderful deep keynote speech, popping speech, electronic junk recycling, etc. In addition: you say yes, that is.",
-   "lang": "zh",
-   "verified": false,
-   "members": 2085,
-   "tgCreatedAt": "2018-08-07T15:18:14.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
    "username": "ikuncode",
    "kind": "group",
    "category": "ai",
@@ -14916,9 +14883,24 @@
    "descriptionEn": null,
    "lang": null,
    "verified": false,
-   "members": 2084,
+   "members": 2085,
    "tgCreatedAt": "2025-09-18T05:30:07.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
+  },
+  {
+   "username": "usr_bin_cat",
+   "kind": "channel",
+   "category": "blog",
+   "tags": [],
+   "title": "Cat Ch.",
+   "description": "不理性 不客观 不中立 想到什么写什么，就酱。\n本channel包含内容:奇妙深刻的键政言论，萌二发言，电子垃圾回收等。\n另：你说是，那就是。",
+   "descriptionZh": null,
+   "descriptionEn": "Unreasonable Unobjective Unneutral Think about what to write, soap. This channel contains content: wonderful deep keynote speech, popping speech, electronic junk recycling, etc. In addition: you say yes, that is.",
+   "lang": "zh",
+   "verified": false,
+   "members": 2085,
+   "tgCreatedAt": "2018-08-07T15:18:14.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "m_phone",
@@ -15001,9 +14983,24 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 1935,
+   "members": 1956,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T10:07:05.780Z"
+  },
+  {
+   "username": "mzkxzchat",
+   "kind": "group",
+   "category": "chat",
+   "tags": [],
+   "title": "喵子科学站-吹水群",
+   "description": "官网链接：www.mzkxz.net\n🈲️过度🇨🇳国内政治，其他方面随意～\n通知频道：@mzkxzPub",
+   "descriptionZh": null,
+   "descriptionEn": "Website link: www.mzkxz.net 禁️ excessive🇳 domestic politics, other aspects will ~ Notification channel:@mzkxzPub",
+   "lang": "zh",
+   "verified": false,
+   "members": 1915,
+   "tgCreatedAt": "2020-12-15T18:15:58.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "materialgram",
@@ -15023,19 +15020,21 @@
    "listedAt": "2026-09-19T15:28:17.513Z"
   },
   {
-   "username": "mzkxzchat",
+   "username": "google_win",
    "kind": "group",
-   "category": "chat",
-   "tags": [],
-   "title": "喵子科学站-吹水群",
-   "description": "官网链接：www.mzkxz.net\n🈲️过度🇨🇳国内政治，其他方面随意～\n通知频道：@mzkxzPub",
+   "category": "software",
+   "tags": [
+    "cloud-drive"
+   ],
+   "title": "谷歌、微软云盘讨论群",
+   "description": "自助购物 https://888f.store\n前缀修改 @pjassistantbot\n\n★本群 🈲黄 🈲暴 🈲广告 🈲涉及政治话题\n\nhttps://t.me/Remux_2160P 4K视频资源\nhttps://t.me/sspai_group 少数派非官方群\nhsx.me 影视资源站\nNetflix | hulu账号交流： @zxc1017yyfx\n苹果用户交流群： @Balancer996",
    "descriptionZh": null,
-   "descriptionEn": "Website link: www.mzkxz.net 禁️ excessive🇳 domestic politics, other aspects will ~ Notification channel:@mzkxzPub",
+   "descriptionEn": "HTTPS://t.me/Remux_2160P 4K video resource HTTPS://t.me/sspai_group minority unofficial group hsx.me video resource station Netflix hulu account communication: @zxc1017yyfx Apple user group: @Balancer996",
    "lang": "zh",
    "verified": false,
-   "members": 1914,
-   "tgCreatedAt": "2020-12-15T18:15:58.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
+   "members": 1871,
+   "tgCreatedAt": "2019-01-05T16:07:02.000Z",
+   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "nasteam",
@@ -15050,26 +15049,9 @@
    "descriptionEn": "Private cloud technology exchange.",
    "lang": "zh",
    "verified": false,
-   "members": 1871,
+   "members": 1869,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T09:52:16.457Z"
-  },
-  {
-   "username": "google_win",
-   "kind": "group",
-   "category": "software",
-   "tags": [
-    "cloud-drive"
-   ],
-   "title": "谷歌、微软云盘讨论群",
-   "description": "自助购物 https://888f.store\n前缀修改 @pjassistantbot\n\n★本群 🈲黄 🈲暴 🈲广告 🈲涉及政治话题\n\nhttps://t.me/Remux_2160P 4K视频资源\nhttps://t.me/sspai_group 少数派非官方群\nhsx.me 影视资源站\nNetflix | hulu账号交流： @zxc1017yyfx\n苹果用户交流群： @Balancer996",
-   "descriptionZh": null,
-   "descriptionEn": "HTTPS://t.me/Remux_2160P 4K video resource HTTPS://t.me/sspai_group minority unofficial group hsx.me video resource station Netflix hulu account communication: @zxc1017yyfx Apple user group: @Balancer996",
-   "lang": "zh",
-   "verified": false,
-   "members": 1866,
-   "tgCreatedAt": "2019-01-05T16:07:02.000Z",
-   "listedAt": "2026-09-20T10:07:05.780Z"
   },
   {
    "username": "cnphotog",
@@ -15089,21 +15071,6 @@
    "listedAt": "2026-09-19T09:43:16.416Z"
   },
   {
-   "username": "foresightnewstalk",
-   "kind": "group",
-   "category": "crypto",
-   "tags": [],
-   "title": "Foresight News Official",
-   "description": "欢迎来到Foresight News Talk大本营~\n\nAPP下载地址： foresightnews.pro/download\n\n工具导航：foresightnews.pro/tools\n\nTwitter：\ntwitter.com/Foresight_News\n\nDiscord：\nhttps://discord.gg/XF643VcTnG\n\nTG频道：\nt.me/foresightnews",
-   "descriptionZh": "欢迎来到Foresight News Talk 大本营~ APP下载地址: foresightnews.pro/download 工具导航:foresightnews.pro/tools Twitter: twitter.com/Foresight_News 发言人: https://discord.gg/XF643VcTnG TG频道: t.me/foresightnews",
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": 1856,
-   "tgCreatedAt": "2022-02-23T02:28:42.000Z",
-   "listedAt": "2026-09-19T13:58:27.987Z"
-  },
-  {
    "username": "grammyjs",
    "kind": "group",
    "category": "tech",
@@ -15120,6 +15087,21 @@
    "members": 1852,
    "tgCreatedAt": "2021-03-27T15:52:43.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
+  },
+  {
+   "username": "foresightnewstalk",
+   "kind": "group",
+   "category": "crypto",
+   "tags": [],
+   "title": "Foresight News Official",
+   "description": "欢迎来到Foresight News Talk大本营~\n\nAPP下载地址： foresightnews.pro/download\n\n工具导航：foresightnews.pro/tools\n\nTwitter：\ntwitter.com/Foresight_News\n\nDiscord：\nhttps://discord.gg/XF643VcTnG\n\nTG频道：\nt.me/foresightnews",
+   "descriptionZh": "欢迎来到Foresight News Talk 大本营~ APP下载地址: foresightnews.pro/download 工具导航:foresightnews.pro/tools Twitter: twitter.com/Foresight_News 发言人: https://discord.gg/XF643VcTnG TG频道: t.me/foresightnews",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": false,
+   "members": 1849,
+   "tgCreatedAt": "2022-02-23T02:28:42.000Z",
+   "listedAt": "2026-09-19T13:58:27.987Z"
   },
   {
    "username": "appleusergroup_tg",
@@ -15181,7 +15163,7 @@
    "descriptionEn": "Channel: https://t.me/PanoanChannel /mirror download link /cancel Cancel (response to downloaded messages) /status View download status",
    "lang": "zh",
    "verified": false,
-   "members": 1690,
+   "members": 1687,
    "tgCreatedAt": "2020-03-11T03:31:36.000Z",
    "listedAt": "2026-09-20T10:07:05.780Z"
   },
@@ -15198,7 +15180,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 1660,
+   "members": 1657,
    "tgCreatedAt": "2017-01-20T12:46:27.000Z",
    "listedAt": "2026-09-18T11:22:17.994Z"
   },
@@ -15234,7 +15216,7 @@
    "descriptionEn": "Kubernetes Chinese community Technical landing practices and communication platform Group links: @Kubernetes_CN Operations and Development in-depth topics can be discussed at neighboring friends:  @DevOps_CN Banned is robot-dried, withdrawal is OK.",
    "lang": "zh",
    "verified": false,
-   "members": 1611,
+   "members": 1612,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -15330,7 +15312,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 1534,
+   "members": 1537,
    "tgCreatedAt": "2023-10-24T09:06:58.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15382,7 +15364,7 @@
    "descriptionEn": "Welcome to the ArchLinuxCN community game channel. You need to join @archlinuxcn_group before joining this group with other game bots #archlinux-cn-play (https://t.me/joinchat/BYJqClaXaUiW_fuNZQJ4sg) and voice bots @archlinuxcn_rhythm",
    "lang": "zh",
    "verified": false,
-   "members": 1307,
+   "members": 1312,
    "tgCreatedAt": "2017-05-05T11:25:54.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15399,7 +15381,7 @@
    "descriptionEn": "A serious technical communication group In this group, you can even discuss programming supporting various development languages compatible with various platforms (including Windows Server) power jets, civilization interspray please reduce the expression of labels and unrelated images, speech sending, too many such messages will be deleted at any time without notice, please understand. long-term code please use pastebin show @DevOps_CN K8S Chinese specialty: @Kubernetes_CN Banned is robot-dry, backgroup rejoining is OK.",
    "lang": "zh",
    "verified": false,
-   "members": 1302,
+   "members": 1301,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15416,7 +15398,7 @@
    "descriptionEn": "Two-dimensional/animated/illustrated interactive discussions, chat and chat ⚠️ Entry into the group requires human-machine verification, verification failure will be moved out of the group. Group rules: t.me/hengjiazhihui/122 Related channel: t.me/gongzhutonghao Friendship links: t.me/hengjiazhihui/103 Private chat group master: t.me/qfblbot",
    "lang": "zh",
    "verified": false,
-   "members": 1232,
+   "members": 1234,
    "tgCreatedAt": "2022-10-12T14:28:34.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15433,7 +15415,7 @@
    "descriptionEn": "Subscribe to @piracy6",
    "lang": "zh",
    "verified": false,
-   "members": 1181,
+   "members": 1174,
    "tgCreatedAt": "2023-06-12T05:18:30.000Z",
    "listedAt": "2026-09-20T18:06:26.943Z"
   },
@@ -15483,7 +15465,7 @@
    "descriptionEn": "There are games: Wolfman Kill, Avalon, Uno, 1A2B, Detective Missions, Screen Four Chess, Hangman, OX, Trigger, Wordle, 31 points, Wordle, if these aren't enough, the group also offers Robots, Training Robots, Group Titles and Top G11 services. Wolfman Kill: https://telegra.ph/ Wolfman Kill Role List-08-17 Robots List: https://t.me/wikipedia_zh_game/1551857",
    "lang": "zh",
    "verified": false,
-   "members": 1062,
+   "members": 1061,
    "tgCreatedAt": null,
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15498,7 +15480,7 @@
    "descriptionEn": "Disclosure/Business/Any Other Contact: @appdo_bot Low-Quality Discussions Avoidance Principles: The group does not encourage group members to engage in low-Quality Discussions, discuss questions, and avoid physical assault, hats and unreasonable speculation. Equal respect Principles: Group members are equal in religion, gender, sexual orientation, occupation, identity, or social group to which they belong, do not use this as any form of irrational attack, otherwise your speech will be deleted. The group owner's only principle: the group owner has the right to judge the members' departure.",
    "lang": "zh",
    "verified": false,
-   "members": 1023,
+   "members": 1022,
    "tgCreatedAt": "2021-01-29T09:24:10.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15515,7 +15497,7 @@
    "descriptionEn": "Apple's macOS OS user community. ⭐️ Mac app recommendations: t.me/mac_app_store  Apple community: t.me/AppleUserGroup_tg Advertising banned! ✅ In- and outside links!",
    "lang": "zh",
    "verified": false,
-   "members": 999,
+   "members": 1003,
    "tgCreatedAt": "2019-05-21T16:33:00.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15533,7 +15515,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 949,
+   "members": 971,
    "tgCreatedAt": "2026-03-12T08:05:39.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -15551,7 +15533,7 @@
    "descriptionEn": "Welcome to Arch Linux CN Appearance Sharing Group, welcome to share discussions about various wallpapers, desktop environments, window manager beautification configurations ~ ps: too ot topics also please move to ot groups, including but not limited to political policies and personal events etc, thank you for your support! Before grouping you need to pay attention to the news channel @archlinuxcn, you can exit after completion. New grouping please read https://z.sh/arch to search this group chat record https://luoxu.archlinuxcn.org/",
    "lang": "zh",
    "verified": false,
-   "members": 937,
+   "members": 935,
    "tgCreatedAt": "2020-12-02T13:28:41.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15601,7 +15583,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 838,
+   "members": 843,
    "tgCreatedAt": "2022-12-29T15:57:16.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -15619,7 +15601,7 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 838,
+   "members": 837,
    "tgCreatedAt": "2022-10-24T15:40:13.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -15634,7 +15616,7 @@
    "descriptionEn": "Everything is possible! It’s great that you can chat the game! Hold on to the friendly and out-of-the-top chat! + Reject any topic, try it out. + Chat and share discounts, follow the game hotspots. Up for introduction, let’s say + NSFW, AD, timing, discourse with words, self-sales, screenshots, negative emotions, play-through battle, darkness + violation deletion or kick (notify the blacklist)  Three months without online will go away! 😄 Doing what you like is better than chatting!  Steam change is risky, cautious and bear the consequences! UNO https://t.me/fs_Fr0LkZNJN1TM",
    "lang": "zh",
    "verified": false,
-   "members": 804,
+   "members": 803,
    "tgCreatedAt": "2018-06-12T03:39:21.000Z",
    "listedAt": "2026-09-20T09:52:16.457Z"
   },
@@ -15669,7 +15651,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 644,
+   "members": 646,
    "tgCreatedAt": "2025-02-04T03:35:12.000Z",
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
@@ -15755,7 +15737,7 @@
    "descriptionEn": null,
    "lang": "zh",
    "verified": false,
-   "members": 432,
+   "members": 435,
    "tgCreatedAt": "2024-04-02T04:52:37.000Z",
    "listedAt": "2026-09-17T06:24:41.366Z"
   },
@@ -15874,30 +15856,9 @@
    "descriptionEn": null,
    "lang": "en",
    "verified": false,
-   "members": 22,
+   "members": 24,
    "tgCreatedAt": "2026-09-26T15:36:24.000Z",
    "listedAt": "2026-10-02T07:54:45.379Z"
-  },
-  {
-   "username": "anyhub7s",
-   "kind": "channel",
-   "category": "news",
-   "tags": [
-    "ai-agent",
-    "ai-art",
-    "ai-coding",
-    "daily-news",
-    "llm"
-   ],
-   "title": "AnyHub · AI 资讯",
-   "description": "🤖 每天 3 分钟，读完 AI 圈 24 小时大事\n\n📰 AI 快讯｜🔧 工具实测｜🧠 深度解读\n⏰ 每日早晚更新\n\n📮 投稿 / 合作：直接在频道留言",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": null,
-   "verified": false,
-   "members": 4,
-   "tgCreatedAt": null,
-   "listedAt": "2026-10-04T15:25:12.524Z"
   },
   {
    "username": "access_app_bot",
@@ -19266,23 +19227,6 @@
    "listedAt": "2026-09-19T08:25:20.143Z"
   },
   {
-   "username": "toncity_bot",
-   "kind": "bot",
-   "category": "games",
-   "tags": [
-    "ton"
-   ],
-   "title": "TON City",
-   "description": "Let’s build the future together!\n\nAnnouncement channel: @toncity_hq\nCommunity group: @toncity_hq_group",
-   "descriptionZh": null,
-   "descriptionEn": null,
-   "lang": "en",
-   "verified": false,
-   "members": null,
-   "tgCreatedAt": null,
-   "listedAt": "2026-09-30T17:05:50.794Z"
-  },
-  {
    "username": "toorucaptchabot",
    "kind": "bot",
    "category": "group-admin",
@@ -19782,6 +19726,23 @@
    "members": null,
    "tgCreatedAt": null,
    "listedAt": "2026-09-19T14:58:32.768Z"
+  },
+  {
+   "username": "word",
+   "kind": "bot",
+   "category": "productivity",
+   "tags": [
+    "official"
+   ],
+   "title": "Word — Учи английский",
+   "description": "Learn words easily and have fun! Take or create courses, track progress, and study with friends in Word.",
+   "descriptionZh": "轻松学习单词并有乐趣! 学习或创建课程,跟踪进度,并与朋友一起学习在 Word 中。",
+   "descriptionEn": null,
+   "lang": "en",
+   "verified": true,
+   "members": null,
+   "tgCreatedAt": null,
+   "listedAt": "2026-09-30T17:05:50.794Z"
   },
   {
    "username": "wordfreqbot",
