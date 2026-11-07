@@ -2078,6 +2078,7 @@
 
 ## 相關項目
 
+- [FinchGram](https://github.com/FinchGram/FinchGram) —— 非官方開源 macOS Telegram 客戶端，使用 Rust 與 Slint UI 編寫。[網站](https://www.finchgram.com)。
 - [TGbox](https://github.com/TGrpg/tgbox) —— 本列表背後的開源導航站（Astro + grammY，跑在 Cloudflare 免費版上），可以自建一份。
 
 <a id="license"></a>
