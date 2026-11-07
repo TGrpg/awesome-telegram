@@ -59,6 +59,7 @@ const text = {
     ],
     relatedTitle: "Related",
     related: [
+      "[FinchGram](https://github.com/FinchGram/FinchGram) — Unofficial open-source Telegram client for macOS, written in Rust with Slint UI. [Website](https://www.finchgram.com).",
       "[TGbox](MAIN) — the open-source directory behind this list (Astro + grammY on the Cloudflare free plan). Self-host your own.",
     ],
     licenseTitle: "License",
@@ -104,6 +105,7 @@ const text = {
     ],
     relatedTitle: "相关项目",
     related: [
+      "[FinchGram](https://github.com/FinchGram/FinchGram) —— 非官方开源 macOS Telegram 客户端，使用 Rust 与 Slint UI 编写。[网站](https://www.finchgram.com)。",
       "[TGbox](MAIN) —— 本列表背后的开源导航站（Astro + grammY，跑在 Cloudflare 免费版上），可以自建一份。",
     ],
     licenseTitle: "许可",
@@ -148,6 +150,7 @@ const text = {
     ],
     relatedTitle: "相關項目",
     related: [
+      "[FinchGram](https://github.com/FinchGram/FinchGram) —— 非官方開源 macOS Telegram 客戶端，使用 Rust 與 Slint UI 編寫。[網站](https://www.finchgram.com)。",
       "[TGbox](MAIN) —— 本列表背後的開源導航站（Astro + grammY，跑在 Cloudflare 免費版上），可以自建一份。",
     ],
     licenseTitle: "許可",
