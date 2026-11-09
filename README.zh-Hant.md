@@ -4,31 +4,31 @@
 
 # Awesome Telegram 中文資源合集 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精選並每日自動更新的 1239 個公開 Telegram 頻道、群組和機器人（電報導航），在 [TGbox](https://tgbox.cc/zh-hant) 查看實時人數、最新消息和分類。
+精選並每日自動更新的 1244 個公開 Telegram 頻道、群組和機器人（電報導航），在 [TGbox](https://tgbox.cc/zh-hant) 查看實時人數、最新消息和分類。
 
 [🌐 訪問網站](https://tgbox.cc/zh-hant) · [📮 提交收錄](https://t.me/tgboxccbot?start=submit) · [🤝 交換友鏈](https://t.me/tgboxccbot?start=links) · [English](README.md) · [简体中文](README.zh-CN.md) · **繁體中文**
 
-[![Entries](https://img.shields.io/badge/%E9%A0%BB%E9%81%93%20%2B%20%E7%BE%A4%E7%B5%84%20%2B%20%E6%A9%9F%E5%99%A8%E4%BA%BA-1239-2AABEE?logo=telegram&logoColor=white)](https://tgbox.cc/zh-hant/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--08-brightgreen)](https://github.com/TGrpg/awesome-telegram/actions/workflows/update.yml)
+[![Entries](https://img.shields.io/badge/%E9%A0%BB%E9%81%93%20%2B%20%E7%BE%A4%E7%B5%84%20%2B%20%E6%A9%9F%E5%99%A8%E4%BA%BA-1244-2AABEE?logo=telegram&logoColor=white)](https://tgbox.cc/zh-hant/)
+[![Updated](https://img.shields.io/badge/updated-2026--11--09-brightgreen)](https://github.com/TGrpg/awesome-telegram/actions/workflows/update.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 </div>
 
 > 下面每個名稱都鏈接到 **TGbox** 上的詳情頁——一個免費、開源的 Telegram 導航站：訂閱人數與增長、最近消息、創建時間、活躍度和相似頻道，簡繁英三語。列表每天根據網站的[開放數據](https://tgbox.cc/data/entries.json)重新生成，失效或被封的條目會自動消失。
 
-**407** 個頻道 · **246** 個群組 · **586** 個機器人 · 更新於 2026-11-08
+**409** 個頻道 · **246** 個群組 · **589** 個機器人 · 更新於 2026-11-09
 
 ## 目錄
 
 - [🔥 最受歡迎](#popular)
 - [🆕 最新收錄](#newest)
-- [頻道](#channel) (407)
+- [頻道](#channel) (409)
   - [資訊新聞](#channel-news) (68)
   - [軟件綜合](#channel-software) (58)
   - [加密貨幣](#channel-crypto) (47)
   - [開發編程](#channel-tech) (33)
-  - [資源分享](#channel-resources) (29)
-  - [博客雜談](#channel-blog) (25)
+  - [資源分享](#channel-resources) (30)
+  - [博客雜談](#channel-blog) (26)
   - [科學上網](#channel-vpn) (20)
   - [商品優惠](#channel-deals) (18)
   - [搞笑趣味](#channel-fun) (15)
@@ -60,11 +60,11 @@
   - [影音資源](#group-video) (5)
   - [招聘求職](#group-jobs) (4)
   - [其他](#group-other) (2)
-- [機器人](#bot) (586)
-  - [實用工具](#bot-tools) (106)
+- [機器人](#bot) (589)
+  - [實用工具](#bot-tools) (107)
   - [群組管理](#bot-group-admin) (79)
   - [影音下載](#bot-media) (74)
-  - [遊戲娛樂](#bot-games) (44)
+  - [遊戲娛樂](#bot-games) (45)
   - [搜索](#bot-search) (43)
   - [效率提醒](#bot-productivity) (33)
   - [AI助手](#bot-ai) (30)
@@ -74,7 +74,7 @@
   - [頻道運營](#bot-channel-tools) (23)
   - [訂閱推送](#bot-rss) (16)
   - [抽獎機器人](#bot-giveaway) (14)
-  - [消息收發](#bot-messaging) (13)
+  - [消息收發](#bot-messaging) (14)
   - [數據分析](#bot-analytics) (11)
   - [翻譯](#bot-translate) (10)
   - [交易機器人](#bot-trading) (9)
@@ -89,9 +89,9 @@
 | 名稱 | 分類 | 規模 | 簡介 |
 | --- | --- | ---: | --- |
 | [Spam Info Bot](https://tgbox.cc/zh-hant/detail/spambot/) ✔️ | 機器人 · 實用工具 | 3558萬 | 官方垃圾郵件信息機器人電報. 幫助用戶有限的帳戶恢復完整的功能。 |
-| [Foursquare](https://tgbox.cc/zh-hant/detail/foursquare/) | 機器人 · 搜索 | 2149萬 | 這個機器人可以幫助你找到附近的餐廳和其他地方,並將他們的地址發送給朋友。 |
+| [Foursquare](https://tgbox.cc/zh-hant/detail/foursquare/) | 機器人 · 搜索 | 2119萬 | 這個機器人可以幫助你找到附近的餐廳和其他地方,並將他們的地址發送給朋友。 |
 | [Telegram Tips](https://tgbox.cc/zh-hant/detail/telegramtips/) ✔️ | 頻道 · 軟件綜合 | 1067萬 | Telegram 代表自由和隱私,擁有許多易於使用的功能。 |
-| [Pavel Durov](https://tgbox.cc/zh-hant/detail/durov/) ✔️ | 頻道 · 博客雜談 | 1018萬 | 電報的創始人 |
+| [Pavel Durov](https://tgbox.cc/zh-hant/detail/durov/) ✔️ | 頻道 · 博客雜談 | 1009萬 | 電報的創始人 |
 | [Telegram News](https://tgbox.cc/zh-hant/detail/telegram/) ✔️ | 頻道 · 資訊新聞 | 921萬 | 官方電報在電報上. 很多回應. 非常電報. 哇。 |
 | [BotFather](https://tgbox.cc/zh-hant/detail/botfather/) ✔️ | 機器人 · 實用工具 | 806萬 | BotFather是管理所有機器人的一個機器人,使用它來創建新的機器人帳戶並管理現有機器人。 |
 | [Notcoin Community](https://tgbox.cc/zh-hant/detail/notcoin/) ✔️ | 頻道 · 加密貨幣 | 789萬 | 無人機.org |
@@ -105,16 +105,16 @@
 
 | 名稱 | 分類 | 收錄 | 簡介 |
 | --- | --- | ---: | --- |
+| [LINKCHECK](https://tgbox.cc/zh-hant/detail/linkcheck_verify_bot/) | 機器人 · 實用工具 | 2026-11-08 | Verify Telegram resources. Discover trusted channels, bots… |
+| [Oscar Games](https://tgbox.cc/zh-hant/detail/oscargamesbot/) | 機器人 · 遊戲娛樂 | 2026-11-08 | Играй с друзьями / Play with friends 🎮 Дурак/Durak •… |
+| [ThXChat - Random Chat](https://tgbox.cc/zh-hant/detail/thxchatbot/) | 機器人 · 消息收發 | 2026-11-08 | Private 1-on-1 anonymous chats. Get Matched with a random… |
+| [Andy's Blog](https://tgbox.cc/zh-hant/detail/andy_zhang_blog/) | 頻道 · 博客雜談 | 2026-11-08 | 日記\|隨筆\|雜談\|社論\|碎碎念 |
+| [創柯情報局](https://tgbox.cc/zh-hant/detail/bpjjjj/) | 頻道 · 資源分享 | 2026-11-08 | 本頻道分享軟件資源，時事熱點，網賺項目。這裡是個大雜燴，什麼都分享\~\~\~ 廣告合作&任何反饋&討論組誤封… |
 | [AlphaForge 🌌 \| AI Quant](https://tgbox.cc/zh-hant/detail/alphaforgeai_bot/) | 機器人 · 數據分析 | 2026-11-04 |  |
 | [AI Резюме — резюме и сопроводительные…](https://tgbox.cc/zh-hant/detail/ai_cv_writer_bot/) | 機器人 · AI助手 | 2026-11-04 | ИИ резюме бесплатно: составить резюме для hh.ru,… |
 | [HProxy](https://tgbox.cc/zh-hant/detail/hproxyofficialbot/) | 機器人 · 實用工具 | 2026-11-04 | 🔐 Premium residential proxies, right inside Telegram. 🌍… |
 | [熱心小宅男](https://tgbox.cc/zh-hant/detail/oyn4uj6viui8pni/) | 頻道 · 搞笑趣味 | 2026-11-04 | 一個有趣的人，一個實用的頻道。 |
 | [Kourvex](https://tgbox.cc/zh-hant/detail/kourvex/) | 頻道 · 加密貨幣 | 2026-11-04 | IN THE NAME OF GOD ◆ KOURVEX EA — 2026 ━ TIME. CYCLES.… |
-| [Downloader YT/IG/FB/TikTok](https://tgbox.cc/zh-hant/detail/downloadersnap_bot/) | 機器人 · 影音下載 | 2026-11-04 | Download Media Jadi Gampang! |
-| [SMSPing](https://tgbox.cc/zh-hant/detail/smspingnetbot/) | 機器人 · 實用工具 | 2026-11-04 | 📱 SMSPing \| Virtual SMS Numbers 🌍 Global SMS verification… |
-| [AI Копирайтер — тексты, посты, реклама](https://tgbox.cc/zh-hant/detail/ai_copywriter_text_bot/) | 機器人 · AI助手 | 2026-11-04 | ИИ-копирайтер: посты для Instagram, ВК и Telegram,… |
-| [頑童技術站](https://tgbox.cc/zh-hant/detail/kgndni5hqox3hhf6/) | 頻道 · 開發編程 | 2026-11-02 | 探索數字生活，分享科技與快樂。這裡有你關心的前沿數碼資訊、硬核乾貨圖流，以及好玩的遊戲推薦。關注我，一起發現更多精彩。 |
-| [AirdropChi \| ایردراپ‌چی](https://tgbox.cc/zh-hant/detail/airdropchi_irfa/) | 頻道 · 加密貨幣 | 2026-11-02 | 🎁 ایردراپ چی \| دنیای ایردراپ‌های رایگان 🚀 معرفی پروژه‌های… |
 
 <a id="channel"></a>
 
@@ -137,7 +137,7 @@
 | [你不知道的內幕消息🅥](https://tgbox.cc/zh-hant/detail/inside1024/) | 11萬 | 一些你不知道的內幕消息，最新資訊、大公司負面、時政財經、網友發佈等高質量消息。 投稿/合作： @inside1024\_bot 內容均來源社交媒體及公共平臺，均不代表本頻道觀點，請酌… <sub>`每日早報`</sub> |
 | [電報時報](https://tgbox.cc/zh-hant/detail/times001/) | 8.5萬 | 投稿點頻道左下角對話圖標 <sub>`每日早報`</sub> |
 | [قناة تيليجرام](https://tgbox.cc/zh-hant/detail/telegramarabia/) ✔️ | 7.8萬 | 您好! 您好! 您好! 您好! 您好! 您好! 您好! 您好! <sub>`官方`</sub> |
-| [每日消費電子觀察](https://tgbox.cc/zh-hant/detail/ce_observe/) | 7.7萬 | 不公正 不客觀 不理性 投稿 / 反饋 / 閒聊 / 發傻 / 和動物成為朋友 / USB Type-C 不收快科技的稿源 子頻道 @Hearse\_Drifting… <sub>`數碼硬件`</sub> |
+| [每日消費電子觀察](https://tgbox.cc/zh-hant/detail/ce_observe/) | 7.8萬 | 不公正 不客觀 不理性 投稿 / 反饋 / 閒聊 / 發傻 / 和動物成為朋友 / USB Type-C 不收快科技的稿源 子頻道 @Hearse\_Drifting… <sub>`數碼硬件`</sub> |
 | [LoopDNS資訊播報](https://tgbox.cc/zh-hant/detail/dnspodt/) | 7.3萬 | LoopDNS 綜合資訊---簡潔，及時，快速，準確 頻道: @DNSPODT 電報討論組: @LoopDNS 撤稿流程: https://t.me/loopdns/107752 <sub>`每日早報`</sub> |
 | [Yummy 😋](https://tgbox.cc/zh-hant/detail/godlynews1/) | 7.1萬 | 📰 本頻道不定期推送科技數碼類新資訊，歡迎關注！ ©️ 發佈的內容不代表本頻道立場，和你意見不一樣的話歡迎在評論區留言表達，但請注意言辭，面斥不雅。 ‼️… <sub>`數碼硬件`</sub> |
 | [【華爾街見聞】- 財經時訊 \| AI 實時互動](https://tgbox.cc/zh-hant/detail/financenewsdaily/) | 5.9萬 | 中國領先的金融信息平臺，7×24 覆蓋全球股市、外匯、債券、商品動態。 ✨ 頻道特色 • 📊 AI 自動解讀：每條新聞實時生成投資參考 • ❓ 智能問答：使用 /ask… <sub>`財經`</sub> |
@@ -192,14 +192,14 @@
 | [韓國 中央日報 朝鮮日報](https://tgbox.cc/zh-hant/detail/korea_rss/) | 4419 | \[RSS全文訂閱 實時更新\] 知乎日報 @zhihuribao\_rss 紐約時報 @niuyueshibao\_rss BBC中文 @bbczhongwen\_rss 路透中文… <sub>`每日早報`</sub> |
 | [法國 國際廣播電臺 中文全文](https://tgbox.cc/zh-hant/detail/rfi_rss/) | 4146 | \[RSS全文訂閱 實時更新\] 知乎日報 @zhihuribao\_rss 紐約時報 @niuyueshibao\_rss BBC中文 @bbczhongwen\_rss 路透中文… |
 | [闢謠愛好者頻道](https://tgbox.cc/zh-hant/detail/fightdisinformation/) | 4016 | 關於近期不實信息，待證實信息，有爭議信息的調研分析彙總。希望保持公正，對信息新聞進行驗證。如有錯誤歡迎指正。 姐妹頻道：https://t.me/twitter\_translate… |
-| [科技第一線](https://tgbox.cc/zh-hant/detail/kejidiyixian/) | 3522 | 第一時間分享全網最熱門科技新聞 電報導航：dianbaodaohang.com <sub>`數碼硬件`</sub> |
+| [科技第一線](https://tgbox.cc/zh-hant/detail/kejidiyixian/) | 3530 | 第一時間分享全網最熱門科技新聞 電報導航：dianbaodaohang.com <sub>`數碼硬件`</sub> |
 | [每天60秒讀懂世界-已復活🎉](https://tgbox.cc/zh-hant/detail/dailynewszh/) | 3506 | @DailyNewsZH <sub>`每日早報`</sub> |
 | [悅讀「優質少量RSS聚合」](https://tgbox.cc/zh-hant/detail/dailyrss/) | 1709 | 文章、圖片、視頻、音樂、播客RSS訂閱聚合頻道 部分支持「🎉Tg即時預覽/內嵌播放」 訂閱內容主要類型為IT、科技類文章、減壓向圖片音頻等 子頻道: 物種日曆… |
 | [金十數據](https://tgbox.cc/zh-hant/detail/jin10shandian/) | 1420 | 金十數據, 一手時政&財經&幣圈 數據24H極速推送！中文時政財經圈頂級付費文章！關注頻道，洞悉世界！ <sub>`財經`</sub> |
-| [MANUEL PRONÓSTICOS ⚽ FÚTBOL](https://tgbox.cc/zh-hant/detail/manuelpronosticos/) | 337 | ⚽ Pronósticos de fútbol y análisis deportivo 📊 Estadísticas y tendencias de partidos 🏆… <sub>`免費` `體育`</sub> |
-| [BlockBeats律動](https://tgbox.cc/zh-hant/detail/blockbeats_news/) | 50 | BlockBeats-專業的區塊鏈研究機構與資訊平臺。 <sub>`財經`</sub> |
+| [MANUEL PRONÓSTICOS ⚽ FÚTBOL](https://tgbox.cc/zh-hant/detail/manuelpronosticos/) | 333 | ⚽ Pronósticos de fútbol y análisis deportivo 📊 Estadísticas y tendencias de partidos 🏆… <sub>`免費` `體育`</sub> |
+| [BlockBeats律動](https://tgbox.cc/zh-hant/detail/blockbeats_news/) | 51 | BlockBeats-專業的區塊鏈研究機構與資訊平臺。 <sub>`財經`</sub> |
+| [Tashkent Pulse](https://tgbox.cc/zh-hant/detail/tashkentpulseuz/) | 11 | Коротко и понятно о Ташкенте и Узбекистане: важные новости, события, курсы валют и… <sub>`每日早報` `財經`</sub> |
 | [Shark · 訂閱推送](https://tgbox.cc/zh-hant/detail/anyhub7s/) | 10 | 📌 個人訂閱推送頻道 📮 投稿 👉 @anyhub7\_bot <sub>`AI智能體` `AI繪畫` `AI編程`</sub> |
-| [Tashkent Pulse](https://tgbox.cc/zh-hant/detail/tashkentpulseuz/) | 10 | Коротко и понятно о Ташкенте и Узбекистане: важные новости, события, курсы валют и… <sub>`每日早報` `財經`</sub> |
 
 </details>
 
@@ -215,8 +215,8 @@
 | [Telegram Premium](https://tgbox.cc/zh-hant/detail/premium/) ✔️ | 636萬 | Telegram Premium – 一個訂閱,釋放了數十個獨家功能。 <sub>`官方`</sub> |
 | [نصائح تيليجرام](https://tgbox.cc/zh-hant/detail/telegramtipsar/) ✔️ | 159萬 | 廣播電臺 廣播電臺 廣播電臺 廣播電臺 廣播電臺 廣播電臺 <sub>`免費` `官方`</sub> |
 | [Tips de Telegram](https://tgbox.cc/zh-hant/detail/telegramtipses/) ✔️ | 150萬 | 電報是自由和隱私的同義詞,具有許多易於使用的功能。 <sub>`免費` `官方`</sub> |
-| [Dicas do Telegram](https://tgbox.cc/zh-hant/detail/telegramtipsbr/) ✔️ | 68萬 | 電報是自由和隱私的同義詞,有各種易於使用的功能。 <sub>`免費` `官方`</sub> |
 | [Astuces Telegram](https://tgbox.cc/zh-hant/detail/telegramtipsfr/) ✔️ | 67萬 | Telegram是自由,尊重私人生活的同義詞,並提供眾多功能便利。 <sub>`免費` `官方`</sub> |
+| [Dicas do Telegram](https://tgbox.cc/zh-hant/detail/telegramtipsbr/) ✔️ | 67萬 | 電報是自由和隱私的同義詞,有各種易於使用的功能。 <sub>`免費` `官方`</sub> |
 | [قابلیت‌های تلگرام](https://tgbox.cc/zh-hant/detail/telegramtipsfa/) ✔️ | 60萬 | 廣播電臺是自由、私人、有趣、有趣、有趣的電臺。 <sub>`免費` `官方`</sub> |
 | [Tips Telegram](https://tgbox.cc/zh-hant/detail/telegramtipsid/) ✔️ | 43萬 | 電報是一個關於私人生活的想法,有許多易於使用的功能。 <sub>`免費` `官方`</sub> |
 | [AyuGram Releases](https://tgbox.cc/zh-hant/detail/ayugramreleases/) | 39萬 | 官方AyuGram為所有平臺構建頻道。 @ayugram, @ayugramchat, @ayugramfaq <sub>`開源`</sub> |
@@ -235,8 +235,8 @@
 | [텔레그램 팁모음](https://tgbox.cc/zh-hant/detail/telegramtipsko/) ✔️ | 10萬 | 電報追求自由和安全,提供簡單的功能。 <sub>`免費` `官方`</sub> |
 | [Telegram Designers](https://tgbox.cc/zh-hant/detail/designers/) ✔️ | 7.2萬 | 來自世界各地的設計師的Telegram功能建議. 如果您想貢獻,請將用戶界面模板發送到 @design\_bot <sub>`設計` `官方`</sub> |
 | [Newlearnerの自留地](https://tgbox.cc/zh-hant/detail/newlearnerchannel/) | 6.8萬 | 🆕 不定期推送 IT 相關資訊，歡迎關注！ 👥 博客群&投稿群&交流群: @NewlearnerGroup 📩 投稿請私信 @newlearner\_pm\_bot 🔍… <sub>`免費`</sub> |
+| [折騰啥](https://tgbox.cc/zh-hant/detail/zhetengsha/) | 5.4萬 | Power Users/Automators 折騰/討論/分享各種開源工具/腳本/自動化工作流 👥 @zhetengsha\_group 🎁 恰飯… <sub>`開源`</sub> |
 | [小聲逼逼](https://tgbox.cc/zh-hant/detail/me888888888888/) | 5.3萬 | 🔍 挖寶Appletv/iOS/Mac神軟｜🎁 定期抽獎｜📰 獨家資訊｜📺 Emby影音指南 「小聲逼逼」頻道，讓你的Apple設備更好玩，數字生活更有趣！ <sub>`iOS`</sub> |
-| [折騰啥](https://tgbox.cc/zh-hant/detail/zhetengsha/) | 5.3萬 | Power Users/Automators 折騰/討論/分享各種開源工具/腳本/自動化工作流 👥 @zhetengsha\_group 🎁 恰飯… <sub>`開源`</sub> |
 | [Loon News](https://tgbox.cc/zh-hant/detail/loonnews/) | 4.8萬 | Loon News <sub>`iOS`</sub> |
 | [Porady Telegrama](https://tgbox.cc/zh-hant/detail/telegramtipspl/) ✔️ | 4.5萬 | 電報是自由和私人功能的同義詞。 <sub>`免費` `官方`</sub> |
 | [Aero Apps \| Channel](https://tgbox.cc/zh-hant/detail/aerolla/) | 4.4萬 | Aero Apps 官方電報頻道. 網站: www.whatsaero.com www.aeroinsta.com www.stickergo.net… <sub>`安卓` `免費`</sub> |
@@ -269,11 +269,11 @@
 | [簡悅 - SimpRead 📢](https://tgbox.cc/zh-hant/detail/simpread/) | 5687 | 簡悅的發佈通道，簡悅 - 讓你瞬間進入沉浸式閱讀的 Chrome 擴展，還原閱讀的本質，提升你的閱讀體驗。地址 https://simpread.pro 討論群地址… |
 | [Fedora News](https://tgbox.cc/zh-hant/detail/fedoranews/) | 5520 | 此頻道為有關 Fedora 項目的新聞提供(getfedora.org)。 <sub>`Linux` `官方`</sub> |
 | [WWWeng🐝の分享](https://tgbox.cc/zh-hant/detail/wwwengshare/) | 5277 | 主要分享一些快捷指令或其他實用工具 必看：https://t.me/wwwengshare/192 <sub>`iOS`</sub> |
-| [Cherrygram Beta](https://tgbox.cc/zh-hant/detail/cherrygrambetaapks/) | 4450 | 此頻道中的APK包含預發佈功能,但可能不穩定和錯誤。新聞頻道: @Cherrygram 支持和討論: @CherrygramSupport 穩定的APK:… <sub>`安卓` `開源`</sub> |
+| [Cherrygram Beta](https://tgbox.cc/zh-hant/detail/cherrygrambetaapks/) | 4458 | 此頻道中的APK包含預發佈功能,但可能不穩定和錯誤。新聞頻道: @Cherrygram 支持和討論: @CherrygramSupport 穩定的APK:… <sub>`安卓` `開源`</sub> |
 | [AppPie](https://tgbox.cc/zh-hant/detail/apppie/) | 3513 | 🌐 網站 apppie.com 歡迎來到 AppPie！我們熱衷於探索 Apple 世界的最新變化，併為你篩選出能真正提升體驗的高品質應用。 💬 關聯群組:… <sub>`iOS`</sub> |
 | [Nekogram Test APKs](https://tgbox.cc/zh-hant/detail/nekotestapks/) | 3465 | 官方測試 APKs 頻道為 Nekogram. APKs 在這個頻道中包含預發佈功能,但可能不穩定和錯誤。 採取自己的風險使用它。 新聞頻道: @NekoUpdates… <sub>`安卓` `開源`</sub> |
 | [theBlock](https://tgbox.cc/zh-hant/detail/theblockclub/) | 2541 | 分享一些以 Notion 為主的信息/技巧/用法 🧱 the-block.club 💛 Love from Notion fans, @iceyaya, @niinjoy &… |
-| [AdGuard消息](https://tgbox.cc/zh-hant/detail/adguardcn/) | 2336 | 這裡可以收到所有關於廣告攔截和網絡安全的消息。 AdGuard官方群：https://t.me/AdGuard\_chinese <sub>`網絡安全`</sub> |
+| [AdGuard消息](https://tgbox.cc/zh-hant/detail/adguardcn/) | 2343 | 這裡可以收到所有關於廣告攔截和網絡安全的消息。 AdGuard官方群：https://t.me/AdGuard\_chinese <sub>`網絡安全`</sub> |
 | [materialgram](https://tgbox.cc/zh-hant/detail/materialgram/) | 1902 | 電報桌面叉子有材料圖標和一些改進 kukuruzka165.github.io/materialgram <sub>`開源`</sub> |
 
 </details>
@@ -287,7 +287,7 @@
 | 名稱 | 訂閱 | 簡介 |
 | --- | ---: | --- |
 | [Notcoin Community](https://tgbox.cc/zh-hant/detail/notcoin/) ✔️ | 789萬 | 無人機.org <sub>`TON生態`</sub> |
-| [Binance Announcements](https://tgbox.cc/zh-hant/detail/binance_announcements/) ✔️ | 324萬 | Binance官方英語組 @binanceexchange Binance官方中文組 @Binance中文 Binance英語公告 @binance\_公告 Binance中文公告… <sub>`交易所`</sub> |
+| [Binance Announcements](https://tgbox.cc/zh-hant/detail/binance_announcements/) ✔️ | 321萬 | Binance官方英語組 @binanceexchange Binance官方中文組 @Binance中文 Binance英語公告 @binance\_公告 Binance中文公告… <sub>`交易所`</sub> |
 | [Cointelegraph](https://tgbox.cc/zh-hant/detail/cointelegraph/) | 33萬 | 貨幣的未來 無私的加密貨幣,市場和Web3新聞實時。 信任自2013年以來。 啟用通知來捕捉移動市場的呼叫。 探索: linktr.ee/cointelegraph\_mobile… <sub>`財經`</sub> |
 | [Whale Alert](https://tgbox.cc/zh-hant/detail/whale_alert_io/) | 30萬 | 最先進的blockchain跟蹤和分析系統報告大型和有趣的交易,因為它們發生。 <sub>`鏈上數據`</sub> |
 | [CoinMarketCap Announcements](https://tgbox.cc/zh-hant/detail/coinmarketcapannouncements/) ✔️ | 24萬 | 官方CMC電報頻道: 更新,新聞和事件! 用CMC(API,AI,代理)構建: https://coinmarketcap.com/api/resources/cmc-toolki… |
@@ -298,7 +298,7 @@
 | [Glassnode](https://tgbox.cc/zh-hant/detail/glassnode/) | 4.4萬 | 數字資產的機構數據和市場情報。 https://studio.glassnode.com/ <sub>`鏈上數據` `量化交易`</sub> |
 | [BlockBeats](https://tgbox.cc/zh-hant/detail/theblockbeats/) | 3.8萬 | BlockBeats-專業的區塊鏈研究機構與資訊平臺。 交流群：https://t.me/BlockBeats\_App <sub>`財經`</sub> |
 | [幣安公告](https://tgbox.cc/zh-hant/detail/binance_cn/) | 3.2萬 | 關注幣安的中文公告頻道，可以及時把握幣安動態！ https://t.me/binance\_cn <sub>`交易所`</sub> |
-| [大宇投資頻道](https://tgbox.cc/zh-hant/detail/btcdayu2/) | 3萬 | 每天更新必讀文章和個人投資觀點， 討論群不定期短時間開放，請關注本人推特並打開提醒 @BTCdayu dayu.xyz 幣圈暴富寶典 |
+| [大宇投資頻道](https://tgbox.cc/zh-hant/detail/btcdayu2/) | 2.9萬 | 每天更新必讀文章和個人投資觀點， 討論群不定期短時間開放，請關注本人推特並打開提醒 @BTCdayu dayu.xyz 幣圈暴富寶典 |
 | [The Block News Feed](https://tgbox.cc/zh-hant/detail/the_block_crypto/) | 2.5萬 | The Block的官方電報源為新聞文章。 <sub>`財經`</sub> |
 | [PANews Web3丨加密貨幣丨區塊鏈新聞頻道](https://tgbox.cc/zh-hant/detail/channelpanews/) | 2.4萬 | 你的Web3信息官，提供加密貨幣一線快訊和深度報告。 加入討論: t.me/PANewsLab 訂閱新聞: t.me/ChannelPANews… |
 
@@ -322,15 +322,15 @@
 | [Crypto Market Aggregator\|幣圈新聞彙總](https://tgbox.cc/zh-hant/detail/cryptomarketaggregator/) | 8847 | AI自動彙總幣圈新聞，北京時間8點、16點、0點推送，內容均為AI根據消息源總結，本頻道不對信息真實性和任何內容負責，僅供參考，DYOR Automated by… |
 | [實話頻道](https://tgbox.cc/zh-hant/detail/dollcall/) | 8666 | 2年來從未有過的持續實話輸出 邪修欠的債 一點一點還 |
 | [aggrnews](https://tgbox.cc/zh-hant/detail/aggrnewswire/) | 8500 | 提供您最喜歡的新聞媒體的最新和最重要的更新。 https://x.com/aggrnews <sub>`財經`</sub> |
-| [Ai 姨](https://tgbox.cc/zh-hant/detail/ai_9684xtpa/) | 8314 | \#crypto is the antidote of APTX4869 💊 鏈上小說家，關心天氣、食物、還有故事。 DYOR \#DeFi \#NFT \#BTC \#Binance… |
+| [Ai 姨](https://tgbox.cc/zh-hant/detail/ai_9684xtpa/) | 8317 | \#crypto is the antidote of APTX4869 💊 鏈上小說家，關心天氣、食物、還有故事。 DYOR \#DeFi \#NFT \#BTC \#Binance… |
 | [Fragment Monitor 👁‍🗨](https://tgbox.cc/zh-hant/detail/fragment_monitor/) | 6820 | Fragment Monitor 是一個 Fragment 事件通知渠道,在 Fragment 中出現新用戶名或新報價時向 Fragment Monitor 渠道發送通知。 <sub>`TON生態`</sub> |
 | [Alex 投資備忘](https://tgbox.cc/zh-hant/detail/alex_xu_investment/) | 6478 | 分享Web3和投資相關的好內容，以及對於內容的思考，內容選取和思考都具有很強的主觀性，僅供參考。用同一套價值框架，目前看消費股、互聯網平臺公司和加密資產以及AI產業鏈。不定期因為有… <sub>`財經`</sub> |
 | [PolyBeats](https://tgbox.cc/zh-hant/detail/polybeats_bot/) | 5079 | 讓你更早看到未來，See tomorrow, today. Follow @PolyBeatsEN \#預測市場 \#PredictionMarket \#Crypto… |
-| [幣圈快訊](https://tgbox.cc/zh-hant/detail/btcnewsdaily/) | 5020 | 幣圈快訊，掌握幣圈動態 https://cryptofm.app/ |
+| [幣圈快訊](https://tgbox.cc/zh-hant/detail/btcnewsdaily/) | 5044 | 幣圈快訊，掌握幣圈動態 https://cryptofm.app/ |
 | [PANews 編輯部Web3資訊嚴選](https://tgbox.cc/zh-hant/detail/panewsselected/) | 4504 | 📢 厭倦了無盡的資訊轟炸？不想被信息淹沒？PANews 編輯部為您送上精挑細選的“必讀”內容，三分鐘掌握行業精華，不再被信息噪音淹沒。… |
 | [區塊先生 📕圖書館📘](https://tgbox.cc/zh-hant/detail/mrblock_info/) | 4214 | 各類alphas/新聞/市場動向/工具 在這分享每天在Twitter看到的各類資訊，如果你有想分享歡迎聯絡！🫡 https://youtube.com/@mrblocktw… |
 | [0x Meme/項目/空投](https://tgbox.cc/zh-hant/detail/newsforbitcoin/) | 3571 | \*定期發送Web3 空投/項目/遊戲/擼毛/ NFT \*\*每天推送Web3內容 \*\*\*每天推送新聞 \*\*\*\*推送新幣 \*\*\*\*\*\*推送空投鏈接… <sub>`空投`</sub> |
-| [幣圈日報](https://tgbox.cc/zh-hant/detail/bidaily/) | 3505 | 幣圈日報-每日最前沿的幣圈新聞資訊 <sub>`每日早報`</sub> |
+| [幣圈日報](https://tgbox.cc/zh-hant/detail/bidaily/) | 3537 | 幣圈日報-每日最前沿的幣圈新聞資訊 <sub>`每日早報`</sub> |
 | [Bitget官方公告](https://tgbox.cc/zh-hant/detail/bitgetcn_announcement/) | 3366 | Bitget 海外華語社區 https://t.me/Bitget\_CNOfficial Bitget 官網公告 https://www.bitget.site/zh-CN/sup… <sub>`交易所` `官方`</sub> |
 | [擼空投💰幣圈💰Web3💰財務自由](https://tgbox.cc/zh-hant/detail/tglukongtou/) | 3268 | 分享最新前沿的空投資訊，奔向財務自由之路 <sub>`空投`</sub> |
 | [CCXT Announcements](https://tgbox.cc/zh-hant/detail/ccxt_announcements/) | 844 | CryptoCurrency eXchange Trading Library and Terminal Important Announcements. Links: 🌐… <sub>`開源` `量化交易`</sub> |
@@ -338,7 +338,7 @@
 | [幣圈集結圈](https://tgbox.cc/zh-hant/detail/gpegucxozphzl6gj/) | 521 | 彙總幣圈各類博主信息，總結優秀博主的行情分析與做單思路；多維度看待幣圈機會，站在優秀的人肩膀上學習成長。 <sub>`交易所` `鏈上數據` `量化交易`</sub> |
 | [BitTrend \| Новости криптовалют](https://tgbox.cc/zh-hant/detail/b1ttrend/) | 488 | 🤖☁️ Надежный источник актуальных новостей, аналитики и прогнозов в мире криптовалют.… <sub>`交易所`</sub> |
 | [Kourvex](https://tgbox.cc/zh-hant/detail/kourvex/) | 138 | IN THE NAME OF GOD ◆ KOURVEX EA — 2026 ━ TIME. CYCLES. PRECISION. ◈ A Different… <sub>`空投` `電子書` `交易所`</sub> |
-| [AirdropChi \| ایردراپ‌چی](https://tgbox.cc/zh-hant/detail/airdropchi_irfa/) | 63 | 🎁 ایردراپ چی \| دنیای ایردراپ‌های رایگان 🚀 معرفی پروژه‌های جدید ارز دیجیتال 📌 آموزش… <sub>`空投` `安卓` `免費`</sub> |
+| [AirdropChi \| ایردراپ‌چی](https://tgbox.cc/zh-hant/detail/airdropchi_irfa/) | 65 | 🎁 ایردراپ چی \| دنیای ایردراپ‌های رایگان 🚀 معرفی پروژه‌های جدید ارز دیجیتال 📌 آموزش… <sub>`空投` `安卓` `免費`</sub> |
 
 </details>
 
@@ -357,7 +357,7 @@
 | [VPS信號旗播報](https://tgbox.cc/zh-hant/detail/vps_xhq/) | 5.1萬 | VPS新聞頻道，VPS信號旗是即時發佈簡要訊息的小組織，關注VPS和通信自由。為你甄選最具價值的信息，提供業界熱點新聞調查。 🌞… <sub>`主機VPS`</sub> |
 | [The Devs](https://tgbox.cc/zh-hant/detail/thedevs/) | 3.2萬 | 開發者社區在Telegram. https://thedevs.network 工作: @thehire 有什麼要分享的? @thedevs\_share <sub>`編程`</sub> |
 | [互聯網從業者充電站](https://tgbox.cc/zh-hant/detail/https1024/) | 3.1萬 | 互聯網從業者專屬 內容多為技術、產品、設計、運營等不同話題內容； 目標人群為程序員、設計師、產品經理、運營管理等不同職能。 投稿/合作： @inside1024\_bot… <sub>`編程`</sub> |
-| [Hacker News](https://tgbox.cc/zh-hant/detail/hacker_news_feed/) | 3萬 | 來自 https://news.ycombinator.com 的頂級故事(100+分) 在這裡為發展做出貢獻: https://github.com/phil-r/hackern… <sub>`編程`</sub> |
+| [Hacker News](https://tgbox.cc/zh-hant/detail/hacker_news_feed/) | 3萬 | Top stories from https://news.ycombinator.com (with 150+ score) Contribute to the… <sub>`編程`</sub> |
 | [GitHub repos](https://tgbox.cc/zh-hant/detail/github_repos/) | 2.8萬 | 歡迎來到GitHub repos. 在這裡你會找到關於最新的趨勢項目的有價值的信息. 訂閱以保持資訊,並從繁榮的GitHub社群中獲得洞察力。 <sub>`開源`</sub> |
 | [Front End World](https://tgbox.cc/zh-hant/detail/front_end_first/) | 2.6萬 | 關於Front End開發的新文章. JS,CSS,React,Vue,Angular等! 俄羅斯科技博客: @five\_a\_m 管理員: @jem\_jem <sub>`編程`</sub> |
 | [如有樂享](https://tgbox.cc/zh-hant/detail/ruyoblog/) | 2.4萬 | 主要更新如有樂享博客內容，以及其他幾個朋友的頻道乾貨。偏雲服務器，優惠活動，羊毛信息，以及各種BUG。 群組：https://t.me/ruyonetgroup… <sub>`主機VPS`</sub> |
@@ -378,7 +378,7 @@
 | [信息安全技術頻道🔎](https://tgbox.cc/zh-hant/detail/tg_internetsecurity/) | 1.1萬 | <sub>`網絡安全`</sub> |
 | [層疊 - The Cascading](https://tgbox.cc/zh-hant/detail/outvivid/) | 9291 | 主要話題大概是開源業界新聞。 所有以 \#today 標籤的內容均為本臺編輯的個人意見，可能可以代表本臺觀點。 在 Fediverse 關注我們：… <sub>`開源`</sub> |
 | [Instant View Contest News](https://tgbox.cc/zh-hant/detail/ivcontest/) ✔️ | 8738 | 關於Telegram的即時查看模板競爭的官方新聞頻道。 <sub>`官方` `編程`</sub> |
-| [iGitHub](https://tgbox.cc/zh-hant/detail/igithub/) | 6574 | 分享一些適用的GitHub開源項目 更多分享 @lihaiba <sub>`開源`</sub> |
+| [iGitHub](https://tgbox.cc/zh-hant/detail/igithub/) | 6661 | 分享一些適用的GitHub開源項目 更多分享 @lihaiba <sub>`開源`</sub> |
 | [JIKE社區](https://tgbox.cc/zh-hant/detail/jikeinfo/) | 6191 |  |
 | [AWS Notes](https://tgbox.cc/zh-hant/detail/aws_notes/) | 5865 | AWS Notes — Amazon Web Services 教育和信息頻道聊天: https://t.me/aws\_notes\_chat 聯繫人: @apple\_rom,… <sub>`編程`</sub> |
 | [CatOps](https://tgbox.cc/zh-hant/detail/catops/) | 5058 | DevOps和其他問題由Yurii Rochniak (@grem1in) - SRE @ Preply && Maksym Vlasov (@MaxymVlasov) -… <sub>`Linux`</sub> |
@@ -417,12 +417,13 @@
 | [優質「資源」收藏夾](https://tgbox.cc/zh-hant/detail/meiriyishu/) | 1.4萬 | 收藏高質量資料，幫助你獲取優質資源。 |
 
 <details>
-<summary>展開其餘 14 個</summary>
+<summary>展開其餘 15 個</summary>
 
 | 名稱 | 訂閱 | 簡介 |
 | --- | ---: | --- |
 | [那些好看的Tg主題](https://tgbox.cc/zh-hant/detail/beautifultgtheme/) | 1.3萬 | 分享一些好看的Telegram主題 大部分是Android,官方 如果你需要TgX、IOS、或PC桌面版的主題,請聯繫我,我儘量做… <sub>`設計`</sub> |
 | [拾趣](https://tgbox.cc/zh-hant/detail/peekfun/) | 1.3萬 | 分享一點有趣的事情、有用的東西 |
+| [創柯情報局](https://tgbox.cc/zh-hant/detail/bpjjjj/) | 1.1萬 | 本頻道分享軟件資源，時事熱點，網賺項目。這裡是個大雜燴，什麼都分享\~\~\~ 廣告合作&任何反饋&討論組誤封 @chuangke66 <sub>`網盤` `羊毛福利` `開源`</sub> |
 | [7i の 科技軟件·工具·資源分享](https://tgbox.cc/zh-hant/detail/sse7i/) | 7641 | 發現實用工具，探索科技 分享優質軟件、AI 應用、效率工具、精選網站與數字資源，涵蓋辦公學習、設計創作、日常使用等場景，也分享科技動態、使用教程與實用技巧。… <sub>`安卓` `網盤` `免費`</sub> |
 | [🔍此岸情報局🔎](https://tgbox.cc/zh-hant/detail/justreformation/) | 7594 | 資源情報資訊更新板！ 羊毛、好物、聊天、VIP、軟件、Apple、淘寶、京東、福利、App、iOS、老司機、破解、小說、搞笑、資源、視頻、中文、Google！源於網絡，分享世界！… <sub>`免費`</sub> |
 | [鯤的碎碎念](https://tgbox.cc/zh-hant/detail/atashare/) | 7502 | 分享實用的、小眾的網絡資源和資訊。 原神頻道 @YuanShen ATA Bots @atabots 🎉 友鏈： RSS 訂閱聚合 \| @dailyrss 美圖 \|… |
@@ -446,7 +447,7 @@
 
 | 名稱 | 訂閱 | 簡介 |
 | --- | ---: | --- |
-| [Pavel Durov](https://tgbox.cc/zh-hant/detail/durov/) ✔️ | 1018萬 | 電報的創始人 <sub>`官方`</sub> |
+| [Pavel Durov](https://tgbox.cc/zh-hant/detail/durov/) ✔️ | 1009萬 | 電報的創始人 <sub>`官方`</sub> |
 | [即刻精選](https://tgbox.cc/zh-hant/detail/jike_collection/) | 3.6萬 | 把即刻上最值得看的內容，搬到這裡 ✨ X：x.com/jike\_collection Created by @i5tar 🚫 不接廣告 |
 | [秋風のとおり道](https://tgbox.cc/zh-hant/detail/awavenue/) | 2.6萬 | 一個常年秋風蕭瑟的頻道 🍂 遇見，觀察，思考，學習，感悟。 個人向博客類頻道，會分享一些有趣的； 頻道內容允許轉載，轉載請帶來源； 沒事可以來附屬群組吹水。 廣告聯繫:… |
 | [不靠譜的喵(\>^ω^\<) \#CatGPT](https://tgbox.cc/zh-hant/detail/mlgmxyysd_bibilailai/) | 2.2萬 | 魔法少女喵姐姐( @MlgmXyysd )的日常吐槽 & 個人自媒體 本頻道不是專業媒體，無法完全保證內容的時效性與可靠性；本頻道的原創信息均採用 CC BY-NC-SA 4.0… |
@@ -463,7 +464,7 @@
 | [bupt.moe](https://tgbox.cc/zh-hant/detail/bupt_moe/) | 5241 | 為了全人類的發展和解放而奮鬥！ hrx@bupt.moe 原創內容保留所有權利，允許直接Telegram內部轉發，允許帶鏈接轉載。消息內容可能會有更新，如有必要請定期查看。… |
 
 <details>
-<summary>展開其餘 10 個</summary>
+<summary>展開其餘 11 個</summary>
 
 | 名稱 | 訂閱 | 簡介 |
 | --- | ---: | --- |
@@ -477,6 +478,7 @@
 | [Betcore](https://tgbox.cc/zh-hant/detail/betcoretips/) | 2446 | Betcore \#1 Sports Betting Tips & Football Predictions. Daily Free Accumulators, Live Odds… |
 | [K4YT3X's Channel](https://tgbox.cc/zh-hant/detail/k3yt4x/) | 2397 | @k4yt3x 的個人頻道 所有評論會在三個月後自焚 |
 | [Cat Ch.](https://tgbox.cc/zh-hant/detail/usr_bin_cat/) | 2194 | 不理性 不客觀 不中立 想到什麼寫什麼，就醬。 本channel包含內容:奇妙深刻的鍵政言論，萌二發言，電子垃圾回收等。 另：你說是，那就是。 |
+| [Andy's Blog](https://tgbox.cc/zh-hant/detail/andy_zhang_blog/) | 236 | 日記\|隨筆\|雜談\|社論\|碎碎念 <sub>`開源` `編程` `科學`</sub> |
 
 </details>
 
@@ -513,7 +515,7 @@
 | [Hysteria Releases](https://tgbox.cc/zh-hant/detail/hysteria_releases/) | 1萬 | https://hysteria.network/ Hysteria的官方渠道,一個強大的,閃電快速和審查抵抗的代理人. 組:… <sub>`官方` `開源`</sub> |
 | [機場雲 測速☁️頻道](https://tgbox.cc/zh-hant/detail/yunspeedtest/) | 8989 | 本頻道關聯群組: @yunspeedtestg 申請測速/機場投稿/廣告投放 請聯繫 @yunspeedtest\_bot |
 | [Clash Verge-官方](https://tgbox.cc/zh-hant/detail/clashvergerev/) | 7328 | 🌐 Clash Verge Rev 特點 🌐多平臺支持：支持常見的桌面端，包括 Windows、macOS 以及 Linux 🌐代理功能強大：使用最新Clash… <sub>`官方` `開源`</sub> |
-| [機場情報(新) 🅥 🌈🌝🐳🏳️‍🌈 limbopro.com 🔗](https://tgbox.cc/zh-hant/detail/airportbbq1/) | 5278 | 電報聯繫🤖 @limboprobot 郵件聯繫📧 service.limbopro.com@gmail.com 機場推薦 https://bit.ly/3JXb1yx… |
+| [機場情報(新) 🅥 🌈🌝🐳🏳️‍🌈 limbopro.com 🔗](https://tgbox.cc/zh-hant/detail/airportbbq1/) | 5332 | 電報聯繫🤖 @limboprobot 郵件聯繫📧 service.limbopro.com@gmail.com 機場推薦 https://bit.ly/3JXb1yx… |
 
 </details>
 
@@ -538,7 +540,7 @@
 | [免費資源網](https://tgbox.cc/zh-hant/detail/free_group/) | 5303 | https://free.com.tw/ 免費資源網成立於 2006 年，累積超過 7000 篇免費軟體、App 與線上工具等七大主題的圖文教學與心得，專注分享實用且值得信賴的免費… <sub>`羊毛福利`</sub> |
 | [🅰️純粹的 App Store 應用推薦👍](https://tgbox.cc/zh-hant/detail/app_store/) | 5035 | 一站式推薦蘋果五大系統中精選的免費和限免應用。【限免價格以 🇺🇸 App Store 為準】 ️App\_Sore 交流群:@appstorechat Bluesky… <sub>`免費` `iOS`</sub> |
 | [🎏彼岸羊毛薅到底撿漏優惠組🛒](https://tgbox.cc/zh-hant/detail/lycorisstore/) | 4628 | 高質量優惠活動信息時報！！不錯過任何好價商品！ 期待各位加入！！ 「招待不周」 本群淘寶食用方法： 複製淘口令(或複製全文)打開陶寶會自動彈出商品信息！無需登錄！… <sub>`羊毛福利`</sub> |
-| [iOS限免&降價](https://tgbox.cc/zh-hant/detail/apps_share/) | 3988 | 推薦優質應用，限免具有時效性，請第一時間下載，開啟通知以防錯過 榜單：https://t.me/Apps\_Share/118 群組：https://t.me/Appshare\_Gr… <sub>`免費` `iOS`</sub> |
+| [iOS限免&降價](https://tgbox.cc/zh-hant/detail/apps_share/) | 4008 | 推薦優質應用，限免具有時效性，請第一時間下載，開啟通知以防錯過 榜單：https://t.me/Apps\_Share/118 群組：https://t.me/Appshare\_Gr… <sub>`免費` `iOS`</sub> |
 | [Watch and Perfume Deals \| Timeandscents.…](https://tgbox.cc/zh-hant/detail/timeandscents/) | 2561 | Discover watch and perfume deals, price drops, discounts and offers from leading Indian… <sub>`數碼硬件`</sub> |
 
 <details>
@@ -573,7 +575,7 @@
 | [Foolish TraceWind](https://tgbox.cc/zh-hant/detail/foolishtracewind/) | 1.7萬 | 本頻道創立於2018年8月12日\~ 致力於更新優質有趣的沙雕圖，偶爾會發點別的雜七雜八，包含極微量 NSFW 內容。 大多有水印，部分會單獨標註來源。 投稿請… <sub>`表情包`</sub> |
 | [🐾 可愛の收藏 cute collection](https://tgbox.cc/zh-hant/detail/kawaii_collection/) | 6693 | 致力於傳播快樂 分享一些趣圖、萌寵和可愛的東西 NSFW沙雕圖友鏈: @wtmsd |
 | [每日無數汪](https://tgbox.cc/zh-hant/detail/wushuwang/) | 2114 | 全是汪星人的世界 投稿請聯繫 @pikameow @marogatari @SaltedFishSH @HCT\_Nekobot 每日無數喵 @miaowu 不接廣告 |
-| [熱心小宅男](https://tgbox.cc/zh-hant/detail/oyn4uj6viui8pni/) | 513 | 一個有趣的人，一個實用的頻道。 <sub>`每日早報`</sub> |
+| [熱心小宅男](https://tgbox.cc/zh-hant/detail/oyn4uj6viui8pni/) | 533 | 一個有趣的人，一個實用的頻道。 <sub>`每日早報`</sub> |
 | [飯後樂哈哈](https://tgbox.cc/zh-hant/detail/zng7qbrh9uaes6/) | 508 | 主業發呆，副業搞笑，偶爾正常發揮。關注我，收穫一個不太正經的朋友 <sub>`免費`</sub> |
 
 [在 TGbox 查看全部搞笑趣味 →](https://tgbox.cc/zh-hant/channel/fun/)
@@ -596,7 +598,7 @@
 | [Hermes愛馬仕&🦞OpenClaw小龍蝦](https://tgbox.cc/zh-hant/detail/openclaw1024/) | 7085 | 分享Hermes愛馬仕 & OpenClaw🦞最新玩法、技巧、經驗、觀點等。2026最新自主智能體（Agent）框架，你的24小時在線的“數字管家”。 <sub>`AI智能體`</sub> |
 | [動察Beating AI News](https://tgbox.cc/zh-hant/detail/onemillion_ai/) | 4211 | AI新聞信息流 |
 | [PriceAI 通知頻道](https://tgbox.cc/zh-hant/detail/priceaicc2/) | 435 | 本頻道主要發佈： 1、平臺功能更新。 2、新增渠道、新增分類、新增指南。 3、採集異常、價格異常、渠道處理說明。 4、重要風險提示與產品規劃進展。 官網：… <sub>`API中轉`</sub> |
-| [AI 工具情報局](https://tgbox.cc/zh-hant/detail/aigongjuqbj/) | 346 | 把 AI 用進具體工作：整理資料、處理文檔、製作內容和自動化。精選可上手的工具與工作流，講清做法、使用條件和限制。 <sub>`AI智能體`</sub> |
+| [AI 工具情報局](https://tgbox.cc/zh-hant/detail/aigongjuqbj/) | 359 | 把 AI 用進具體工作：整理資料、處理文檔、製作內容和自動化。精選可上手的工具與工作流，講清做法、使用條件和限制。 <sub>`AI智能體`</sub> |
 | [AI Got Weird](https://tgbox.cc/zh-hant/detail/shipaibrief/) | 4 | Strange AI breakthroughs, useful tools and spectacular failures - explained in a minute.… |
 
 [在 TGbox 查看全部AI →](https://tgbox.cc/zh-hant/channel/ai/)
@@ -613,7 +615,7 @@
 | [🧸心情文案吧｜素材｜壁紙｜頭像](https://tgbox.cc/zh-hant/detail/sucai939/) | 6.1萬 | 🌸心心念念是舊人🌸 🌸筆筆寫下是舊情🌸 每日更新，你的關注，是我最大的動力！ 💎商務合作： @Gujiajia\_bot （顧佳佳） 多一個字少一個字都是騙子哦～ |
 | [🧸心情文案吧｜素材｜壁紙｜頭像](https://tgbox.cc/zh-hant/detail/wenanba/) | 6.1萬 | 🌸心心念念是舊人🌸 🌸筆筆寫下是舊情🌸 每日更新，你的關注，是我最大的動力！ 💎商務合作： @Gujiajia\_bot （顧佳佳） 多一個字少一個字都是騙子哦～ |
 | [公諸同好 \| 二次元美圖分享 🅥](https://tgbox.cc/zh-hant/detail/gongzhutonghao/) | 3.9萬 | 高質量動漫&二刺螈（二次元）&插畫作品分享 討論群組 @hengjiazhihui 廣告合作： @qfblbot 萌哩主站： https://www.moely.link… <sub>`動漫`</sub> |
-| [SomeACG \| 每日少女壁紙 🌾](https://tgbox.cc/zh-hant/detail/someacg/) | 3.7萬 | 請問今天要來一張壁紙嗎？這裡是全TG質量最高的ACG壁紙頻道！歡迎訂閱！ 平時會發一些自己精心挑選的壁紙，大多數來自Pixiv，主要以PC壁紙為主，每天(佛系)更新，偶爾會鴿\~… <sub>`動漫`</sub> |
+| [SomeACG \| 每日少女壁紙 🌾](https://tgbox.cc/zh-hant/detail/someacg/) | 3.8萬 | 請問今天要來一張壁紙嗎？這裡是全TG質量最高的ACG壁紙頻道！歡迎訂閱！ 平時會發一些自己精心挑選的壁紙，大多數來自Pixiv，主要以PC壁紙為主，每天(佛系)更新，偶爾會鴿\~… <sub>`動漫`</sub> |
 | [絕對萌域](https://tgbox.cc/zh-hant/detail/moeisland/) | 2.2萬 | （\\\_(\\ („• ֊ •„) O❤️O 也許會發重複 儘量都是最新的萌圖 已發現的AI作圖會標註 每日都有新圖放送！！！ 如果有什麼想法可以進群聊哦… <sub>`動漫`</sub> |
 | [國家地理雜誌 中文版](https://tgbox.cc/zh-hant/detail/natgeomedia/) | 1.5萬 | Hi 探險家，和國家地理一起探索世界吧！ 國家地理雜誌官網 https://bit.ly/2Usj7oJ Facebook https://www.facebook.com/nat… <sub>`攝影` `科學`</sub> |
 | [\[Pixiv\]wallpaper\| 高質量插畫壁紙](https://tgbox.cc/zh-hant/detail/pixivshare/) | 1.4萬 | 一個致力於分享各種pixiv作品的頻道\~ ---------- 友情鏈接：https://t.me/pixivshare/29 新的友鏈歡迎來添加！ ----------… <sub>`動漫`</sub> |
@@ -637,7 +639,7 @@
 | [Lemaned的寶藏書屋（輕小說書庫）](https://tgbox.cc/zh-hant/detail/lemaned1314/) | 2萬 | 分享各種有趣的輕小說 <sub>`動漫` `電子書`</sub> |
 | [☁️雲上報刊亭📰 \[精選\] 🅥 -- 新聞，報紙，雜誌，電子書，資料 PDF](https://tgbox.cc/zh-hant/detail/magazinesclubnew/) | 1.9萬 | 新聞，報紙，雜誌，電子書，資料 PDF 雜誌頻道 @newspaperdigest <sub>`電子書`</sub> |
 | [Λ-Reading ♡](https://tgbox.cc/zh-hant/detail/goreading/) | 1.5萬 | 本頻道主要內容為： 1.書和讀書 \#書摘 \#書籍推薦 \#book ； 2.科技人文資訊分享； 3. Λ-Reading 郵件通訊… <sub>`電子書`</sub> |
-| [圖書雜誌資源免費分享](https://tgbox.cc/zh-hant/detail/kkfxzy/) | 1萬 | 本頻道致力於分享雜誌資源、交流項目，每天會免費更新雜誌！有數百種雜誌進行更新，希望有更多的雜誌愛好者可以關注我們，分享我們的頻道！ <sub>`電子書` `免費`</sub> |
+| [圖書雜誌資源免費分享](https://tgbox.cc/zh-hant/detail/kkfxzy/) | 1.1萬 | 本頻道致力於分享雜誌資源、交流項目，每天會免費更新雜誌！有數百種雜誌進行更新，希望有更多的雜誌愛好者可以關注我們，分享我們的頻道！ <sub>`電子書` `免費`</sub> |
 | [電書攤](https://tgbox.cc/zh-hant/detail/telebookstall/) | 4896 | 願客觀主義照亮你的世界 <sub>`電子書`</sub> |
 | [隨機漫談](https://tgbox.cc/zh-hant/detail/what_to_read_today/) | 3073 | 讀有所記，思有所痕 \| 訂閱每月書單：https://quail.ink/rambling |
 
@@ -657,7 +659,7 @@
 | [NS新聞轉報](https://tgbox.cc/zh-hant/detail/switchnewcn/) | 7427 | 官方信息請看 【港】http://www.nintendo.com.hk/ 【網絡維護狀況】https://www.nintendo.com.hk/switch/support/n… |
 | [VNKC Public Channel](https://tgbox.cc/zh-hant/detail/visualgalgame/) | 6956 | VisualNovel 研究社 (Visual Novel Kenkyu Club) 群組: https://t.me/+vIoZMjanZfYzNTc9 資源頻道：… <sub>`動漫`</sub> |
 | [追尾遊戲熱點](https://tgbox.cc/zh-hant/detail/vwyxrd/) | 4276 | 能聊與玩遊戲真是太好了！ 發一發喜歡得消息，遊戲為主，其餘分享！ 也要有時間發空，遠望宇宙。 發與分享喜歡，知與遊玩遊戲。 聊與分享折扣，追尾遊戲熱點。 + 群組… |
-| [Ingress 中文](https://tgbox.cc/zh-hant/detail/ingresschinese/) | 3790 | 世界並非如你所見 |
+| [Ingress 中文](https://tgbox.cc/zh-hant/detail/ingresschinese/) | 3838 | 世界並非如你所見 |
 | [PlayStation 新聞轉發](https://tgbox.cc/zh-hant/detail/playstationnewssss/) | 3213 | 群聊：@PlayStationXXXX https://playstation.hwaet.workers.dev 「Play Has No Limits」 |
 
 [在 TGbox 查看全部遊戲 →](https://tgbox.cc/zh-hant/channel/games/)
@@ -690,7 +692,7 @@
 | [小紅書一瞥](https://tgbox.cc/zh-hant/detail/xhsyp/) | 3.1萬 | 按：版權歸原作者所有，多於 50 讚的內容會提供“原文”鏈接。 |
 | [中年人生存報告](https://tgbox.cc/zh-hant/detail/dogdairy/) | 1.4萬 | 關於職場、生活、創業、30+、失業、中年生活、夫妻關係等。投稿/合作： @inside1024\_bot |
 | [rvalue的生草日常](https://tgbox.cc/zh-hant/detail/rvalue_daily/) | 8732 | (可能位於火星的)大 草 原(? @rvalue\_official 的個人channel 你以為是草圖channel, 其實是日常channel噠!(… |
-| [筆記本：Lin's 文字世界 : 個人見聞/B站視頻/網絡見聞](https://tgbox.cc/zh-hant/detail/linsbooka/) | 8082 | 頻道始於2019年6月，長期保持不太穩定的持續更新，內容主要以純文字為主。伴有頻道主的個人生活。 附屬群聊：查看置頂 個人頻道：https://t.me/LinYunChannel… |
+| [筆記本：Lin's 文字世界 : 個人見聞/B站視頻/網絡見聞](https://tgbox.cc/zh-hant/detail/linsbooka/) | 8102 | 頻道始於2019年6月，長期保持不太穩定的持續更新，內容主要以純文字為主。伴有頻道主的個人生活。 附屬群聊：查看置頂 個人頻道：https://t.me/LinYunChannel… |
 | [浮生東京](https://tgbox.cc/zh-hant/detail/lifejapan/) | 7422 | 討論組 @JapanChats 商務合作 @appdo\_bot 時不時嘮叨點東京的事兒。不公正、不客觀、不理性。分享有關 城市/美食/潮流/風景/人文 的東西。 推特… |
 | [每日攝影觀察](https://tgbox.cc/zh-hant/detail/cnphotog_collect/) | 6754 | 一個不嚴肅的攝影頻道 群組： @cnphotog <sub>`攝影`</sub> |
 | [樹洞](https://tgbox.cc/zh-hant/detail/atreehole/) | 5130 | 樹洞是一個匿名分享秘密和訴說心事的地方。可以將自己的秘密匿名分享在樹洞裡，獲得其他網友的建議與關注。 樹洞入口 @TheTreeHoleBot 輸入的消息將顯示在這裡，完全匿名。… |
@@ -706,7 +708,7 @@
 | --- | ---: | --- |
 | [你不知道的冷知識](https://tgbox.cc/zh-hant/detail/knowledge1024/) | 2萬 | 冷知識分享 有趣的、無趣的、有用的、沒用的知識 未來引入其他分類知識 投稿/合作： @inside1024\_bot 內容來源網絡 <sub>`科學`</sub> |
 | [看新聞 學英語 雙語新聞](https://tgbox.cc/zh-hant/detail/shuangyunews_rss/) | 1.6萬 | \[RSS全文訂閱 實時更新\] 知乎日報 @zhihuribao\_rss 紐約時報 @niuyueshibao\_rss BBC中文 @bbczhongwen\_rss 路透中文… |
-| [來一點醫學科學前沿🤯🤯🥹🥹](https://tgbox.cc/zh-hant/detail/cnsmydream/) | 1.4萬 | 摸魚時看看頂刊上的生物醫學大佬們又幹了啥。 訊息頻道 @sci\_feed 歡迎大家投稿 @sciReviewer\_bot <sub>`科學`</sub> |
+| [來一點醫學科學前沿🤯🤯🥹🥹](https://tgbox.cc/zh-hant/detail/cnsmydream/) | 1.5萬 | 摸魚時看看頂刊上的生物醫學大佬們又幹了啥。 訊息頻道 @sci\_feed 歡迎大家投稿 @sciReviewer\_bot <sub>`科學`</sub> |
 | [Scriptable教學](https://tgbox.cc/zh-hant/detail/scriptablejs/) | 1.1萬 | 不定期更新教學視頻 <sub>`iOS`</sub> |
 | [網絡技術文章分享](https://tgbox.cc/zh-hant/detail/wzxylh/) | 1.1萬 | 提供各種詳細的網絡技術教程，包括軟件，文章，pdf。聊天群：https://t.me/xytool <sub>`編程`</sub> |
 | [Best Offers - Courses, Books etc](https://tgbox.cc/zh-hant/detail/coursenuggets/) | 2277 | 驚人的免費,頂級評級和折扣課程涵蓋各種技術和非技術堆棧 聲明: 請注意,提供的持續時間可能有限,所以請確保您查看最新帖子 <sub>`免費`</sub> |
@@ -736,7 +738,7 @@
 | 名稱 | 訂閱 | 簡介 |
 | --- | ---: | --- |
 | [阿里雲盤發佈頻道](https://tgbox.cc/zh-hant/detail/sharealiyun/) | 20萬 | 和諧、友愛的阿里雲盤分享交流頻道，每個人在這裡都可以分享自己想分享的資源。 禁止GHS 流量卡： @iiShare 影子頻道： @shareAliyun00 資源交流群：… <sub>`網盤`</sub> |
-| [海外影視資源頻道(夸克、阿里、百度)](https://tgbox.cc/zh-hant/detail/netdisk_movies/) | 4萬 | 此頻道為阿里雲盤、夸克網盤、百度網盤頻道，發佈熱門與經典海外影視。 <sub>`網盤` `電影`</sub> |
+| [海外影視資源頻道(夸克、阿里、百度)](https://tgbox.cc/zh-hant/detail/netdisk_movies/) | 4.1萬 | 此頻道為阿里雲盤、夸克網盤、百度網盤頻道，發佈熱門與經典海外影視。 <sub>`網盤` `電影`</sub> |
 | [LIHAICloud](https://tgbox.cc/zh-hant/detail/lihaicloud/) | 3.3萬 | @lihaiba 雲盤歸檔，資源為收集，如侵犯你的權利聯繫BOT @lihaibadeBot ，我們第一時間處理 <sub>`網盤`</sub> |
 | [夸克網盤資源收藏夾](https://tgbox.cc/zh-hant/detail/quarkfree/) | 2.4萬 | 合作 @ygwpBot 防失聯 ygwp.cc \#短劇 \#擦邊短劇 \#電視劇 \#電影 \#電子書 \#微短劇 \#橫屏短劇 \#網絡劇 <sub>`網盤` `短劇`</sub> |
 | [阿里發佈影子頻道](https://tgbox.cc/zh-hant/detail/sharealiyun00/) | 3014 | <sub>`網盤`</sub> |
@@ -800,11 +802,11 @@
 | [RSSHub - Everything is RSSible](https://tgbox.cc/zh-hant/detail/rsshub/) | 1.2萬 | 頻道: @awesomeRSSHub Repo: https://github.com/DIYgod/RSSHub 文件: https://docs.rsshub.app… <sub>`開源`</sub> |
 | [Telegram Contests](https://tgbox.cc/zh-hant/detail/contests/) ✔️ | 1.2萬 | 此組旨在討論電報舉辦的編碼和設計比賽,請使用英語. 請參見 @contest 以獲取信息. 對於俄語的討論,請使用 @contests\_ru… <sub>`官方` `編程`</sub> |
 | [Synology/黑群暉用戶群](https://tgbox.cc/zh-hant/detail/nasfan/) | 1.1萬 | 更多教程請訪問論壇 https://www.openos.org <sub>`Linux`</sub> |
-| [Docker](https://tgbox.cc/zh-hant/detail/dockertutorial/) | 8806 | Docker 學習\|交流\|分享 Docker \| Moby \| Docker Compose \| Docker Swarm \| Kubernetes (k8s)\| Go… <sub>`Linux`</sub> |
-| [Java 編程語言](https://tgbox.cc/zh-hant/detail/javaer/) | 8678 | Java 一種物件導向程式設計編程語言 ，不是 JAV 群（SFW） pin：https://t.me/Javaer/470283… <sub>`編程`</sub> |
-| [TDLib chat](https://tgbox.cc/zh-hant/detail/tdlibchat/) | 8456 | <sub>`官方` `編程`</sub> |
-| [NewlearnerのIT社群](https://tgbox.cc/zh-hant/detail/newlearnergroup/) | 8429 | 【注意】加群須知：https://t.me/NewlearnerChannel/16099 Main Topics：以 IT 話題為主，包括但不侷限於開源分享、硬件 &… <sub>`開源`</sub> |
-| [C++ 中文交流群](https://tgbox.cc/zh-hant/detail/cpluspluszh/) | 7506 | 加入即同意遵守： 1. 嚴禁：廣告/招聘、引戰、色情/低俗、黑灰產、過激言論、離題話題、作弊/有償任務、任何形式 spam。違者警告或封禁。 2. 吹水/編程起步：請移步… <sub>`編程`</sub> |
+| [Docker](https://tgbox.cc/zh-hant/detail/dockertutorial/) | 8794 | Docker 學習\|交流\|分享 Docker \| Moby \| Docker Compose \| Docker Swarm \| Kubernetes (k8s)\| Go… <sub>`Linux`</sub> |
+| [Java 編程語言](https://tgbox.cc/zh-hant/detail/javaer/) | 8670 | Java 一種物件導向程式設計編程語言 ，不是 JAV 群（SFW） pin：https://t.me/Javaer/470283… <sub>`編程`</sub> |
+| [TDLib chat](https://tgbox.cc/zh-hant/detail/tdlibchat/) | 8462 | <sub>`官方` `編程`</sub> |
+| [NewlearnerのIT社群](https://tgbox.cc/zh-hant/detail/newlearnergroup/) | 8431 | 【注意】加群須知：https://t.me/NewlearnerChannel/16099 Main Topics：以 IT 話題為主，包括但不侷限於開源分享、硬件 &… <sub>`開源`</sub> |
+| [C++ 中文交流群](https://tgbox.cc/zh-hant/detail/cpluspluszh/) | 7501 | 加入即同意遵守： 1. 嚴禁：廣告/招聘、引戰、色情/低俗、黑灰產、過激言論、離題話題、作弊/有償任務、任何形式 spam。違者警告或封禁。 2. 吹水/編程起步：請移步… <sub>`編程`</sub> |
 
 <details>
 <summary>展開其餘 23 個</summary>
@@ -812,28 +814,28 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [\#archlinux-cn](https://tgbox.cc/zh-hant/detail/archlinuxcn_group/) | 7129 | 加群前需要關注新聞頻道 @archlinuxcn，加入之後可以但不建議退出。 新加群請先閱讀 https://z.sh/arch 以及本群置頂消息。 主群禁止發sticker… <sub>`Linux` `開源`</sub> |
-| [python 自學交流](https://tgbox.cc/zh-hant/detail/p_y_t_h_o_n/) | 6935 | 學習、分享、成長 <sub>`編程`</sub> |
-| [Dart / Flutter](https://tgbox.cc/zh-hant/detail/dartlang_group/) | 6056 | <sub>`編程`</sub> |
-| [Go](https://tgbox.cc/zh-hant/detail/golangcn/) | 5218 | 請群成員自覺遵守發言規範 https://telegra.ph/GolangCN-001-Draft-2024-01-03 <sub>`編程`</sub> |
-| [Ubuntu 中文](https://tgbox.cc/zh-hant/detail/ubuntuzh/) | 4558 | Ubuntu 中文交流群 Language: Chinese (Simplified and Traditional) 加入即視為您遵守以下規則… <sub>`Linux`</sub> |
-| [Kali / BlackArch Linux 中文交流](https://tgbox.cc/zh-hant/detail/hackerzh/) | 4444 | Every day, we change the world. 本群提倡有意義的發言，分享有價值的信息，例如技術討論、安全資訊、新手教程等。 無用消息將被刪除，離題請適度。… <sub>`Linux` `網絡安全`</sub> |
+| [python 自學交流](https://tgbox.cc/zh-hant/detail/p_y_t_h_o_n/) | 6957 | 學習、分享、成長 <sub>`編程`</sub> |
+| [Dart / Flutter](https://tgbox.cc/zh-hant/detail/dartlang_group/) | 6050 | <sub>`編程`</sub> |
+| [Go](https://tgbox.cc/zh-hant/detail/golangcn/) | 5215 | 請群成員自覺遵守發言規範 https://telegra.ph/GolangCN-001-Draft-2024-01-03 <sub>`編程`</sub> |
+| [Ubuntu 中文](https://tgbox.cc/zh-hant/detail/ubuntuzh/) | 4553 | Ubuntu 中文交流群 Language: Chinese (Simplified and Traditional) 加入即視為您遵守以下規則… <sub>`Linux`</sub> |
+| [Kali / BlackArch Linux 中文交流](https://tgbox.cc/zh-hant/detail/hackerzh/) | 4443 | Every day, we change the world. 本群提倡有意義的發言，分享有價值的信息，例如技術討論、安全資訊、新手教程等。 無用消息將被刪除，離題請適度。… <sub>`Linux` `網絡安全`</sub> |
 | [Coder Offtopic 中文群](https://tgbox.cc/zh-hant/detail/coder_ot/) | 4367 | 在本群，你甚至可以討論編程 本群相關事項請認真閱讀置頂信息 Python 主群： @pythonzh C++ 主群： @cpluspluszh C主群：… <sub>`編程`</sub> |
 | [GNU/Linux](https://tgbox.cc/zh-hant/detail/linux_group/) | 3537 | Rules are pinned. Read them. Ping for issues: — @watzon — @mazunki Avatar source:… <sub>`Linux`</sub> |
-| [wikipedia-zh-computer-science](https://tgbox.cc/zh-hant/detail/wikipedia_zh_cs/) | 3163 | 群連結 t.me/wikipedia\_zh\_cs 本群主要討論中文維基百科的電腦/計算機科學條目編輯事宜，亦可以討論相關的理論、知識或問題。 主群 @wikipedia\_zh\_n… |
+| [wikipedia-zh-computer-science](https://tgbox.cc/zh-hant/detail/wikipedia_zh_cs/) | 3152 | 群連結 t.me/wikipedia\_zh\_cs 本群主要討論中文維基百科的電腦/計算機科學條目編輯事宜，亦可以討論相關的理論、知識或問題。 主群 @wikipedia\_zh\_n… |
 | [OpenWRT\*LEDE/Wireless Routers](https://tgbox.cc/zh-hant/detail/openwrt_routers/) | 3088 | 這是關於路由器和無線設備的討論組………………的重生版 請務必明確越高端的硬件可玩性越好的傳統\|ω・´) 不要發政治po和開車po，你發不過群主的。也不許發廣告po。違者一次警告二次… <sub>`Linux`</sub> |
-| [\#archlinux-cn-offtopic](https://tgbox.cc/zh-hant/detail/archlinuxcn_offtopic/) | 2931 | Arch Linux 相關人員的無關討論群！技術提問左轉主群 \| 新加群請先閱讀 https://z.sh/arch 本群所有歷史聊天記錄都有落絮的公開存檔，自刪無法刪除歷史存檔… <sub>`Linux`</sub> |
-| [大數據雜談](https://tgbox.cc/zh-hant/detail/bigdatazh/) | 2672 | 大數據架構與開發技術交流 不賣數據、不賣數據、不賣數據 不開車、不發廣告、不亂玩機器人 關鍵字：hadoop hdfs spark yarn zookeeper spark… <sub>`編程`</sub> |
+| [\#archlinux-cn-offtopic](https://tgbox.cc/zh-hant/detail/archlinuxcn_offtopic/) | 2930 | Arch Linux 相關人員的無關討論群！技術提問左轉主群 \| 新加群請先閱讀 https://z.sh/arch 本群所有歷史聊天記錄都有落絮的公開存檔，自刪無法刪除歷史存檔… <sub>`Linux`</sub> |
+| [大數據雜談](https://tgbox.cc/zh-hant/detail/bigdatazh/) | 2670 | 大數據架構與開發技術交流 不賣數據、不賣數據、不賣數據 不開車、不發廣告、不亂玩機器人 關鍵字：hadoop hdfs spark yarn zookeeper spark… <sub>`編程`</sub> |
 | [JavaScript 中文交流](https://tgbox.cc/zh-hant/detail/javascriptzh/) | 2604 | JavaScript，通常縮寫為 JS，是一種高級的，解釋執行的編程語言 請勿廣告、推廣、開車 誤封申訴： @SCP\_079\_TICKET\_BOT 友情聯盟： @coderzh <sub>`編程`</sub> |
-| [Frontend 前端中文技術交流](https://tgbox.cc/zh-hant/detail/frontend_talk/) | 2513 | 此Channel主要用作前端方向的開發同學在Telegram上的技術交流平臺，不定期分享Vue.js/React/Node.js/Chrome/ECMA-TC39/W3C等相關的最… <sub>`編程`</sub> |
-| [\[CN\] Android Dev](https://tgbox.cc/zh-hant/detail/androiddevcn/) | 2488 | 僅限 Android 開發話題。請勿閒聊，閒聊請進入下述群。 隔壁群 Android discuss : @AndroidDiscuss @AndroidDress 開發閒聊群:… <sub>`安卓` `編程`</sub> |
-| [grammY](https://tgbox.cc/zh-hant/detail/grammyjs/) | 1839 | 網站: https://grammy.dev/ 來源: https://git.io/grammyjs <sub>`開源` `編程`</sub> |
-| [NixOS 中文](https://tgbox.cc/zh-hant/detail/nixos_zhcn/) | 1774 | 加群后請先閱讀 https://t.me/nixos\_zhcn/343893 <sub>`Linux`</sub> |
+| [Frontend 前端中文技術交流](https://tgbox.cc/zh-hant/detail/frontend_talk/) | 2512 | 此Channel主要用作前端方向的開發同學在Telegram上的技術交流平臺，不定期分享Vue.js/React/Node.js/Chrome/ECMA-TC39/W3C等相關的最… <sub>`編程`</sub> |
+| [\[CN\] Android Dev](https://tgbox.cc/zh-hant/detail/androiddevcn/) | 2487 | 僅限 Android 開發話題。請勿閒聊，閒聊請進入下述群。 隔壁群 Android discuss : @AndroidDiscuss @AndroidDress 開發閒聊群:… <sub>`安卓` `編程`</sub> |
+| [grammY](https://tgbox.cc/zh-hant/detail/grammyjs/) | 1835 | 網站: https://grammy.dev/ 來源: https://git.io/grammyjs <sub>`開源` `編程`</sub> |
+| [NixOS 中文](https://tgbox.cc/zh-hant/detail/nixos_zhcn/) | 1790 | 加群后請先閱讀 https://t.me/nixos\_zhcn/343893 <sub>`Linux`</sub> |
 | [\[CN\]Flutter Dev](https://tgbox.cc/zh-hant/detail/fluttercn/) | 1579 | Flutter 中文開發交流群\[非官方\] 官方群(EN):https://gitter.im/flutter/flutter <sub>`編程`</sub> |
-| [Kubernetes CN](https://tgbox.cc/zh-hant/detail/kubernetes_cn/) | 1542 | Kubernetes 中文社區 技術落地實踐與交流平臺 本群鏈接: @Kubernetes\_CN 運維與開發深度話題 可到隔壁友群討論：🔗 @DevOps\_CN… <sub>`Linux` `開源`</sub> |
+| [Kubernetes CN](https://tgbox.cc/zh-hant/detail/kubernetes_cn/) | 1537 | Kubernetes 中文社區 技術落地實踐與交流平臺 本群鏈接: @Kubernetes\_CN 運維與開發深度話題 可到隔壁友群討論：🔗 @DevOps\_CN… <sub>`Linux` `開源`</sub> |
 | [DevOps CN](https://tgbox.cc/zh-hant/detail/devops_cn/) | 1288 | 一個嚴肅的技術交流群 在本群，你甚至可以討論編程🐶 支持各種開發語言 兼容各種平臺（包括Windows Server） 實力甩鍋，文明互噴… <sub>`編程`</sub> |
 | [\#archlinux-cn-appearance](https://tgbox.cc/zh-hant/detail/archlinuxcn_appearance/) | 942 | 歡迎來到 Arch Linux CN Appearance Sharing Group，歡迎分享討論各種壁紙、桌面環境、窗口管理器美化配置～ ps: 過於 ot 的話題還請移步… <sub>`設計` `Linux`</sub> |
 | [TONAPI Tech](https://tgbox.cc/zh-hant/detail/tonapitech/) | 838 | 問有關 TONAPI 使用的任何問題 鏈接: tonapi.io • tonconsole.com • docs.tonconsole.com <sub>`編程` `TON生態`</sub> |
-| [Haskell 中文交流](https://tgbox.cc/zh-hant/detail/haskellzh/) | 557 | Haskell 是一種標準化的，通用的純函數程序語言，有非限定性語義和強靜態類型 誤封申訴： @SCP\_079\_TICKET\_BOT 友情聯盟： @coderzh <sub>`編程`</sub> |
+| [Haskell 中文交流](https://tgbox.cc/zh-hant/detail/haskellzh/) | 553 | Haskell 是一種標準化的，通用的純函數程序語言，有非限定性語義和強靜態類型 誤封申訴： @SCP\_079\_TICKET\_BOT 友情聯盟： @coderzh <sub>`編程`</sub> |
 
 </details>
 
@@ -859,7 +861,7 @@
 | [Gate.io的小夥伴們](https://tgbox.cc/zh-hant/detail/gate_io/) | 1.1萬 | 歡迎！這裡是Gate芝麻開門的華語官方社群。Gate生態相關的一切我們都可以在這裡討論哦！ 新用戶請點擊鏈接領取專屬於您的$5合約體驗金 👉… <sub>`交易所`</sub> |
 | [CoinGlass.com](https://tgbox.cc/zh-hant/detail/coinglass/) | 1.1萬 | CoinGlass是一個專業的加密貨幣衍生品數據分析平臺。 <sub>`鏈上數據` `量化交易`</sub> |
 | [區塊先生 Mrblock (DeFi Asia)](https://tgbox.cc/zh-hant/detail/mrblocktw/) | 1萬 | 圖書館:https://t.me/mrblock\_info YouTube: 區塊先生或 mrblocktw Discord:… |
-| [PANews 加密貨幣衝鋒隊](https://tgbox.cc/zh-hant/detail/panewslab/) | 9979 | 提供加密貨幣和區塊鏈領域有價值的資訊和深度洞察。 加入討論: t.me/PANewsLab 訂閱新聞: t.me/ChannelPANews… <sub>`財經`</sub> |
+| [PANews 加密貨幣衝鋒隊](https://tgbox.cc/zh-hant/detail/panewslab/) | 9958 | 提供加密貨幣和區塊鏈領域有價值的資訊和深度洞察。 加入討論: t.me/PANewsLab 訂閱新聞: t.me/ChannelPANews… <sub>`財經`</sub> |
 
 <details>
 <summary>展開其餘 15 個</summary>
@@ -867,18 +869,18 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [BNB Chain 官方華語社群](https://tgbox.cc/zh-hant/detail/bnbchainzh/) | 9567 | BNB Chain 官方網站： https://www.bnbchain.org BNB Chain 華語TG社群: https://t.me/BNBChainZH 開發者社區：… <sub>`官方`</sub> |
-| [TRON China](https://tgbox.cc/zh-hant/detail/tronnetworkcn/) | 8950 | ❤️ 歡迎有興趣交流互動的用戶加入波場官方Telegram 03 群： https://t.me/tronnetworkCN03 一起暢聊波場最新動態！… <sub>`官方`</sub> |
-| [BlockBeats Chat](https://tgbox.cc/zh-hant/detail/blockbeats_app/) | 6589 | 歡迎來到BlockBeats交流群 |
-| [Solidity Development](https://tgbox.cc/zh-hant/detail/dev_solidity/) | 5742 | 這個聊天是為 Solidity 開發人員。 維基 - @soliditypedia 工作 - @ethereum\_jobs\_market <sub>`編程`</sub> |
-| [BITWU精選頻道｜Bitwu Community](https://tgbox.cc/zh-hant/detail/bitewu/) | 5350 | 該群為BITWU每日投研信息一覽，主要用於每日優質信息推送，BITWU推特分析留存，為禁言群！ 聊天群入口：https://t.me/+3acx9zYevQE5NmQ1… |
-| [Biteye中文電報群](https://tgbox.cc/zh-hant/detail/biteyecn/) | 5293 |  |
-| [金色財經交流群](https://tgbox.cc/zh-hant/detail/jinse2022/) | 4248 | 金色財經是集行業新聞、資訊、行情、數據等一站式區塊鏈產業服務平臺。 推特：https://twitter.com/jinsefinance 加入討論:… |
-| [幣安\|歐易\| Bybit \| Bitget \|火幣加密貨幣交流群](https://tgbox.cc/zh-hant/detail/jmhbgroup/) | 3355 | 導航站:www.0xnav.com 空投頻道:@tglukongtou 導航頻道:@biquandaohang 幣安減免40%手續費(邀請碼：FANXIAN)… <sub>`空投` `交易所`</sub> |
-| [MugglePay 麻瓜寶💰crypto only](https://tgbox.cc/zh-hant/detail/mugglepay/) | 2366 | MugglePay EN: https://t.me/mugglepay\_en MuggleWallet: https://mugglewallet.com/ MugglePay… |
-| [加密貨幣與區塊鏈討論群](https://tgbox.cc/zh-hant/detail/onblockchain/) | 2350 | 加密貨幣與區塊鏈頻道： https://t.me/knowBlockchain |
-| [Lighter 中文社區](https://tgbox.cc/zh-hant/detail/lighter_asia/) | 2113 | Lighter.xyz 是一個針對永續合約的去中心化交易協議，透過專屬的 zk‑Rollup 技術（稱為 zkLighter）提供可驗證的訂單撮合與清算引擎。整個系統運行在以太坊… |
-| [Foresight News Official](https://tgbox.cc/zh-hant/detail/foresightnewstalk/) | 1800 | 歡迎來到Foresight News Talk大本營\~ APP 4.0 全面升級： foresightnews.pro/download X：… |
-| [OctoBot 🐙](https://tgbox.cc/zh-hant/detail/octobot_trading/) | 1361 | HTTPS://octobot.click/UBpmSv 的位置 <sub>`開源` `量化交易`</sub> |
+| [TRON China](https://tgbox.cc/zh-hant/detail/tronnetworkcn/) | 8835 | ❤️ 歡迎有興趣交流互動的用戶加入波場官方Telegram 03 群： https://t.me/tronnetworkCN03 一起暢聊波場最新動態！… <sub>`官方`</sub> |
+| [BlockBeats Chat](https://tgbox.cc/zh-hant/detail/blockbeats_app/) | 6550 | 歡迎來到BlockBeats交流群 |
+| [Solidity Development](https://tgbox.cc/zh-hant/detail/dev_solidity/) | 5737 | 這個聊天是為 Solidity 開發人員。 維基 - @soliditypedia 工作 - @ethereum\_jobs\_market <sub>`編程`</sub> |
+| [BITWU精選頻道｜Bitwu Community](https://tgbox.cc/zh-hant/detail/bitewu/) | 5363 | 該群為BITWU每日投研信息一覽，主要用於每日優質信息推送，BITWU推特分析留存，為禁言群！ 聊天群入口：https://t.me/+3acx9zYevQE5NmQ1… |
+| [Biteye中文電報群](https://tgbox.cc/zh-hant/detail/biteyecn/) | 5291 |  |
+| [金色財經交流群](https://tgbox.cc/zh-hant/detail/jinse2022/) | 4241 | 金色財經是集行業新聞、資訊、行情、數據等一站式區塊鏈產業服務平臺。 推特：https://twitter.com/jinsefinance 加入討論:… |
+| [幣安\|歐易\| Bybit \| Bitget \|火幣加密貨幣交流群](https://tgbox.cc/zh-hant/detail/jmhbgroup/) | 3443 | 導航站:www.0xnav.com 空投頻道:@tglukongtou 導航頻道:@biquandaohang 幣安減免40%手續費(邀請碼：FANXIAN)… <sub>`空投` `交易所`</sub> |
+| [MugglePay 麻瓜寶💰crypto only](https://tgbox.cc/zh-hant/detail/mugglepay/) | 2400 | MugglePay EN: https://t.me/mugglepay\_en MuggleWallet: https://mugglewallet.com/ MugglePay… |
+| [加密貨幣與區塊鏈討論群](https://tgbox.cc/zh-hant/detail/onblockchain/) | 2376 | 加密貨幣與區塊鏈頻道： https://t.me/knowBlockchain |
+| [Lighter 中文社區](https://tgbox.cc/zh-hant/detail/lighter_asia/) | 2108 | Lighter.xyz 是一個針對永續合約的去中心化交易協議，透過專屬的 zk‑Rollup 技術（稱為 zkLighter）提供可驗證的訂單撮合與清算引擎。整個系統運行在以太坊… |
+| [Foresight News Official](https://tgbox.cc/zh-hant/detail/foresightnewstalk/) | 1798 | 歡迎來到Foresight News Talk大本營\~ APP 4.0 全面升級： foresightnews.pro/download X：… |
+| [OctoBot 🐙](https://tgbox.cc/zh-hant/detail/octobot_trading/) | 1352 | HTTPS://octobot.click/UBpmSv 的位置 <sub>`開源` `量化交易`</sub> |
 | [CCXT Chat](https://tgbox.cc/zh-hant/detail/ccxt_chat/) | 1141 | CryptoCurrency eXchange Trading Library and Terminal. Links: 🌐 https://ccxt.com/ ✖️… <sub>`開源` `量化交易`</sub> |
 | [Radar Desk \| Whale, NFT, Meme, Odds](https://tgbox.cc/zh-hant/detail/theradardesk/) | 261 | Radar Desk: whale moves, NFT, memecoin and prediction-market data in one hub. News:… <sub>`空投` `官方` `鏈上數據`</sub> |
 
@@ -898,29 +900,29 @@
 | [\[ZH/EN\] HyperCeiler \| Chat](https://tgbox.cc/zh-hant/detail/cemiuiler/) | 1.4萬 | 進群務必先看本群置頂！！ - 建議使用 簡體中文/繁體中文/English； - 請勿隨意私聊管理（必要反饋除外）； - 嚴禁真人、過度 R18 、NSFW… <sub>`安卓` `開源`</sub> |
 | [好軟分享·交流群](https://tgbox.cc/zh-hant/detail/haoruanfenxianggroup/) | 1.3萬 | 好軟分享·主頻道： @haoruanfenxiang 好軟分享·列表頻道： @haoruanfenxianglist 好軟分享·資源頻道：… <sub>`安卓` `Windows`</sub> |
 | [Notion 中文社區](https://tgbox.cc/zh-hant/detail/notionso/) | 1.2萬 | 💡 以 Notion 為主，圍繞 Notion 效率工具、經驗為輔。核心圍繞提升個人生活、工作效率來進行討論。 - 申請加入：https://linmi.cc/n ❤️… |
-| [exteraGram Forum 🌐](https://tgbox.cc/zh-hant/detail/exteraforum/) | 8415 | 頻道: @exteraGram 網站: exteraGram.app 常見問題: @exteraFAQ APKs: @exteraReleases Beta:… <sub>`安卓` `開源`</sub> |
-| [Appinn Talk 💧 小眾軟件](https://tgbox.cc/zh-hant/detail/appinn/) | 8305 | 小眾軟件 appinn.com 本群鏈接： https://t.me/appinn 新消息頻道： https://t.me/appinnfeed 本群採用自動 bot… <sub>`免費`</sub> |
-| [Zapro · 2026](https://tgbox.cc/zh-hant/detail/zaprobest/) | 7311 | 影視 \| 軟件 \| 福利 頻道: https://t.me/zaproshare 主站: https://tmioe.com |
+| [exteraGram Forum 🌐](https://tgbox.cc/zh-hant/detail/exteraforum/) | 8441 | 頻道: @exteraGram 網站: exteraGram.app 常見問題: @exteraFAQ APKs: @exteraReleases Beta:… <sub>`安卓` `開源`</sub> |
+| [Appinn Talk 💧 小眾軟件](https://tgbox.cc/zh-hant/detail/appinn/) | 8304 | 小眾軟件 appinn.com 本群鏈接： https://t.me/appinn 新消息頻道： https://t.me/appinnfeed 本群採用自動 bot… <sub>`免費`</sub> |
+| [Zapro · 2026](https://tgbox.cc/zh-hant/detail/zaprobest/) | 7307 | 影視 \| 軟件 \| 福利 頻道: https://t.me/zaproshare 主站: https://tmioe.com |
 | [Adblock🎃 群組 🅥 🌟🌈🌝🐳🍗🏳️‍🌈](https://tgbox.cc/zh-hant/detail/adblock4limbo/) | 6749 | ✅ 去網頁廣告教程參考 https://t.me/Adblock4limbo/21 新人必看 https://t.me/limboprossr/1389 春潮頻道… |
-| [軟件工具交流群](https://tgbox.cc/zh-hant/detail/widgettalk/) | 6377 | 誤封解封 @WidgetPlusBot 效率工具，軟件評測，資源分享，這裡什麼都有！ • 禁止推廣/黑產/刷屏/NSFW • 禁止黃賭毒/宗教/政治 • 禁止人身攻擊/陰陽怪氣… |
+| [軟件工具交流群](https://tgbox.cc/zh-hant/detail/widgettalk/) | 6388 | 誤封解封 @WidgetPlusBot 效率工具，軟件評測，資源分享，這裡什麼都有！ • 禁止推廣/黑產/刷屏/NSFW • 禁止黃賭毒/宗教/政治 • 禁止人身攻擊/陰陽怪氣… |
 | [Legado Beta](https://tgbox.cc/zh-hant/detail/beta_legado/) | 6156 | Beta發佈通知頻道： @Legado\_Beta Beta發佈討論群組： @Beta\_Legado <sub>`安卓` `電子書` `開源`</sub> |
 | [小眾 App 交流群](https://tgbox.cc/zh-hant/detail/appfoundgroup/) | 5911 |  |
 | [APPDO 數字交流群](https://tgbox.cc/zh-hant/detail/appdododo/) | 4517 | 📨投稿/推廣/頻道解封：@appdo\_bot 🧑🏻‍💻博客 https://japan.typlog.io/ 📷浮生東京 個人生活頻道 @LifeJapan |
-| [CoolApk World](https://tgbox.cc/zh-hant/detail/riocoolapk/) | 3915 | 非酷安官方群組 群組日誌 @CWLOG 群組規定 t.me/c/1247493529/475086 英語群組規則 t.me/Riocoolapk/96286 電報中文補丁:… <sub>`安卓`</sub> |
+| [CoolApk World](https://tgbox.cc/zh-hant/detail/riocoolapk/) | 3916 | 非酷安官方群組 群組日誌 @CWLOG 群組規定 t.me/c/1247493529/475086 英語群組規則 t.me/Riocoolapk/96286 電報中文補丁:… <sub>`安卓`</sub> |
 
 <details>
 <summary>展開其餘 12 個</summary>
 
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
-| [OctoGram \| Chat](https://tgbox.cc/zh-hant/detail/octogramchat/) | 3480 | 官方頻道: @OctoGramApp 穩定版本: @OctoGramAPKs Beta 版本: @OctoGramBeta 網站: https://octogram.me <sub>`安卓` `開源`</sub> |
-| [AdGuard 【中文】](https://tgbox.cc/zh-hant/detail/adguard_chinese/) | 3241 | adguard.com 官方網站鏈接。AdGuard信息反饋意見。中文！ 報告錯誤： agrd.io/report AdGuard微博：https://weibo.com/u/74… <sub>`網絡安全`</sub> |
-| [極客分享の交流群](https://tgbox.cc/zh-hant/detail/igeekshare/) | 3145 | 這裡是極客分享頻道 @geekshare @xgeekshare 群聊 本群唯一群主聯繫方式： @Geekshare\_bot 歡迎各位在此群推薦、自薦「AI/開源產品/免費軟件/趣… |
+| [OctoGram \| Chat](https://tgbox.cc/zh-hant/detail/octogramchat/) | 3484 | 官方頻道: @OctoGramApp 穩定版本: @OctoGramAPKs Beta 版本: @OctoGramBeta 網站: https://octogram.me <sub>`安卓` `開源`</sub> |
+| [AdGuard 【中文】](https://tgbox.cc/zh-hant/detail/adguard_chinese/) | 3239 | adguard.com 官方網站鏈接。AdGuard信息反饋意見。中文！ 報告錯誤： agrd.io/report AdGuard微博：https://weibo.com/u/74… <sub>`網絡安全`</sub> |
+| [極客分享の交流群](https://tgbox.cc/zh-hant/detail/igeekshare/) | 3143 | 這裡是極客分享頻道 @geekshare @xgeekshare 群聊 本群唯一群主聯繫方式： @Geekshare\_bot 歡迎各位在此群推薦、自薦「AI/開源產品/免費軟件/趣… |
 | [\[Chat\] Nekogram](https://tgbox.cc/zh-hant/detail/nekochat/) | 3054 | 官方討論小組的 Nekogram, 英語只有. 規則: 發送!規則在聊天. 新聞: @NekoUpdates 聊天: @NekoChatRU 討論: @NekoChatZH… <sub>`安卓` `開源`</sub> |
 | [macOS 交流組](https://tgbox.cc/zh-hant/detail/macoser/) | 2768 | Setapp 開車、二手軟件交易、使用經驗交流 |
-| [簡悅 - SimpRead](https://tgbox.cc/zh-hant/detail/simpreadgroup/) | 2575 | 嗨，謝謝使用簡悅，歡迎加入簡悅「大家庭」👏 請同時訂閱簡悅的發佈通道 👉 https://t.me/simpread 有幸使用它並喜歡它，這是我的榮幸。🙏 💪… |
-| [Cherrygram Support](https://tgbox.cc/zh-hant/detail/cherrygramsupport/) | 2534 | 官方支持組 @Cherrygram. 聊天英語或俄語只有. 沒有廣告或政治. 在報告任何錯誤之前點擊鏈接: tg://cg\_restart APKs:… <sub>`安卓` `開源`</sub> |
-| [\[討論\] Nekogram](https://tgbox.cc/zh-hant/detail/nekochatzh/) | 2469 | Nekogram 官方討論群，僅中文。如在本群發佈以下信息，則根據情況給予刪除消息、禁言、封禁的處置：管理認為不適合的。 頻道: @NekoUpdates Discussion:… <sub>`安卓`</sub> |
+| [簡悅 - SimpRead](https://tgbox.cc/zh-hant/detail/simpreadgroup/) | 2573 | 嗨，謝謝使用簡悅，歡迎加入簡悅「大家庭」👏 請同時訂閱簡悅的發佈通道 👉 https://t.me/simpread 有幸使用它並喜歡它，這是我的榮幸。🙏 💪… |
+| [Cherrygram Support](https://tgbox.cc/zh-hant/detail/cherrygramsupport/) | 2550 | 官方支持組 @Cherrygram. 聊天英語或俄語只有. 沒有廣告或政治. 在報告任何錯誤之前點擊鏈接: tg://cg\_restart APKs:… <sub>`安卓` `開源`</sub> |
+| [\[討論\] Nekogram](https://tgbox.cc/zh-hant/detail/nekochatzh/) | 2470 | Nekogram 官方討論群，僅中文。如在本群發佈以下信息，則根據情況給予刪除消息、禁言、封禁的處置：管理認為不適合的。 頻道: @NekoUpdates Discussion:… <sub>`安卓`</sub> |
 | [Telegram macOS](https://tgbox.cc/zh-hant/detail/macswift/) | 2035 | GitHub – https://github.com/TelegramMessenger/telegram-macos Beta version –… <sub>`官方`</sub> |
 | [谷歌、微軟雲盤討論群](https://tgbox.cc/zh-hant/detail/google_win/) | 1964 | 自助購物 https://888f.store 前綴修改 @pjassistantbot ★本群 🈲黃 🈲暴 🈲廣告 🈲涉及政治話題… <sub>`網盤`</sub> |
 | [PanoanDrive-免費離線下載資源至Google Drive](https://tgbox.cc/zh-hant/detail/panoandrivebasic/) | 1739 | 頻道：https://t.me/PanoanChannel /mirror 下載鏈接 /cancel 取消（回覆下載的消息） /status 查看下載狀態 <sub>`網盤`</sub> |
@@ -949,7 +951,7 @@
 | [Hiddify Discussion](https://tgbox.cc/zh-hant/detail/hiddify_board/) | 1.3萬 | Hiddify, Internet Freedom Solution Supporting: 🎯 Mieru 🎯 Naive 🎯 xHTTP 🎯 HTTPUpgrade 🎯… <sub>`開源`</sub> |
 | [Project V （使用與反饋）](https://tgbox.cc/zh-hant/detail/projectv2ray/) | 1.2萬 | Project V 官方討論組，內容僅限翻牆工具的使用相關話題，禁止任何無關網絡、計算機、安全的內容。 官網: www.v2ray.com 公告: @v2msgclone… <sub>`開源`</sub> |
 | [Clash Party討論群(原 Mihomo Party)](https://tgbox.cc/zh-hant/detail/mihomo_party_group/) | 1.2萬 | 群內Ai反廣告，被封請聯繫管理員或私信@imparty\_bot ---------------------------- 📣 關注公告頻道：… <sub>`開源`</sub> |
-| [Egern](https://tgbox.cc/zh-hant/detail/egern_app/) | 9082 | Egern 已經在 App Store 上架，如果你喜歡 Egern 請支持一下作者並分享給身邊的朋友。 App Store https://apps.apple.com/us/a… <sub>`iOS`</sub> |
+| [Egern](https://tgbox.cc/zh-hant/detail/egern_app/) | 9188 | Egern 已經在 App Store 上架，如果你喜歡 Egern 請支持一下作者並分享給身邊的朋友。 App Store https://apps.apple.com/us/a… <sub>`iOS`</sub> |
 | [TGCN 機場聯盟](https://tgbox.cc/zh-hant/detail/ssunion/) | 8376 | TGCN 機場聯盟 官方機場主交流中心 禁自動發送/多個小號/干擾群聊/NFSW/帶AFF的廣告 禁冒充官方人員 進不去群賬號解封申訴等… |
 
 <details>
@@ -958,13 +960,13 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [Surge Community](https://tgbox.cc/zh-hant/detail/surgecommunity/) | 8306 | ❏ 本群是Surge第三方社區，限正版用戶，本群不提供售後服務; ❏ 基礎教學可觸發Bot教程:關鍵詞列表; ❏ 為避免糾紛，除管理人員外一律不允許合租開車、機場推廣相關及“明文廣… <sub>`iOS`</sub> |
-| [ShadowsocksR - 技術\|討論\|提問\|少水](https://tgbox.cc/zh-hant/detail/chatssr/) | 6845 | SSR討論群 t.me/chatssr 管理媛はい萌妹紙 禁政治廣告18+ 其它內容隨管理意 ShadowsocksR Windows客戶端下載… |
-| [\#v2fly](https://tgbox.cc/zh-hant/detail/v2fly_chat/) | 6749 | 公告頻道：@v2fly 須知\|README：https://t.me/v2fly\_chat/180673 濫權申訴請發信至 chat\_abuse@v2fly.org… <sub>`開源`</sub> |
+| [ShadowsocksR - 技術\|討論\|提問\|少水](https://tgbox.cc/zh-hant/detail/chatssr/) | 6840 | SSR討論群 t.me/chatssr 管理媛はい萌妹紙 禁政治廣告18+ 其它內容隨管理意 ShadowsocksR Windows客戶端下載… |
+| [\#v2fly](https://tgbox.cc/zh-hant/detail/v2fly_chat/) | 6748 | 公告頻道：@v2fly 須知\|README：https://t.me/v2fly\_chat/180673 濫權申訴請發信至 chat\_abuse@v2fly.org… <sub>`開源`</sub> |
 | [mini club](https://tgbox.cc/zh-hant/detail/orz_mini/) | 6397 | 通訊:https://t.me/ 通訊 |
-| [CYLINK - 不再支持SSR協議，請更新訂閱！！！](https://tgbox.cc/zh-hant/detail/cylink/) | 5172 | 次元鏈接\|40Gbps帶寬冗餘\|IEPL專線\|線路齊全的網絡傳輸服務商 官方域名：https://2cy.now 跳轉域名：https://次元.vip… |
+| [CYLINK - 不再支持SSR協議，請更新訂閱！！！](https://tgbox.cc/zh-hant/detail/cylink/) | 5189 | 次元鏈接\|40Gbps帶寬冗餘\|IEPL專線\|線路齊全的網絡傳輸服務商 官方域名：https://2cy.now 跳轉域名：https://次元.vip… |
 | [中信加速器/ZxfastVPN官方群 - IPLC專線/V2RAY引擎/4K極速…](https://tgbox.cc/zh-hant/detail/zxfast/) | 4021 | 🚚 優質線路，IPLC&BGP全中轉線路 🥳 全客戶端，安卓/iOS/Win/Mac無縫切換 🌐 全球覆蓋，無縫連接亞美歐澳四大洲 🇨🇳 版權限制，海外用戶愜意使用回國節點 🔐… |
-| [Netch 使用交流群組](https://tgbox.cc/zh-hant/detail/netch_discuss_group/) | 3004 | 支持 Socks5、SS、SSR、VMess、Trojan 代理 UDP NAT FullCone - 禁止 廣告 - 禁止 政治 - 禁止 色情 商務合作聯繫… <sub>`Windows`</sub> |
-| [DLK老群](https://tgbox.cc/zh-hant/detail/dlkvpn/) | 1648 | 官網地址： dlk.xyz 軟件更換問題，請自行參考教程解決 dlk.xyz/doc 電腦端： Netch t.me/Netch SSR t.me/dlkvpn/913416… |
+| [Netch 使用交流群組](https://tgbox.cc/zh-hant/detail/netch_discuss_group/) | 3003 | 支持 Socks5、SS、SSR、VMess、Trojan 代理 UDP NAT FullCone - 禁止 廣告 - 禁止 政治 - 禁止 色情 商務合作聯繫… <sub>`Windows`</sub> |
+| [DLK老群](https://tgbox.cc/zh-hant/detail/dlkvpn/) | 1646 | 官網地址： dlk.xyz 軟件更換問題，請自行參考教程解決 dlk.xyz/doc 電腦端： Netch t.me/Netch SSR t.me/dlkvpn/913416… |
 | [SSPanel之國 章魚集團🐙](https://tgbox.cc/zh-hant/detail/woaizyg/) | 1521 | 聲明： 群文件僅供學習研究 如需售後和長久更新 請購買正版獲得服務 本群所有文件雖免費 安裝諮詢服務仍收費 有能力你大可自己裝 沒能力請你虛心請教 章魚哥的網盤：… <sub>`開源`</sub> |
 
 </details>
@@ -979,18 +981,18 @@
 | --- | ---: | --- |
 | [貼圖群 - 進群閱置頂 Sticker Group Taiwan](https://tgbox.cc/zh-hant/detail/stickergroup/) | 3.9萬 | 🥇新手教學 @StartzeroTG 🥈本群規定 telegra.ph/Sticker-Group-Rule-03-22 🥉本群連結 t.me/StickerGroup |
 | [Google Voice 交流群](https://tgbox.cc/zh-hant/detail/googlevoice/) | 1.3萬 | 討論 Google Voice 號碼使用的方法、技巧，以及提供相關服務資訊、商家介紹等 不允許任何推廣（僅 GV 允許有限度推廣，具體細則看置頂），政治內容，各類人身攻擊，引戰，N… |
-| [全球Sim卡愛好者交流群](https://tgbox.cc/zh-hant/detail/simfans/) | 9509 | 全球Sim卡愛好者交流園地！ 官方頻道: @kayouhome 購買香港澳門日本卡聯繫: @hkmovie666 若雙向請用機器人聯繫我: @simfans\_bot |
-| [好棒 🌈 羊毛超級搜](https://tgbox.cc/zh-hant/detail/dajiajia/) | 8594 | 撿漏線報QQ微信群 https://jinshuju.net/f/tZwNdJ ⬇️羊王🐏頻道 @yangwangpindao 🌈 羊毛超級搜群組 @dajiajia… <sub>`羊毛福利`</sub> |
+| [全球Sim卡愛好者交流群](https://tgbox.cc/zh-hant/detail/simfans/) | 9499 | 全球Sim卡愛好者交流園地！ 官方頻道: @kayouhome 購買香港澳門日本卡聯繫: @hkmovie666 若雙向請用機器人聯繫我: @simfans\_bot |
+| [好棒 🌈 羊毛超級搜](https://tgbox.cc/zh-hant/detail/dajiajia/) | 8593 | 撿漏線報QQ微信群 https://jinshuju.net/f/tZwNdJ ⬇️羊王🐏頻道 @yangwangpindao 🌈 羊毛超級搜群組 @dajiajia… <sub>`羊毛福利`</sub> |
 | [期貨與期權📈📉📊 Derivatives](https://tgbox.cc/zh-hant/detail/cnderivatives/) | 6569 | 期貨、期權和各類金融交易品的投機與套利 股票🏢期貨🏢期權🏢權證🏢ETF🐮🐻 股票🏢期貨🏢期權🏢權證🏢ETF🐮🐻 <sub>`財經`</sub> |
 | [Tg雲搜索](https://tgbox.cc/zh-hant/detail/tgsongs/) | 5905 | 全球無限音樂資源 在線聽歌找歌、在線資源搜索 在線問題解答、谷歌級電報雲搜索 更多資源，請點擊電報群組索引： https://t.me/TgTrillion <sub>`音樂`</sub> |
 | [ACG萌](https://tgbox.cc/zh-hant/detail/acg_moe/) | 5551 | 二次元死宅の群聚處→討論任何ACG相關話題（動漫，COS，二次元等） 請遵守以下群規定： - 請勿開漏點車 - 請勿開真人車 - 請勿討論政治 (100%撕逼) - 請勿撕逼 -… <sub>`動漫`</sub> |
-| [Google Voice 互撥交流群](https://tgbox.cc/zh-hant/detail/zh_gv/) | 5076 | 💚 本群討論 GV 相關話題，以及互撥保號。 ⚠️ 本群暫不販賣號碼，也禁止任何販售信息。允許討論購買渠道，但禁止給出直接鏈接。任何類似的廣告形式都將被封禁處理。 |
-| [HiFi音樂資源](https://tgbox.cc/zh-hant/detail/hifimusicresource/) | 4318 | 無損音樂資源收集整理自網絡，只用於愛樂人交流試聽。如果喜愛請支持購買正版音樂不可用於商業用途、下載試聽後請於24小時內刪除！鳴謝 https://t.me/dlkvpn… <sub>`音樂`</sub> |
-| [羊毛黨--TG支部 (薅死羊不償命系列)🐑🐑🐑](https://tgbox.cc/zh-hant/detail/cn_coupon/) | 4120 | 薅死羊不償命系列 <sub>`羊毛福利`</sub> |
-| [青桔ACG](https://tgbox.cc/zh-hant/detail/qingjuacg_chat/) | 4030 | 本群是“青桔ACG”的附屬群組 頻道： @QingjuACG 青桔網：https://acgus.top <sub>`動漫`</sub> |
+| [Google Voice 互撥交流群](https://tgbox.cc/zh-hant/detail/zh_gv/) | 5082 | 💚 本群討論 GV 相關話題，以及互撥保號。 ⚠️ 本群暫不販賣號碼，也禁止任何販售信息。允許討論購買渠道，但禁止給出直接鏈接。任何類似的廣告形式都將被封禁處理。 |
+| [HiFi音樂資源](https://tgbox.cc/zh-hant/detail/hifimusicresource/) | 4312 | 無損音樂資源收集整理自網絡，只用於愛樂人交流試聽。如果喜愛請支持購買正版音樂不可用於商業用途、下載試聽後請於24小時內刪除！鳴謝 https://t.me/dlkvpn… <sub>`音樂`</sub> |
+| [羊毛黨--TG支部 (薅死羊不償命系列)🐑🐑🐑](https://tgbox.cc/zh-hant/detail/cn_coupon/) | 4133 | 薅死羊不償命系列 <sub>`羊毛福利`</sub> |
+| [青桔ACG](https://tgbox.cc/zh-hant/detail/qingjuacg_chat/) | 4028 | 本群是“青桔ACG”的附屬群組 頻道： @QingjuACG 青桔網：https://acgus.top <sub>`動漫`</sub> |
 | [Amazon 海淘購物交流群](https://tgbox.cc/zh-hant/detail/firstamazon/) | 3883 | 美亞(美國亞馬遜)代購、拼單、轉運、優惠劵、Fire TV Stick 團購、海淘交流。 |
 | [體育愛好者\|足球\|籃球\|NBA\|CBA\|交流](https://tgbox.cc/zh-hant/detail/tiyu365/) | 3004 | 體育愛好者\|足球\|籃球\|NBA\|CBA\|交流 群內全面禁止廣告/色情/暴力/政治內容 <sub>`體育`</sub> |
-| [網易雲音樂](https://tgbox.cc/zh-hant/detail/yuncun/) | 2956 | 無音樂，不人生。音樂使人心情愉悅，音樂也是治療傷心的藥。 <sub>`音樂`</sub> |
+| [網易雲音樂](https://tgbox.cc/zh-hant/detail/yuncun/) | 2955 | 無音樂，不人生。音樂使人心情愉悅，音樂也是治療傷心的藥。 <sub>`音樂`</sub> |
 | [爺青結動畫分享交流群](https://tgbox.cc/zh-hant/detail/yeqingjie/) | 2398 | 帶大家尋找兒時的回憶！(禁止廣告以及任何形式的推廣) 🌟爺青回動畫分享頻道： https://t.me/yeqingjie\_GJG666 🌟爺青結動畫交流群組：… <sub>`動漫`</sub> |
 
 <details>
@@ -999,12 +1001,12 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [WallStreetBets華爾街中文官方交流群](https://tgbox.cc/zh-hant/detail/wsbetszh/) | 2352 | WallStreetBets 推特：https://twitter.com/wallstreetbets & https://www.twitter.com/WSBMarketin… <sub>`財經`</sub> |
-| [智能手機討論組📱](https://tgbox.cc/zh-hant/detail/m_phone/) | 2047 | 智能手機討論組，主要討論各種手機，禁止買賣手機。加群有加減法問題驗證，防止廣告機器人，請正確回答才能加入。如第一次忘記回答了，可退群再加，回答問題即可。 <sub>`數碼硬件`</sub> |
+| [智能手機討論組📱](https://tgbox.cc/zh-hant/detail/m_phone/) | 2046 | 智能手機討論組，主要討論各種手機，禁止買賣手機。加群有加減法問題驗證，防止廣告機器人，請正確回答才能加入。如第一次忘記回答了，可退群再加，回答問題即可。 <sub>`數碼硬件`</sub> |
 | [中文獨立博客](https://tgbox.cc/zh-hant/detail/indieblogs/) | 1982 | 中國獨立博客 |
 | [\[拉拉不過如此\] 攝影](https://tgbox.cc/zh-hant/detail/cnphotog/) | 1844 | 這裡是 @Lychee\_Li 的攝影群 歡迎對各種攝影作品、技法，題材和器材的討論！ 本群禁止除群主硬點以外的廣告 討論時請儘可能就事論事，禁止挑釁和人身攻擊… <sub>`攝影`</sub> |
 | [亨嘉之會 \| 二次元美圖倉庫 🅥](https://tgbox.cc/zh-hant/detail/hengjiazhihui/) | 1249 | 二次元/動漫/插畫作品互動討論，閒聊吹水群 ⚠️進群需要進行人機驗證，驗證失敗會被移出群組。 群規： t.me/hengjiazhihui/122 關聯頻道：… <sub>`動漫`</sub> |
 | [全球音樂鑒賞🎶](https://tgbox.cc/zh-hant/detail/qqyyjs/) | 1112 | 🎵伯牙子期於此相遇相知… 🎵高山流水曲高合者眾眾… ❓如需幫助請聯繫美女管理員 @shareocean @qiandengyin ✔️本群組鏈接… <sub>`音樂`</sub> |
-| [無損音樂交流群](https://tgbox.cc/zh-hant/detail/lossless_yinyue_chat/) | 477 | <sub>`音樂`</sub> |
+| [無損音樂交流群](https://tgbox.cc/zh-hant/detail/lossless_yinyue_chat/) | 482 | <sub>`音樂`</sub> |
 
 </details>
 
@@ -1027,9 +1029,9 @@
 | [𝒍𝒊𝒍𝒚的聊天室](https://tgbox.cc/zh-hant/detail/lilydeyaa/) | 1.9萬 | 歡迎來到lily的聊天室（退群自動ban） 頻道： @lily\_yaya 為保證聊天室的運行特制定以下群規 🈲 無聊政治 🈲 硬核色情 🈲 辱罵仇恨言論… |
 | [𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅](https://tgbox.cc/zh-hant/detail/hello_world_1024/) | 1.6萬 | ⚠️入群請詳細閱讀群規，違反規則一律封禁！（退群者bot自動永久封禁） 🈲 政治，政治話題相關內容 🈲 情色，童車，噁心及令人反胃 🈲 廣告，任何廣告請先聯繫群主 🈲… <sub>`編程`</sub> |
 | [Telegram 新手幫助](https://tgbox.cc/zh-hant/detail/newbie_chat/) | 9763 | 「Telegram 新手指南」頻道 @Newbie\_Guide 的附屬群組，主要用於頻道內容反饋與建議、對頻道內未提及問題的社區支持與幫助。 群組規則：… |
-| [The Forum](https://tgbox.cc/zh-hant/detail/theforum/) | 9102 | <sub>`官方`</sub> |
-| [TG 簡中交流（水）群](https://tgbox.cc/zh-hant/detail/cnpub/) | 8004 | Telegram 簡體中文 \*\*非官方\*\* 社區交流群組 相關項目： Telegram 簡體中文語言包: https://t.me/setlanguage/classic-zh-c… |
-| [在花小茶館🍵](https://tgbox.cc/zh-hant/detail/zaihuachat/) | 7416 | 科技圈投稿：@zaihuabot 【莫談國事】 大家多多分享 • 禁止推廣/黑產/刷屏/色情/ NSFW • 禁止黃賭毒/宗教/政治/鍵政 • 禁止撕逼/人身攻擊/陰陽怪氣… <sub>`數碼硬件`</sub> |
+| [The Forum](https://tgbox.cc/zh-hant/detail/theforum/) | 9074 | <sub>`官方`</sub> |
+| [TG 簡中交流（水）群](https://tgbox.cc/zh-hant/detail/cnpub/) | 7995 | Telegram 簡體中文 \*\*非官方\*\* 社區交流群組 相關項目： Telegram 簡體中文語言包: https://t.me/setlanguage/classic-zh-c… |
+| [在花小茶館🍵](https://tgbox.cc/zh-hant/detail/zaihuachat/) | 7423 | 科技圈投稿：@zaihuabot 【莫談國事】 大家多多分享 • 禁止推廣/黑產/刷屏/色情/ NSFW • 禁止黃賭毒/宗教/政治/鍵政 • 禁止撕逼/人身攻擊/陰陽怪氣… <sub>`數碼硬件`</sub> |
 | [逗比據地根](https://tgbox.cc/zh-hant/detail/doubi/) | 6836 | 一群逗比的大家庭！ 請遵守以下群規： - 禁止刷屏 - 禁止傳播謠言 - 禁止打廣告 (包括機場) - 禁止討論政治/宗教 (100%撕逼) - 禁止討論/宣傳任何… |
 
 <details>
@@ -1038,10 +1040,10 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [PriceAI 交流群（禁廣）](https://tgbox.cc/zh-hant/detail/priceaicc/) | 6714 | PriceAI 交流群：AI 訂閱、模型 API、低價渠道、商品及功能問題反饋交流。 官網：https://priceai.cc… <sub>`ChatGPT` `開源`</sub> |
-| [Yummy's Small Talk](https://tgbox.cc/zh-hant/detail/godlygroup/) | 5588 | 群組舊名：I'm So Lonely \* 禁止傳播謠言/盜版 \* 禁止刷屏/撕逼/謾罵/人身攻擊 \* 禁止黃賭毒/政治/宗教 \* 禁止廣告/機場鏈接/aff \*… |
-| [科技&趣聞](https://tgbox.cc/zh-hant/detail/kejiquchat/) | 4421 | 分享有價值、有趣的信息 頻道 @kejiqu 投稿 @kejiqubot 合作聯絡 @SlowDayBot |
-| [喵子科學站-吹水群](https://tgbox.cc/zh-hant/detail/mzkxzchat/) | 2214 | 官網鏈接：www.mzkxz.net 🈲️過度🇨🇳國內政治，其他方面隨意～ 通知頻道：@mzkxzPub |
-| [Snowball Fight - Streamers Den](https://tgbox.cc/zh-hant/detail/snowballfight/) | 629 | 歡迎來到雪球戰! 善待 不要邀請機器人或發佈廣告,NSFW或版權內容。 保持英語對話,讓每個人都能參與。 <sub>`表情包` `官方`</sub> |
+| [Yummy's Small Talk](https://tgbox.cc/zh-hant/detail/godlygroup/) | 5590 | 群組舊名：I'm So Lonely \* 禁止傳播謠言/盜版 \* 禁止刷屏/撕逼/謾罵/人身攻擊 \* 禁止黃賭毒/政治/宗教 \* 禁止廣告/機場鏈接/aff \*… |
+| [科技&趣聞](https://tgbox.cc/zh-hant/detail/kejiquchat/) | 4443 | 分享有價值、有趣的信息 頻道 @kejiqu 投稿 @kejiqubot 合作聯絡 @SlowDayBot |
+| [喵子科學站-吹水群](https://tgbox.cc/zh-hant/detail/mzkxzchat/) | 2208 | 官網鏈接：www.mzkxz.net 🈲️過度🇨🇳國內政治，其他方面隨意～ 通知頻道：@mzkxzPub |
+| [Snowball Fight - Streamers Den](https://tgbox.cc/zh-hant/detail/snowballfight/) | 628 | 歡迎來到雪球戰! 善待 不要邀請機器人或發佈廣告,NSFW或版權內容。 保持英語對話,讓每個人都能參與。 <sub>`表情包` `官方`</sub> |
 
 </details>
 
@@ -1057,17 +1059,17 @@
 | [🇬🇧 Nicegram Chat](https://tgbox.cc/zh-hant/detail/nicegramchat/) | 1.9萬 | Official Nicegram chat! Channel: @nicegramapp Navigation: @NicegramNavigation Download… <sub>`iOS`</sub> |
 | [ios黑科技交流群](https://tgbox.cc/zh-hant/detail/ioshkj007/) | 1.2萬 | 各種實用軟件與技巧。 京東羊毛： https://t.me/jdjd007 黑科技資源站： http://ioshkj.cn 蘋果證書定製 https://s0h.cn/ios… <sub>`iOS`</sub> |
 | [iOS 越獄](https://tgbox.cc/zh-hant/detail/ios_jailbreaking/) | 1萬 | iOS 越獄玩家交流群 |
-| [Miao Project](https://tgbox.cc/zh-hant/detail/miaoproject/) | 8743 | Bilibili for tvOS 更新推送頻道：https://t.me/miaorelease 本群主要討論 / 反饋 Miao Project 的使用體驗或 Bug，以及… <sub>`開源`</sub> |
-| [GBox官方交流群](https://tgbox.cc/zh-hant/detail/gboxtg/) | 6082 | GBox是一款免越獄可給ipa簽名的工具，具有ipa補籤、ipa安裝下載、視頻下載等功能 官方頻道: https://t.me/GBoxTGC |
-| [Telegram iOS Talk](https://tgbox.cc/zh-hant/detail/telegramiostalk/) | 3654 | 歡迎所有人詢問和回答 請善待 讓我們使用英語,讓每個人都能參與 😳 儘量減少 GIF 和貼紙等媒體帖子 不要在聊天中添加機器人 更多信息 -… <sub>`iOS`</sub> |
+| [Miao Project](https://tgbox.cc/zh-hant/detail/miaoproject/) | 8739 | Bilibili for tvOS 更新推送頻道：https://t.me/miaorelease 本群主要討論 / 反饋 Miao Project 的使用體驗或 Bug，以及… <sub>`開源`</sub> |
+| [GBox官方交流群](https://tgbox.cc/zh-hant/detail/gboxtg/) | 6081 | GBox是一款免越獄可給ipa簽名的工具，具有ipa補籤、ipa安裝下載、視頻下載等功能 官方頻道: https://t.me/GBoxTGC |
+| [Telegram iOS Talk](https://tgbox.cc/zh-hant/detail/telegramiostalk/) | 3665 | 歡迎所有人詢問和回答 請善待 讓我們使用英語,讓每個人都能參與 😳 儘量減少 GIF 和貼紙等媒體帖子 不要在聊天中添加機器人 更多信息 -… <sub>`iOS`</sub> |
 | [臺灣蘋果同好交流群](https://tgbox.cc/zh-hant/detail/taiwanapplefans/) | 3563 | ⭕️ 新聞＆心得 ⭕️ 硬體＆軟體 ⭕️ 周邊＆配件 ⭕️ 團購＆促銷 ⭕️ 敗家＆推坑 ⭕️ 二手＆轉讓 各種蘋果相關的資訊都非常歡迎❗️ （工商請先找管理員😈）… |
 | [Pharos Pro For Apple](https://tgbox.cc/zh-hant/detail/shadow_x_user_support/) | 3435 | 軟件通知頻道 https://t.me/Pharos\_x\_公告 \* https://itunes.apple.com/app/pharos-pro/id1456610173?ls=… <sub>`iOS`</sub> |
 | [Price Tag Friends](https://tgbox.cc/zh-hant/detail/pricetagapp/) | 3354 | 這是一個買買買群 官方公眾號「PriceTag發現好應用」 官方頻道 t.me/AppFans twitter.com/GetPriceTag 微博：PriceTag應用推薦 |
 | [Swiftgram Chat](https://tgbox.cc/zh-hant/detail/swiftgramchat/) | 2971 | 討論Swiftgram在英語新聞 - @swiftgram Beta - @SGBetaSlots源代碼和更多 - @SwiftgramLinks |
-| [Pin apps](https://tgbox.cc/zh-hant/detail/pintg/) | 2901 | 在這裡討論 Pin 和 JSBox 等應用 📌提問前最好先看一下已發佈的一些教程 📌平等而友好地交談，撕逼請不要在這裡撕 📌不要討論黃賭毒或者其他違法內容… |
-| [iOS](https://tgbox.cc/zh-hant/detail/iosdevotee/) | 2468 | 1不是不能聊政治，關鍵這裡不是Twitter 結構鬆散，發的消息別人都被動接受，所以考慮這是一個群，考慮信息過載問題，否則都把人聊跑了This is a China iOS… |
-| [捷徑社區](https://tgbox.cc/zh-hant/detail/shortcuts_cn/) | 2283 | 捷徑社區官方群 捷徑討論｜科技新聞｜趣事分享｜友愛互助 官網 sharecuts.cn 捷徑社區APP t.cn/EokAcig 關於我們 miidii.tech… |
-| [Telegram iOS - Public beta testing](https://tgbox.cc/zh-hant/detail/tgiostests/) | 2275 | 這個非官方小組致力於測試和討論iOS版Telegram測試應用程序。請在任何報告之前閱讀此信息: https://telegra.ph/Telegram-iOS-Beta-Test… <sub>`iOS`</sub> |
+| [Pin apps](https://tgbox.cc/zh-hant/detail/pintg/) | 2900 | 在這裡討論 Pin 和 JSBox 等應用 📌提問前最好先看一下已發佈的一些教程 📌平等而友好地交談，撕逼請不要在這裡撕 📌不要討論黃賭毒或者其他違法內容… |
+| [iOS](https://tgbox.cc/zh-hant/detail/iosdevotee/) | 2467 | 1不是不能聊政治，關鍵這裡不是Twitter 結構鬆散，發的消息別人都被動接受，所以考慮這是一個群，考慮信息過載問題，否則都把人聊跑了This is a China iOS… |
+| [捷徑社區](https://tgbox.cc/zh-hant/detail/shortcuts_cn/) | 2284 | 捷徑社區官方群 捷徑討論｜科技新聞｜趣事分享｜友愛互助 官網 sharecuts.cn 捷徑社區APP t.cn/EokAcig 關於我們 miidii.tech… |
+| [Telegram iOS - Public beta testing](https://tgbox.cc/zh-hant/detail/tgiostests/) | 2281 | 這個非官方小組致力於測試和討論iOS版Telegram測試應用程序。請在任何報告之前閱讀此信息: https://telegra.ph/Telegram-iOS-Beta-Test… <sub>`iOS`</sub> |
 
 <details>
 <summary>展開其餘 2 個</summary>
@@ -1075,7 +1077,7 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [ Apple 用戶社群](https://tgbox.cc/zh-hant/detail/appleusergroup_tg/) | 1779 | 探討 Apple 硬件、軟件產品，包括新聞、謠言、意見和分析及相關問題解答。 👽Reddit 社區：reddit.com/r/appleusergroup ⭐️App Store… |
-| [ Mac 用戶社群](https://tgbox.cc/zh-hant/detail/macusergroup/) | 1245 | 蘋果 macOS 操作系統用戶社群。 ⭐️Mac 應用推薦：t.me/mac\_app\_store 💬Apple 社群：t.me/AppleUserGroup\_tg 🈲廣告傳銷！… <sub>`iOS`</sub> |
+| [ Mac 用戶社群](https://tgbox.cc/zh-hant/detail/macusergroup/) | 1267 | 蘋果 macOS 操作系統用戶社群。 ⭐️Mac 應用推薦：t.me/mac\_app\_store 💬Apple 社群：t.me/AppleUserGroup\_tg 🈲廣告傳銷！… <sub>`iOS`</sub> |
 
 </details>
 
@@ -1087,21 +1089,21 @@
 
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
-| [ChatGPT AI](https://tgbox.cc/zh-hant/detail/gpt_user/) | 9702 | ChatGPT AI機器人使用交流討論 <sub>`ChatGPT`</sub> |
-| [CLIProxyAPI交流群](https://tgbox.cc/zh-hant/detail/cliproxyapi/) | 6983 | <sub>`AI編程` `API中轉` `開源`</sub> |
+| [ChatGPT AI](https://tgbox.cc/zh-hant/detail/gpt_user/) | 9696 | ChatGPT AI機器人使用交流討論 <sub>`ChatGPT`</sub> |
+| [CLIProxyAPI交流群](https://tgbox.cc/zh-hant/detail/cliproxyapi/) | 6984 | <sub>`AI編程` `API中轉` `開源`</sub> |
 | [OpenClaw 中文社區](https://tgbox.cc/zh-hant/detail/openclaw_group/) | 6811 | 本群為 OpenClaw 中文免費社區，用於技術學習交流； 禁止一切邀請、推廣、拉人頭鏈接，禁止向國內平臺引流！ 置頂消息: https://t.me/OpenClaw\_Group… <sub>`AI智能體`</sub> |
-| [AI星球中文資源群](https://tgbox.cc/zh-hant/detail/chatgpt003/) | 6123 | Ai星球🪐中文頻道🇨🇳人工智能旅行指南 ChatGPT Gmini Claude Grok Deepseek Qwen <sub>`大模型`</sub> |
-| [Cherry Studio 官方頻道](https://tgbox.cc/zh-hant/detail/cherrystudioai/) | 5818 | 支持多模型服務的桌面 GPT 客戶端 <sub>`大模型` `開源`</sub> |
+| [AI星球中文資源群](https://tgbox.cc/zh-hant/detail/chatgpt003/) | 6214 | Ai星球🪐中文頻道🇨🇳人工智能旅行指南 ChatGPT Gmini Claude Grok Deepseek Qwen <sub>`大模型`</sub> |
+| [Cherry Studio 官方頻道](https://tgbox.cc/zh-hant/detail/cherrystudioai/) | 5815 | 支持多模型服務的桌面 GPT 客戶端 <sub>`大模型` `開源`</sub> |
 | [Packycode Chat](https://tgbox.cc/zh-hant/detail/packycode/) | 5740 | PackyCode官網：www.packycode.com 狀態監控：check.linux.do/group/Packy 使用文檔：docs.packyapi.com <sub>`AI編程` `API中轉`</sub> |
-| [Kaggle](https://tgbox.cc/zh-hant/detail/kaggle/) | 5179 | 這個群體是為喜歡Kaggle的人們! 我們可以討論比賽,分享想法,並與人們見面,組成群組。您不需要統計學博士學位 - 您所需要的只是對數據科學的熱情! |
-| [ChatGPT中文研究所](https://tgbox.cc/zh-hant/detail/gpt345/) | 3803 | 頻道:t.me/ai\_news\_cn <sub>`ChatGPT`</sub> |
-| [Claude Code中文社區](https://tgbox.cc/zh-hant/detail/claudecode_cn/) | 3517 | <sub>`AI編程` `大模型`</sub> |
-| [Machine Learning CN](https://tgbox.cc/zh-hant/detail/ml_cn/) | 2329 | 機器學習中文討論群組,共同學習,一起煉丹. 沒有 NSFW的東西在這裡 如果你沒有點擊一個按鈕,再試試12小時。 |
-| [IKunCode](https://tgbox.cc/zh-hant/detail/ikuncode/) | 2069 | <sub>`AI編程` `API中轉`</sub> |
-| [🔥AI 富豪俱樂部🔥](https://tgbox.cc/zh-hant/detail/cloudnativer/) | 2054 | 本群為 AI 富豪聚集地，主要用來討論與技術相關的話題，也可以交流網絡、安全相關的內容，不允許討論其他內容，尤其是政治話題，違者秒踢 官網：https://sealos.io… <sub>`大模型`</sub> |
+| [Kaggle](https://tgbox.cc/zh-hant/detail/kaggle/) | 5199 | 這個群體是為喜歡Kaggle的人們! 我們可以討論比賽,分享想法,並與人們見面,組成群組。您不需要統計學博士學位 - 您所需要的只是對數據科學的熱情! |
+| [ChatGPT中文研究所](https://tgbox.cc/zh-hant/detail/gpt345/) | 3821 | 頻道:t.me/ai\_news\_cn <sub>`ChatGPT`</sub> |
+| [Claude Code中文社區](https://tgbox.cc/zh-hant/detail/claudecode_cn/) | 3671 | <sub>`AI編程` `大模型`</sub> |
+| [Machine Learning CN](https://tgbox.cc/zh-hant/detail/ml_cn/) | 2328 | 機器學習中文討論群組,共同學習,一起煉丹. 沒有 NSFW的東西在這裡 如果你沒有點擊一個按鈕,再試試12小時。 |
+| [IKunCode](https://tgbox.cc/zh-hant/detail/ikuncode/) | 2070 | <sub>`AI編程` `API中轉`</sub> |
+| [🔥AI 富豪俱樂部🔥](https://tgbox.cc/zh-hant/detail/cloudnativer/) | 2050 | 本群為 AI 富豪聚集地，主要用來討論與技術相關的話題，也可以交流網絡、安全相關的內容，不允許討論其他內容，尤其是政治話題，違者秒踢 官網：https://sealos.io… <sub>`大模型`</sub> |
 | [xedu賬號交流群](https://tgbox.cc/zh-hant/detail/xedume/) | 667 | 商店https://xedu.me openai中轉https://xeduapi.com chatgpt批發,jetbrains全家桶 <sub>`API中轉` `ChatGPT`</sub> |
-| [MN API用戶群](https://tgbox.cc/zh-hant/detail/mn_api/) | 665 | <sub>`API中轉`</sub> |
-| [轉轉AI討論群-uu6.top](https://tgbox.cc/zh-hant/detail/api_uu6_top/) | 433 | 中轉站：https://api.uu6.top/channel-status 公告群：https://t.me/uu6\_top… <sub>`API中轉`</sub> |
+| [MN API用戶群](https://tgbox.cc/zh-hant/detail/mn_api/) | 666 | <sub>`API中轉`</sub> |
+| [轉轉AI討論群-uu6.top](https://tgbox.cc/zh-hant/detail/api_uu6_top/) | 438 | 中轉站：https://api.uu6.top/channel-status 公告群：https://t.me/uu6\_top… <sub>`API中轉`</sub> |
 
 [在 TGbox 查看全部AI交流 →](https://tgbox.cc/zh-hant/group/ai/)
 
@@ -1114,12 +1116,12 @@
 | [北京](https://tgbox.cc/zh-hant/detail/beijingz/) | 4.7萬 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 導航搜索 @Googlezs 話題 @beijingv 上海… |
 | [泉城濟南電報總群 🅥](https://tgbox.cc/zh-hant/detail/jinan_tg/) | 3.4萬 | ❗️本群禁止廣告，廣告必Ban！禁止所有違法犯罪行為 本群聊天獲取鋼鏰，數量共享至開工群 @kaigong\_tg 報告搜索機器人（開工搜索 @kaiso ） ✴️… |
 | [深圳](https://tgbox.cc/zh-hant/detail/shenzhenz/) | 1.2萬 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
-| [廣州](https://tgbox.cc/zh-hant/detail/guangzhouz/) | 9547 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
-| [上海](https://tgbox.cc/zh-hant/detail/shanghaiz/) | 8650 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
-| [西安電報群](https://tgbox.cc/zh-hant/detail/xiancity/) | 7438 | 入群必讀： 本群用於討論西安相關的衣食住行等話題，同時也可暢聊其他話題，原則上不做話題及聊天內容的限制。但是，為了不給廣大群友帶來困擾，請您遵守以下約定：… |
-| [臺灣群＊](https://tgbox.cc/zh-hant/detail/formosataiwan/) | 5294 | 臺灣人的自由聊天室，歡迎喜歡臺灣的朋友來參與。從美食到旅遊、從生活到看法、從遊戲到3C。話題不限，但請勿爭議。找不到聊天的好地方？那就來這裡吧 \~\\(≧▽≦)/\~… |
-| [海外華人聚樂部✨](https://tgbox.cc/zh-hant/detail/g3226/) | 4732 | ​歡迎加入【海外華人聚樂部】！這裡聚集了各地優質華人資源，旨在搭建合規、高效的資訊與資源共享平臺。 ​規則：禁止發佈任何違法違規、電詐、網賭等不良廣告。讓我們攜手打造正規、誠信的海… <sub>`空投` `免費` `羊毛福利`</sub> |
-| [湖南電報群](https://tgbox.cc/zh-hant/detail/hunantg/) | 4095 | 本群創建於2018年，一直致力於打造優質、有序的中文交流群。 🍀歡迎海內外華人朋友！ 💰群內交易需謹慎，不要被騙財騙色。 🚫禁發廣告和刷屏。… |
+| [廣州](https://tgbox.cc/zh-hant/detail/guangzhouz/) | 9591 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
+| [上海](https://tgbox.cc/zh-hant/detail/shanghaiz/) | 8703 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
+| [西安電報群](https://tgbox.cc/zh-hant/detail/xiancity/) | 7430 | 入群必讀： 本群用於討論西安相關的衣食住行等話題，同時也可暢聊其他話題，原則上不做話題及聊天內容的限制。但是，為了不給廣大群友帶來困擾，請您遵守以下約定：… |
+| [臺灣群＊](https://tgbox.cc/zh-hant/detail/formosataiwan/) | 5290 | 臺灣人的自由聊天室，歡迎喜歡臺灣的朋友來參與。從美食到旅遊、從生活到看法、從遊戲到3C。話題不限，但請勿爭議。找不到聊天的好地方？那就來這裡吧 \~\\(≧▽≦)/\~… |
+| [海外華人聚樂部✨](https://tgbox.cc/zh-hant/detail/g3226/) | 4687 | ​歡迎加入【海外華人聚樂部】！這裡聚集了各地優質華人資源，旨在搭建合規、高效的資訊與資源共享平臺。 ​規則：禁止發佈任何違法違規、電詐、網賭等不良廣告。讓我們攜手打造正規、誠信的海… <sub>`空投` `免費` `羊毛福利`</sub> |
+| [湖南電報群](https://tgbox.cc/zh-hant/detail/hunantg/) | 4080 | 本群創建於2018年，一直致力於打造優質、有序的中文交流群。 🍀歡迎海內外華人朋友！ 💰群內交易需謹慎，不要被騙財騙色。 🚫禁發廣告和刷屏。… |
 | [東京IT技術者交流群](https://tgbox.cc/zh-hant/detail/tokyoit/) | 4062 | ❴TokyoIT討論組❵ 暢所欲言 滔滔不絕 【禁止發布準則】🈲️色情、🈲️廣告、🈲️黑產、🈲️推廣群鏈接、🈲️各類形式aff、❨還大佬們一份乾淨的聊天環境❩… |
 | [武漢](https://tgbox.cc/zh-hant/detail/wuhanz/) | 3299 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
 | [中國 China](https://tgbox.cc/zh-hant/detail/cnchinese/) | 2919 | 禁止傳播謠言/盜版 禁止撕逼/謾罵/人身攻擊 禁止廣告/推廣/黑產/灰產/暗網/刷屏/色情/開車/NSFW 搜索索引 @Googlezs 話題 @beijingv 上海… |
@@ -1139,12 +1141,12 @@
 | [wikipedia-zh](https://tgbox.cc/zh-hant/detail/wikipedia_zh_n/) | 2.2萬 | 本群組為中文維基百科聊天室，主要討論維基百科站務。 本群另有IRC及discord兩群，由轉發機器人互聯，對話互相可見。平日裡，群中總是有管理員和資深用戶在線，所以可以隨時提問，或… |
 | [小聲讀書 ☘️](https://tgbox.cc/zh-hant/detail/what_youread/) | 1.3萬 | 只是 AI 和 閱讀 |
 | [早起讀書 網盤 資源共享](https://tgbox.cc/zh-hant/detail/ideahub_ml/) | 1.1萬 | \[RSS全文訂閱 實時更新\] 知乎日報 @zhihuribao\_rss 紐約時報 @niuyueshibao\_rss BBC中文 @bbczhongwen\_rss 路透中文… <sub>`電子書`</sub> |
-| [讀舍 - 享受閱讀時光](https://tgbox.cc/zh-hant/detail/shufm/) | 8241 | 讀舍：享受閱讀時光，暢談讀書心得 🌍 網站: https://shu.fm 📻 播客：蘋果播客｜小宇宙｜Google Podcast｜Spotify 搜索「讀舍FM」 📢 頻道：… |
-| [雜誌｜考研｜考公｜互助群](https://tgbox.cc/zh-hant/detail/waikan2023/) | 7617 | 各國期刊，各種考試、興趣期刊！ |
+| [讀舍 - 享受閱讀時光](https://tgbox.cc/zh-hant/detail/shufm/) | 8232 | 讀舍：享受閱讀時光，暢談讀書心得 🌍 網站: https://shu.fm 📻 播客：蘋果播客｜小宇宙｜Google Podcast｜Spotify 搜索「讀舍FM」 📢 頻道：… |
+| [雜誌｜考研｜考公｜互助群](https://tgbox.cc/zh-hant/detail/waikan2023/) | 7649 | 各國期刊，各種考試、興趣期刊！ |
 | [讀書分享](https://tgbox.cc/zh-hant/detail/dushufenxiang_chat/) | 5288 | 群規： 1. 請友好交流，討論請儘量點出重點，想好再說。無論是讀書分享，影視音樂，科學自然，旅遊軼事，人生感悟，社會話題，都歡迎分享，討論。 2.… |
-| [\[好讀\] ReadFine交流總群](https://tgbox.cc/zh-hant/detail/readfinechat/) | 4951 | 頻 道 @Readfine 交流群 @ReadfineChat 好讀提供電子書一站式閱讀體驗，一鍵下載，享受讀趣。在這裡因為有您的陪伴，閱讀變得並不孤單。 <sub>`電子書`</sub> |
-| [zread 讀書會 📚](https://tgbox.cc/zh-hant/detail/zread/) | 4585 | ❤️ 歡迎書友們 或許你正在尋覓， 那一隅祥和。 或許你正在等待， 那心之靜謐。 暢遊書海，以書會友。 內容建議以具體書為基， 分享自己有深度的感想等，… |
-| [中英語言學習 \| Learning Chinese & English](https://tgbox.cc/zh-hant/detail/linguisticacademy/) | 2498 | 1. 本群旨在漢語和英語的學習 2. 你可以聊任何話題,但請不要讓人感到不適 3. 請帶著愛幫助別人,或者帶著感恩求助於別人 1. 假設是學習漢語和英語。 2.… |
+| [\[好讀\] ReadFine交流總群](https://tgbox.cc/zh-hant/detail/readfinechat/) | 4957 | 頻 道 @Readfine 交流群 @ReadfineChat 好讀提供電子書一站式閱讀體驗，一鍵下載，享受讀趣。在這裡因為有您的陪伴，閱讀變得並不孤單。 <sub>`電子書`</sub> |
+| [zread 讀書會 📚](https://tgbox.cc/zh-hant/detail/zread/) | 4580 | ❤️ 歡迎書友們 或許你正在尋覓， 那一隅祥和。 或許你正在等待， 那心之靜謐。 暢遊書海，以書會友。 內容建議以具體書為基， 分享自己有深度的感想等，… |
+| [中英語言學習 \| Learning Chinese & English](https://tgbox.cc/zh-hant/detail/linguisticacademy/) | 2499 | 1. 本群旨在漢語和英語的學習 2. 你可以聊任何話題,但請不要讓人感到不適 3. 請帶著愛幫助別人,或者帶著感恩求助於別人 1. 假設是學習漢語和英語。 2.… |
 | [wikipedia-zh-science&technology](https://tgbox.cc/zh-hant/detail/wikipedia_zh_science_and_tech/) | 2051 | 維基百科科技與科學群，氣象、程式、航太......等等都可以在此討論。 物理分群： @wikipedia\_zh\_physics 生物及醫學分群：… <sub>`科學`</sub> |
 
 [在 TGbox 查看全部學習考試 →](https://tgbox.cc/zh-hant/group/learning/)
@@ -1157,15 +1159,15 @@
 | --- | ---: | --- |
 | [搬瓦工 (BandwagonHost)](https://tgbox.cc/zh-hant/detail/bandwagonhostgroup/) | 1萬 | 搬瓦工中文網交流群，除了黃賭毒、政治、反動、清真、廣告外，話題隨意。禁止謾罵、人身攻擊，禁止發佈任何交易信息，違者永封。 網址：https://www.bandwagonhost.… <sub>`主機VPS`</sub> |
 | [ARM&X86&VPS&聊車玩家交流群，專業！](https://tgbox.cc/zh-hant/detail/pin1group/) | 7816 | 通知頻道： t.me/NewPiN1Channel 固件頻道： t.me/+SlOHJbC7dHXba3Z6 三千問: github.com/real-pin1group/3000… <sub>`主機VPS`</sub> |
-| [Hostloc Group](https://tgbox.cc/zh-hant/detail/myhostloc/) | 7771 | 這裡是Hostloc官方群，禁止討論政治內容，禁止吵架、人身攻擊，禁止NSFW內容 <sub>`主機VPS`</sub> |
+| [Hostloc Group](https://tgbox.cc/zh-hant/detail/myhostloc/) | 7764 | 這裡是Hostloc官方群，禁止討論政治內容，禁止吵架、人身攻擊，禁止NSFW內容 <sub>`主機VPS`</sub> |
 | [VPS信號旗水群](https://tgbox.cc/zh-hant/detail/vps_xinhaoqi/) | 7647 | 包容有料的VPS界交流群，動態反饋主機界重要訊息，高性能和高性價比VPS信息交流。信號旗簡訊信息反饋。群內儘量不要討論政治，會變得混亂。… <sub>`主機VPS`</sub> |
-| [全球主機交流中心](https://tgbox.cc/zh-hant/detail/vpschat/) | 6253 | 【禁止發布準則】🈲政治、🈲色情、🈲廣告、🈲黑產、🈲推廣群鏈接、🈲各類形式aff、❨還大佬們一份乾淨的聊天環境❩ 其它隨意、隨意、隨意 本群宗旨：不隨意T人、不隨意ban人… <sub>`主機VPS`</sub> |
-| [VPS信號旗信息技術組](https://tgbox.cc/zh-hant/detail/vpsxinhaoqi/) | 5479 | 💫專注於VPS等雲服務的討論，本群不討論時政話題。 建立背景：由於原先的資訊群組涵蓋了VPS及科技新聞兩個頻道的群員，無法建立起討論VPS的氛圍，所以特建立本群組。🚩… <sub>`主機VPS`</sub> |
-| [Vultr 用戶群](https://tgbox.cc/zh-hant/detail/vultr_group/) | 4245 | Vultr 用戶群，非官方 群規: \* 禁止傳播謠言/盜版 \* 禁止撕逼 (謾罵/人身攻擊等) \* 禁止討論免流/黃賭毒/宗教/政治/鍵政 \*… <sub>`主機VPS`</sub> |
+| [全球主機交流中心](https://tgbox.cc/zh-hant/detail/vpschat/) | 6249 | 【禁止發布準則】🈲政治、🈲色情、🈲廣告、🈲黑產、🈲推廣群鏈接、🈲各類形式aff、❨還大佬們一份乾淨的聊天環境❩ 其它隨意、隨意、隨意 本群宗旨：不隨意T人、不隨意ban人… <sub>`主機VPS`</sub> |
+| [VPS信號旗信息技術組](https://tgbox.cc/zh-hant/detail/vpsxinhaoqi/) | 5478 | 💫專注於VPS等雲服務的討論，本群不討論時政話題。 建立背景：由於原先的資訊群組涵蓋了VPS及科技新聞兩個頻道的群員，無法建立起討論VPS的氛圍，所以特建立本群組。🚩… <sub>`主機VPS`</sub> |
+| [Vultr 用戶群](https://tgbox.cc/zh-hant/detail/vultr_group/) | 4250 | Vultr 用戶群，非官方 群規: \* 禁止傳播謠言/盜版 \* 禁止撕逼 (謾罵/人身攻擊等) \* 禁止討論免流/黃賭毒/宗教/政治/鍵政 \*… <sub>`主機VPS`</sub> |
 | [🤣古博 - 靠譜VPS交流群（禁止名字打廣告）](https://tgbox.cc/zh-hant/detail/guboorg/) | 3450 | VPS測速，評測，推薦 VPS補貨推薦通知: https://t.me/vpscang www.gubo.org www.vpscang.com 友情推薦: @liyuans <sub>`主機VPS`</sub> |
 | [騰訊雲VS阿里雲](https://tgbox.cc/zh-hant/detail/tencentaliyun/) | 3363 | 歡迎加入阿里雲☆騰訊雲tg群 頻道推薦：主機資訊分享 @GCPCN <sub>`主機VPS`</sub> |
-| [Cloudflare 在中國](https://tgbox.cc/zh-hant/detail/cn_cloudflare/) | 3015 | Cloudflare在中國的用戶（站長）交流群 我們聊：關於站長周邊/開發者資源（工具、腳本、源碼）、VPS/WAF/CDN/DNS等（攻略教程/使用優化）、DDoS防護、Clou… <sub>`主機VPS`</sub> |
-| [NAS私有云技術交流](https://tgbox.cc/zh-hant/detail/nasteam/) | 2083 | NAS私有云搭建技術交流 <sub>`主機VPS`</sub> |
+| [Cloudflare 在中國](https://tgbox.cc/zh-hant/detail/cn_cloudflare/) | 3011 | Cloudflare在中國的用戶（站長）交流群 我們聊：關於站長周邊/開發者資源（工具、腳本、源碼）、VPS/WAF/CDN/DNS等（攻略教程/使用優化）、DDoS防護、Clou… <sub>`主機VPS`</sub> |
+| [NAS私有云技術交流](https://tgbox.cc/zh-hant/detail/nasteam/) | 2104 | NAS私有云搭建技術交流 <sub>`主機VPS`</sub> |
 
 [在 TGbox 查看全部主機VPS →](https://tgbox.cc/zh-hant/group/vps/)
 
@@ -1176,10 +1178,10 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [\[Official\] The Sandbox](https://tgbox.cc/zh-hant/detail/sandboxgame/) | 2.7萬 | ∴SANDBOX TEAM WILL NEVER PM YOU FIRST OR ASK FOR MONEY❌ 官方小組為 沙盒, 一個分散的遊戲平臺 由玩家制作. 加入我們的… <sub>`官方`</sub> |
-| [NS Xbox PS PC遊戲閒聊](https://tgbox.cc/zh-hant/detail/nintendoswitchcn/) | 3851 | 我們一起來遊戲 本群不歡迎任何廣告，專注NS主機、Xbox主機和遊戲若干年，歡迎常年在線的朋友加入管理，如果發現無關話題和廣播踢無赦！歡迎活躍的NS遊戲朋友申請管理，群裡找群主即可… |
-| [\#archlinux-cn-game](https://tgbox.cc/zh-hant/detail/archlinuxcn_game/) | 1315 | 歡迎來到 ArchLinuxCN 社區遊戲頻道。 加入本群之前需要先加入 @archlinuxcn\_group 另有遊戲機器人分群 \#archlinux-cn-play… <sub>`Linux`</sub> |
+| [NS Xbox PS PC遊戲閒聊](https://tgbox.cc/zh-hant/detail/nintendoswitchcn/) | 3848 | 我們一起來遊戲 本群不歡迎任何廣告，專注NS主機、Xbox主機和遊戲若干年，歡迎常年在線的朋友加入管理，如果發現無關話題和廣播踢無赦！歡迎活躍的NS遊戲朋友申請管理，群裡找群主即可… |
+| [\#archlinux-cn-game](https://tgbox.cc/zh-hant/detail/archlinuxcn_game/) | 1316 | 歡迎來到 ArchLinuxCN 社區遊戲頻道。 加入本群之前需要先加入 @archlinuxcn\_group 另有遊戲機器人分群 \#archlinux-cn-play… <sub>`Linux`</sub> |
 | [wikipedia-zh-game](https://tgbox.cc/zh-hant/detail/wikipedia_zh_game/) | 831 | 中文維基遊戲群組。群組規則「請見置頂消息」。已有遊戲：狼人殺、阿瓦隆、Uno、1A2B、偵探任務、屏風四子棋、Hangman、OX、踩雷兢速、詞義高手、31點、wordle，如果這… |
-| [聊與追尾遊戲熱點](https://tgbox.cc/zh-hant/detail/steamtg/) | 798 | 一切皆有可能！ 你能來聊遊戲真是太好了！ 抱緊友善才出口聊天！ + 拒絕無關話題，淺嘗輒止即可。 + 聊與分享折扣，追尾遊戲熱點。 上為介紹，下為勿言 +… |
+| [聊與追尾遊戲熱點](https://tgbox.cc/zh-hant/detail/steamtg/) | 799 | 一切皆有可能！ 你能來聊遊戲真是太好了！ 抱緊友善才出口聊天！ + 拒絕無關話題，淺嘗輒止即可。 + 聊與分享折扣，追尾遊戲熱點。 上為介紹，下為勿言 +… |
 
 [在 TGbox 查看全部遊戲 →](https://tgbox.cc/zh-hant/group/games/)
 
@@ -1191,8 +1193,8 @@
 | --- | ---: | --- |
 | [TVBox 野生接口群](https://tgbox.cc/zh-hant/detail/maoyingshi/) | 2.4萬 | 貓影視野生接口，理性白嫖。 在群裡發送" 接口 "獲取配置。 關注頻道 @TVbox888 官方項目地址 https://github.com/CatVodTVOfficial |
 | [🎬 阿里雲盤交流群 💾](https://tgbox.cc/zh-hant/detail/yppshare/) | 1.2萬 | 本群默認支持阿里雲盤相關規定 <sub>`網盤`</sub> |
-| [美劇電影吧](https://tgbox.cc/zh-hant/detail/meijukingdom/) | 7145 | 最新美劇日劇韓劇泰劇電影交流，115網盤技術交流 群規: \* 禁止傳播謠言 \* 禁止撕逼/謾罵/人身攻擊 \* 禁止討論免流/黃賭毒/政治/宗教 \* 禁止廣告/推廣/黑產/灰產/暗網 <sub>`劇集`</sub> |
-| [NF討論群](https://tgbox.cc/zh-hant/detail/netflixchina/) | 3150 | 群組關聯頻道： 前線 @FLine\_cn \*注：若被誤封/禁言，可私聊機器人( @Eve0001bot )申請解封。 |
+| [美劇電影吧](https://tgbox.cc/zh-hant/detail/meijukingdom/) | 7143 | 最新美劇日劇韓劇泰劇電影交流，115網盤技術交流 群規: \* 禁止傳播謠言 \* 禁止撕逼/謾罵/人身攻擊 \* 禁止討論免流/黃賭毒/政治/宗教 \* 禁止廣告/推廣/黑產/灰產/暗網 <sub>`劇集`</sub> |
+| [NF討論群](https://tgbox.cc/zh-hant/detail/netflixchina/) | 3159 | 群組關聯頻道： 前線 @FLine\_cn \*注：若被誤封/禁言，可私聊機器人( @Eve0001bot )申請解封。 |
 | [電影愛好者交流](https://tgbox.cc/zh-hant/detail/moviemarket_group/) | 1551 | 電影愛好者 https://t.me/MovieAnywhere <sub>`電影`</sub> |
 
 [在 TGbox 查看全部影音資源 →](https://tgbox.cc/zh-hant/group/video/)
@@ -1204,9 +1206,9 @@
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
 | [💻☕️ Jobs\_IT](https://tgbox.cc/zh-hant/detail/jobs_it/) | 1.1萬 | @jobs\_it :: International IT jobs portal. Please read the rules in the pinned message!… <sub>`編程`</sub> |
-| [DeJob求職交流群](https://tgbox.cc/zh-hant/detail/dejob_official_group/) | 4409 | DeJob｜Web3 & AI 專業服務平臺 62K+用戶 · 1,890+ Web3企業 🌐 dejob.ai 📢 中文 @DeJob\_official… |
-| [Ethereum Jobs Chat](https://tgbox.cc/zh-hant/detail/ethereum_jobs_market/) | 3967 | 發佈工作 - @gptforce 在區塊鏈,以太坊,智能合約,DeFi等領域的空缺和求職請求 全職,兼職,遠程和一次性兼職工作。 |
-| [DeJob Global—Web3 Jobs Chat](https://tgbox.cc/zh-hant/detail/dejob_global_group/) | 1519 | DeJob ÁthaWeb3 & AI 專業服務 62K+ 用戶 · 1,890+ Web3 公司 dejob.ai CN @DeJob\_official · EN… |
+| [DeJob求職交流群](https://tgbox.cc/zh-hant/detail/dejob_official_group/) | 4398 | DeJob｜Web3 & AI 專業服務平臺 62K+用戶 · 1,890+ Web3企業 🌐 dejob.ai 📢 中文 @DeJob\_official… |
+| [Ethereum Jobs Chat](https://tgbox.cc/zh-hant/detail/ethereum_jobs_market/) | 3966 | 發佈工作 - @gptforce 在區塊鏈,以太坊,智能合約,DeFi等領域的空缺和求職請求 全職,兼職,遠程和一次性兼職工作。 |
+| [DeJob Global—Web3 Jobs Chat](https://tgbox.cc/zh-hant/detail/dejob_global_group/) | 1516 | DeJob ÁthaWeb3 & AI 專業服務 62K+ 用戶 · 1,890+ Web3 公司 dejob.ai CN @DeJob\_official · EN… |
 
 [在 TGbox 查看全部招聘求職 →](https://tgbox.cc/zh-hant/group/jobs/)
 
@@ -1216,8 +1218,8 @@
 
 | 名稱 | 成員 | 簡介 |
 | --- | ---: | --- |
-| [Telegram 抽獎活動索引](https://tgbox.cc/zh-hant/detail/cnlottery_123/) | 7672 | 方便好用、公平公正的 Telegram 群組抽獎工具。 Telegram 抽獎活動助手 @cnLottery\_bot Telegram 抽獎活動公告… |
-| [Telegram 新手問答區](https://tgbox.cc/zh-hant/detail/tgqna/) | 4254 | 歡迎詢問在 Telegram 遇到的任何問題，也歡迎幫助新手解決各種問題。勿討論無關的話題。 本群規定： https://t.me/TGQNA/81 |
+| [Telegram 抽獎活動索引](https://tgbox.cc/zh-hant/detail/cnlottery_123/) | 7666 | 方便好用、公平公正的 Telegram 群組抽獎工具。 Telegram 抽獎活動助手 @cnLottery\_bot Telegram 抽獎活動公告… |
+| [Telegram 新手問答區](https://tgbox.cc/zh-hant/detail/tgqna/) | 4261 | 歡迎詢問在 Telegram 遇到的任何問題，也歡迎幫助新手解決各種問題。勿討論無關的話題。 本群規定： https://t.me/TGQNA/81 |
 
 [在 TGbox 查看全部其他 →](https://tgbox.cc/zh-hant/group/other/)
 
@@ -1239,8 +1241,8 @@
 | [Fake Mail](https://tgbox.cc/zh-hant/detail/fakemailbot/) | 9.8萬 | 創建數百個電子郵件地址,並在不到1秒內收到無限的郵件。 <sub>`免費`</sub> |
 | [Temp Mail ✉️ Official Bot](https://tgbox.cc/zh-hant/detail/tempmail_org_bot/) | 9.1萬 | 來自傳奇和頂級\#1臨時電子郵件服務的創造者: https://temp-mail.org |
 | [IDbot • Userinfo](https://tgbox.cc/zh-hant/detail/id_bot/) | 8.8萬 | 顯示有關用戶的基本信息和實際註冊日期 |
-| [Previews](https://tgbox.cc/zh-hant/detail/previews/) ✔️ | 7.1萬 | 使用這個機器人留下關於Telegram的即時查看功能生成的網頁預覽的反饋。 <sub>`官方`</sub> |
 | [Nicegram Hub: Search bot 🔎 Open to get…](https://tgbox.cc/zh-hant/detail/nicehubsearchbot/) | 7萬 | 輕鬆找到任何電報頻道! 打開機器人並獲得您的鏈接 ☀️ |
+| [Previews](https://tgbox.cc/zh-hant/detail/previews/) ✔️ | 7萬 | 使用這個機器人留下關於Telegram的即時查看功能生成的網頁預覽的反饋。 <sub>`官方`</sub> |
 | [Telegraph](https://tgbox.cc/zh-hant/detail/telegraph/) ✔️ | 6.7萬 | 這個機器人可以幫助您登錄 Telegra.ph,管理您的文章,並獲得頁面視圖統計數據。 <sub>`免費` `官方`</sub> |
 | [IDBot • Get ID • UserInfo • Узнать ID](https://tgbox.cc/zh-hant/detail/username_to_id_bot/) | 5.4萬 | 機器人獲取用戶、組和頻道ID <sub>`免費`</sub> |
 | [Webpage Bot](https://tgbox.cc/zh-hant/detail/webpagebot/) | 4.7萬 | <sub>`免費`</sub> |
@@ -1248,13 +1250,13 @@
 | [Transcriber Bot](https://tgbox.cc/zh-hant/detail/transcriber_bot/) | 4.2萬 | 這個機器人將語音消息和圖像轉換成文本。 @Transcriber\_botNewsChannel & @transcribersupport\_bot |
 
 <details>
-<summary>展開其餘 91 個</summary>
+<summary>展開其餘 92 個</summary>
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
 | [Search Report Bot](https://tgbox.cc/zh-hant/detail/searchreport/) ✔️ | 3.4萬 | 報告有問題的搜索術語。 <sub>`官方` `網絡安全`</sub> |
+| [Creation Date](https://tgbox.cc/zh-hant/detail/creationdatebot/) | 3.2萬 | 顯示電報上任何帳戶的大約創建日期: @devctl <sub>`免費`</sub> |
 | [DropMail.me](https://tgbox.cc/zh-hant/detail/dropmailbot/) | 3.2萬 | https://dropmail.me/ 在電報 <sub>`免費` `網絡安全`</sub> |
-| [Creation Date](https://tgbox.cc/zh-hant/detail/creationdatebot/) | 3.1萬 | 顯示電報上任何帳戶的大約創建日期: @devctl <sub>`免費`</sub> |
 | [GetIDs Bot](https://tgbox.cc/zh-hant/detail/getidsbot/) | 3萬 | 這個機器人為您提供了關於消息的電報內部信息 by @wjclub <sub>`免費`</sub> |
 | [TAK! TEXT — Audio & Video Transcription](https://tgbox.cc/zh-hant/detail/taktextbot/) | 2.6萬 | 🎙 Transcribe voice messages, audio, video and links. 90+ languages, 99% accuracy for… <sub>`免費` `大模型` `官方`</sub> |
 | [Amnezia Free VPN Bot](https://tgbox.cc/zh-hant/detail/free_vpn_amnezia_bot/) | 2.5萬 | 免費的VPN機器人為Instagram/Facebook/etc訪問 |
@@ -1267,8 +1269,8 @@
 | [Price Tracker & Alert Bot](https://tgbox.cc/zh-hant/detail/the_price_tracker_bot/) | 1.7萬 | "Amazon, Amazon Prime, the Amazon logo and Amazon Prime logo are trademarks of… |
 | [Thermos](https://tgbox.cc/zh-hant/detail/thermos/) | 1.6萬 | 禮品和貼紙集成器市場 by swap.coffee團隊. 新聞: @thermos\_news <sub>`鏈上數據`</sub> |
 | [Thermos](https://tgbox.cc/zh-hant/detail/thermos_giftbot/) | 1.6萬 | Gift & Stickers Aggregator Market by swap.coffee team. News: @thermos\_news <sub>`鏈上數據`</sub> |
-| [Username Bot](https://tgbox.cc/zh-hant/detail/username_bot/) ✔️ | 1.6萬 | 要求您的Telegram帳戶、公共群組或頻道使用的用戶名。 <sub>`免費` `官方`</sub> |
 | [Music Bot Creator](https://tgbox.cc/zh-hant/detail/creatormusicbot/) | 1.5萬 | Support: @Ly\_OBot <sub>`音樂`</sub> |
+| [Username Bot](https://tgbox.cc/zh-hant/detail/username_bot/) ✔️ | 1.5萬 | 要求您的Telegram帳戶、公共群組或頻道使用的用戶名。 <sub>`免費` `官方`</sub> |
 | [Voicy 🇺🇦](https://tgbox.cc/zh-hant/detail/voicybot/) | 1.5萬 | 語音將任何語音消息,音頻文件和視頻消息轉換為文本. 來源:bit.ly/2FNr0vx <sub>`免費` `開源`</sub> |
 | [Transparency Reports](https://tgbox.cc/zh-hant/detail/transparency/) ✔️ | 1.5萬 | 獲取Telegram透明度報告。 <sub>`官方` `網絡安全`</sub> |
 | [Durger King](https://tgbox.cc/zh-hant/detail/durgerkingbot/) | 1.4萬 | 使用這個機器人來訂購虛構的快餐 - 唯一有益於您的健康的快餐! <sub>`免費` `官方` `編程`</sub> |
@@ -1308,6 +1310,7 @@
 | [JSONiceBot \| View JSON Interactively](https://tgbox.cc/zh-hant/detail/jsonicebot/) | — | A Nice JSON Viewer! + View Telegram message details & your account info stored on… <sub>`編程`</sub> |
 | [KillerBgBot - Remove background](https://tgbox.cc/zh-hant/detail/killerbgbot/) | — | 這個機器人可以讓你快速刪除圖像背景,無限制訂閱,沒有質量損失,和大批量上傳。 <sub>`設計` `攝影`</sub> |
 | [Language Translator](https://tgbox.cc/zh-hant/detail/lang_translate_bot/) | — | 我會將任何語言翻譯成任何語言,我也可以在群組中工作。 <sub>`免費`</sub> |
+| [LINKCHECK](https://tgbox.cc/zh-hant/detail/linkcheck_verify_bot/) | — | Verify Telegram resources. Discover trusted channels, bots and official projects with… <sub>`網絡安全`</sub> |
 | [MathBot](https://tgbox.cc/zh-hant/detail/mathbot/) | — | <sub>`科學`</sub> |
 | [Metadata searcher](https://tgbox.cc/zh-hant/detail/metadatarobot/) | — | Находит и удаляет мету в файлах |
 | [MTProxy Admin Bot](https://tgbox.cc/zh-hant/detail/mtproxybot/) ✔️ | — | 設置和管理Telegram MTProxy服務器。 <sub>`免費` `官方` `開源`</sub> |
@@ -1354,30 +1357,30 @@
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
-| [Group Help](https://tgbox.cc/zh-hant/detail/grouphelpbot/) | 254萬 | 這是最完整的機器人,可以幫助您輕鬆安全地管理您的群組! ➡️添加我作為管理員加入您的群組! <sub>`免費`</sub> |
+| [Group Help](https://tgbox.cc/zh-hant/detail/grouphelpbot/) | 262萬 | 這是最完整的機器人,可以幫助您輕鬆安全地管理您的群組! ➡️添加我作為管理員加入您的群組! <sub>`免費`</sub> |
 | [Rose](https://tgbox.cc/zh-hant/detail/missrose_bot/) | 230萬 | 強大的電報機器人來幫助您管理您的群組. @RoseNews 中的更新. 在 @RoseClone\_bot 獲得自己的克隆! <sub>`免費`</sub> |
 | [阿福](https://tgbox.cc/zh-hant/detail/afoolgroupbot/) | 101萬 | 最方便的 群管 & 頻道 機器人 一切皆可配置 最新功能持續更新中 群管幫助 @aFoolGroupHelp \| 討論組 @aFoolGroup <sub>`免費`</sub> |
 | [Combot](https://tgbox.cc/zh-hant/detail/combot/) | 87萬 | 調控、分析、反垃圾郵件和內容管理,用於Telegram組和頻道。 |
-| [nmBot](https://tgbox.cc/zh-hant/detail/nmnmfunbot/) | 85萬 | nmBot通過奇妙的戲劇進行聊天。發送 /lang 切換語言 nmBot 頻道(中文): @nmbotchannel <sub>`免費`</sub> |
+| [nmBot](https://tgbox.cc/zh-hant/detail/nmnmfunbot/) | 86萬 | nmBot通過奇妙的戲劇進行聊天。發送 /lang 切換語言 nmBot 頻道(中文): @nmbotchannel <sub>`免費`</sub> |
 | [🤖群管機器人](https://tgbox.cc/zh-hant/detail/hao12bot/) | 67萬 | 🤖讓頻道 & 群組管理更智能！ 📢 幫助頻道： @MyBots 👥 討論群組： @GroupTG 🤖 導航頻道： @LunTan 🎁 抽獎頻道： @TGBot\_lottery |
 | [ChatKeeperBot](https://tgbox.cc/zh-hant/detail/chatkeeperbot/) | 55萬 | 只做我的工作 ✅ 500,000 多名管理員信任我與他們的團體 |
 | [MBot](https://tgbox.cc/zh-hant/detail/mbot/) | 31萬 | 🤖讓頻道 & 群組管理更智能！ 📢 幫助頻道： @MyBots 👥 討論群組： @GroupTG 🎁 抽獎頻道： @TGBot\_lottery |
 | [方丈機器人](https://tgbox.cc/zh-hant/detail/fangzhang_bot/) | 22萬 | 方丈群管理機器人已實現的功能有： 新人進群驗證、新人進群歡迎詞、垃圾信息攔截、自動回覆、定時發送、強制訂閱、消息統計、群成員管理等，歡迎使用。 |
-| [Shieldy](https://tgbox.cc/zh-hant/detail/shieldy_bot/) | 21萬 | Shieldy 打擊 Telegram 垃圾郵件. 通過使用,您同意使用條款 bit.ly/4tpqkp4 & 隱私政策 bit.ly/46t9zQ2 <sub>`免費` `開源`</sub> |
+| [Shieldy](https://tgbox.cc/zh-hant/detail/shieldy_bot/) | 20萬 | Shieldy 打擊 Telegram 垃圾郵件. 通過使用,您同意使用條款 bit.ly/4tpqkp4 & 隱私政策 bit.ly/46t9zQ2 <sub>`免費` `開源`</sub> |
 | [MetaCat Bot](https://tgbox.cc/zh-hant/detail/mtzcat_bot/) | 18萬 | MetaCat,CSC上的第一個迷你應用程序。 |
 | [Psst](https://tgbox.cc/zh-hant/detail/psstrobot/) | 16萬 | A smol smol whisper bot \| @Kaizoku |
 | [KinhRoBot](https://tgbox.cc/zh-hant/detail/kinhrobot/) | 16萬 | ❶毫秒級的響應速度（TG最快的機器人） ②擁有超豐富的群管功能 ❸擁有超多的實用小指令 ④免費無限制的AI對話 ❺採用分佈式微服務架構 ⑥由K8S強力驅動保證高可用… |
-| [SangMata](https://tgbox.cc/zh-hant/detail/sangmata_bot/) | 14萬 | 可以跟蹤名稱和用戶名更改,並在您的組中通知機器人. 現在添加我開始跟蹤。 |
 | [Group Help](https://tgbox.cc/zh-hant/detail/ghelpbot/) | 14萬 | 官方 @GroupHelpBot 克隆。 |
+| [Voice Random Chat](https://tgbox.cc/zh-hant/detail/voisabot/) | 14萬 | 語音聊天應用程序. 有關任何問題和問題,請發送 DM 到 @voisasupportbot |
 
 <details>
 <summary>展開其餘 64 個</summary>
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
-| [Voice Random Chat](https://tgbox.cc/zh-hant/detail/voisabot/) | 14萬 | 語音聊天應用程序. 有關任何問題和問題,請發送 DM 到 @voisasupportbot |
+| [SangMata](https://tgbox.cc/zh-hant/detail/sangmata_bot/) | 14萬 | 可以跟蹤名稱和用戶名更改,並在您的組中通知機器人. 現在添加我開始跟蹤。 |
 | [Auto Approve Accept User Pending Bot](https://tgbox.cc/zh-hant/detail/acceptuserrobot/) | 11萬 | 廣告 / 廣告: @im\_piro |
-| [Protectron](https://tgbox.cc/zh-hant/detail/protectronbot/) | 9萬 | 人工智能驅動的安全,反垃圾郵件和分析. 加入數以千計的群體,擁有數百萬的會員 protectronbot.com <sub>`網絡安全`</sub> |
+| [Protectron](https://tgbox.cc/zh-hant/detail/protectronbot/) | 9.2萬 | 人工智能驅動的安全,反垃圾郵件和分析. 加入數以千計的群體,擁有數百萬的會員 protectronbot.com <sub>`網絡安全`</sub> |
 | [Group Help](https://tgbox.cc/zh-hant/detail/grouphelp2bot/) | 8.7萬 | 官方 @GroupHelpBot 克隆。 |
 | [RemoveHyperlinkBot by @Bot442](https://tgbox.cc/zh-hant/detail/removehyperlinkbot/) | 6萬 | 在您的組中刪除包含網站URL的郵件(除管理員發送的郵件外)。 |
 | [TheCleanBot \| QorovulBot \| Botlar \|…](https://tgbox.cc/zh-hant/detail/thecleanbot/) | 5萬 | 關系 - @ 新聞 - https://t.me/joinchat/AAAAAEYVIC5ui3o2FXszJw |
@@ -1402,6 +1405,7 @@
 | [User Tagger](https://tgbox.cc/zh-hant/detail/usertagger2bot/) | 1.2萬 | 我可以標記組中的用戶為你語言: 頻道 @UserTagger Reklam @destek\_reklam |
 | [joinhider\_bot](https://tgbox.cc/zh-hant/detail/joinhider_bot/) | 1.1萬 | 機器人可以刪除系統消息,例如當用戶加入或離開聊天組時。 <sub>`免費`</sub> |
 | [Staff Group \| GH](https://tgbox.cc/zh-hant/detail/ghstaffbot/) | 1.1萬 | This is an official @GroupHelpBot bot. It can be used to set up a staff group to manage… |
+| [PollBot](https://tgbox.cc/zh-hant/detail/pollbot/) | 1萬 | 將此機器人添加到組中,以創建簡單的調查。 |
 | [TGCN-幣&黃廣告專殺](https://tgbox.cc/zh-hant/detail/adnamekillerbot/) | — | <sub>`免費`</sub> |
 | [Alita Moderation✨](https://tgbox.cc/zh-hant/detail/alita_robot/) | — | Hey I'm Alita, a fast moderation bot with tons of features. I can manage your groups with… <sub>`開源`</sub> |
 | [AntiArabicScriptBot](https://tgbox.cc/zh-hant/detail/antiarabicscriptbot/) | — | 刪除包含阿拉伯語腳本的郵件. 更多廣告免費機器人 @GroupOwnerBots。 <sub>`免費`</sub> |
@@ -1425,7 +1429,6 @@
 | [NoSticker](https://tgbox.cc/zh-hant/detail/nosticker_bot/) | — | 機器人管理聊天組。 <sub>`免費`</sub> |
 | [NSFW Remover \| AI Content Filter](https://tgbox.cc/zh-hant/detail/nudesremoverbot/) | — | 🖼 NSFW Remover - automatically delete inappropriate content in groups. |
 | [Policr Mini (控制台版)](https://tgbox.cc/zh-hant/detail/policr_mini_bot/) | — | 一個驗證機器人，近期更新 @policr\_changelog 反饋 @policr\_community ‧開源 git.io/Jfd8x ‧官網… <sub>`免費` `開源`</sub> |
-| [PollBot](https://tgbox.cc/zh-hant/detail/pollbot/) | — | 將此機器人添加到組中,以創建簡單的調查。 |
 | [Premium Join Bot](https://tgbox.cc/zh-hant/detail/premiumjoinbot/) ✔️ | — | 自動批准來自 Telegram Premium 用戶的加入請求。 |
 | [SpamMeNotBot](https://tgbox.cc/zh-hant/detail/spammenotbot/) | — | 這個機器人提供了一個簡單而完全自動的方式來保護您的群組免受垃圾郵件 / 洪水攻擊。 |
 | [Tag Everyone](https://tgbox.cc/zh-hant/detail/tageveryone_thebot/) | — | 提到組中的所有用戶! 更新: @tageveryone\_news <sub>`免費` `開源`</sub> |
@@ -1472,7 +1475,7 @@
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
 | [music editor](https://tgbox.cc/zh-hant/detail/musiceditor_tgbot/) | 13萬 | 音樂標籤編輯器 支持 - @musiceditor\_group <sub>`音樂`</sub> |
-| [Classical Music](https://tgbox.cc/zh-hant/detail/music/) | 9萬 | 這個機器人可以幫助你找到美麗的古典音樂。 <sub>`免費` `音樂` `官方`</sub> |
+| [Classical Music](https://tgbox.cc/zh-hant/detail/music/) | 8.7萬 | 這個機器人可以幫助你找到美麗的古典音樂。 <sub>`免費` `音樂` `官方`</sub> |
 | [InstaSave: Instagram & TikTok Downloader](https://tgbox.cc/zh-hant/detail/instasave_bot/) | 6.5萬 | Download Instagram reels, posts and stories from the Instagram app. Also TikTok, X,… |
 | [Music Downloader: SoundCloud, Bandcamp,…](https://tgbox.cc/zh-hant/detail/scdlbot/) | 6.3萬 | I download MP3s of tracks&playlists with tags from SoundCloud, Bandcamp, YouTube and… <sub>`音樂`</sub> |
 | [TeraBot Link To Video Bot \| Tera Box DL…](https://tgbox.cc/zh-hant/detail/terabestbot/) | 5.6萬 | 其他 TeraBox 機器人: @TeraRealBot 任何問題 ? Dm: @CheemsSupportBot 機器人政策: @BotsPolicys <sub>`網盤` `免費`</sub> |
@@ -1486,7 +1489,7 @@
 | [LyBot - YouTube Music](https://tgbox.cc/zh-hant/detail/lytubebot/) | 2.9萬 | No1 Music Bot for find songs! 我們的頻道 - @lybotmusic <sub>`音樂`</sub> |
 | [Movie Search Bot](https://tgbox.cc/zh-hant/detail/searchmoviesbot/) | 2.8萬 | This is a Telegram InLine Search Bot 📢: @NoCopyRightMovies <sub>`電影`</sub> |
 | [Music + lyrics bot](https://tgbox.cc/zh-hant/detail/kpoploveandlovebot/) | 2.5萬 | For any Kpop music <sub>`音樂`</sub> |
-| [Douyin Downloader](https://tgbox.cc/zh-hant/detail/douyin_download_bot/) | 2萬 | 請在遇到任何錯誤時通知 @robinhust。 <sub>`免費`</sub> |
+| [Douyin Downloader](https://tgbox.cc/zh-hant/detail/douyin_download_bot/) | 2.1萬 | 請在遇到任何錯誤時通知 @robinhust。 <sub>`免費`</sub> |
 | [W3BFLIX](https://tgbox.cc/zh-hant/detail/w3bflixbot/) | 1.6萬 | Experience the future of entertainment with W3BFLIX |
 | [SHAZAMBOT \| MUZIKALAR](https://tgbox.cc/zh-hant/detail/shazamchibot/) | 1.6萬 | 😎 Reklama uchun : @... <sub>`音樂`</sub> |
 | [Reddit Downloader](https://tgbox.cc/zh-hant/detail/reddit_download_bot/) | 1.4萬 | 一個小機器人下載Reddit帖子,圖像和視頻. 來源: https://bit.ly/2QYYAHu <sub>`開源`</sub> |
@@ -1558,7 +1561,7 @@
 | [BlackWerewolf](https://tgbox.cc/zh-hant/detail/blackwerewolfbot/) | 1.3萬 | The second @blackwwrobot See @BlackWolfAnnouncements for information and updates. For… |
 
 <details>
-<summary>展開其餘 29 個</summary>
+<summary>展開其餘 30 個</summary>
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
@@ -1581,6 +1584,7 @@
 | [🎩 Mafiya Bot](https://tgbox.cc/zh-hant/detail/mafiosiuzbot/) | — | 🎩 «Do‘st ham dushman bo‘lishi mumkin. Eng xavfli qurol — ishonch.» — Don Korleone 📢… <sub>`免費` `官方` `攝影`</sub> |
 | [Minesweeper](https://tgbox.cc/zh-hant/detail/mine_sweeper_bot/) | — | https://github.com/hczhcz/電報機器人 <sub>`免費` `開源`</sub> |
 | [Channel Subscription Check · Subgate](https://tgbox.cc/zh-hant/detail/mostlikelytoprobot/) | — | Channel subscription check for groups. Pick from my channels in one tap. More bots:… |
+| [Oscar Games](https://tgbox.cc/zh-hant/detail/oscargamesbot/) | — | Играй с друзьями / Play with friends 🎮 Дурак/Durak • Морской бой/Battleship •… <sub>`免費`</sub> |
 | [RVANKA BOT](https://tgbox.cc/zh-hant/detail/rvankamod_bot/) | — | 💾 Скачать @rvankamod\_download |
 | [Secret Santa · Christmas Gift Exchange…](https://tgbox.cc/zh-hant/detail/santadrawprobot/) | — | Secret Santa with no group needed. Share one link, friends join, I draw names. More bots:… |
 | [Spy Game for Groups · Find the Spy ·…](https://tgbox.cc/zh-hant/detail/spypartyprobot/) | — | Find-the-spy party game for group chats. More bots: addthisbot.com |
@@ -1602,15 +1606,15 @@
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
-| [Foursquare](https://tgbox.cc/zh-hant/detail/foursquare/) | 2149萬 | 這個機器人可以幫助你找到附近的餐廳和其他地方,並將他們的地址發送給朋友。 <sub>`免費` `官方`</sub> |
+| [Foursquare](https://tgbox.cc/zh-hant/detail/foursquare/) | 2119萬 | 這個機器人可以幫助你找到附近的餐廳和其他地方,並將他們的地址發送給朋友。 <sub>`免費` `官方`</sub> |
 | [極搜🔍資源搜索@JISOU](https://tgbox.cc/zh-hant/detail/jisou/) | 576萬 | Telegram必備的搜索引擎，極搜JISOU幫你精準找到，想要的群組、頻道、 視頻、音樂 公告: @jisou1 <sub>`免費`</sub> |
 | [Yandex Image Search](https://tgbox.cc/zh-hant/detail/pic/) | 447萬 | <sub>`免費` `官方`</sub> |
 | [快搜🔍資源搜索@kuai](https://tgbox.cc/zh-hant/detail/kuai/) | 405萬 | 幫你發現有趣群組、頻道、視頻、音樂、電影、新聞 \| Find cool stuff all in one bot! 機器人： @kuai @kuaia @kuaiaa 頻道：… <sub>`免費`</sub> |
 | [新必搜 xbso 🔍 中文搜索](https://tgbox.cc/zh-hant/detail/xbso1/) | 138萬 | 新必搜 @xbso 是一個智能搜索機器人。 向我發送關鍵詞，幫你找到有趣的內容。 官方頻道： @xbso9 公告頻道： @xinbisou |
 | [SOSO搜搜](https://tgbox.cc/zh-hant/detail/soso/) | 115萬 | Telegram 中文搜索與群主增長平臺。搜索群組、頻道和內容，管理群聊與頻道，並通過 AI 提升安全、運營與增長效率。 <sub>`免費`</sub> |
-| [🐴 神馬搜索 🔍](https://tgbox.cc/zh-hant/detail/smss/) | 92萬 | 📢 官方頻道： @o123456 （關注不迷路） 👥 交流群組： @smbot0 （互動社區） 🔍 全功能中文搜索機器人 ｜ ⚡️ 極速查詢 · 資源一鍵直達 · 持續更新 <sub>`免費`</sub> |
-| [🔍超級索引 @CJSY](https://tgbox.cc/zh-hant/detail/cjsy/) | 87萬 | 🔎 超級索引 @CJSY 超強引擎，極速搜索，索見本源，引領全網！ 發送關鍵詞，搜索頻道、群組、Bot、視頻、圖片、資源等。🚀 搜你所需，發現更多；助力社群增長。 官方頻道… <sub>`免費`</sub> |
-| [Super 🔍](https://tgbox.cc/zh-hant/detail/super/) | 58萬 | TG必備“搜索神器”@Super，發現您感興趣的群組，頻道，電影，音樂或機器人。 📢官方公告：@SuperNews <sub>`免費`</sub> |
+| [🐴 神馬搜索 🔍](https://tgbox.cc/zh-hant/detail/smss/) | 96萬 | 📢 官方頻道： @o123456 （關注不迷路） 👥 交流群組： @smbot0 （互動社區） 🔍 全功能中文搜索機器人 ｜ ⚡️ 極速查詢 · 資源一鍵直達 · 持續更新 <sub>`免費`</sub> |
+| [🔍超級索引 @CJSY](https://tgbox.cc/zh-hant/detail/cjsy/) | 70萬 | 🔎 超級索引 @CJSY 超強引擎，極速搜索，索見本源，引領全網！ 發送關鍵詞，搜索頻道、群組、Bot、視頻、圖片、資源等。🚀 搜你所需，發現更多；助力社群增長。 官方頻道… <sub>`免費`</sub> |
+| [Super 🔍](https://tgbox.cc/zh-hant/detail/super/) | 60萬 | TG必備“搜索神器”@Super，發現您感興趣的群組，頻道，電影，音樂或機器人。 📢官方公告：@SuperNews <sub>`免費`</sub> |
 | [極搜🔍中文搜索@JISO](https://tgbox.cc/zh-hant/detail/jiso/) | 42萬 | 極搜JISO幫你找到有趣的群、頻道、視頻、音樂、電影、新聞。 ✅ 永久4位數用戶名 @JiSo ，其它均為假冒。 <sub>`免費`</sub> |
 | [中文索引](https://tgbox.cc/zh-hant/detail/teletop123bot/) | 28萬 | 幫助您找到感興趣的群組、頻道和機器人！ 歡迎將 @TeleTop123bot 添加到您的群組。 客服號 @TeleTop678Bot 備用聯繫 @TeleTop678 |
 | [Searchee Bot](https://tgbox.cc/zh-hant/detail/searcheebot/) | 25萬 | 你的指南在世界的電報頻道. 查找任何頻道在電報. 廣告: @tgstat\_support\_agent TGStat.com <sub>`免費`</sub> |
@@ -1713,7 +1717,7 @@
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
 | [ChatGPT \| Nano Banana \| Seedance](https://tgbox.cc/zh-hant/detail/gpt4telegrambot/) | 510萬 | 全在一的AI機器人:ChatGPT,克勞德,雙胞胎,DeepSeek,Midjourney等加入我們: @perplexity <sub>`AI繪畫` `ChatGPT` `大模型`</sub> |
-| [Mira](https://tgbox.cc/zh-hant/detail/mira_ibot/) ✔️ | 69萬 | 個人AI代理將對話轉化為行動. 頻道 @miramedia\_en 支持 @mira\_support\_team <sub>`AI智能體` `大模型`</sub> |
+| [Mira](https://tgbox.cc/zh-hant/detail/mira_ibot/) ✔️ | 70萬 | 個人AI代理將對話轉化為行動. 頻道 @miramedia\_en 支持 @mira\_support\_team <sub>`AI智能體` `大模型`</sub> |
 | [Syntx AI](https://tgbox.cc/zh-hant/detail/syntxaibot/) | 44萬 | The most powerful AI on TG: Seedance 2.5, Kling 3.0, VEO 3.1, Claude, GPT, Nano banana… <sub>`AI繪畫` `AI視頻` `大模型`</sub> |
 | [Satu Digital](https://tgbox.cc/zh-hant/detail/satudigitalbot/) | 9.6萬 | 📢 Official Channel: @satu\_digital Join our official channel for hourly restock alerts,… <sub>`免費`</sub> |
 | [Uniset AI • ChatGPT](https://tgbox.cc/zh-hant/detail/uniset/) | 7.8萬 | 可訪問 ChatGPT、Nano Banana、Seedance 和其他模型的機器人. 網站 → uniset.ai 支持: @unisupbot <sub>`AI視頻` `ChatGPT` `大模型`</sub> |
@@ -1762,8 +1766,8 @@
 | [Crypto Bot](https://tgbox.cc/zh-hant/detail/cryptobot/) | 125萬 | 使用 @CryptoBot 購買,出售,存儲, @發送和支付加密貨幣在電報中。 <sub>`財經`</sub> |
 | [Crypto Bot](https://tgbox.cc/zh-hant/detail/send/) | 125萬 | 使用 @CryptoBot 購買,出售,存儲, @發送和支付加密貨幣在電報中。 <sub>`交易所`</sub> |
 | [Bitpapa](https://tgbox.cc/zh-hant/detail/bitpapa_bot/) ✔️ | 113萬 | 使用 @Bitpapa\_bot 直接在 Telegram 中購買、出售、存儲和支付加密貨幣 <sub>`交易所` `官方`</sub> |
-| [xRocket](https://tgbox.cc/zh-hant/detail/tonrocketbot/) ✔️ | 58萬 | 在電報上 \#1 CEX 和 SocialFi 平臺 @xrocketnews — 新聞頻道 @TonRocketSupportBot — 支持和業務查詢 <sub>`TON生態`</sub> |
-| [xRocket](https://tgbox.cc/zh-hant/detail/xrocket/) ✔️ | 58萬 | 在電報上 \#1 CEX 和 SocialFi 平臺 @xrocketnews — 新聞頻道 @TonRocketSupportBot — 支持和業務查詢 <sub>`TON生態`</sub> |
+| [xRocket](https://tgbox.cc/zh-hant/detail/tonrocketbot/) ✔️ | 59萬 | 在電報上 \#1 CEX 和 SocialFi 平臺 @xrocketnews — 新聞頻道 @TonRocketSupportBot — 支持和業務查詢 <sub>`TON生態`</sub> |
+| [xRocket](https://tgbox.cc/zh-hant/detail/xrocket/) ✔️ | 59萬 | 在電報上 \#1 CEX 和 SocialFi 平臺 @xrocketnews — 新聞頻道 @TonRocketSupportBot — 支持和業務查詢 <sub>`TON生態`</sub> |
 | [Okpay💰](https://tgbox.cc/zh-hant/detail/okpay/) | 16萬 | 簡單的加密交易,安全的存儲,移動頂部和數字紅包。 <sub>`財經`</sub> |
 | [HOT Wallet](https://tgbox.cc/zh-hant/detail/herewalletbot/) ✔️ | 16萬 | 在新一代Telegram加密錢包中見到TON,Solana,NEAR和Ethereum。 <sub>`官方` `鏈上數據`</sub> |
 | [kkpay💰](https://tgbox.cc/zh-hant/detail/kkpay/) | 7.9萬 | kkpay是 @okay 集團打造的中文市場專用錢包，更符合全球華人操作習慣 使用kkpay輕鬆交易、安全存儲加密貨幣、並擁有海外移動話費充值和數字紅包等等功能。 <sub>`財經`</sub> |
@@ -1855,12 +1859,12 @@
 | [Save YouTube Video Bot](https://tgbox.cc/zh-hant/detail/savevybot/) | 2.5萬 | @savevybot Download file/video/audio. Shazam and Search Music. Support: @pony\_bots <sub>`音樂`</sub> |
 | [Send to Kindle 📚](https://tgbox.cc/zh-hant/detail/send2kindlebot/) | 2萬 | 發送給Kindle Bot @GabrielRF http://grf.xyz <sub>`電子書`</sub> |
 | [iDeploy](https://tgbox.cc/zh-hant/detail/ipadlbot/) | 1.9萬 | Hi! We are glad to see you in our bot! Stay tuned on @ipaDL\_news. Buy a developer… |
-| [URL Uploader](https://tgbox.cc/zh-hant/detail/uploadbot/) | 1.8萬 | 快速方式將文件上傳到電報的URL. 允許的最大文件大小 500MB 每日上傳限制 1GB, /upgrade for more <sub>`網盤` `免費`</sub> |
 | [PDF Bot](https://tgbox.cc/zh-hant/detail/pdfbot/) | 1.8萬 | 一個可以做很多與PDF文件相關的事情的機器人 |
 | [VirusTotal](https://tgbox.cc/zh-hant/detail/virustotal_av_bot/) | 1.8萬 | Send me a file and I will analyze it for viruses using over 70 different antiviruses.… |
+| [URL Uploader](https://tgbox.cc/zh-hant/detail/uploadbot/) | 1.8萬 | 快速方式將文件上傳到電報的URL. 允許的最大文件大小 500MB 每日上傳限制 1GB, /upgrade for more <sub>`網盤` `免費`</sub> |
 | [mp3 tools bot](https://tgbox.cc/zh-hant/detail/mp3_tools_bot/) | 1.4萬 | Questions/Вопросы: @Torturets |
-| [Get Public Link Bot](https://tgbox.cc/zh-hant/detail/getpubliclinkbot/) | 1.4萬 | 只需發送我任何文件文件的任何大小我會生成一個外部鏈接. 任何問題閱讀 FAQ 在幫助 <sub>`網盤`</sub> |
 | [Video To Audio Bot \| MP3](https://tgbox.cc/zh-hant/detail/videotoaudiookbot/) | 1.3萬 | Turn any video or YouTube/TikTok/Instagram link into audio (MP3) in seconds. 🎬→🎵 <sub>`音樂`</sub> |
+| [Get Public Link Bot](https://tgbox.cc/zh-hant/detail/getpubliclinkbot/) | 1.3萬 | 只需發送我任何文件文件的任何大小我會生成一個外部鏈接. 任何問題閱讀 FAQ 在幫助 <sub>`網盤`</sub> |
 | [My Instants Bot](https://tgbox.cc/zh-hant/detail/myinstantsbot/) | 1萬 | This bot search sounds in www.myinstants.com! |
 | [eBook Converter Bot](https://tgbox.cc/zh-hant/detail/ebook_converter_bot/) | — | 免費將電子書轉換為各種格式. 從2022年開始,支持57個輸入格式和31個輸出格式。 <sub>`電子書`</sub> |
 
@@ -1892,7 +1896,7 @@
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
 | [Channel Help](https://tgbox.cc/zh-hant/detail/chelpbot/) | 254萬 | 最完整的頻道機器人:發佈按鈕和PREMIUM EMOJI,歡迎消息,重複的帖子,加入過濾器等! |
-| [Post Bot](https://tgbox.cc/zh-hant/detail/postbot/) | 239萬 | ️ 最終的帖子構建器. 模板,內線按鈕,高級情感片,單擊發送到任何聊天! @dostoyno by g.media <sub>`免費`</sub> |
+| [Post Bot](https://tgbox.cc/zh-hant/detail/postbot/) | 229萬 | ️ 最終的帖子構建器. 模板,內線按鈕,高級情感片,單擊發送到任何聊天! @dostoyno by g.media <sub>`免費`</sub> |
 | [Tribute](https://tgbox.cc/zh-hant/detail/subscribeappbot/) ✔️ | 185萬 | 通過捐贈和訂閱賺錢內容. 新聞: @TributeNewsEN TRBT Limited https://tribute.tg/terms.html <sub>`官方`</sub> |
 | [Tribute](https://tgbox.cc/zh-hant/detail/tribute/) ✔️ | 185萬 | 通過捐贈和訂閱賺錢內容. 新聞: @TributeNewsEN TRBT Limited https://tribute.tg/terms.html <sub>`財經`</sub> |
 | [Manybot](https://tgbox.cc/zh-hant/detail/manybot/) | 96萬 | 🔥Manybot允許您創建自己的機器人。發送消息,創建自定義命令和菜單。 |
@@ -1901,7 +1905,7 @@
 | [Controller Bot](https://tgbox.cc/zh-hant/detail/controllerbot/) | 30萬 | 巨大的bot 為頻道所有者,幫助您創建豐富的帖子,查看統計數據和更多。 |
 | [Channel Actions Bot - Join Approver…](https://tgbox.cc/zh-hant/detail/channelactionsbot/) | 7.6萬 | 我可以自動批准和拒絕新頻道加入請求! https://channelactions.xditya.me - @BotzHub。 |
 | [DiscussBot](https://tgbox.cc/zh-hant/detail/discussbot/) ✔️ | 3.5萬 | 讓這個機器人在你的頻道中成為一個管理員,將評論按鈕添加到所有帖子中。 <sub>`免費` `官方`</sub> |
-| [Comments Bot](https://tgbox.cc/zh-hant/detail/commentsbot/) | 2.7萬 | 我可以幫助您創建評論的帖子,將其分享到您的頻道或組。 <sub>`免費`</sub> |
+| [Comments Bot](https://tgbox.cc/zh-hant/detail/commentsbot/) | 2.5萬 | 我可以幫助您創建評論的帖子,將其分享到您的頻道或組。 <sub>`免費`</sub> |
 | [Junction Bot](https://tgbox.cc/zh-hant/detail/junction_bot/) | 2.2萬 | 自動化您的電報流程 消息轉發,加密和更多 junctionbot.io 🏻 @junction\_support\_bot |
 | [React Bot](https://tgbox.cc/zh-hant/detail/reactbot/) | 2萬 | 我可以幫助你創建豐富的帖子,在你的渠道中的反應和評論。 |
 | [Group Help Payments \| Donations \| GH](https://tgbox.cc/zh-hant/detail/ghdonatebot/) | 1.7萬 | GroupHelp official bot for purchasing paid features. 📣 @ghelp 🤖 @GroupHelpBot 🌐… |
@@ -1964,8 +1968,8 @@
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
+| [LuckyStar](https://tgbox.cc/zh-hant/detail/myluckystar8_bot/) | 2.2萬 | 🤖 功能：抽獎、群管、紅包、積分、預測 📢 頻道：https://t.me/MyLuckyStar6 👨‍💻 反饋：https://t.me/paocai6 |
 | [Sub&Invite](https://tgbox.cc/zh-hant/detail/subinvitebot/) | 2萬 | 創建邀請和任務的比賽! 🇷🇺 @subinvite\_ru @subinvite\_en subinvitebot@gmail.com |
-| [LuckyStar](https://tgbox.cc/zh-hant/detail/myluckystar8_bot/) | 1.9萬 | 🤖 功能：抽獎、群管、紅包、積分、預測 📢 頻道：https://t.me/MyLuckyStar6 👨‍💻 反饋：https://t.me/paocai6 |
 | [Telegram 抽獎助手](https://tgbox.cc/zh-hant/detail/cnlottery_bot/) | — | 方便好用、公平公正的 Telegram 群組抽獎工具。 抽獎活動導航 @Lottery\_home 抽獎活動索引 @cnLottery\_123 抽獎活動群組… <sub>`免費` `羊毛福利`</sub> |
 | [Telegram 抽獎助手](https://tgbox.cc/zh-hant/detail/cnlottery123_bot/) | — | 方便好用、公平公正的 Telegram 群組抽獎工具。 抽獎活動導航 https://t.me/Lottery\_home 抽獎活動群組… |
 | [抽獎秘書](https://tgbox.cc/zh-hant/detail/fengdrawbot/) | — | 本機器人由峰哥開發，關注抽獎活動公佈頻道 https://t.me/FengDraw 一有抽獎就通知您。 意見交流請加群 https://t.me/fengsharegroup… <sub>`免費` `羊毛福利`</sub> |
@@ -1998,6 +2002,7 @@
 | [Anonymous Group Messages · Anon Bot](https://tgbox.cc/zh-hant/detail/anonsayprobot/) | — | Anonymous messages in your group: send /anon with your text. Admins can ban abusers. More… |
 | [Anonymous Telegram Bot](https://tgbox.cc/zh-hant/detail/anonymous_telegram_bot/) | — |  |
 | [NodeForwardBot](https://tgbox.cc/zh-hant/detail/nodeforwardbot/) | — | 雙向私聊轉發機器人，無廣告，無數量限制，永久在線 頻道 @nodeselect <sub>`開源`</sub> |
+| [ThXChat - Random Chat](https://tgbox.cc/zh-hant/detail/thxchatbot/) | — | Private 1-on-1 anonymous chats. Get Matched with a random stranger for anonymous chat.… <sub>`免費`</sub> |
 | [WegramBot](https://tgbox.cc/zh-hant/detail/wegram_bot/) | — | 來創建屬於自己的私聊機器人吧，絕無廣告的那種。 <sub>`開源`</sub> |
 | [Whisper · Secret Message Bot ·…](https://tgbox.cc/zh-hant/detail/whisperlockbot/) | — | Locked whisper only one friend can open, in any chat. More bots: addthisbot.com |
 
@@ -2010,7 +2015,7 @@
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
 | [Telemetrio](https://tgbox.cc/zh-hant/detail/telemetr_io_bot/) | 18萬 | 該機器人創建了一張新年賀卡,包含2023年的Telegram頻道統計數據,並授權您在Telemetr.io上。 |
-| [TGStat Bot](https://tgbox.cc/zh-hant/detail/tgstat_bot/) | 7.9萬 | 發送任何電報頻道的統計數據,聊天,出版物。 |
+| [TGStat Bot](https://tgbox.cc/zh-hant/detail/tgstat_bot/) | 7.8萬 | 發送任何電報頻道的統計數據,聊天,出版物。 |
 | [Crosser Bot](https://tgbox.cc/zh-hant/detail/crosser_bot/) | 1.4萬 | 刪除和保護機器人,提高ER,分析頻道. 聊天: @crosser\_chat 電報頻道: @crosser\_live |
 | [AlphaForge 🌌 \| AI Quant](https://tgbox.cc/zh-hant/detail/alphaforgeai_bot/) | — | <sub>`AI智能體` `財經` `免費`</sub> |
 | [Channel Stats](https://tgbox.cc/zh-hant/detail/channelstatsbot/) | — |  |
@@ -2029,7 +2034,7 @@
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
-| [Yandex Translate](https://tgbox.cc/zh-hant/detail/ytranslatebot/) | 4.3萬 | 我可以將你的郵件翻譯成任何語言. 你可以與來自世界各地的新人交談! <sub>`免費`</sub> |
+| [Yandex Translate](https://tgbox.cc/zh-hant/detail/ytranslatebot/) | 4.2萬 | 我可以將你的郵件翻譯成任何語言. 你可以與來自世界各地的新人交談! <sub>`免費`</sub> |
 | [Translator](https://tgbox.cc/zh-hant/detail/tgtranslatorbot/) | 2.7萬 | @tgtrns \| Translates messages in group chats. Support: @Dubzer 🦈 <sub>`免費`</sub> |
 | [Language Translation Bot](https://tgbox.cc/zh-hant/detail/am_translationbot/) | 1.1萬 | I'm Language Translator Bot. I'll Translate any language to any language |
 | [Babelgram](https://tgbox.cc/zh-hant/detail/babelgrambot/) | — | 這個機器人可以在任何組聊天中自動翻譯您的消息,或使用它在線直接在任何對話中翻譯。 |
@@ -2048,10 +2053,10 @@
 
 | 名稱 | 月活 | 簡介 |
 | --- | ---: | --- |
-| [Trojan on Solana](https://tgbox.cc/zh-hant/detail/solana_trojanbot/) ✔️ | 4.1萬 | 最快和最先進的連鎖交易機器人,旨在讓您完全控制。 <sub>`量化交易` `Solana`</sub> |
+| [Trojan on Solana](https://tgbox.cc/zh-hant/detail/solana_trojanbot/) ✔️ | 4萬 | 最快和最先進的連鎖交易機器人,旨在讓您完全控制。 <sub>`量化交易` `Solana`</sub> |
 | [pepeboost\_sol\_bot](https://tgbox.cc/zh-hant/detail/pepeboost_sol_bot/) | 3.5萬 | 💰 退款高達30%,與複印交易,自動出售和限制訂單支持 跟隨我們: x.com/PepeBoost888 <sub>`量化交易` `Solana`</sub> |
 | [Maestro](https://tgbox.cc/zh-hant/detail/maestrosniperbot/) | 2.9萬 | 官方Maestro 交易機器人!需要幫助? docs.maestrobots.com @MaestroSupport 跟隨我們! x.com/MaestroBots <sub>`量化交易`</sub> |
-| [BONKbot](https://tgbox.cc/zh-hant/detail/bonkbot_bot/) | 1.6萬 | BONKbot 是您在 Solana 上交易的最快、最簡單的方式,無需妥協。 <sub>`量化交易` `Solana`</sub> |
+| [BONKbot](https://tgbox.cc/zh-hant/detail/bonkbot_bot/) | 1.5萬 | BONKbot 是您在 Solana 上交易的最快、最簡單的方式,無需妥協。 <sub>`量化交易` `Solana`</sub> |
 | [Blum Trading Bot](https://tgbox.cc/zh-hant/detail/blumcryptotradingbot/) ✔️ | 1.5萬 | Blum Trading Bot, part of Blum ecosystem, built for lightning-fast on-chain… <sub>`交易所` `官方` `鏈上數據`</sub> |
 | [Banana Gun Sniper Bot](https://tgbox.cc/zh-hant/detail/bananagunsniper_bot/) | — | https://bananagun.io https://docs.bananagun.io https://bananagun.io/電報… <sub>`量化交易`</sub> |
 | [ChartUp - Solana Volume Bot (Migrated)](https://tgbox.cc/zh-hant/detail/chartup_bot/) | — | We've migrated to a new platform and bots. Please check our social media channels or… <sub>`鏈上數據` `Solana`</sub> |
