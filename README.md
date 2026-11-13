@@ -9,14 +9,14 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 [🌐 Website](https://tgbox.cc/en) · [📮 Submit yours](https://t.me/tgboxccbot?start=submit) · [🤝 Exchange links](https://t.me/tgboxccbot?start=links) · **English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-Hant.md)
 
 [![Entries](https://img.shields.io/badge/Channels%20%2B%20Groups%20%2B%20Bots-1248-2AABEE?logo=telegram&logoColor=white)](https://tgbox.cc/en/)
-[![Updated](https://img.shields.io/badge/updated-2026--11--12-brightgreen)](https://github.com/TGrpg/awesome-telegram/actions/workflows/update.yml)
+[![Updated](https://img.shields.io/badge/updated-2026--11--13-brightgreen)](https://github.com/TGrpg/awesome-telegram/actions/workflows/update.yml)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 </div>
 
 > Every name below opens its page on **TGbox**, a free, open-source Telegram directory: subscriber counts and growth, recent posts, creation date, activity and similar channels, in English, Simplified and Traditional Chinese. The list is regenerated every day from the site's [open data](https://tgbox.cc/data/entries.json), so dead or banned entries drop out on their own.
 
-**413** channels · **246** groups · **589** bots · updated 2026-11-12
+**413** channels · **246** groups · **589** bots · updated 2026-11-13
 
 ## Contents
 
@@ -91,13 +91,13 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Spam Info Bot](https://tgbox.cc/en/detail/spambot/) ✔️ | bot · Utilities | 35.6M | The official Spam Info Bot by Telegram. Helps users with… |
 | [Foursquare](https://tgbox.cc/en/detail/foursquare/) | bot · Search | 20.5M | This bot can help you find restaurants and other places… |
 | [Telegram Tips](https://tgbox.cc/en/detail/telegramtips/) ✔️ | channel · Software | 10.6M | Telegram stands for freedom and privacy and has many easy… |
-| [Pavel Durov](https://tgbox.cc/en/detail/durov/) ✔️ | channel · Blogs | 10.1M | Founder of Telegram. |
+| [Pavel Durov](https://tgbox.cc/en/detail/durov/) ✔️ | channel · Blogs | 10M | Founder of Telegram. |
 | [Telegram News](https://tgbox.cc/en/detail/telegram/) ✔️ | channel · News | 9.2M | The official Telegram on Telegram. Much recursion. Very… |
 | [BotFather](https://tgbox.cc/en/detail/botfather/) ✔️ | bot · Utilities | 8.1M | BotFather is the one bot to rule them all. Use it to create… |
 | [Notcoin Community](https://tgbox.cc/en/detail/notcoin/) ✔️ | channel · Crypto & Web3 | 7.8M | notcoin.org |
 | [Premium Bot](https://tgbox.cc/en/detail/premiumbot/) ✔️ | bot · Utilities | 6.8M | This bot lets you subscribe to Telegram Premium or buy… |
-| [Telegram Premium](https://tgbox.cc/en/detail/premium/) ✔️ | channel · Software | 6.4M | Telegram Premium – a subscription that unlocks dozens of… |
-| [极搜🔍资源搜索@JISOU](https://tgbox.cc/en/detail/jisou/) | bot · Search | 5.7M | Telegram is the essential search engine for JISOU to help… |
+| [Telegram Premium](https://tgbox.cc/en/detail/premium/) ✔️ | channel · Software | 6.3M | Telegram Premium – a subscription that unlocks dozens of… |
+| [ChatGPT \| Nano Banana \| Seedance](https://tgbox.cc/en/detail/gpt4telegrambot/) | bot · AI Assistants | 6.1M | The all-in-one AI bot: ChatGPT, Claude, Gemini, DeepSeek,… |
 
 <a id="newest"></a>
 
@@ -138,18 +138,18 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [电报时报](https://tgbox.cc/en/detail/times001/) | 84.5K | Channel linked linked linked linked linked linked linked linked linked linked linked… <sub>`Daily Digest`</sub> |
 | [قناة تيليجرام](https://tgbox.cc/en/detail/telegramarabia/) ✔️ | 78K | مرحبًا بك في قناة أخبار تيليجرام الرسمية. هنا سنقوم بنشر آخر التحديثات بالإضافة لنصائح… <sub>`Official`</sub> |
 | [每日消费电子观察](https://tgbox.cc/en/detail/ce_observe/) | 77.5K | 不公正 不客观 不理性 投稿 / 反馈 / 闲聊 / 发傻 / 和动物成为朋友 / USB Type-C 不收快科技的稿源 子频道 @Hearse\_Drifting… <sub>`Gadgets`</sub> |
-| [LoopDNS资讯播报](https://tgbox.cc/en/detail/dnspodt/) | 73.2K | LoopDNS comprehensive information -- simple, timely, fast, accurate channel: @DNSPODT… <sub>`Daily Digest`</sub> |
+| [LoopDNS资讯播报](https://tgbox.cc/en/detail/dnspodt/) | 73.3K | LoopDNS comprehensive information -- simple, timely, fast, accurate channel: @DNSPODT… <sub>`Daily Digest`</sub> |
 | [Yummy 😋](https://tgbox.cc/en/detail/godlynews1/) | 71.2K | This channel regularly pushes new tech digital news, welcome attention! ©️ The content… <sub>`Gadgets`</sub> |
-| [【华尔街见闻】- 财经时讯 \| AI 实时互动](https://tgbox.cc/en/detail/financenewsdaily/) | 59.1K | China’s leading financial information platform, 7×24 coverage of global stock markets,… <sub>`Finance`</sub> |
+| [【华尔街见闻】- 财经时讯 \| AI 实时互动](https://tgbox.cc/en/detail/financenewsdaily/) | 59.4K | China’s leading financial information platform, 7×24 coverage of global stock markets,… <sub>`Finance`</sub> |
 
 <details>
 <summary>Show 55 more</summary>
 
 | Name | Subscribers | About |
 | --- | ---: | --- |
-| [Live Scores Today](https://tgbox.cc/en/detail/livescorestoday/) | 53.7K | Top matches in every sport: today's fixtures, live scores and full-time results. One… <sub>`Sports`</sub> |
+| [Live Scores Today](https://tgbox.cc/en/detail/livescorestoday/) | 54.3K | Top matches in every sport: today's fixtures, live scores and full-time results. One… <sub>`Sports`</sub> |
 | [中国数字时代](https://tgbox.cc/en/detail/cdtchinesefeed/) | 51.9K | Official website: http://cdt.media Official Twitter Account: https://twitter.com/CDTChines… |
-| [Solidot](https://tgbox.cc/en/detail/solidot/) | 48.5K | solidot.org is an unofficial RSS push channel. Remove it immediately if there is any… <sub>`Daily Digest` `Science`</sub> |
+| [Solidot](https://tgbox.cc/en/detail/solidot/) | 48.8K | solidot.org is an unofficial RSS push channel. Remove it immediately if there is any… <sub>`Daily Digest` `Science`</sub> |
 | [蓝点网订阅频道](https://tgbox.cc/en/detail/landiansub/) | 47.1K | <sub>`Daily Digest`</sub> |
 | [zaobao.sg 早报](https://tgbox.cc/en/detail/zaobaosg/) ✔️ | 46.7K | Talk to you with wisdom and wisdom. Download the Joint Morning News App:… <sub>`Daily Digest`</sub> |
 | [NOW 新聞](https://tgbox.cc/en/detail/nowtv_news/) | 42.4K | The program automatically retrieves and pushes Now TV Hong Kong News and International… |
@@ -178,7 +178,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [财经快讯](https://tgbox.cc/en/detail/fnnew/) | 8.7K | The latest worldwide financial information 24 hours uninterrupted live broadcast, A-share… <sub>`Finance`</sub> |
 | [Readhub](https://tgbox.cc/en/detail/readhub_cn/) | 8.6K | Buy Ads: https://telega.io/c/readhub\_cn → More: @solidot @wanqu\_channel @idaily\_magazine… <sub>`Daily Digest`</sub> |
 | [德国 德国之声 中文全文](https://tgbox.cc/en/detail/dw_rss/) | 8K | \[RSS full subscription real-time update\] News @zhihuribao\_rss New York Times… |
-| [日本 共同网 朝日新闻 日经中文网](https://tgbox.cc/en/detail/jp_rss/) | 7.8K | \[RSS full subscription real-time update\] News @zhihuribao\_rss New York Times… <sub>`Daily Digest`</sub> |
+| [日本 共同网 朝日新闻 日经中文网](https://tgbox.cc/en/detail/jp_rss/) | 7.7K | \[RSS full subscription real-time update\] News @zhihuribao\_rss New York Times… <sub>`Daily Digest`</sub> |
 | [海外媒体中国新闻](https://tgbox.cc/en/detail/chinanews001/) | 7.2K | Overseas media reports about China need a wall to open the web page, available web agency… |
 | [台湾 中央社 香港 苹果日报](https://tgbox.cc/en/detail/ttww_rss/) | 7.1K | \[RSS full subscription real-time update\] News @zhihuribao\_rss New York Times… |
 | [FT中文网 全文 实时推送](https://tgbox.cc/en/detail/ftzhongwen_rss/) | 6.7K | \[RSS full subscription real-time update\] News @zhihuribao\_rss New York Times… <sub>`Finance`</sub> |
@@ -214,19 +214,19 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Subscribers | About |
 | --- | ---: | --- |
 | [Telegram Tips](https://tgbox.cc/en/detail/telegramtips/) ✔️ | 10.6M | Telegram stands for freedom and privacy and has many easy to use features. <sub>`Free` `Official`</sub> |
-| [Telegram Premium](https://tgbox.cc/en/detail/premium/) ✔️ | 6.4M | Telegram Premium – a subscription that unlocks dozens of exclusive features. <sub>`Official`</sub> |
+| [Telegram Premium](https://tgbox.cc/en/detail/premium/) ✔️ | 6.3M | Telegram Premium – a subscription that unlocks dozens of exclusive features. <sub>`Official`</sub> |
 | [نصائح تيليجرام](https://tgbox.cc/en/detail/telegramtipsar/) ✔️ | 1.6M | يرمز تيليجرام إلى الحريّة والخصوصيّة ويحوي العديد من المزايا سهلة الاستخدام. <sub>`Free` `Official`</sub> |
 | [Tips de Telegram](https://tgbox.cc/en/detail/telegramtipses/) ✔️ | 1.5M | Telegram es sinónimo de libertad y privacidad y tiene muchas funciones fáciles de usar. <sub>`Free` `Official`</sub> |
 | [Dicas do Telegram](https://tgbox.cc/en/detail/telegramtipsbr/) ✔️ | 671.1K | Telegram é sinônimo de liberdade e privacidade, e tem várias funcionalidades fáceis de… <sub>`Free` `Official`</sub> |
 | [Astuces Telegram](https://tgbox.cc/en/detail/telegramtipsfr/) ✔️ | 666.5K | Telegram est synonyme de liberté, de respect de la vie privée et offre de nombreuses… <sub>`Free` `Official`</sub> |
 | [قابلیت‌های تلگرام](https://tgbox.cc/en/detail/telegramtipsfa/) ✔️ | 602.9K | تلگرام متکی بر آزادی و حریم خصوصی بوده و ویژگی‌های کاربر پسند و متنوع بسیاری دارد. <sub>`Free` `Official`</sub> |
-| [Tips Telegram](https://tgbox.cc/en/detail/telegramtipsid/) ✔️ | 428.4K | Telegram adalah sebuah ide tentang kebebasan dan privasi, memiliki banyak fitur yang… <sub>`Free` `Official`</sub> |
-| [AyuGram Releases](https://tgbox.cc/en/detail/ayugramreleases/) | 395.3K | Official AyuGram builds channel for all platforms. @ayugram, @ayugramchat, @ayugramfaq <sub>`Open Source`</sub> |
+| [Tips Telegram](https://tgbox.cc/en/detail/telegramtipsid/) ✔️ | 425.4K | Telegram adalah sebuah ide tentang kebebasan dan privasi, memiliki banyak fitur yang… <sub>`Free` `Official`</sub> |
+| [AyuGram Releases](https://tgbox.cc/en/detail/ayugramreleases/) | 399.8K | Official AyuGram builds channel for all platforms. @ayugram, @ayugramchat, @ayugramfaq <sub>`Open Source`</sub> |
 | [Telegram APKs for Android](https://tgbox.cc/en/detail/tandroidapk/) ✔️ | 259.9K | Official channel for Telegram Android APKs. You can also download them here:… <sub>`Android` `Free` `Official`</sub> |
 | [Telegram İpuçları](https://tgbox.cc/en/detail/telegramtipstr/) ✔️ | 223.3K | Telegram; özgürlük ve gizlilik anlamına gelir ve kullanımı kolay birçok özelliğe sahiptir. <sub>`Free` `Official`</sub> |
 | [Suggerimenti di Telegram](https://tgbox.cc/en/detail/telegramtipsit/) ✔️ | 181.6K | Telegram è sinonimo di libertà e privacy e ha molte funzionalità facili da usare. <sub>`Free` `Official`</sub> |
 | [exteraGram](https://tgbox.cc/en/detail/exteragram/) | 116K | Website: exteraGram.app APKs: @exteraReleases Beta: @exteraGramCI FAQ: @exteraFAQ Forum:… <sub>`Android`</sub> |
-| [ReVanced](https://tgbox.cc/en/detail/app_revanced/) | 115.1K | Continuing the legacy of Vanced at https://revanced.app ReVanced topics:… <sub>`Android` `Free` `Open Source`</sub> |
+| [ReVanced](https://tgbox.cc/en/detail/app_revanced/) | 114.8K | Continuing the legacy of Vanced at https://revanced.app ReVanced topics:… <sub>`Android` `Free` `Open Source`</sub> |
 | [Widget🏂软件工具资源分享](https://tgbox.cc/en/detail/widgetchannel/) | 107.8K | Daily push of useful and interesting content, including but not limited to: Software… <sub>`Free`</sub> |
 
 <details>
@@ -241,19 +241,19 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [小声逼逼](https://tgbox.cc/en/detail/me888888888888/) | 53.3K | Treasure mining Appletv/iOS/Mac 🎁 Regular sweepstakes Exclusive news Emby video audio… <sub>`iOS`</sub> |
 | [Loon News](https://tgbox.cc/en/detail/loonnews/) | 48.3K | Loon News <sub>`iOS`</sub> |
 | [Porady Telegrama](https://tgbox.cc/en/detail/telegramtipspl/) ✔️ | 44.7K | Telegram jest synonimem wolności i prywatności i ma wiele łatwych w użyciu funkcji. <sub>`Free` `Official`</sub> |
-| [Aero Apps \| Channel](https://tgbox.cc/en/detail/aerolla/) | 43.9K | Aero Apps Official Telegram Channel. Web: www.whatsaero.com www.aeroinsta.com… <sub>`Android` `Free`</sub> |
+| [Aero Apps \| Channel](https://tgbox.cc/en/detail/aerolla/) | 43.8K | Aero Apps Official Telegram Channel. Web: www.whatsaero.com www.aeroinsta.com… <sub>`Android` `Free`</sub> |
 | [Cherrygram 🍒](https://tgbox.cc/en/detail/cherrygram/) | 41.7K | The official channel of the Cherrygram. Support and discussion: @CherrygramSupport APKs:… <sub>`Android` `Open Source`</sub> |
 | [Nekogram APKs](https://tgbox.cc/en/detail/nekogramapks/) | 41.3K | The official APKs channel for Nekogram. News: @NekoUpdates Discussion: @NekoChat Чат:… <sub>`Android` `Open Source`</sub> |
 | [APPDO 数字生活指南](https://tgbox.cc/en/detail/appdodo/) | 41K | 💡 Internet/Digital/App/Hair/Camera/Digital Guide Business Contact:@appdo\_bot (only,… |
 | [少数派sspai](https://tgbox.cc/en/detail/sspai/) | 39.1K | Official channel of the minority (sspai.com).Weibo: @ minority spai, public number:sspaime <sub>`iOS`</sub> |
 | [Nekogram](https://tgbox.cc/en/detail/nekoupdates/) | 36.5K | The official channel of the Nekogram. Discussion: @NekoChat Чат: @NekoChatRU 讨论:… <sub>`Android` `Official` `Open Source`</sub> |
+| [Ai一线 \| 软件 资讯 新闻](https://tgbox.cc/en/detail/followbun/) | 35K |  |
 | [Appinn Feed｜小众软件](https://tgbox.cc/en/detail/appinnfeed/) | 35K | Here are content updates for popular software and discovery channels, as well as a… <sub>`Free`</sub> |
-| [Ai一线 \| 软件 资讯 新闻](https://tgbox.cc/en/detail/followbun/) | 34.5K |  |
 | [Panduan Telegram](https://tgbox.cc/en/detail/telegramtipsms/) ✔️ | 31.7K | Telegram memperjuangkan kebebasan dan privasi, dan mempunyai banyak ciri-ciri mudah… <sub>`Free` `Official`</sub> |
 | [xManager - Updates](https://tgbox.cc/en/detail/xmanagerupdates/) | 26.1K | Official Channel for xManager by xC3FFF0E Website: https://xmanagerapp.com Reddit:… <sub>`Android` `Free` `Open Source`</sub> |
 | [主频道](https://tgbox.cc/en/detail/swnbnb96/) | 22.3K | This series of works is only for study research, any behavior of the user is not related… <sub>`Android`</sub> |
-| [Swiftgram](https://tgbox.cc/en/detail/swiftgram/) | 17.5K | Supercharged Telegram for iOS Download - https://apps.apple.com/app/id6471879502 Discuss… <sub>`iOS` `Open Source`</sub> |
-| [APPDO的互联网记忆](https://tgbox.cc/en/detail/appdopic/) | 16.9K | This channel is published by multiple editors and does not represent any personal views;… <sub>`Freebies` `iOS`</sub> |
+| [Swiftgram](https://tgbox.cc/en/detail/swiftgram/) | 17.8K | Supercharged Telegram for iOS Download - https://apps.apple.com/app/id6471879502 Discuss… <sub>`iOS` `Open Source`</sub> |
+| [APPDO的互联网记忆](https://tgbox.cc/en/detail/appdopic/) | 17K | This channel is published by multiple editors and does not represent any personal views;… <sub>`Freebies` `iOS`</sub> |
 | [Cool Scripts](https://tgbox.cc/en/detail/cool_scripts/) | 16.4K | QuanX, Loon, Surge, JsBox, Pythonista, Scriptable, Shortcuts and other script sharing <sub>`iOS`</sub> |
 | [Flippy\_Openwrt](https://tgbox.cc/en/detail/openwrt_flippy/) | 14.8K | Flippy's Openwrt/Armbian software Group link: https://t.me/joinchat/WTWXSt\_bMW0xHQZE If… <sub>`Linux` `Open Source`</sub> |
 | [极客分享 2.0](https://tgbox.cc/en/detail/xgeekshare/) | 14K | Extreme Sharing 2.0 Channel Focus on sharing AI, open source projects, productivity… <sub>`Open Source`</sub> |
@@ -277,7 +277,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [theBlock](https://tgbox.cc/en/detail/theblockclub/) | 2.5K | Love from Notion fans, @iceyaya, @niinjoy & @craigary |
 | [AdGuard消息](https://tgbox.cc/en/detail/adguardcn/) | 2.3K | You can get all the news about ad blocking and cybersecurity here. AdGuard official… <sub>`Security`</sub> |
 | [materialgram](https://tgbox.cc/en/detail/materialgram/) | 1.9K | Telegram Desktop fork with material icons and some improvements… <sub>`Open Source`</sub> |
-| [资源公社](https://tgbox.cc/en/detail/gg32wrogodztog9o/) | 501 | 精选优质资源，持续分享：好用网站、实用软件、效率插件、工具、开源项目、知识合集，一个频道全搞定。 <sub>`Cloud Drive` `Free` `Open Source`</sub> |
+| [资源公社](https://tgbox.cc/en/detail/gg32wrogodztog9o/) | 509 | 精选优质资源，持续分享：好用网站、实用软件、效率插件、工具、开源项目、知识合集，一个频道全搞定。 <sub>`Cloud Drive` `Free` `Open Source`</sub> |
 
 </details>
 
@@ -291,7 +291,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [Notcoin Community](https://tgbox.cc/en/detail/notcoin/) ✔️ | 7.8M | notcoin.org <sub>`TON`</sub> |
 | [Binance Announcements](https://tgbox.cc/en/detail/binance_announcements/) ✔️ | 3.2M | Binance Official English Group @binanceexchange Binance Official Chinese Group… <sub>`Exchanges`</sub> |
-| [Cointelegraph](https://tgbox.cc/en/detail/cointelegraph/) | 326.4K | The Future of Money Unbiased crypto, markets & Web3 news in real-time. Trusted since… <sub>`Finance`</sub> |
+| [Cointelegraph](https://tgbox.cc/en/detail/cointelegraph/) | 330.2K | The Future of Money Unbiased crypto, markets & Web3 news in real-time. Trusted since… <sub>`Finance`</sub> |
 | [Whale Alert](https://tgbox.cc/en/detail/whale_alert_io/) | 295.5K | The most advanced \#blockchain tracker and analytics system reporting large and… <sub>`On-chain Data`</sub> |
 | [CoinMarketCap Announcements](https://tgbox.cc/en/detail/coinmarketcapannouncements/) ✔️ | 235.8K | Official CMC Telegram Channel: Updates, News, and Events! Build with CMC (API, AI,… |
 | [Wu Blockchain News](https://tgbox.cc/en/detail/wublockchainenglish/) | 213.3K | WuBlockchain’s only official Telegram account Colin Wu, Reporter Important Crypto News… <sub>`Finance`</sub> |
@@ -315,7 +315,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Foresight News](https://tgbox.cc/en/detail/foresightnews/) | 19.2K | 不忘来时路，专注加密 & Web3 等待新周期，一起「遇见」未来 APP 4.0 正式上线： foresightnews.pro/download TG互动大本营：… <sub>`Finance`</sub> |
 | [Lookonchain](https://tgbox.cc/en/detail/lookonchainchannel/) | 19.1K | Please contact @lookonchainsupport if you have any questions. We will never DM you first!… <sub>`On-chain Data`</sub> |
 | [TechFlow 深潮 ｜ 加密货币&区块链新闻](https://tgbox.cc/en/detail/techflowdaily/) | 18.8K | Sharing valuable information. |
-| [RootData](https://tgbox.cc/en/detail/rootdatalabs/) | 15.8K | Daily update Rootdata project database status, including new projects, new fundraising,… |
+| [RootData](https://tgbox.cc/en/detail/rootdatalabs/) | 15.6K | Daily update Rootdata project database status, including new projects, new fundraising,… |
 | [吴说区块链 新闻与深度](https://tgbox.cc/en/detail/wublock/) | 15.6K | Wu said: Close to the truth, more reliable Blockchain news reports, deep content analysis… <sub>`Finance`</sub> |
 | [币圈动态](https://tgbox.cc/en/detail/biquan321/) | 11.5K | We all own any cryptocurrency! hot spot sharing as there is an infringement message… |
 | [6551News](https://tgbox.cc/en/detail/news6551/) | 11.4K | The Degen News 币圈接地气的新闻推送https://x.com/6551News |
@@ -339,10 +339,10 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [U盾｜USDT冻结预警](https://tgbox.cc/en/detail/ushield1/) | 2K | 🎁 新人免费领：1 笔能量、7 天冻结预警、3 次地址风险检测@ushield2\_bot <sub>`Finance`</sub> |
 | [CCXT Announcements](https://tgbox.cc/en/detail/ccxt_announcements/) | 844 | CryptoCurrency eXchange Trading Library and Terminal Important Announcements. Links: 🌐… <sub>`Open Source` `Quant Trading`</sub> |
 | [WhatsApp/Viber-账号拉群の迪迦出海](https://tgbox.cc/en/detail/dijiachuhai_66688/) | 612 | 🏅 致力于为出海群体提供最专业的服务！ 🏅 <sub>`Exchanges` `Free`</sub> |
-| [币圈集结圈](https://tgbox.cc/en/detail/gpegucxozphzl6gj/) | 521 | 汇总币圈各类博主信息，总结优秀博主的行情分析与做单思路；多维度看待币圈机会，站在优秀的人肩膀上学习成长。 <sub>`Exchanges` `On-chain Data` `Quant Trading`</sub> |
+| [币圈集结圈](https://tgbox.cc/en/detail/gpegucxozphzl6gj/) | 545 | 汇总币圈各类博主信息，总结优秀博主的行情分析与做单思路；多维度看待币圈机会，站在优秀的人肩膀上学习成长。 <sub>`Exchanges` `On-chain Data` `Quant Trading`</sub> |
 | [BitTrend \| Новости криптовалют](https://tgbox.cc/en/detail/b1ttrend/) | 485 | 🤖☁️ Надежный источник актуальных новостей, аналитики и прогнозов в мире криптовалют.… <sub>`Exchanges`</sub> |
 | [Kourvex](https://tgbox.cc/en/detail/kourvex/) | 157 | IN THE NAME OF GOD ◆ KOURVEX EA — 2026 ━ TIME. CYCLES. PRECISION. ◈ A Different… <sub>`Airdrops` `E-books` `Exchanges`</sub> |
-| [AirdropChi \| ایردراپ‌چی](https://tgbox.cc/en/detail/airdropchi_irfa/) | 65 | 🎁 ایردراپ چی \| دنیای ایردراپ‌های رایگان 🚀 معرفی پروژه‌های جدید ارز دیجیتال 📌 آموزش… <sub>`Airdrops` `Android` `Free`</sub> |
+| [AirdropChi \| ایردراپ‌چی](https://tgbox.cc/en/detail/airdropchi_irfa/) | 93 | 🎁 ایردراپ چی \| دنیای ایردراپ‌های رایگان 🚀 معرفی پروژه‌های جدید ارز دیجیتال 📌 آموزش… <sub>`Airdrops` `Android` `Free`</sub> |
 
 </details>
 
@@ -355,17 +355,17 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Subscribers | About |
 | --- | ---: | --- |
 | [Telegram Contests](https://tgbox.cc/en/detail/contest/) ✔️ | 298.3K | Here we announce Telegram coding contests in Android Java, iOS Swift, JS, C/C++.… <sub>`Official` `Programming`</sub> |
-| [BotNews](https://tgbox.cc/en/detail/botnews/) ✔️ | 148.6K | The official source for news about the Telegram Bot API. https://core.telegram.org/bots <sub>`Official` `Programming`</sub> |
+| [BotNews](https://tgbox.cc/en/detail/botnews/) ✔️ | 153.2K | The official source for news about the Telegram Bot API. https://core.telegram.org/bots <sub>`Official` `Programming`</sub> |
 | [Linuxgram 🐧](https://tgbox.cc/en/detail/linuxgram/) | 72.4K | News and info from the Linux world 🐧 📨 linuxgr4m@gmail.com 📨 💸 If you want to support… <sub>`Linux`</sub> |
 | [Demo Store](https://tgbox.cc/en/detail/teststore/) | 68.9K | This test store features the most exotic imaginary goods no money can buy, so you can… <sub>`Official` `Programming`</sub> |
-| [VPS信号旗播报](https://tgbox.cc/en/detail/vps_xhq/) | 50.7K | VPS News Channel, VPS Signal Flag is an instant messaging small organization, focusing on… <sub>`Hosting & VPS`</sub> |
+| [VPS信号旗播报](https://tgbox.cc/en/detail/vps_xhq/) | 50.9K | VPS News Channel, VPS Signal Flag is an instant messaging small organization, focusing on… <sub>`Hosting & VPS`</sub> |
 | [The Devs](https://tgbox.cc/en/detail/thedevs/) | 32K | Developers community on Telegram. https://thedevs.network Jobs: @thehire Have something… <sub>`Programming`</sub> |
 | [互联网从业者充电站](https://tgbox.cc/en/detail/https1024/) | 31.6K | Exclusively for Internet practitioners Content is broadly related to different topics… <sub>`Programming`</sub> |
 | [Hacker News](https://tgbox.cc/en/detail/hacker_news_feed/) | 30.6K | Top stories from https://news.ycombinator.com (with 150+ score) Contribute to the… <sub>`Programming`</sub> |
 | [GitHub repos](https://tgbox.cc/en/detail/github_repos/) | 28.1K | Welcome to GitHub repos. Here you'll find valuable information on the latest trending… <sub>`Open Source`</sub> |
 | [Front End World](https://tgbox.cc/en/detail/front_end_first/) | 25.6K | New articles about Front End development. JS, CSS, React, Vue, Angular and others!… <sub>`Programming`</sub> |
 | [如有乐享](https://tgbox.cc/en/detail/ruyoblog/) | 24.3K | Main updates such as blog content, and a few other friends' channels dry. Cloud servers,… <sub>`Hosting & VPS`</sub> |
-| [科技爱好者周刊](https://tgbox.cc/en/detail/scitech_fans/) | 14.8K | Record weekly technical content worth sharing, released on Friday. This channel is… <sub>`Programming`</sub> |
+| [科技爱好者周刊](https://tgbox.cc/en/detail/scitech_fans/) | 14.9K | Record weekly technical content worth sharing, released on Friday. This channel is… <sub>`Programming`</sub> |
 | [Bug Bounty Channel](https://tgbox.cc/en/detail/bug_bounty_channel/) | 14.7K | All bug bounties here. <sub>`Security`</sub> |
 | [Android Developers](https://tgbox.cc/en/detail/androiddeveu/) | 14.6K | Welcome to the community for Android developers of all levels! Here, we share the latest… <sub>`Android` `Programming`</sub> |
 | [RSSHub News](https://tgbox.cc/en/detail/awesomersshub/) | 12.1K | 🍰 Everything is RSSible This channel will include: - \#RSSHubCore updates - \#RSSHub route… <sub>`Open Source`</sub> |
@@ -392,7 +392,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [开发者日报](https://tgbox.cc/en/detail/cndevdaily/) | 2.1K | A hardworking robot, just climbing hot, high quality, and reading strong content. The… <sub>`Daily Digest` `Programming`</sub> |
 | [Hostloc 新帖图文推送](https://tgbox.cc/en/detail/hostlocpro/) | 1.7K | Basic features of this channel: Get the most famous host forums at home and abroad… <sub>`Linux`</sub> |
 | [极光云｜VPS · 云服务器 · 独立服务器](https://tgbox.cc/en/detail/jiguangng/) | 1.5K | 🌐 香港 / 美国 / 日本 / 新加坡节点 ⚡️ CN2优化｜原生IP｜住宅ISP｜云电脑 🖥 VPS / 云服务器 / 独立服务器长期供应 🌐… <sub>`iOS` `Hosting & VPS`</sub> |
-| [顽童技术站](https://tgbox.cc/en/detail/kgndni5hqox3hhf6/) | 537 | 探索数字生活，分享科技与快乐。这里有你关心的前沿数码资讯、硬核干货图流，以及好玩的游戏推荐。关注我，一起发现更多精彩。 <sub>`AI Coding` `Free` `Open Source`</sub> |
+| [顽童技术站](https://tgbox.cc/en/detail/kgndni5hqox3hhf6/) | 551 | 探索数字生活，分享科技与快乐。这里有你关心的前沿数码资讯、硬核干货图流，以及好玩的游戏推荐。关注我，一起发现更多精彩。 <sub>`AI Coding` `Free` `Open Source`</sub> |
 
 </details>
 
@@ -405,17 +405,17 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Subscribers | About |
 | --- | ---: | --- |
 | [ahhhhfs｜A姐分享](https://tgbox.cc/en/detail/abskoop/) | 306.3K | A sister share subscription channel share interesting things such as resources, movies,… <sub>`Free`</sub> |
-| [APP喵 - 破解软件资源](https://tgbox.cc/en/detail/appmew/) | 170.8K | APP喵资源仓库。发现分享好用 APP 软件，优质 资源，游戏，网站，极客，教程，各种 网络 黑科技，节点，免费VPN，影视 等… <sub>`Free`</sub> |
-| [曹老板白嫖分享社](https://tgbox.cc/en/detail/clbfxs/) | 78.8K | Resources / Business / Web gain / Knowledge / Courses / Software / Web lessons / Tools /… <sub>`Free`</sub> |
+| [APP喵 - 破解软件资源](https://tgbox.cc/en/detail/appmew/) | 171.7K | APP喵资源仓库。发现分享好用 APP 软件，优质 资源，游戏，网站，极客，教程，各种 网络 黑科技，节点，免费VPN，影视 等… <sub>`Free`</sub> |
+| [曹老板白嫖分享社](https://tgbox.cc/en/detail/clbfxs/) | 79.5K | Resources / Business / Web gain / Knowledge / Courses / Software / Web lessons / Tools /… <sub>`Free`</sub> |
 | [Notification Sounds](https://tgbox.cc/en/detail/customnotificationsounds/) | 75.7K | <sub>`Free` `Official`</sub> |
 | [极客分享](https://tgbox.cc/en/detail/geekshare/) | 65.6K | Focus on sharing a variety of high-quality websites, tools, apps, open-source projects,… <sub>`Free` `Open Source`</sub> |
 | [好软分享](https://tgbox.cc/en/detail/haoruanfenxiang/) | 64.3K | Main channel: @haoruanfenxiang Share: @haoruanfenxianglist Share:… <sub>`Free`</sub> |
 | [飞鱼资源分享\|冲浪指南\|软件工具](https://tgbox.cc/en/detail/feiyu123/) | 64.1K | Share some tools, software, browser plug-in scripts, websites, songs, Internet-related… <sub>`Free`</sub> |
-| [链接收藏](https://tgbox.cc/en/detail/ldlist/) | 41.8K | Link Collection Website Navigation Commentary Rules, including and not limited to 1,… |
+| [链接收藏](https://tgbox.cc/en/detail/ldlist/) | 41.7K | Link Collection Website Navigation Commentary Rules, including and not limited to 1,… |
 | [LIHAI 分享](https://tgbox.cc/en/detail/lihaiba/) | 39.2K | A shared channel, in the channel first look at the top, from time to time unquantitative… |
 | [Zapro Notice](https://tgbox.cc/en/detail/zaproshare/) | 28.8K | Welcome to the discussion group: https://t.me/zaprobest <sub>`Free`</sub> |
 | [优质信息收藏夹](https://tgbox.cc/en/detail/chunse1024/) | 27.7K | Share high-quality content/information/software/plugins/websites, etc. Share fun, useful… |
-| [Odyssey+](https://tgbox.cc/en/detail/odysseyplus/) | 24.8K | Eating guide:https://odysseyplus.notion.site Resource push:t.me/odysseyfeed Channel… |
+| [Odyssey+](https://tgbox.cc/en/detail/odysseyplus/) | 24.7K | Eating guide:https://odysseyplus.notion.site Resource push:t.me/odysseyfeed Channel… |
 | [好软分享·资源频道](https://tgbox.cc/en/detail/haoruanfenxiangresources/) | 23.6K | Main channel: @haoruanfenxiang Share: @haoruanfenxianglist Share:… <sub>`Free`</sub> |
 | [书墨资源](https://tgbox.cc/en/detail/shumozy/) | 21.5K | Inkscape resources, learning materials, various software, life encyclopedia, taste of the… |
 | [优质「资源」收藏夹](https://tgbox.cc/en/detail/meiriyishu/) | 14.6K | Collect high-quality data to help you access quality resources. |
@@ -427,10 +427,10 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [那些好看的Tg主题](https://tgbox.cc/en/detail/beautifultgtheme/) | 13K | 分享一些好看的Telegram主题 大部分是Android,官方 如果你需要TgX、IOS、或PC桌面版的主题，请联系我，我尽量做… <sub>`Design`</sub> |
 | [拾趣](https://tgbox.cc/en/detail/peekfun/) | 12.8K | Share something interesting and useful. |
-| [创柯情报局](https://tgbox.cc/en/detail/bpjjjj/) | 11K | 本频道分享软件资源，时事热点，网赚项目。这里是个大杂烩，什么都分享\~\~\~ 广告合作&任何反馈&讨论组误封 @chuangke66 <sub>`Cloud Drive` `Freebies` `Open Source`</sub> |
+| [创柯情报局](https://tgbox.cc/en/detail/bpjjjj/) | 11.1K | 本频道分享软件资源，时事热点，网赚项目。这里是个大杂烩，什么都分享\~\~\~ 广告合作&任何反馈&讨论组误封 @chuangke66 <sub>`Cloud Drive` `Freebies` `Open Source`</sub> |
+| [7i の 科技软件·工具·资源分享](https://tgbox.cc/en/detail/sse7i/) | 7.6K | 发现实用工具，探索科技 分享优质软件、AI 应用、效率工具、精选网站与数字资源，涵盖办公学习、设计创作、日常使用等场景，也分享科技动态、使用教程与实用技巧。… <sub>`Android` `Cloud Drive` `Free`</sub> |
 | [🔍此岸情报局🔎](https://tgbox.cc/en/detail/justreformation/) | 7.6K | Resource Intelligence Updates Panel! Woolf, Likes, Chat, VIP, Software, Apple, Taobao,… <sub>`Free`</sub> |
 | [鲲的碎碎念](https://tgbox.cc/en/detail/atashare/) | 7.5K | Share useful, massive network resources and information. @YuanShen ATA Bots @atabots 🎉… |
-| [7i の 科技软件·工具·资源分享](https://tgbox.cc/en/detail/sse7i/) | 6.9K | 发现实用工具，探索科技 分享优质软件、AI 应用、效率工具、精选网站与数字资源，涵盖办公学习、设计创作、日常使用等场景，也分享科技动态、使用教程与实用技巧。… <sub>`Android` `Cloud Drive` `Free`</sub> |
 | [米哈的 Telegram 工具箱](https://tgbox.cc/en/detail/tgbotdevelopment/) | 4.9K | Telegram Tools/Bots Support/News Channel ID: -1002097234024 Chat link:… <sub>`Open Source`</sub> |
 | [Odyssey+ Feed](https://tgbox.cc/en/detail/odysseyfeed/) | 4.7K | Odyssey+ 资源推送频道 |
 | [好软分享·列表频道](https://tgbox.cc/en/detail/haoruanfenxianglist/) | 4.5K | HTTPS://t.me/haoruanfenxianglist/6 ⭐️ HTTPS://t.me/haoruanfenxianglist/6 ⭐️… <sub>`Free`</sub> |
@@ -438,8 +438,8 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Ai短剧\|漫剧\|二创\|剪辑\|技能\|工作流](https://tgbox.cc/en/detail/ohkli92297/) | 1.9K | Ai短剧\|漫剧\|二创\|剪辑\|技能\|工作流，网赚副业资料持续归档，每天更新最新赚钱项目教程，知行副业网 5 年积累，25000 + 项目任选 <sub>`AI Agents` `AI Coding` `AI Video`</sub> |
 | [资源笔记](https://tgbox.cc/en/detail/tieliu/) | 1.2K | Subscribe to @piracy6 <sub>`Free`</sub> |
 | [即梦\|可灵\|AI数字人\|AI办公\|RPA\|教程](https://tgbox.cc/en/detail/kdgvm91780/) | 1K | 🎁 https://ttt.tg/@kdgvm91780/gift . 即梦,可灵,AI数字人,AI办公,RPA,教程,AI教程课程，持续更新 <sub>`Cloud Drive` `E-books` `Finance`</sub> |
-| [素材库｜电报素材｜日常素材｜素材大师](https://tgbox.cc/en/detail/sucaidashi/) | 339 | Collect all-only materials! Common and unusual materials! We only collect non-originals!… <sub>`Design`</sub> |
-| [bdpd8](https://tgbox.cc/en/detail/bdpd8/) | 15 | <sub>`Free`</sub> |
+| [素材库｜电报素材｜日常素材｜素材大师](https://tgbox.cc/en/detail/sucaidashi/) | 341 | Collect all-only materials! Common and unusual materials! We only collect non-originals!… <sub>`Design`</sub> |
+| [bdpd8](https://tgbox.cc/en/detail/bdpd8/) | 16 | <sub>`Free`</sub> |
 
 </details>
 
@@ -451,7 +451,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Subscribers | About |
 | --- | ---: | --- |
-| [Pavel Durov](https://tgbox.cc/en/detail/durov/) ✔️ | 10.1M | Founder of Telegram. <sub>`Official`</sub> |
+| [Pavel Durov](https://tgbox.cc/en/detail/durov/) ✔️ | 10M | Founder of Telegram. <sub>`Official`</sub> |
 | [即刻精选](https://tgbox.cc/en/detail/jike_collection/) | 35.9K | X:x.com/jike\_collection Created by @i5tar No ads |
 | [秋风のとおり道](https://tgbox.cc/en/detail/awavenue/) | 26.1K | A year-on-year fall of the Chase channel meet, observe, think, learn, perceive.… |
 | [不靠谱的喵(\>^ω^\<) \#CatGPT](https://tgbox.cc/en/detail/mlgmxyysd_bibilailai/) | 22.5K | This channel is not a professional media and cannot fully guarantee the timeliness and… |
@@ -479,7 +479,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Milkice's 生而喵喵](https://tgbox.cc/en/detail/milkice_portal/) | 3.4K | @milkice personal channel audio tour / technology / daily try not to forward news from… |
 | [鸥 Billchan 鸥 🍟 大薯 \| 去码头整点薯条](https://tgbox.cc/en/detail/billchenla/) | 3.2K | Gugugu Peing https://peing.net/zh-CN/billchenchina Lyrics https://space.bilibili.com/76856… |
 | [K4YT3X's Channel](https://tgbox.cc/en/detail/k3yt4x/) | 2.4K | @k4yt3x's personal channel All comments will burn themselves in three months |
-| [Betcore](https://tgbox.cc/en/detail/betcoretips/) | 2.3K | Betcore \#1 Sports Betting Tips & Football Predictions. Daily Free Accumulators, Live Odds… |
+| [Betcore](https://tgbox.cc/en/detail/betcoretips/) | 2.2K | Betcore \#1 Sports Betting Tips & Football Predictions. Daily Free Accumulators, Live Odds… |
 | [Cat Ch.](https://tgbox.cc/en/detail/usr_bin_cat/) | 2.2K | Unreasonable Unobjective Unneutral Think about what to write, soap. This channel contains… |
 | [Andy's Blog](https://tgbox.cc/en/detail/andy_zhang_blog/) | 244 | 日记\|随笔\|杂谈\|社论\|碎碎念 <sub>`Open Source` `Programming` `Science`</sub> |
 
@@ -497,7 +497,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Hiddify](https://tgbox.cc/en/detail/hiddify/) | 118.9K | Hiddify, Internet Freedom Solution Supporting: 🎯 xHTTP 🎯 HTTPUpgrade 🎯 Shadowsocks 2022 🎯… <sub>`Official` `Open Source`</sub> |
 | [前女友们用过的机场—始于机场，不止机场](https://tgbox.cc/en/detail/gebaopicloud/) | 101.5K | Post: exairport2022@gmail.com airport main post please do the following format airport… |
 | [Clash Verge Rev Channel](https://tgbox.cc/en/detail/clash_verge_re/) | 85.8K | Clash Verge Rev official announcement channel <sub>`Official` `Open Source`</sub> |
-| [Surge & Loon & QX 脚本收集](https://tgbox.cc/en/detail/nobyda/) | 64.4K | Group discussion: @NobyDa\_Chat script feedback: @NobyDa\_bot Collaboration Contact:… <sub>`iOS`</sub> |
+| [Surge & Loon & QX 脚本收集](https://tgbox.cc/en/detail/nobyda/) | 64.6K | Group discussion: @NobyDa\_Chat script feedback: @NobyDa\_bot Collaboration Contact:… <sub>`iOS`</sub> |
 | [FlClash Channel](https://tgbox.cc/en/detail/flclash/) | 54.3K | The official channel of the FlClash github: https://github.com/chen08209/FlClash group:… <sub>`Official` `Open Source`</sub> |
 | [Shadowrocket News](https://tgbox.cc/en/detail/shadowrocketnews/) | 47.3K | Shadowrocket 只有iOS/iPadOS/tvOS 版本. 讨论群组: @ShadowrocketApp App Store下载链接:… <sub>`iOS`</sub> |
 | [Quantumult X News](https://tgbox.cc/en/detail/quanxnews/) | 40.4K | 此频道用于发布 Quantumult、Quantumult X相关资讯 下载: https://apps.apple.com/us/app/quantumult-x/id14439… <sub>`iOS`</sub> |
@@ -531,14 +531,14 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Subscribers | About |
 | --- | ---: | --- |
-| [\[合租通知\] Netflix\|YouTube\|Spotify\|office365…](https://tgbox.cc/en/detail/hezu2/) | 100.1K | Likes, Street Shots, Software, Apple, EXE, Novels, Funny, Resources, Video, Chinese,… <sub>`Freebies`</sub> |
+| [\[合租通知\] Netflix\|YouTube\|Spotify\|office365…](https://tgbox.cc/en/detail/hezu2/) | 100K | Likes, Street Shots, Software, Apple, EXE, Novels, Funny, Resources, Video, Chinese,… <sub>`Freebies`</sub> |
 | [🎏「 彼岸情报🔎！」🎏薅羊毛情报（网站/资源/软件/限免APP）见闻社](https://tgbox.cc/en/detail/baccanosoul/) | 26K | Advertising / Promotion / Collaboration: @BunnyJump\_Bot All-Platform App Limited /… <sub>`Freebies`</sub> |
 | [你有一个打折需要了解](https://tgbox.cc/en/detail/steamny/) | 16.3K | 可知： + 24 小时制（GMT/UTC+8）（0:00 - 23:59） + 含义 ᵀ 频道内跳转 ᙆ 副频道跳转 + 遵循格式 + 链接（尽量源头） + 浏览以 PC 端为佳… <sub>`Freebies`</sub> |
 | [频道🥇福利资源 \| 薅羊毛·省钱中心🅥](https://tgbox.cc/en/detail/pojieapp/) | 13.5K | Shared ID Exclusive ID Conversion Code @yangwangshop Channel Master Great Sheep King… <sub>`Freebies`</sub> |
 | [NewMobileLife](https://tgbox.cc/en/detail/newmobilelife/) | 12.6K | Time-limited free information, Apple news, new technology and practical tricks <sub>`iOS`</sub> |
 | [ App Store 限免应用 & ...](https://tgbox.cc/en/detail/ooapps/) | 12.1K |  Limited-Time Free https://oodata.net <sub>`Free` `iOS`</sub> |
 | [搬瓦工补货推送](https://tgbox.cc/en/detail/bandwagonhostnews/) | 11.7K | BandwagonHost supplier information and important information. Welcome to BandwagonHost:… <sub>`Hosting & VPS`</sub> |
-| [灵车漂移](https://tgbox.cc/en/detail/hearse_drifting/) | 10.8K | Regularly recommending DJI products (including but not limited to consumer electronics)… <sub>`Gadgets`</sub> |
+| [灵车漂移](https://tgbox.cc/en/detail/hearse_drifting/) | 10.9K | Regularly recommending DJI products (including but not limited to consumer electronics)… <sub>`Gadgets`</sub> |
 | [限時免費 LimitFree](https://tgbox.cc/en/detail/limitfree/) | 6.3K | 可依照以下 Hashtag 搜尋您要的系統喔! \#iOS, \#Mac, \#Win, \#Android, \#Origin, \#UPlay, \#Steam \#Rockstar… <sub>`Freebies` `iOS`</sub> |
 | [LIHAI买买买&收藏夹](https://tgbox.cc/en/detail/lihai/) | 5.4K | Source: forum, news, channel lihai sharing group: @lihaiba |
 | [免費資源網](https://tgbox.cc/en/detail/free_group/) | 5.3K | https://free.com.tw/ 免費資源網成立於 2006 年，累積超過 7000 篇免費軟體、App 與線上工具等七大主題的圖文教學與心得，專注分享實用且值得信賴的免費… <sub>`Freebies`</sub> |
@@ -554,7 +554,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [HStore号士多的公告板🪧](https://tgbox.cc/en/detail/buy2m/) | 1.7K | 👋 这里是HStore 号士多官方频道 🤩 我们在此发布商店更新、商品更新、活动。 🌍 网站在这：https://storeacc.com 🤖… <sub>`ChatGPT` `Official` `TON`</sub> |
 | [HStore号士多的公告板🪧](https://tgbox.cc/en/detail/hstore/) | 1.7K | 👋 这里是HStore 号士多官方频道 🤩 我们在此发布商店更新、商品更新、活动。 🌍 网站在这：https://storeacc.com 🤖… <sub>`ChatGPT` `Freebies` `Official`</sub> |
-| [胖哥号铺](https://tgbox.cc/en/detail/buypgid/) | 5 | 网站: pgidbuy.com <sub>`AI Agents` `AI Coding` `iOS`</sub> |
+| [胖哥号铺](https://tgbox.cc/en/detail/buypgid/) | 6 | 网站: pgidbuy.com <sub>`AI Agents` `AI Coding` `iOS`</sub> |
 
 </details>
 
@@ -576,9 +576,9 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [ChatGPT 精选](https://tgbox.cc/en/detail/awesomechatgpt/) | 15.2K | Selected ChatGPT Resources <sub>`ChatGPT`</sub> |
 | [Roller \| Agent Swarms 中文社区](https://tgbox.cc/en/detail/rollerrolling/) | 8.5K | Interesting AI technology diaries Group: t.me/+XThkfMjY1bRiYTVh Written by @bnl5110 and… <sub>`ChatGPT`</sub> |
 | [Hermes爱马仕&🦞OpenClaw小龙虾](https://tgbox.cc/en/detail/openclaw1024/) | 7.1K | Share the latest games, tricks, experiences, opinions, etc. with Hermes & OpenClaw.2026's… <sub>`AI Agents`</sub> |
-| [动察Beating AI News](https://tgbox.cc/en/detail/onemillion_ai/) | 4.2K | AI新闻信息流 |
+| [动察Beating AI News](https://tgbox.cc/en/detail/onemillion_ai/) | 4.3K | AI新闻信息流 |
 | [PriceAI 通知频道](https://tgbox.cc/en/detail/priceaicc2/) | 435 | This channel mainly releases: 1, platform function updates. 2, new channels, new… <sub>`API Relay`</sub> |
-| [AI 工具情报局](https://tgbox.cc/en/detail/aigongjuqbj/) | 359 | Use AI for specific tasks: organizing data, processing documents, creating content and… <sub>`AI Agents`</sub> |
+| [AI 工具情报局](https://tgbox.cc/en/detail/aigongjuqbj/) | 365 | Use AI for specific tasks: organizing data, processing documents, creating content and… <sub>`AI Agents`</sub> |
 | [AI Got Weird](https://tgbox.cc/en/detail/shipaibrief/) | 4 | Strange AI breakthroughs, useful tools and spectacular failures - explained in a minute.… |
 | [a\_znkv](https://tgbox.cc/en/detail/a_znkv/) | 1 | <sub>`AI Agents` `AI Coding` `AI Video`</sub> |
 
@@ -593,18 +593,18 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [每日沙雕墙](https://tgbox.cc/en/detail/woshadiao/) | 114.5K | Sorry to say, you are all here: @shadiaoooooo Post Robot: @tougaotest\_bot Unchecked text:… <sub>`Memes`</sub> |
 | [树洞🌳群友问❓有点意思🗳](https://tgbox.cc/en/detail/qunyouwen/) | 89.1K | Discover all kinds of pleasures and ask questions as long as there are questions for the… |
 | [树洞🌳群友问❓有点意思🗳](https://tgbox.cc/en/detail/shortcutscn/) | 88.7K | Discover all kinds of pleasures and ask questions as long as there are questions for the… |
-| [简中互联网废物大赏](https://tgbox.cc/en/detail/fucku_idiot/) | 41.7K | This channel is a purely interest-driven non-profit channel, does not accept any… <sub>`Memes`</sub> |
+| [简中互联网废物大赏](https://tgbox.cc/en/detail/fucku_idiot/) | 41.8K | This channel is a purely interest-driven non-profit channel, does not accept any… <sub>`Memes`</sub> |
 | [平壤卫视](https://tgbox.cc/en/detail/pingrangtv/) | 29.4K | News hotspots Interesting news Sandscape Dynamics Cat Cat Dog Chat Groups: @Orz\_zayu… <sub>`Memes`</sub> |
 | [每天趣事](https://tgbox.cc/en/detail/meitian/) | 28.7K | The content of this channel: A variety of sand-cold jokes, joke and curiosities. Record… |
 | [如何与沙雕相处](https://tgbox.cc/en/detail/ruheyushadiaoxiangchu/) | 28.4K | 🤖投稿Bot： 直接给频道发信息即可投稿 👥友链： - 心惊报 @xinjingdaily - Rosmontis's Daily🔅 @Rosmontis\_Daily <sub>`Memes`</sub> |
 | [煎蛋无聊图](https://tgbox.cc/en/detail/jandan_pic/) | 25.3K | Automatically scratch the baking egg home recommended boredom charts and their comments… <sub>`Memes`</sub> |
 | [上班划水之无聊图](https://tgbox.cc/en/detail/goworkbitch/) | 25.3K | Note: This channel discussion group is only used as a comment zone, does not accept… <sub>`Memes`</sub> |
-| [每日无数猫](https://tgbox.cc/en/detail/miaowu/) | 20K | 投稿请发至投稿机器人 @miaowu\_submission\_bot 有问题请戳管理 @pikameow @HCT\_Nekobot 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ… |
+| [每日无数猫](https://tgbox.cc/en/detail/miaowu/) | 19.9K | 投稿请发至投稿机器人 @miaowu\_submission\_bot 有问题请戳管理 @pikameow @HCT\_Nekobot 让我们打造一个全是猫的世界！ฅ^•ﻌ•^ฅ… |
 | [Foolish TraceWind](https://tgbox.cc/en/detail/foolishtracewind/) | 16.7K | 本频道创立于2018年8月12日\~ 致力于更新优质有趣的沙雕图，偶尔会发点别的杂七杂八，包含极微量 NSFW 内容。 大多有水印，部分会单独标注来源。 投稿请… <sub>`Memes`</sub> |
 | [🐾 可爱の收藏 cute collection](https://tgbox.cc/en/detail/kawaii_collection/) | 6.7K | Dedicated to spreading happiness Share some fun, charming and cute things with NSFW sand… |
 | [每日無數汪](https://tgbox.cc/en/detail/wushuwang/) | 2.1K | 全是汪星人的世界 投稿请聯繫 @pikameow @marogatari @SaltedFishSH @HCT\_Nekobot 每日無數喵 @miaowu 不接广告 |
 | [热心小宅男](https://tgbox.cc/en/detail/oyn4uj6viui8pni/) | 557 | 一个有趣的人，一个实用的频道。 <sub>`Daily Digest`</sub> |
-| [饭后乐哈哈](https://tgbox.cc/en/detail/zng7qbrh9uaes6/) | 508 | 主业发呆，副业搞笑，偶尔正常发挥。关注我，收获一个不太正经的朋友 <sub>`Free`</sub> |
+| [饭后乐哈哈](https://tgbox.cc/en/detail/zng7qbrh9uaes6/) | 534 | 主业发呆，副业搞笑，偶尔正常发挥。关注我，收获一个不太正经的朋友 <sub>`Free`</sub> |
 
 [All fun on TGbox →](https://tgbox.cc/en/channel/fun/)
 
@@ -616,10 +616,10 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [Android Themes Channel](https://tgbox.cc/en/detail/androidthemes/) ✔️ | 275.7K | Android Themes for all! If you'd like to see your Android theme featured here or learn… <sub>`Android` `Design` `Official`</sub> |
 | [Desktop Themes Channel](https://tgbox.cc/en/detail/themes/) ✔️ | 119.3K | Desktop Themes for all! If you'd like to see your Desktop theme featured here or learn… <sub>`Design` `Official` `Windows`</sub> |
-| [PIXIV站每日 Top50搬运\|动漫\|ACG\|二次元\|每日精选图片\|動漫\|P站](https://tgbox.cc/en/detail/pixiv_top50/) | 91.8K | Shipping PIXIV daily comprehensive ranking top 50 images resources, updated from time to… <sub>`Anime`</sub> |
+| [PIXIV站每日 Top50搬运\|动漫\|ACG\|二次元\|每日精选图片\|動漫\|P站](https://tgbox.cc/en/detail/pixiv_top50/) | 91.9K | Shipping PIXIV daily comprehensive ranking top 50 images resources, updated from time to… <sub>`Anime`</sub> |
+| [🧸心情文案吧｜素材｜壁纸｜头像](https://tgbox.cc/en/detail/wenanba/) | 61.1K | 🌸心心念念是旧人🌸 🌸笔笔写下是旧情🌸 每日更新，你的关注，是我最大的动力！ 💎商务合作： @Gujiajia\_bot （顾佳佳） 多一个字少一个字都是骗子哦～ |
 | [🧸心情文案吧｜素材｜壁纸｜头像](https://tgbox.cc/en/detail/sucai939/) | 61.1K | Mindfulness is the old man Pen written is the old story Daily update, your attention, my… |
-| [🧸心情文案吧｜素材｜壁纸｜头像](https://tgbox.cc/en/detail/wenanba/) | 61K | 🌸心心念念是旧人🌸 🌸笔笔写下是旧情🌸 每日更新，你的关注，是我最大的动力！ 💎商务合作： @Gujiajia\_bot （顾佳佳） 多一个字少一个字都是骗子哦～ |
-| [公诸同好 \| 二次元美图分享 🅥](https://tgbox.cc/en/detail/gongzhutonghao/) | 39K | High-quality animated & secondary (secondary) & illustrated work sharing discussion group… <sub>`Anime`</sub> |
+| [公诸同好 \| 二次元美图分享 🅥](https://tgbox.cc/en/detail/gongzhutonghao/) | 39.1K | High-quality animated & secondary (secondary) & illustrated work sharing discussion group… <sub>`Anime`</sub> |
 | [SomeACG \| 每日少女壁纸 🌾](https://tgbox.cc/en/detail/someacg/) | 37.6K | Please come a wallpaper today? here is the highest quality ACG wallpaper channel all TG!… <sub>`Anime`</sub> |
 | [绝对萌域](https://tgbox.cc/en/detail/moeisland/) | 21.6K | O❤️O may be repeated Try to be the latest snapshot Discovered AI maps will be tagged New… <sub>`Anime`</sub> |
 | [國家地理雜誌 中文版](https://tgbox.cc/en/detail/natgeomedia/) | 14.9K | Hi explorers, explore the world with national geography! official website of National… <sub>`Photography` `Science`</sub> |
@@ -627,7 +627,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Cyunreiの插画收藏夹](https://tgbox.cc/en/detail/cyunreicollection/) | 8K | <sub>`Anime` `Design`</sub> |
 | [🖼ANIME Wallpaper](https://tgbox.cc/en/detail/acgwallpaper/) | 6.1K | 壁纸 Wallpaper 每天更新一次 Update daily 其他频道 Other channels： @bravo\_hentai @nskjdnfnfnj… <sub>`Anime`</sub> |
 | [疗愈小屋 二周目🍡](https://tgbox.cc/en/detail/sweetmoepic/) | 2.5K | Study work hard a day! it will be lovely healing to the sand sculpting content, pure… <sub>`Anime`</sub> |
-| [素材集市](https://tgbox.cc/en/detail/mwttuh0uzca/) | 512 | 分享全球美图美景，新鲜事～ <sub>`Android` `Free` `iOS`</sub> |
+| [素材集市](https://tgbox.cc/en/detail/mwttuh0uzca/) | 538 | 分享全球美图美景，新鲜事～ <sub>`Android` `Free` `iOS`</sub> |
 | [明星写真 偶像画册](https://tgbox.cc/en/detail/mxxzovo/) | 320 | 内容来自互联网，仅供学习、交流或非商业用途。如有侵权，请联系我们，我们将及时处理。 Some content is sourced from the internet and… <sub>`E-books` `Free` `Movies`</sub> |
 
 [All wallpapers & images on TGbox →](https://tgbox.cc/en/channel/wallpaper/)
@@ -641,7 +641,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [电子书/听书/期刊/课程资源](https://tgbox.cc/en/detail/sharebooks4you/) | 134.6K | Business @msgmenow\_bot Search @sharing\_books4u Navigation https://t.me/sharebooks4you/7 <sub>`E-books`</sub> |
 | [Legado｜开源阅读｜频道](https://tgbox.cc/en/detail/legado_channels/) | 93.2K | You can post newspapers on your channel, read APKs, book sources, subject fonts, and some… <sub>`Android` `E-books` `Open Source`</sub> |
 | [小声读书 🙈](https://tgbox.cc/en/detail/weekly_books/) | 38.3K | In the noisy wave of AI, we choose to go back to the simplest logic of growth: by reading… <sub>`E-books`</sub> |
-| [日更100 刺猬猫菠萝包起点飞卢小说有声书txt分享](https://tgbox.cc/en/detail/xkjdz55/) | 25.5K | Resources come from the net, infringement will find me deleted <sub>`E-books`</sub> |
+| [日更100 刺猬猫菠萝包起点飞卢小说有声书txt分享](https://tgbox.cc/en/detail/xkjdz55/) | 25.7K | Resources come from the net, infringement will find me deleted <sub>`E-books`</sub> |
 | [Lemaned的宝藏书屋（轻小说书库）](https://tgbox.cc/en/detail/lemaned1314/) | 19.6K | Share some interesting little novels. <sub>`Anime` `E-books`</sub> |
 | [☁️云上报刊亭📰 \[精选\] 🅥 -- 新闻，报纸，杂志，电子书，资料 PDF](https://tgbox.cc/en/detail/magazinesclubnew/) | 18.6K | News, newspapers, magazines, e-books, information PDF magazine channel @newspaperdigest <sub>`E-books`</sub> |
 | [Λ-Reading ♡](https://tgbox.cc/en/detail/goreading/) | 15.2K | The main content of this channel is: 1. book and reading \# book extracts \# book… <sub>`E-books`</sub> |
@@ -665,7 +665,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [NS新闻转报](https://tgbox.cc/en/detail/switchnewcn/) | 7.4K | For official information see http://www.nintendo.com.hk/https://www.nintendo.com.hk/switch… |
 | [VNKC Public Channel](https://tgbox.cc/en/detail/visualgalgame/) | 7K | Visual Novel Kenkyu Club Group: https://t.me/+vIoZMjanZfYzNTc9 Resource channel:… <sub>`Anime`</sub> |
 | [追尾游戏热点](https://tgbox.cc/en/detail/vwyxrd/) | 4.3K | 能聊与玩游戏真是太好了！ 发一发喜欢得消息，游戏为主，其余分享！ 也要有时间发空，远望宇宙。 发与分享喜欢，知与游玩游戏。 聊与分享折扣，追尾游戏热点。 + 群组… |
-| [Ingress 中文](https://tgbox.cc/en/detail/ingresschinese/) | 3.8K | The world is not as you see it. |
+| [Ingress 中文](https://tgbox.cc/en/detail/ingresschinese/) | 3.9K | The world is not as you see it. |
 | [PlayStation 新闻转发](https://tgbox.cc/en/detail/playstationnewssss/) | 3.2K | Playstation XXXX: Play Has No Limits |
 
 [All games on TGbox →](https://tgbox.cc/en/channel/games/)
@@ -701,7 +701,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [浮生东京](https://tgbox.cc/en/detail/lifejapan/) | 7.4K | Discuss group @JapanChats Business collaboration @appdo\_bot Sometimes you talk about… |
 | [每日摄影观察](https://tgbox.cc/en/detail/cnphotog_collect/) | 6.8K | A non-serious photography channel group: @cnphotog <sub>`Photography`</sub> |
 | [树洞](https://tgbox.cc/en/detail/atreehole/) | 5.1K | The tree hole is a place to share secrets and narratives anonymously. You can share your… |
-| [日常吃个瓜](https://tgbox.cc/en/detail/dvw4twss9ggnbh/) | 528 | 分享日常大小事，时事更新～ <sub>`Daily Digest`</sub> |
+| [日常吃个瓜](https://tgbox.cc/en/detail/dvw4twss9ggnbh/) | 527 | 分享日常大小事，时事更新～ <sub>`Daily Digest`</sub> |
 
 [All life & living on TGbox →](https://tgbox.cc/en/channel/life/)
 
@@ -797,14 +797,14 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Members | About |
 | --- | ---: | --- |
 | [BDD@Tech](https://tgbox.cc/en/detail/bigdongdonggroup/) | 39.3K | Banned any political content & NSFW content & attacks insulting others will be… |
-| [Telegram Bot Talk](https://tgbox.cc/en/detail/bottalk/) | 26.8K | Welcome to Bot Talk! 😌 Be nice 🗣 Please use English so everyone can participate 🤖 Keep… <sub>`Official` `Programming`</sub> |
+| [Telegram Bot Talk](https://tgbox.cc/en/detail/bottalk/) | 26.9K | Welcome to Bot Talk! 😌 Be nice 🗣 Please use English so everyone can participate 🤖 Keep… <sub>`Official` `Programming`</sub> |
 | [折腾啥](https://tgbox.cc/en/detail/zhetengsha_group/) | 22.8K | Power Users/Automators toss/discuss/share various open-source tools/scripts/automated… <sub>`Open Source`</sub> |
 | [Python 中文交流群](https://tgbox.cc/en/detail/pythonzh/) | 22.1K | Joining means agreeing to comply with: 1. Strictly prohibited: advertising/recruitment,… <sub>`Programming`</sub> |
 | [V2EX 交流群](https://tgbox.cc/en/detail/v2expro/) | 18.9K | 【进群看群置顶】AI、程序员、分享创造、问与答、网络、生活 <sub>`Programming`</sub> |
 | [RouterGroup\|软路由\|硬路由\|外贸电视](https://tgbox.cc/en/detail/ruanlu/) | 17.6K | Channel: https://t.me/routergroup Top: https://t.me/ruanlu/6608 |
 | [Data Science,ML & AI Nugget Chats](https://tgbox.cc/en/detail/datasciencechats/) | 13.1K | Discussion community for DS, ML, IOT, AI, DEEP LEARNING and much more from Main Channel… <sub>`Programming`</sub> |
 | [RSSHub - Everything is RSSible](https://tgbox.cc/en/detail/rsshub/) | 12.4K | Channel: @awesomeRSSHub Repo: https://github.com/DIYgod/RSSHub Docs:… <sub>`Open Source`</sub> |
-| [Telegram Contests](https://tgbox.cc/en/detail/contests/) ✔️ | 11.6K | This group is intended for discussions of coding and design competitions held by… <sub>`Official` `Programming`</sub> |
+| [Telegram Contests](https://tgbox.cc/en/detail/contests/) ✔️ | 11.7K | This group is intended for discussions of coding and design competitions held by… <sub>`Official` `Programming`</sub> |
 | [Synology/黑群晖用户群](https://tgbox.cc/en/detail/nasfan/) | 11.3K | 更多教程请访问论坛 https://www.openos.org <sub>`Linux`</sub> |
 | [Docker](https://tgbox.cc/en/detail/dockertutorial/) | 8.7K | Docker 学习\|交流\|分享 Docker \| Moby \| Docker Compose \| Docker Swarm \| Kubernetes (k8s)\| Go… <sub>`Linux`</sub> |
 | [Java 编程语言](https://tgbox.cc/en/detail/javaer/) | 8.7K | Java is an object-oriented programming language, not the JAV group (SFW)… <sub>`Programming`</sub> |
@@ -817,11 +817,11 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
+| [python 自学交流](https://tgbox.cc/en/detail/p_y_t_h_o_n/) | 7.2K | Learning, sharing and growing <sub>`Programming`</sub> |
 | [\#archlinux-cn](https://tgbox.cc/en/detail/archlinuxcn_group/) | 7.1K | The news channel @archlinuxcn needs to be checked before you join the group, and you can… <sub>`Linux` `Open Source`</sub> |
-| [python 自学交流](https://tgbox.cc/en/detail/p_y_t_h_o_n/) | 7.1K | Learning, sharing and growing <sub>`Programming`</sub> |
 | [Dart / Flutter](https://tgbox.cc/en/detail/dartlang_group/) | 6K | <sub>`Programming`</sub> |
 | [Go](https://tgbox.cc/en/detail/golangcn/) | 5.2K | Please consciously comply with the speech regulations https://telegra.ph/GolangCN-001-Draf… <sub>`Programming`</sub> |
-| [Ubuntu 中文](https://tgbox.cc/en/detail/ubuntuzh/) | 4.6K | Ubuntu Chinese Communications Group Language: Chinese (Simplified and Traditional)… <sub>`Linux`</sub> |
+| [Ubuntu 中文](https://tgbox.cc/en/detail/ubuntuzh/) | 4.5K | Ubuntu Chinese Communications Group Language: Chinese (Simplified and Traditional)… <sub>`Linux`</sub> |
 | [Kali / BlackArch Linux 中文交流](https://tgbox.cc/en/detail/hackerzh/) | 4.4K | Every day, we change the world. The group promotes meaningful speech, sharing valuable… <sub>`Linux` `Security`</sub> |
 | [Coder Offtopic 中文群](https://tgbox.cc/en/detail/coder_ot/) | 4.4K | In this group, you can even discuss programming about this group please carefully read… <sub>`Programming`</sub> |
 | [GNU/Linux](https://tgbox.cc/en/detail/linux_group/) | 3.5K | Rules are pinned. Read them. Ping for issues: — @watzon — @mazunki Avatar source:… <sub>`Linux`</sub> |
@@ -838,8 +838,8 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Kubernetes CN](https://tgbox.cc/en/detail/kubernetes_cn/) | 1.5K | Kubernetes Chinese community Technical landing practices and communication platform Group… <sub>`Linux` `Open Source`</sub> |
 | [DevOps CN](https://tgbox.cc/en/detail/devops_cn/) | 1.3K | A serious technical communication group In this group, you can even discuss programming… <sub>`Programming`</sub> |
 | [\#archlinux-cn-appearance](https://tgbox.cc/en/detail/archlinuxcn_appearance/) | 942 | Welcome to Arch Linux CN Appearance Sharing Group, welcome to share discussions about… <sub>`Design` `Linux`</sub> |
-| [TONAPI Tech](https://tgbox.cc/en/detail/tonapitech/) | 838 | Ask anything related to TONAPI usage Links: tonapi.io • tonconsole.com •… <sub>`Programming` `TON`</sub> |
-| [Haskell 中文交流](https://tgbox.cc/en/detail/haskellzh/) | 576 | Haskell is a standardized, universal, pure function programming language with non-limited… <sub>`Programming`</sub> |
+| [TONAPI Tech](https://tgbox.cc/en/detail/tonapitech/) | 834 | Ask anything related to TONAPI usage Links: tonapi.io • tonconsole.com •… <sub>`Programming` `TON`</sub> |
+| [Haskell 中文交流](https://tgbox.cc/en/detail/haskellzh/) | 581 | Haskell is a standardized, universal, pure function programming language with non-limited… <sub>`Programming`</sub> |
 
 </details>
 
@@ -851,15 +851,15 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [Binance English](https://tgbox.cc/en/detail/binanceexchange/) ✔️ | 319.6K | Binance announcements: @binance\_announcements Other Languages: Please type /communities… <sub>`Exchanges`</sub> |
+| [Binance English](https://tgbox.cc/en/detail/binanceexchange/) ✔️ | 319.3K | Binance announcements: @binance\_announcements Other Languages: Please type /communities… <sub>`Exchanges`</sub> |
 | [币安官方中文群](https://tgbox.cc/en/detail/binancechinese/) ✔️ | 279.3K | Everything about yellow, black, gambling, gray, and politics will be kicked out Banned… <sub>`Exchanges`</sub> |
-| [Bitget海外华语社区](https://tgbox.cc/en/detail/bitget_cnofficial/) | 67.4K | Established in 2018, Bitget is the world’s leading cryptocurrency trading platform and… <sub>`Exchanges` `Official`</sub> |
+| [Bitget海外华语社区](https://tgbox.cc/en/detail/bitget_cnofficial/) | 67.3K | Established in 2018, Bitget is the world’s leading cryptocurrency trading platform and… <sub>`Exchanges` `Official`</sub> |
 | [CoinMarketCap English](https://tgbox.cc/en/detail/coinmarketcap/) ✔️ | 66.9K | Official CMC Telegram Channel: Updates, News, and Events - Ann/News Channel:… |
 | [Toncoin Chat](https://tgbox.cc/en/detail/toncoin_chat/) | 42.6K | TON = $1.65 @Toncoin channel chat. A community dedicated to TON discussions. Official… <sub>`TON`</sub> |
 | [Lookonchain](https://tgbox.cc/en/detail/lookonchain/) ✔️ | 36.7K | Please contact @lookonchainsupport if you have any questions. We will never DM you first!… <sub>`On-chain Data`</sub> |
 | [💎GMGN Degen Group - Official](https://tgbox.cc/en/detail/gmgnai/) | 23.5K | Discover MEME Trading in seconds 🚀 Follow Smart Money to earn!💰 DM @AleXX\_094 to collab -… <sub>`Quant Trading` `Solana`</sub> |
-| [币安API中文群](https://tgbox.cc/en/detail/binance_api_chinese/) | 19.9K | This group only discusses Bitcoin API and directly related program design topics. Do not… <sub>`Exchanges` `Official`</sub> |
-| [CoinGecko](https://tgbox.cc/en/detail/coingecko/) ✔️ | 19.4K | Official CoinGecko Telegram Group |
+| [币安API中文群](https://tgbox.cc/en/detail/binance_api_chinese/) | 20K | This group only discusses Bitcoin API and directly related program design topics. Do not… <sub>`Exchanges` `Official`</sub> |
+| [CoinGecko](https://tgbox.cc/en/detail/coingecko/) ✔️ | 19.3K | Official CoinGecko Telegram Group |
 | [BlockTempo 官方討論群 - 動區動趨，由社群而生的區塊鏈媒體](https://tgbox.cc/en/detail/blocktempo/) | 17.8K |  |
 | [TRON China 03](https://tgbox.cc/en/detail/tronnetworkcn03/) | 15.5K | ❤️ Welcome to the official Chinese community TRON: tron.network trondao.org official… <sub>`Official`</sub> |
 | [Gate.io的小伙伴們](https://tgbox.cc/en/detail/gate_io/) | 11.3K | Welcome! here is the official Chinese community for the opening of the gate.All about the… <sub>`Exchanges`</sub> |
@@ -878,7 +878,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Solidity Development](https://tgbox.cc/en/detail/dev_solidity/) | 5.7K | This chat is for Solidity developers. Wiki - @soliditypedia Jobs - @ethereum\_jobs\_market <sub>`Programming`</sub> |
 | [BITWU精选频道｜Bitwu Community](https://tgbox.cc/en/detail/bitewu/) | 5.4K | 该群为BITWU每日投研信息一览，主要用于每日优质信息推送，BITWU推特分析留存，为禁言群！ 聊天群入口：https://t.me/+3acx9zYevQE5NmQ1… |
 | [Biteye中文电报群](https://tgbox.cc/en/detail/biteyecn/) | 5.3K |  |
-| [金色财经交流群](https://tgbox.cc/en/detail/jinse2022/) | 4.2K | Gold Finance is a one-stop blockchain industry service platform that gathers industry… |
+| [金色财经交流群](https://tgbox.cc/en/detail/jinse2022/) | 4.3K | Gold Finance is a one-stop blockchain industry service platform that gathers industry… |
 | [币安\|欧易\| Bybit \| Bitget \|火币加密货币交流群](https://tgbox.cc/en/detail/jmhbgroup/) | 3.6K | Navigation station: www.0xnav.com Airborne channel:@tglukongtou Navigation… <sub>`Airdrops` `Exchanges`</sub> |
 | [MugglePay 麻瓜宝💰crypto only](https://tgbox.cc/en/detail/mugglepay/) | 2.4K | MugglePay EN: https://t.me/mugglepay\_en MuggleWallet: https://mugglewallet.com/ MugglePay… |
 | [加密货币与区块链讨论群](https://tgbox.cc/en/detail/onblockchain/) | 2.4K | Cryptocurrency and Blockchain Channels: https://t.me/knowBlockchain |
@@ -908,7 +908,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Appinn Talk 💧 小众软件](https://tgbox.cc/en/detail/appinn/) | 8.3K | Appinn.com This group link: https://t.me/appinn New news channel: https://t.me/appinnfeed… <sub>`Free`</sub> |
 | [Zapro · 2026](https://tgbox.cc/en/detail/zaprobest/) | 7.3K | Home / Blog / Blog / Blog / Blog / Blog / Blog / Blog / Blog / Blog / Blog / Blog / Blog… |
 | [Adblock🎃 群组 🅥 🌟🌈🌝🐳🍗🏳️‍🌈](https://tgbox.cc/en/detail/adblock4limbo/) | 6.7K | ✅ Go to the web advertising tutorial reference https://t.me/Adblock4limbo/21 Newcomers… |
-| [软件工具交流群](https://tgbox.cc/en/detail/widgettalk/) | 6.4K | Unblock @WidgetPlusBot Efficiency Tools, Software Review, Resource Sharing, Everything… |
+| [软件工具交流群](https://tgbox.cc/en/detail/widgettalk/) | 6.5K | Unblock @WidgetPlusBot Efficiency Tools, Software Review, Resource Sharing, Everything… |
 | [Legado Beta](https://tgbox.cc/en/detail/beta_legado/) | 6.2K | Beta Release Notification Channel: @Legado\_Beta Release Discussion Group: @Beta\_Legado <sub>`Android` `E-books` `Open Source`</sub> |
 | [小众 App 交流群](https://tgbox.cc/en/detail/appfoundgroup/) | 5.9K |  |
 | [APPDO 数字交流群](https://tgbox.cc/en/detail/appdododo/) | 4.5K | Post/Promoting/Channel Unlock: @appdo\_bot 🏻 Blog https://japan.typlog.io/ 📷 Emerging… |
@@ -921,11 +921,11 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [OctoGram \| Chat](https://tgbox.cc/en/detail/octogramchat/) | 3.5K | 🐙 Official channel: @OctoGramApp 📦 Stable releases: @OctoGramAPKs 🧪 Beta releases:… <sub>`Android` `Open Source`</sub> |
 | [AdGuard 【中文】](https://tgbox.cc/en/detail/adguard_chinese/) | 3.2K | WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB WEB… <sub>`Security`</sub> |
-| [极客分享の交流群](https://tgbox.cc/en/detail/igeekshare/) | 3.1K | Here is the great share channel @geekshare @xgeekshare group chat The group’s only main… |
+| [极客分享の交流群](https://tgbox.cc/en/detail/igeekshare/) | 3.2K | Here is the great share channel @geekshare @xgeekshare group chat The group’s only main… |
 | [\[Chat\] Nekogram](https://tgbox.cc/en/detail/nekochat/) | 3.1K | The official discussion group of the Nekogram, English ONLY. Rules: Send !rules in chat.… <sub>`Android` `Open Source`</sub> |
 | [macOS 交流组](https://tgbox.cc/en/detail/macoser/) | 2.8K | Setapp driving, second-hand software trading, exchange of experience using |
-| [简悦 - SimpRead](https://tgbox.cc/en/detail/simpreadgroup/) | 2.6K | Hi, thank you for using it, and welcome to join the "big family" of it. 🙂 Please… |
 | [Cherrygram Support](https://tgbox.cc/en/detail/cherrygramsupport/) | 2.6K | The official support group of @Cherrygram. Chatting in English or Russian ONLY. NO ads or… <sub>`Android` `Open Source`</sub> |
+| [简悦 - SimpRead](https://tgbox.cc/en/detail/simpreadgroup/) | 2.6K | Hi, thank you for using it, and welcome to join the "big family" of it. 🙂 Please… |
 | [\[讨论\] Nekogram](https://tgbox.cc/en/detail/nekochatzh/) | 2.5K | Nekogram official discussion group, only in Chinese. If the following information is… <sub>`Android`</sub> |
 | [Telegram macOS](https://tgbox.cc/en/detail/macswift/) | 2K | GitHub – https://github.com/TelegramMessenger/telegram-macos Beta version –… <sub>`Official`</sub> |
 | [谷歌、微软云盘讨论群](https://tgbox.cc/en/detail/google_win/) | 2K | HTTPS://t.me/Remux\_2160P 4K video resource HTTPS://t.me/sspai\_group minority unofficial… <sub>`Cloud Drive`</sub> |
@@ -942,9 +942,9 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [Shadowrocket](https://tgbox.cc/en/detail/shadowrocketapp/) | 126.4K | Shadowrocket 仅支持 Apple 平台 ⚠️ 提问前请先查看已知教程，友好、平等交流，避免争吵 ⚠️ 允许讨论其他产品（含竞品），但建议聚焦互联网话题 🚫… <sub>`iOS`</sub> |
+| [Shadowrocket](https://tgbox.cc/en/detail/shadowrocketapp/) | 126.3K | Shadowrocket 仅支持 Apple 平台 ⚠️ 提问前请先查看已知教程，友好、平等交流，避免争吵 ⚠️ 允许讨论其他产品（含竞品），但建议聚焦互联网话题 🚫… <sub>`iOS`</sub> |
 | [Quantumult X](https://tgbox.cc/en/detail/quanxapp/) | 54.1K | Quantumult X Communications Group ⚠️ group rules are as follows, if there is a violation,… <sub>`iOS`</sub> |
-| [Loon-0x00](https://tgbox.cc/en/detail/loon0x00/) | 44.5K | 💬 这里是Loon的官方群组 🌐 官方网站 https://nsloon.app/ 👥 官方频道 https://t.me/LoonNews 🗒 官方文档… <sub>`iOS`</sub> |
+| [Loon-0x00](https://tgbox.cc/en/detail/loon0x00/) | 44.6K | 💬 这里是Loon的官方群组 🌐 官方网站 https://nsloon.app/ 👥 官方频道 https://t.me/LoonNews 🗒 官方文档… <sub>`iOS`</sub> |
 | [Official Geph Users \| 迷霧通官方用戶群](https://tgbox.cc/en/detail/gephusers/) | 38.4K | Announcements Notification channels https://t.me/gephannounce Group rules cluster rules… |
 | [Clash Verge Rev](https://tgbox.cc/en/detail/clash_verge_rev/) | 38.1K | Clash Verge Rev is an open source free software if you spend money buying software from… <sub>`Open Source`</sub> |
 | [Stash](https://tgbox.cc/en/detail/stashfans/) | 26.6K | Stash official discussion group. Stash is the best choice for Clash rules on iOS… <sub>`iOS` `Official`</sub> |
@@ -989,10 +989,10 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [好棒 🌈 羊毛超级搜](https://tgbox.cc/en/detail/dajiajia/) | 8.6K | QQ WeChat Group https://jinshuju.net/f/tZwNdJ ⬇️ Shepherd Channel @yangwangpindao… <sub>`Freebies`</sub> |
 | [期货与期权📈📉📊 Derivatives](https://tgbox.cc/en/detail/cnderivatives/) | 6.6K | Futures, options and speculations of various financial transactions Equity Equity Equity… <sub>`Finance`</sub> |
 | [Tg云搜索](https://tgbox.cc/en/detail/tgsongs/) | 6K | Unlimited worldwide music resources Online listening to songs, online resource search… <sub>`Music`</sub> |
-| [ACG萌](https://tgbox.cc/en/detail/acg_moe/) | 5.6K | Discuss any ACG-related topics (animation, COS, secondary, etc.) Please observe the… <sub>`Anime`</sub> |
+| [ACG萌](https://tgbox.cc/en/detail/acg_moe/) | 5.5K | Discuss any ACG-related topics (animation, COS, secondary, etc.) Please observe the… <sub>`Anime`</sub> |
 | [Google Voice 互拨交流群](https://tgbox.cc/en/detail/zh_gv/) | 5.1K | The group discusses GV-related topics, as well as interconnection. ⚠️ The group does not… |
 | [HiFi音乐资源](https://tgbox.cc/en/detail/hifimusicresource/) | 4.3K | Please support the purchase of original music not for commercial use, download and delete… <sub>`Music`</sub> |
-| [羊毛党--TG支部 (薅死羊不偿命系列)🐑🐑🐑](https://tgbox.cc/en/detail/cn_coupon/) | 4.1K | The Dead Sheep Series. <sub>`Freebies`</sub> |
+| [羊毛党--TG支部 (薅死羊不偿命系列)🐑🐑🐑](https://tgbox.cc/en/detail/cn_coupon/) | 4.2K | The Dead Sheep Series. <sub>`Freebies`</sub> |
 | [青桔ACG](https://tgbox.cc/en/detail/qingjuacg_chat/) | 4K | This group is an affiliate group of "Naranja ACG" channel: @QingjuACG Naranja network:… <sub>`Anime`</sub> |
 | [Amazon 海淘购物交流群](https://tgbox.cc/en/detail/firstamazon/) | 3.9K | Meria (American Amazon) purchases, packs, shipping, discount, Fire TV Stick purchases,… |
 | [体育爱好者\|足球\|篮球\|NBA\|CBA\|交流](https://tgbox.cc/en/detail/tiyu365/) | 3.1K | Sports enthusiasts, football, basketball, NBA, CBA, exchanges All advertising /… <sub>`Sports`</sub> |
@@ -1009,8 +1009,8 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [中文独立博客](https://tgbox.cc/en/detail/indieblogs/) | 2K | Chinese independent blogs |
 | [\[拉拉不过如此\] 摄影](https://tgbox.cc/en/detail/cnphotog/) | 1.8K | Here is the photo group of @Lychee\_Li Welcome to the discussion of all kinds of… <sub>`Photography`</sub> |
 | [亨嘉之会 \| 二次元美图仓库 🅥](https://tgbox.cc/en/detail/hengjiazhihui/) | 1.3K | Two-dimensional/animated/illustrated interactive discussions, chat and chat ⚠️ Entry into… <sub>`Anime`</sub> |
-| [全球音樂鑒賞🎶](https://tgbox.cc/en/detail/qqyyjs/) | 1.1K | You know this meeting... You know it... You know it... You know it... You need help by… <sub>`Music`</sub> |
-| [无损音乐交流群](https://tgbox.cc/en/detail/lossless_yinyue_chat/) | 485 | <sub>`Music`</sub> |
+| [全球音樂鑒賞🎶](https://tgbox.cc/en/detail/qqyyjs/) | 1.2K | You know this meeting... You know it... You know it... You know it... You need help by… <sub>`Music`</sub> |
+| [无损音乐交流群](https://tgbox.cc/en/detail/lossless_yinyue_chat/) | 487 | <sub>`Music`</sub> |
 
 </details>
 
@@ -1022,11 +1022,11 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [欧易OKX官方中文群](https://tgbox.cc/en/detail/okxgroup_cn/) ✔️ | 268.8K | OKX announcement channel: https://t.me/OKXAnnouncements\_CN Discord Chinese community:… <sub>`Exchanges`</sub> |
+| [欧易OKX官方中文群](https://tgbox.cc/en/detail/okxgroup_cn/) ✔️ | 276K | OKX announcement channel: https://t.me/OKXAnnouncements\_CN Discord Chinese community:… <sub>`Exchanges`</sub> |
 | [Telegram 中文社群 🅥](https://tgbox.cc/en/detail/tgcnx/) | 137.6K | Telegram Chinese/Chinese/Knowledge/Tutorial, Technology, Airports, Scientific Internet...… |
 | [🔎 同心出海支付-官网 www.tongxinchuhai.vip 担保 公群…](https://tgbox.cc/en/detail/junzhang01/) | 60.5K | 同心官网： tongxinchuhai.vip 交流社群： @zzz555 同心公群： @tongxingongqun 供需信息： @tongxin567888 曝光频道：… <sub>`Finance`</sub> |
 | [电报人:认识世界,认识社会,认识你自己](https://tgbox.cc/en/detail/three001/) | 53.7K | Group Purpose: Information Sharing, Knowing the World, Strengthening Yourself Group Rules… |
-| [Telegram 中文社区 🅥](https://tgbox.cc/en/detail/tgzhcn/) | 38.3K | Telegram Chinese/Chinese/Knowledge/Tutorial, Technology, Airports, Scientific Internet...… |
+| [Telegram 中文社区 🅥](https://tgbox.cc/en/detail/tgzhcn/) | 38.2K | Telegram Chinese/Chinese/Knowledge/Tutorial, Technology, Airports, Scientific Internet...… |
 | [Telegram Party](https://tgbox.cc/en/detail/publictestgroup/) | 26.8K | Welcome to the party! 😌 Be nice 🚫 Don't invite bots or post ads, NSFW or copyrighted… <sub>`Official`</sub> |
 | [Bybit 华语交流群](https://tgbox.cc/en/detail/bybitzh/) ✔️ | 26.6K | Official announcement channel👉 https://t.me/bybit\_announcement\_ZH ❗️ Important Reminder:… <sub>`Exchanges`</sub> |
 | [逼逼和他的精神股东们](https://tgbox.cc/en/detail/imbbbbbbbbbbb/) | 24.1K | Welcome to join the group of “Pirates!” 100% automatically blocked, please think! first… |
@@ -1035,7 +1035,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Telegram 新手帮助](https://tgbox.cc/en/detail/newbie_chat/) | 9.8K | The Telegram New Guide channel @Newbie\_Guide affiliate group is mainly used for channel… |
 | [The Forum](https://tgbox.cc/en/detail/theforum/) | 9.1K | <sub>`Official`</sub> |
 | [TG 简中交流（水）群](https://tgbox.cc/en/detail/cnpub/) | 8K | Telegram English \*\* Non-official\*\* Community Communication Group Related Projects:… |
-| [在花小茶馆🍵](https://tgbox.cc/en/detail/zaihuachat/) | 7.4K | 科技圈投稿：@zaihuabot 【莫谈国事】 大家多多分享 • 禁止推广/黑产/刷屏/色情/ NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳怪气… <sub>`Gadgets`</sub> |
+| [在花小茶馆🍵](https://tgbox.cc/en/detail/zaihuachat/) | 7.5K | 科技圈投稿：@zaihuabot 【莫谈国事】 大家多多分享 • 禁止推广/黑产/刷屏/色情/ NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳怪气… <sub>`Gadgets`</sub> |
 | [逗比据地根](https://tgbox.cc/en/detail/doubi/) | 7K | Please follow the following group rules: - Banned screenshots - Banned rumors - Banned… |
 
 <details>
@@ -1043,12 +1043,12 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [PriceAI 交流群（禁广）](https://tgbox.cc/en/detail/priceaicc/) | 6.9K | PriceAI: AI subscriptions, model API, low-cost channels, commodity and functional issues.… <sub>`ChatGPT` `Open Source`</sub> |
+| [PriceAI 交流群（禁广）](https://tgbox.cc/en/detail/priceaicc/) | 7K | PriceAI: AI subscriptions, model API, low-cost channels, commodity and functional issues.… <sub>`ChatGPT` `Open Source`</sub> |
 | [Yummy's Small Talk](https://tgbox.cc/en/detail/godlygroup/) | 5.6K | Group Old Names: I'm So Lonely \* Prohibit the Spread of Rumors/Piracy \* Prohibit Screen… |
 | [科技&趣闻](https://tgbox.cc/en/detail/kejiquchat/) | 4.5K | Share valuable and interesting information channel @kejiqu Post @kejiqubot Contact… |
-| [喵子科学站-吹水群](https://tgbox.cc/en/detail/mzkxzchat/) | 2.3K | Website link: www.mzkxz.net 禁️ excessive🇳 domestic politics, other aspects will \~… |
+| [喵子科学站-吹水群](https://tgbox.cc/en/detail/mzkxzchat/) | 2.2K | Website link: www.mzkxz.net 禁️ excessive🇳 domestic politics, other aspects will \~… |
 | [Snowball Fight - Streamers Den](https://tgbox.cc/en/detail/snowballfight/) | 628 | Welcome to the Snowball Fight! 😌 Be nice 🚫 Don't invite bots or post ads, NSFW or… <sub>`Memes` `Official`</sub> |
-| [Make friends](https://tgbox.cc/en/detail/meeetnewfriends/) | 371 | 🌍 𝗠𝗔𝗞𝗘 𝗙𝗥𝗜𝗘𝗡𝗗𝗦 ❤️ ✨ A place to connect, chat, laugh and meet new people worldwide! 🤝 📜… |
+| [Make friends](https://tgbox.cc/en/detail/meeetnewfriends/) | 442 | 🌍 𝗠𝗔𝗞𝗘 𝗙𝗥𝗜𝗘𝗡𝗗𝗦 ❤️ ✨ A place to connect, chat, laugh and meet new people worldwide! 🤝 📜… |
 
 </details>
 
@@ -1100,13 +1100,13 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [AI星球中文资源群](https://tgbox.cc/en/detail/chatgpt003/) | 6.7K | Ai Planet Chinese Channel 🇳 Artificial Intelligence Travel Guide ChatGPT Gmini Claude… <sub>`LLMs`</sub> |
 | [Cherry Studio 官方频道](https://tgbox.cc/en/detail/cherrystudioai/) | 5.8K | Desktop GPT client that supports multi-model services <sub>`LLMs` `Open Source`</sub> |
 | [Packycode Chat](https://tgbox.cc/en/detail/packycode/) | 5.7K | PackyCode website: www.packycode.com Status monitoring: check.linux.do/group/Packy Use… <sub>`AI Coding` `API Relay`</sub> |
-| [Kaggle](https://tgbox.cc/en/detail/kaggle/) | 5.4K | This group is for people that love Kaggle! We can discuss competitions, share ideas and… |
-| [Claude Code中文社区](https://tgbox.cc/en/detail/claudecode_cn/) | 4K | <sub>`AI Coding` `LLMs`</sub> |
+| [Kaggle](https://tgbox.cc/en/detail/kaggle/) | 5.3K | This group is for people that love Kaggle! We can discuss competitions, share ideas and… |
+| [Claude Code中文社区](https://tgbox.cc/en/detail/claudecode_cn/) | 4.1K | <sub>`AI Coding` `LLMs`</sub> |
 | [ChatGPT中文研究所](https://tgbox.cc/en/detail/gpt345/) | 3.9K | 📢Channel：t.me/ai\_news\_cn <sub>`ChatGPT`</sub> |
 | [Machine Learning CN](https://tgbox.cc/en/detail/ml_cn/) | 2.3K | 机器学习中文讨论群组，共同学习，一起炼丹。 No NSFW stuff here If you don't click a button, try again in 12… |
 | [IKunCode](https://tgbox.cc/en/detail/ikuncode/) | 2.1K | <sub>`AI Coding` `API Relay`</sub> |
 | [🔥AI 富豪俱乐部🔥](https://tgbox.cc/en/detail/cloudnativer/) | 2K | This group is for AI rich people, mainly used to discuss technology-related topics, can… <sub>`LLMs`</sub> |
-| [MN API用户群](https://tgbox.cc/en/detail/mn_api/) | 668 | <sub>`API Relay`</sub> |
+| [MN API用户群](https://tgbox.cc/en/detail/mn_api/) | 667 | <sub>`API Relay`</sub> |
 | [xedu账号交流群](https://tgbox.cc/en/detail/xedume/) | 667 | Shop https://xedu.me openai to https://xeduapi.com chatgpt wholesale,jetbrains whole home… <sub>`API Relay` `ChatGPT`</sub> |
 | [转转AI讨论群-uu6.top](https://tgbox.cc/en/detail/api_uu6_top/) | 442 | HTTPS://t.me/uu6\_top HTTPS://t.me/uu6\_top HTTPS://wzyp.cn/shop/zhuanzhuan… <sub>`API Relay`</sub> |
 
@@ -1118,14 +1118,14 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [北京](https://tgbox.cc/en/detail/beijingz/) | 47.4K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
-| [泉城济南电报总群 🅥](https://tgbox.cc/en/detail/jinan_tg/) | 34.2K | ❗️ The group banned ads, the advertisement must ban! banned all illegal crimes The group… |
+| [北京](https://tgbox.cc/en/detail/beijingz/) | 48K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
+| [泉城济南电报总群 🅥](https://tgbox.cc/en/detail/jinan_tg/) | 34.3K | ❗️ The group banned ads, the advertisement must ban! banned all illegal crimes The group… |
 | [深圳](https://tgbox.cc/en/detail/shenzhenz/) | 12.4K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
-| [广州](https://tgbox.cc/en/detail/guangzhouz/) | 9.7K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
+| [广州](https://tgbox.cc/en/detail/guangzhouz/) | 9.8K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
 | [上海](https://tgbox.cc/en/detail/shanghaiz/) | 8.8K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
 | [西安电报群](https://tgbox.cc/en/detail/xiancity/) | 7.4K | This group is used to discuss topics related to Xi'an's clothing and food housing, and… |
 | [臺灣群＊](https://tgbox.cc/en/detail/formosataiwan/) | 5.3K | Free chat rooms for Taiwanese, welcome friends from Taiwan to participate. From food to… |
-| [海外华人聚乐部✨](https://tgbox.cc/en/detail/g3226/) | 4.4K | ​欢迎加入【海外华人聚乐部】！这里聚集了各地优质华人资源，旨在搭建合规、高效的资讯与资源共享平台。 ​规则：禁止发布任何违法违规、电诈、网赌等不良广告。让我们携手打造正规、诚信的海… <sub>`Airdrops` `Free` `Freebies`</sub> |
+| [海外华人聚乐部✨](https://tgbox.cc/en/detail/g3226/) | 4.3K | ​欢迎加入【海外华人聚乐部】！这里聚集了各地优质华人资源，旨在搭建合规、高效的资讯与资源共享平台。 ​规则：禁止发布任何违法违规、电诈、网赌等不良广告。让我们携手打造正规、诚信的海… <sub>`Airdrops` `Free` `Freebies`</sub> |
 | [东京IT技术者交流群](https://tgbox.cc/en/detail/tokyoit/) | 4.1K | TokyoIT discussion group |
 | [武汉](https://tgbox.cc/en/detail/wuhanz/) | 3.4K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
 | [中国 China](https://tgbox.cc/en/detail/cnchinese/) | 2.9K | Prohibit the spread of rumors/piracy Prohibit the stripping/blasphemy/personal assault… |
@@ -1148,7 +1148,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [读舍 - 享受阅读时光](https://tgbox.cc/en/detail/shufm/) | 8.2K | Reading room: enjoy reading time, talk about reading Website: https://shu.fm Channel:… |
 | [杂志｜考研｜考公｜互助群](https://tgbox.cc/en/detail/waikan2023/) | 7.8K | National journals, various exams, interest journals! |
 | [读书分享](https://tgbox.cc/en/detail/dushufenxiang_chat/) | 5.3K | Group Rules: 1.Please communicate with friends, discuss as much focus as you can and… |
-| [\[好读\] ReadFine交流总群](https://tgbox.cc/en/detail/readfinechat/) | 5K | Channel @Readfine Communications Group @ReadfineChat is good for reading and provides an… <sub>`E-books`</sub> |
+| [\[好读\] ReadFine交流总群](https://tgbox.cc/en/detail/readfinechat/) | 5.1K | Channel @Readfine Communications Group @ReadfineChat is good for reading and provides an… <sub>`E-books`</sub> |
 | [zread 读书会 📚](https://tgbox.cc/en/detail/zread/) | 4.6K | ❤️Welcome bookmates Maybe you are looking for that kindle of peace. Maybe you are… |
 | [中英语言学习 \| Learning Chinese & English](https://tgbox.cc/en/detail/linguisticacademy/) | 2.5K | 1. 本群旨在汉语和英语的学习 2. 你可以聊任何话题，但请不要让人感到不适 3. 请带着爱帮助别人，或者带着感恩求助于别人 1. The purport is to learn… |
 | [wikipedia-zh-science&technology](https://tgbox.cc/en/detail/wikipedia_zh_science_and_tech/) | 2K | Wikipedia science and technology, meteorology, programming, aerospace, etc. can be… <sub>`Science`</sub> |
@@ -1181,7 +1181,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [\[Official\] The Sandbox](https://tgbox.cc/en/detail/sandboxgame/) | 26.6K | ❌SANDBOX TEAM WILL NEVER PM YOU FIRST OR ASK FOR MONEY❌ Official Group for The Sandbox, a… <sub>`Official`</sub> |
+| [\[Official\] The Sandbox](https://tgbox.cc/en/detail/sandboxgame/) | 26.5K | ❌SANDBOX TEAM WILL NEVER PM YOU FIRST OR ASK FOR MONEY❌ Official Group for The Sandbox, a… <sub>`Official`</sub> |
 | [NS Xbox PS PC游戏闲聊](https://tgbox.cc/en/detail/nintendoswitchcn/) | 3.8K | We come together with the game The group does not welcome any ads, focused on the NS… |
 | [\#archlinux-cn-game](https://tgbox.cc/en/detail/archlinuxcn_game/) | 1.3K | Welcome to the ArchLinuxCN community game channel. You need to join @archlinuxcn\_group… <sub>`Linux`</sub> |
 | [wikipedia-zh-game](https://tgbox.cc/en/detail/wikipedia_zh_game/) | 832 | There are games: Wolfman Kill, Avalon, Uno, 1A2B, Detective Missions, Screen Four Chess,… |
@@ -1209,7 +1209,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Members | About |
 | --- | ---: | --- |
-| [💻☕️ Jobs\_IT](https://tgbox.cc/en/detail/jobs_it/) | 10.9K | @jobs\_it :: International IT jobs portal. Please read the rules in the pinned message!… <sub>`Programming`</sub> |
+| [💻☕️ Jobs\_IT](https://tgbox.cc/en/detail/jobs_it/) | 11K | @jobs\_it :: International IT jobs portal. Please read the rules in the pinned message!… <sub>`Programming`</sub> |
 | [DeJob求职交流群](https://tgbox.cc/en/detail/dejob_official_group/) | 4.4K | DeJob｜Web3 & AI 专业服务平台 64K+用户 · 1,970+ Web3企业 🌐 dejob.ai 📢 中文 @DeJob\_official… |
 | [Ethereum Jobs Chat](https://tgbox.cc/en/detail/ethereum_jobs_market/) | 4K | Post job - @gptforce Vacancies and job search requests in the field of Blockchain,… |
 | [DeJob Global—Web3 Jobs Chat](https://tgbox.cc/en/detail/dejob_global_group/) | 1.5K | DeJob｜Web3 & AI Professional Services 64K+ Users · 1,970+ Web3 Companies 🌐 dejob.ai 📢 CN… |
@@ -1242,11 +1242,11 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Premium Bot](https://tgbox.cc/en/detail/premiumbot/) ✔️ | 6.8M | This bot lets you subscribe to Telegram Premium or buy subscription gifts for loved ones… <sub>`Official`</sub> |
 | [User Info • Get ID • IDbot](https://tgbox.cc/en/detail/userinfobot/) | 631.9K | 🔍 Shows the user’s basic information @dostoyno by g.media <sub>`Free`</sub> |
 | [VoteBot](https://tgbox.cc/en/detail/vote/) | 145.3K | This bot will help you create polls and share them with friends. <sub>`Free` `Official`</sub> |
-| [Fake Mail](https://tgbox.cc/en/detail/fakemailbot/) | 97.6K | Create hundreds of email address and receive unlimited mails everything just under… <sub>`Free`</sub> |
+| [Fake Mail](https://tgbox.cc/en/detail/fakemailbot/) | 96.6K | Create hundreds of email address and receive unlimited mails everything just under… <sub>`Free`</sub> |
 | [Temp Mail ✉️ Official Bot](https://tgbox.cc/en/detail/tempmail_org_bot/) | 89.9K | The Official TempMail Bot. From creators of the Legendary and Top\#1 temporary email… |
-| [IDbot • Userinfo](https://tgbox.cc/en/detail/id_bot/) | 88.5K | 🔍 Shows basic information about the user and the real registration date |
-| [Nicegram Hub: Search bot 🔎 Open to get…](https://tgbox.cc/en/detail/nicehubsearchbot/) | 70.2K | Find any Telegram channel easily! Open the bot and get your link ⚡️ |
+| [IDbot • Userinfo](https://tgbox.cc/en/detail/id_bot/) | 88.3K | 🔍 Shows basic information about the user and the real registration date |
 | [Previews](https://tgbox.cc/en/detail/previews/) ✔️ | 69.1K | Use this bot to leave feedback about webpage previews generated for Telegram's Instant… <sub>`Official`</sub> |
+| [Nicegram Hub: Search bot 🔎 Open to get…](https://tgbox.cc/en/detail/nicehubsearchbot/) | 68.2K | Find any Telegram channel easily! Open the bot and get your link ⚡️ |
 | [Telegraph](https://tgbox.cc/en/detail/telegraph/) ✔️ | 67.7K | This bot can help you log in on Telegra.ph, manage your articles, and get page view… <sub>`Free` `Official`</sub> |
 | [IDBot • Get ID • UserInfo • Узнать ID](https://tgbox.cc/en/detail/username_to_id_bot/) | 52.6K | Bot to get user, group and channel ids <sub>`Free`</sub> |
 | [Webpage Bot](https://tgbox.cc/en/detail/webpagebot/) | 47.1K | <sub>`Free`</sub> |
@@ -1260,7 +1260,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [Search Report Bot](https://tgbox.cc/en/detail/searchreport/) ✔️ | 32.9K | Report problematic search terms. <sub>`Official` `Security`</sub> |
 | [Creation Date](https://tgbox.cc/en/detail/creationdatebot/) | 31.5K | shows the approximate creation date for any account in telegram upd: @devctl <sub>`Free`</sub> |
-| [DropMail.me](https://tgbox.cc/en/detail/dropmailbot/) | 30.9K | https://dropmail.me/ in Telegram <sub>`Free` `Security`</sub> |
+| [DropMail.me](https://tgbox.cc/en/detail/dropmailbot/) | 30.3K | https://dropmail.me/ in Telegram <sub>`Free` `Security`</sub> |
 | [GetIDs Bot](https://tgbox.cc/en/detail/getidsbot/) | 30K | This bot gives you telegram-internal information about messages 👤 by @wjclub <sub>`Free`</sub> |
 | [TAK! TEXT — Audio & Video Transcription](https://tgbox.cc/en/detail/taktextbot/) | 26.5K | 🎙 Transcribe voice messages, audio, video and links. 90+ languages, 99% accuracy for… <sub>`Free` `LLMs` `Official`</sub> |
 | [Amnezia Free VPN Bot](https://tgbox.cc/en/detail/free_vpn_amnezia_bot/) | 25.7K | Free VPN bot for Instagram/Facebook/etc access |
@@ -1268,22 +1268,21 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Texify - Image to Text (OCR) - Photo to…](https://tgbox.cc/en/detail/texifybot/) | 20.3K | 📷 Turn any photo, book or document into editable text with fast, accurate OCR — over 100… |
 | [Echo Bots Maker](https://tgbox.cc/en/detail/mkfrbot/) | 20.3K | The largest professional platform specialized in making Telegram Bots. |
 | [Dr.Web](https://tgbox.cc/en/detail/drwebbot/) | 19.4K | Add this bot to your group to check shared files and links for malware, or send them to… <sub>`Free` `Security`</sub> |
-| [Telegram Bot Raw](https://tgbox.cc/en/detail/rawdatabot/) | 19.4K | ℹ️ Made by @SeanChannel <sub>`Open Source`</sub> |
+| [Telegram Bot Raw](https://tgbox.cc/en/detail/rawdatabot/) | 19.3K | ℹ️ Made by @SeanChannel <sub>`Open Source`</sub> |
 | [Verify Bot](https://tgbox.cc/en/detail/verifybot/) ✔️ | 18.3K | This bot can help you verify a Telegram channel, public group or bot. <sub>`Official` `Security`</sub> |
 | [Thermos](https://tgbox.cc/en/detail/thermos/) | 18K | Gift & Stickers Aggregator Market by swap.coffee team. News: @thermos\_news <sub>`On-chain Data`</sub> |
 | [Thermos](https://tgbox.cc/en/detail/thermos_giftbot/) | 18K | Gift & Stickers Aggregator Market by swap.coffee team. News: @thermos\_news <sub>`On-chain Data`</sub> |
 | [Username Bot](https://tgbox.cc/en/detail/username_bot/) ✔️ | 15.7K | Claim an occupied username for your Telegram account, public group or channel. <sub>`Free` `Official`</sub> |
-| [Music Bot Creator](https://tgbox.cc/en/detail/creatormusicbot/) | 15.4K | Support: @Ly\_OBot <sub>`Music`</sub> |
 | [Voicy 🇺🇦](https://tgbox.cc/en/detail/voicybot/) | 15.1K | Turns voice messages, video notes, audio and video files into text with Whisper, in… <sub>`Free` `Open Source`</sub> |
-| [Price Tracker & Alert Bot](https://tgbox.cc/en/detail/the_price_tracker_bot/) | 14.7K | "Amazon, Amazon Prime, the Amazon logo and Amazon Prime logo are trademarks of… |
-| [SUCH Bot Builder](https://tgbox.cc/en/detail/suchchatbot/) | 14.1K | SUCH — Support Bot Builder. ✓ 100% free ✓ No ads ✓ No limits Web: https://such.chat… |
+| [Music Bot Creator](https://tgbox.cc/en/detail/creatormusicbot/) | 15K | Support: @Ly\_OBot <sub>`Music`</sub> |
 | [Refather Bot](https://tgbox.cc/en/detail/refatherbot/) | 13.9K | ❓ Помощь — @refather\_support\_bot |
 | [Durger King](https://tgbox.cc/en/detail/durgerkingbot/) | 13.8K | Use this bot to order fictional fast food – the only fast food that is good for your… <sub>`Free` `Official` `Programming`</sub> |
+| [SUCH Bot Builder](https://tgbox.cc/en/detail/suchchatbot/) | 13.5K | SUCH — Support Bot Builder. ✓ 100% free ✓ No ads ✓ No limits Web: https://such.chat… |
+| [Price Tracker & Alert Bot](https://tgbox.cc/en/detail/the_price_tracker_bot/) | 13.4K | "Amazon, Amazon Prime, the Amazon logo and Amazon Prime logo are trademarks of… |
 | [Transparency Reports](https://tgbox.cc/en/detail/transparency/) ✔️ | 13.2K | Get Telegram transparency reports. <sub>`Official` `Security`</sub> |
-| [Image To Text \[OCR\]](https://tgbox.cc/en/detail/imagetotext_bot/) | 12.5K | https://www.buymeacoffee.com/raingart <sub>`Free`</sub> |
 | [Keepa](https://tgbox.cc/en/detail/keepa_bot/) | 12.5K | Keepa.com |
+| [Image To Text \[OCR\]](https://tgbox.cc/en/detail/imagetotext_bot/) | 12.4K | https://www.buymeacoffee.com/raingart <sub>`Free`</sub> |
 | [Temp Mail](https://tgbox.cc/en/detail/tempmailbot/) | 11K | Disposable temporary emails — your inbox will be clean: no spam, ads and malwares By… |
-| [Tmail App 💎](https://tgbox.cc/en/detail/tmail_ton_bot/) | 10.1K | Web3 & Web2 secure email on TON. Own your digital identity, protect your privacy.… <sub>`TON`</sub> |
 | [Account Created Date](https://tgbox.cc/en/detail/accountcreatedbot/) | — | Get Telegram account information and estimated creation dates using various methods.… |
 | [Anti-Tracking Bot](https://tgbox.cc/en/detail/antitrackingbot/) | — | Send any link, and the bot tries its best to remove all tracking from the link you sent.… <sub>`Security`</sub> |
 | [BarMatch](https://tgbox.cc/en/detail/barmapsbot/) | — | Meet people nearby in Telegram. Find a date, friends and a place to meet. Free basic… |
@@ -1340,6 +1339,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Image to Text (OCR) bot](https://tgbox.cc/en/detail/the_ocr_bot/) | — | Extract text from images using this bot |
 | [Translator - مترجم](https://tgbox.cc/en/detail/the_translator_bot/) | — | 🔻Translate Text to 69 Languages,either \#Directly or in \#Chats 🔻ترجمه متن به 69 زبان،… <sub>`Free`</sub> |
 | [TIDA Bot](https://tgbox.cc/en/detail/tidabot/) ✔️ | — | TIDA or TAKE IT DOWN Act: Tools to Address Known Exploitation by Immobilizing Tech… <sub>`Free` `Official` `Security`</sub> |
+| [Tmail App 💎](https://tgbox.cc/en/detail/tmail_ton_bot/) | — | Web3 & Web2 secure email on TON. Own your digital identity, protect your privacy.… <sub>`TON`</sub> |
 | [toncenter.com bot](https://tgbox.cc/en/detail/toncenter/) | — | Bot for managing toncenter.com keys. Support: @toncenter\_help\_bot Terms of Use:… <sub>`Programming` `TON`</sub> |
 | [Translate Father](https://tgbox.cc/en/detail/translatefather_bot/) | — | <sub>`Free`</sub> |
 | [TruePillar](https://tgbox.cc/en/detail/truepillar_bot/) | — | Free BaZi chart in Telegram 🌿 Verified calendar engine · PDF reports via Stars · EN/简中/繁中 <sub>`Free` `LLMs`</sub> |
@@ -1366,7 +1366,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [阿福](https://tgbox.cc/en/detail/afoolgroupbot/) | 1M | Most convenient Groups & Channels Robots Everything Configurable Latest Features… <sub>`Free`</sub> |
 | [nmBot](https://tgbox.cc/en/detail/nmnmfunbot/) | 869.2K | nmBot boots chats by wonderful dramas. Send /lang to switch languages nmBot Channel… <sub>`Free`</sub> |
 | [Combot](https://tgbox.cc/en/detail/combot/) | 835.3K | Moderation, analytics, anti-spam, and content management for Telegram groups and… |
-| [🤖群管机器人](https://tgbox.cc/en/detail/hao12bot/) | 648.8K | Help channel: @MyBots Discussion group: @GroupTG Navigation channel: @LunTan 🎁 Lottery… |
+| [🤖群管机器人](https://tgbox.cc/en/detail/hao12bot/) | 668.1K | Help channel: @MyBots Discussion group: @GroupTG Navigation channel: @LunTan 🎁 Lottery… |
 | [ChatKeeperBot](https://tgbox.cc/en/detail/chatkeeperbot/) | 545K | Just do my work ✅ More than 500,000 Admins trust me with their groups |
 | [MBot](https://tgbox.cc/en/detail/mbot/) | 324.1K | Make channel & group management smarter! Help channel: @MyBots Discussion group: @GroupTG… |
 | [Shieldy](https://tgbox.cc/en/detail/shieldy_bot/) | 209.3K | Shieldy fights Telegram spam. By using, you agree to Terms of Use bit.ly/4tpqkp4 &… <sub>`Free` `Open Source`</sub> |
@@ -1374,24 +1374,24 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [MetaCat Bot](https://tgbox.cc/en/detail/mtzcat_bot/) | 178.2K | MetaCat, the first mini-app on CSC. |
 | [Psst](https://tgbox.cc/en/detail/psstrobot/) | 168.5K | A smol smol whisper bot \| @Kaizoku |
 | [KinhRoBot](https://tgbox.cc/en/detail/kinhrobot/) | 166.8K | Millisecond response speed (TG's fastest robot) 2 with ultra-rich cluster capabilities 4… |
-| [Group Help](https://tgbox.cc/en/detail/ghelpbot/) | 145.5K | Official @GroupHelpBot clone. |
-| [Voice Random Chat](https://tgbox.cc/en/detail/voisabot/) | 140.2K | Voice chatting app. For any questions and issues send DM to @voisasupportbot |
+| [Group Help](https://tgbox.cc/en/detail/ghelpbot/) | 147.4K | Official @GroupHelpBot clone. |
+| [SangMata](https://tgbox.cc/en/detail/sangmata_bot/) | 137.6K | Bot that can track name and username changes and notify it in your group. Add me now to… |
 
 <details>
 <summary>Show 64 more</summary>
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [SangMata](https://tgbox.cc/en/detail/sangmata_bot/) | 137.6K | Bot that can track name and username changes and notify it in your group. Add me now to… |
-| [Auto Approve Accept User Pending Bot](https://tgbox.cc/en/detail/acceptuserrobot/) | 110.8K | Объявления/Ads: @im\_piro |
+| [Voice Random Chat](https://tgbox.cc/en/detail/voisabot/) | 135.6K | Voice chatting app. For any questions and issues send DM to @voisasupportbot |
+| [Auto Approve Accept User Pending Bot](https://tgbox.cc/en/detail/acceptuserrobot/) | 108.5K | Объявления/Ads: @im\_piro |
 | [Protectron](https://tgbox.cc/en/detail/protectronbot/) | 92.4K | AI-powered security, anti-spam and analytics. Join thousands of groups with millions of… <sub>`Security`</sub> |
-| [Group Help](https://tgbox.cc/en/detail/grouphelp2bot/) | 89.4K | Official @GroupHelpBot clone. |
-| [RemoveHyperlinkBot by @Bot442](https://tgbox.cc/en/detail/removehyperlinkbot/) | 58.4K | Remove messages with website URLs in your group (except for messages sent by admins).… |
-| [TheCleanBot \| QorovulBot \| Botlar \|…](https://tgbox.cc/en/detail/thecleanbot/) | 50K | 📥 Связь - @bositkxx 📃 Новости бота - https://t.me/joinchat/AAAAAEYVIC5ui3o2FXszJw |
-| [群管理机器人 @qunbot](https://tgbox.cc/en/detail/qunbot/) | 39.9K | @qunguanjia Updated announcement. ✅ The worldwide cluster robot features are all… |
-| [Force Subscriber](https://tgbox.cc/en/detail/forcesubscriber_bot/) | 39.1K | An advanced force subscribe bot ! By @Memers\_Gallery ! |
+| [Group Help](https://tgbox.cc/en/detail/grouphelp2bot/) | 91.6K | Official @GroupHelpBot clone. |
+| [RemoveHyperlinkBot by @Bot442](https://tgbox.cc/en/detail/removehyperlinkbot/) | 55.2K | Remove messages with website URLs in your group (except for messages sent by admins).… |
+| [TheCleanBot \| QorovulBot \| Botlar \|…](https://tgbox.cc/en/detail/thecleanbot/) | 49.3K | 📥 Связь - @bositkxx 📃 Новости бота - https://t.me/joinchat/AAAAAEYVIC5ui3o2FXszJw |
+| [群管理机器人 @qunbot](https://tgbox.cc/en/detail/qunbot/) | 41.3K | @qunguanjia Updated announcement. ✅ The worldwide cluster robot features are all… |
+| [Force Subscriber](https://tgbox.cc/en/detail/forcesubscriber_bot/) | 38.5K | An advanced force subscribe bot ! By @Memers\_Gallery ! |
 | [OrgRobot](https://tgbox.cc/en/detail/orgrobot/) | 35.3K | Bot to challenge a user with questions when a user joins chat group. |
-| [Sobirapp Birthdays](https://tgbox.cc/en/detail/sobirapp_bot/) | 34.9K | I track birthdays in group chats and congratulate birthday people. Support:… |
+| [Sobirapp Birthdays](https://tgbox.cc/en/detail/sobirapp_bot/) | 34.4K | I track birthdays in group chats and congratulate birthday people. Support:… |
 | [Mention Bot](https://tgbox.cc/en/detail/mentionbot/) | 32.5K | Send \#admin (@admin) in the group with the bot to call all admins or \#all (@all) to call… |
 | [Remove Deleted Accounts](https://tgbox.cc/en/detail/removedeletedaccountsbot/) | 24.5K | Bot that clean up deleted accounts from your group. ♥️🫂 🚫👻 @RDAB\_News 🤖 Group Captcha… |
 | [𝙋𝙍𝙊𝙏𝙀𝘾𝙏𝙄𝙊𝙉 𝘽𝙊𝙏⚡️](https://tgbox.cc/en/detail/copyright_infrigment_saver_bot/) | 23.1K | 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝘾𝘼𝙉 𝙎𝘼𝙑𝙀 𝙔𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙁𝙍𝙊𝙈 𝘽𝙀𝙄𝙉𝙂 𝘽𝘼𝙉𝙉𝙀𝘿 𝘿𝙐𝙀 𝙏𝙊 𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝙎𝙏𝙍𝙄𝙆𝙀.🀄️✅ ♻️𝙏𝙍𝙐𝙎𝙏𝙀𝘿… |
@@ -1399,7 +1399,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [DeFendy](https://tgbox.cc/en/detail/defendy_bot/) | 18.9K | Reliable group protection & management. Anti-spam, anti-raid, auto-mute, roles,… |
 | [Mention Robot](https://tgbox.cc/en/detail/mentionrobot/) | 18.7K | Send \#admin (@admin) in the group with the bot to call all admins or \#all (@all) to call… |
 | [The Join Captcha Bot](https://tgbox.cc/en/detail/join_captcha_bot/) | 17.3K | Bot to verify if incoming group users are real humans. Check Bot info channel:… <sub>`Free` `Open Source`</sub> |
-| [Calsi Bot 🔱 @CalsiBotDev](https://tgbox.cc/en/detail/calsibot/) | 16.9K | A general-purpose bot for your groups, from /roll and /hug, to /fish and /kys. Join… |
+| [Calsi Bot 🔱 @CalsiBotDev](https://tgbox.cc/en/detail/calsibot/) | 16.5K | A general-purpose bot for your groups, from /roll and /hug, to /fish and /kys. Join… |
 | [Shinobu](https://tgbox.cc/en/detail/shinobu_robot/) | 16.1K | I'm Shinobu, an Artificial-Intelligence Integrated anime themed group management bot 🦋.… <sub>`Anime`</sub> |
 | [Menu Builder Bot](https://tgbox.cc/en/detail/menubuilderbot/) | 15.3K | ℹ MenuBuilderBot - creates Menu Bots, eShops, works in Groups, has its own Ads Market.… |
 | [广告杀手 🥷🏻](https://tgbox.cc/en/detail/guanggaoshashoubot/) | 14.8K | This robot professionally blocked Chinese advertising content as well as advertisement… |
@@ -1407,7 +1407,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [RemoveURLsBot](https://tgbox.cc/en/detail/removeurlsbot/) | 12.7K | I remove URLs. More handy bots: https://telegrambotcollection.glitch.me/ |
 | [入群验证机器人](https://tgbox.cc/en/detail/p4captchabot/) | 12.3K | Source: https://github.com/fossifer/Telegram-CAPTCHA-bot <sub>`Free` `Open Source`</sub> |
 | [User Tagger](https://tgbox.cc/en/detail/usertagger2bot/) | 11.7K | I can tag users in the group for you languages: 🇬🇧 🇹🇷 🇦🇿 🇷🇺 🇮🇷 🇮🇳 Channel @UserTagger… |
-| [joinhider\_bot](https://tgbox.cc/en/detail/joinhider_bot/) | 11.3K | Bot to remove system messages like when a user joined or left chat group. <sub>`Free`</sub> |
+| [joinhider\_bot](https://tgbox.cc/en/detail/joinhider_bot/) | 11.6K | Bot to remove system messages like when a user joined or left chat group. <sub>`Free`</sub> |
 | [Staff Group \| GH](https://tgbox.cc/en/detail/ghstaffbot/) | 10.9K | This is an official @GroupHelpBot bot. It can be used to set up a staff group to manage… |
 | [PollBot](https://tgbox.cc/en/detail/pollbot/) | 10.4K | Add this bot to groups to create simple polls. |
 | [TGCN-币&黄广告专杀](https://tgbox.cc/en/detail/adnamekillerbot/) | — | <sub>`Free`</sub> |
@@ -1464,8 +1464,8 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Sounds](https://tgbox.cc/en/detail/soundsapp_bot/) | 2.1M | @clips • @sounds • @texts • @statuses • @notmeme • @notmemes <sub>`Music`</sub> |
 | [Instant Saver - Repost For Instagram](https://tgbox.cc/en/detail/instasavegrambot/) | 827.5K | Download images, videos and texts from Instagram. Бот позволяет сохранять фото, видео и… |
 | [⚡️Downloader Instagram, TikTok,…](https://tgbox.cc/en/detail/instagramersbot/) | 405.3K | The bot downloads text, videos, and music 📩 Ads: @let\_adm ❗️Terms of Use → @UserAgrees |
-| [Vk Music Bot](https://tgbox.cc/en/detail/vkmbot_musikbot/) | 315.7K | Content can be removed at the request of the copyright holder News @vkmusicbotnews… <sub>`Free` `Music`</sub> |
-| [Song Fast Bot](https://tgbox.cc/en/detail/songfastbot/) | 294.8K | Reklama : @And\_admm <sub>`Music`</sub> |
+| [Vk Music Bot](https://tgbox.cc/en/detail/vkmbot_musikbot/) | 313.5K | Content can be removed at the request of the copyright holder News @vkmusicbotnews… <sub>`Free` `Music`</sub> |
+| [Song Fast Bot](https://tgbox.cc/en/detail/songfastbot/) | 291K | Reklama : @And\_admm <sub>`Music`</sub> |
 | [No Watermark TikTok Downloader](https://tgbox.cc/en/detail/ttgrab_bot/) | 240.9K | 🤖Download videos from TikTok without a watermark. Supports: 📹Video, 🖼Images, 🔈Audio… |
 | [Download IT \| YouTube, Instagram,…](https://tgbox.cc/en/detail/download_it_bot/) | 238.7K | 📥 Download IT Bot: download almost any media to your mobile or computer. <sub>`Free`</sub> |
 | [Twitter (X) Media Downloader دانلود از…](https://tgbox.cc/en/detail/twittervid_bot/) | 178.4K | Twitter (X) Media Downloader Support \| Ads \| پشتیبانی \| تبلیغات: @jbotssupport کانال \|… <sub>`Free`</sub> |
@@ -1481,9 +1481,9 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [music editor](https://tgbox.cc/en/detail/musiceditor_tgbot/) | 128K | Music tag editor Support - @musiceditor\_group <sub>`Music`</sub> |
 | [Classical Music](https://tgbox.cc/en/detail/music/) | 89.7K | This bot can help you find beautiful classical music. <sub>`Free` `Music` `Official`</sub> |
 | [InstaSave: Instagram & TikTok Downloader](https://tgbox.cc/en/detail/instasave_bot/) | 66K | Download Instagram reels, posts and stories from the Instagram app. Also TikTok, X,… |
-| [Music Downloader: SoundCloud, Bandcamp,…](https://tgbox.cc/en/detail/scdlbot/) | 62.9K | I download MP3s of tracks&playlists with tags from SoundCloud, Bandcamp, YouTube and… <sub>`Music`</sub> |
+| [Music Downloader: SoundCloud, Bandcamp,…](https://tgbox.cc/en/detail/scdlbot/) | 63.8K | I download MP3s of tracks&playlists with tags from SoundCloud, Bandcamp, YouTube and… <sub>`Music`</sub> |
 | [TeraBot Link To Video Bot \| Tera Box DL…](https://tgbox.cc/en/detail/terabestbot/) | 55.2K | Another TeraBox Bot: @TeraRealBot Any issue ? Dm: @CheemsSupportBot Bot Policy:… <sub>`Cloud Drive` `Free`</sub> |
-| [TeraBox Video Downloader \| TeraBox…](https://tgbox.cc/en/detail/terabox_downloader_new_bot/) | 45.9K | 🌟 Enjoy TeraBox Videos directly on Telegram 🎥 Watch & 📥 Download links 🚀 Unlimited usage,… |
+| [TeraBox Video Downloader \| TeraBox…](https://tgbox.cc/en/detail/terabox_downloader_new_bot/) | 46.7K | 🌟 Enjoy TeraBox Videos directly on Telegram 🎥 Watch & 📥 Download links 🚀 Unlimited usage,… |
 | [🇺🇦YoutubeDL - YouTube Download Bot](https://tgbox.cc/en/detail/ytbdownbot/) | 44.3K | Download videos from YouTube and TT Chief: @alexmboss <sub>`Free`</sub> |
 | [mp3 tools editor music tag to convertor…](https://tgbox.cc/en/detail/audio_editorbot/) | 40.4K | 🤖Бот для редактирования аудио/музыки Bot for editing audio/music Вопросы/Questions -… <sub>`Music`</sub> |
 | [Speed Up & Slowed Reverb & Nightcore Bot](https://tgbox.cc/en/detail/speedupmebot/) | 35.8K | 🎧Create Speed Up & Slowed Reverb music 🎧Сделать и скачать Speed Up & Slowed Reverb… <sub>`Music`</sub> |
@@ -1491,21 +1491,21 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [DOWNLOADER VIDEO YOUTUBE INSTAGRAM…](https://tgbox.cc/en/detail/youtubednbot/) | 32K | YouTube downloader: videos, Shorts and MP3 audio. Also Instagram and TikTok. Send a link. |
 | [LyBot - YouTube Music](https://tgbox.cc/en/detail/lytubebot/) | 28.9K | №1 Music Bot for find songs! Our channel - @lybotmusic <sub>`Music`</sub> |
 | [iPapkorn Bot](https://tgbox.cc/en/detail/ipapkornezpzbot/) | 28.5K | There's only one way to find out. |
-| [Movie Search Bot](https://tgbox.cc/en/detail/searchmoviesbot/) | 27.8K | This is a Telegram InLine Search Bot 📢: @NoCopyRightMovies <sub>`Movies`</sub> |
-| [Music + lyrics bot](https://tgbox.cc/en/detail/kpoploveandlovebot/) | 24.5K | For any Kpop music <sub>`Music`</sub> |
+| [Movie Search Bot](https://tgbox.cc/en/detail/searchmoviesbot/) | 27.2K | This is a Telegram InLine Search Bot 📢: @NoCopyRightMovies <sub>`Movies`</sub> |
+| [Music + lyrics bot](https://tgbox.cc/en/detail/kpoploveandlovebot/) | 24.2K | For any Kpop music <sub>`Music`</sub> |
 | [Douyin Downloader](https://tgbox.cc/en/detail/douyin_download_bot/) | 20.7K | Please notify @robinhust if you encounter any errors. <sub>`Free`</sub> |
 | [SHAZAMBOT \| MUZIKALAR](https://tgbox.cc/en/detail/shazamchibot/) | 15.1K | 😎 Reklama uchun : @... <sub>`Music`</sub> |
+| [Reddit Downloader](https://tgbox.cc/en/detail/reddit_download_bot/) | 15.1K | A small bot to download the reddit posts, images and videos. Source:… <sub>`Open Source`</sub> |
 | [W3BFLIX](https://tgbox.cc/en/detail/w3bflixbot/) | 15.1K | Experience the future of entertainment with W3BFLIX |
-| [Reddit Downloader](https://tgbox.cc/en/detail/reddit_download_bot/) | 14.8K | A small bot to download the reddit posts, images and videos. Source:… <sub>`Open Source`</sub> |
 | [Uzbekcha kinolar](https://tgbox.cc/en/detail/bo6oyorxbot/) | 14.3K | Assalomu alaykum Botga hush kelibsiz 😊 |
 | [RoundVideo \| Кружок из видео \| Circle…](https://tgbox.cc/en/detail/roundyourvideobot/) | 14K | Преврати видео в кружок 💿 Convert video file to video circle |
 | [The UseLess Bot](https://tgbox.cc/en/detail/googleimgbot/) | 13.5K | it was forbidden 🙊 to mention credits here due to annoying pm spam:… |
 | [聚合解析姬](https://tgbox.cc/en/detail/parsehubot/) | 13.1K | Multi-platform aggregation bot problem feedback: @MisakaSisters Update push: @mio\_room… <sub>`Open Source`</sub> |
 | [Netflix Series Bot 📺](https://tgbox.cc/en/detail/series_netflix_bot/) | 11.9K | Join Our Main Bot 👉 @Series24\_bot <sub>`TV Series`</sub> |
 | [Song🆔](https://tgbox.cc/en/detail/songidbot/) | 11.5K | Open-source bot that can identify music, similar to Shazam. Support: @SongIDsupportbot… <sub>`Music` `Open Source`</sub> |
+| [Biscope Myanmar App](https://tgbox.cc/en/detail/biscopemyanmar_bot/) | 11.4K | The First Myanmar Click to Watch Mini App |
 | [AudD](https://tgbox.cc/en/detail/auddbot/) | 11.2K | Identifies music in voice messages, audio files, and videos Music Recognition API —… <sub>`Music`</sub> |
 | [YouTube Downloader](https://tgbox.cc/en/detail/safe_utubebot/) | 10.6K | I can download any videos with limit. Max limit 500 mb. If you want to download large… <sub>`Free`</sub> |
-| [Biscope Myanmar App](https://tgbox.cc/en/detail/biscopemyanmar_bot/) | 10.6K | The First Myanmar Click to Watch Mini App |
 | [AI在线总结视频 (DC5)](https://tgbox.cc/en/detail/bilibiliparse_bot/) | — | 提炼视频内容与核心重点，生成 AI总结文本 直接向我发送视频链接即可 <sub>`Free`</sub> |
 | [Bilibili Feed Bot](https://tgbox.cc/en/detail/bilifeedbot/) | — | B site link content extractor with support for inline, group and channel text matching,… <sub>`Open Source`</sub> |
 | [Coub](https://tgbox.cc/en/detail/coub/) ✔️ | — | Short looped videos with sound. Watch Coub right in Telegram — and send coubs to any chat… <sub>`Official`</sub> |
@@ -1552,24 +1552,24 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Gamee](https://tgbox.cc/en/detail/gamee/) ✔️ | 276.5K | 🎮 The biggest gaming platform on Telegram! 🔥 Join the community 👉 @gameechannel Perks,… <sub>`Free`</sub> |
 | [GameBot](https://tgbox.cc/en/detail/gamebot/) ✔️ | 173.6K | I'm a demo bot for the Telegram Gaming Platform. I can get you a few fun sample games to… <sub>`Free` `Official`</sub> |
 | [Tic Tac Toe Bot](https://tgbox.cc/en/detail/xobot/) | 115.8K | Tic-Tac-Toe bot with singleplayer, multiplayer, 15 languages support and stats! @rombots |
-| [GameFactoryBot](https://tgbox.cc/en/detail/gamefactorybot/) | 71.4K | This bot creates online games that you can share and play with your friends. |
-| [Werewolf Moderator \[☮\]](https://tgbox.cc/en/detail/werewolfbot/) | 58.2K | Werewolf Moderator bot - http://www.tgwerewolf.com for information Source:… <sub>`Open Source`</sub> |
+| [GameFactoryBot](https://tgbox.cc/en/detail/gamefactorybot/) | 72.2K | This bot creates online games that you can share and play with your friends. |
+| [Werewolf Moderator \[☮\]](https://tgbox.cc/en/detail/werewolfbot/) | 57.4K | Werewolf Moderator bot - http://www.tgwerewolf.com for information Source:… <sub>`Open Source`</sub> |
 | [UNO Bot](https://tgbox.cc/en/detail/unobot/) | 38.3K | Play the UNO card game via inline commands <sub>`Free` `Open Source`</sub> |
-| [Draughts](https://tgbox.cc/en/detail/goplaybot/) | 29.7K | Draughts bot |
+| [Draughts](https://tgbox.cc/en/detail/goplaybot/) | 29.4K | Draughts bot |
 | [Minroob Game مینروب](https://tgbox.cc/en/detail/minroobot/) | 28.3K | 💣Play the multiplayer version of the classic Minesweeper game on Telegram! 🛠Support:… |
 | [Easy 🎮 Play](https://tgbox.cc/en/detail/easy2play_bot/) | 24.9K | The ultimate game center on Telegram |
 | [Alpaca Voice Changer](https://tgbox.cc/en/detail/voice_changer_bot/) | 22K | I can change the voice in your voice messages! |
-| [Doodle Gator — Draw & Guess charades…](https://tgbox.cc/en/detail/doodlegatorbot/) | 20.1K | 🎨 Draw and guess quick sketches right in your Telegram group! En: @DoodleGator Ru:… |
+| [Doodle Gator — Draw & Guess charades…](https://tgbox.cc/en/detail/doodlegatorbot/) | 20.5K | 🎨 Draw and guess quick sketches right in your Telegram group! En: @DoodleGator Ru:… |
 | [Bus Uncle](https://tgbox.cc/en/detail/sgbusunclebot/) | 16K | I tell you bus arrival time and how to go anywhere in Singapore |
+| [Chess Now](https://tgbox.cc/en/detail/chessnowbot/) | 13.2K | Engage in thrilling chess matches with friends, colleagues, or fellow group members… |
 | [BlackWerewolf](https://tgbox.cc/en/detail/blackwerewolfbot/) | 12.8K | The second @blackwwrobot See @BlackWolfAnnouncements for information and updates. For… |
-| [The 2 Chairs](https://tgbox.cc/en/detail/the2chairs_bot/) | 12.8K | Subscribe: @the2chairs, @the2chairs\_ru Contact: @mr\_shields Feedback:… |
 
 <details>
 <summary>Show 30 more</summary>
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [Chess Now](https://tgbox.cc/en/detail/chessnowbot/) | 12.4K | Engage in thrilling chess matches with friends, colleagues, or fellow group members… |
+| [The 2 Chairs](https://tgbox.cc/en/detail/the2chairs_bot/) | 12.8K | Subscribe: @the2chairs, @the2chairs\_ru Contact: @mr\_shields Feedback:… |
 | [Bot UNO](https://tgbox.cc/en/detail/unounofficialbot/) | 11.8K | An unofficial UNO Bot. There is ABSOLUTELY NO WARRANTY. |
 | [MadWorld PVP](https://tgbox.cc/en/detail/playmadworld_bot/) | 11.3K | Season Launch is Live with $10K in rewards 🔥Join now and hack free tokens 🚀 |
 | [Avalon](https://tgbox.cc/en/detail/avalonbg_bot/) | — | Avalon Game Bot. News channel: http://telegram.me/avalonbgbot. Support group:… |
@@ -1619,11 +1619,11 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [🐴 神马搜索 🔍](https://tgbox.cc/en/detail/smss/) | 964.1K | Official channel: @o123456 (not missing attention) Communication groups: @smbot0… <sub>`Free`</sub> |
 | [🔍超级索引 @CJSY](https://tgbox.cc/en/detail/cjsy/) | 850.3K | Super index @CJSY Super powerful search engine, fast search, source search, lead the… <sub>`Free`</sub> |
 | [Super 🔍](https://tgbox.cc/en/detail/super/) | 760.5K | TG must "search for artifacts"@Super and find the group, channel, movie, music or robot… <sub>`Free`</sub> |
-| [极搜🔍中文搜索@JISO](https://tgbox.cc/en/detail/jiso/) | 417.2K | Extreme Search JISO helps you find interesting groups, channels, videos, music, movies,… <sub>`Free`</sub> |
-| [中文索引](https://tgbox.cc/en/detail/teletop123bot/) | 323.3K | Help you find the groups, channels and bots you are interested in! Welcome to add… |
+| [极搜🔍中文搜索@JISO](https://tgbox.cc/en/detail/jiso/) | 424.3K | Extreme Search JISO helps you find interesting groups, channels, videos, music, movies,… <sub>`Free`</sub> |
+| [中文索引](https://tgbox.cc/en/detail/teletop123bot/) | 312.8K | Help you find the groups, channels and bots you are interested in! Welcome to add… |
 | [Searchee Bot](https://tgbox.cc/en/detail/searcheebot/) | 245K | Your guide in the world of Telegram channels. Find any channel in Telegram. ads:… <sub>`Free`</sub> |
 | [Video Search for YouTube](https://tgbox.cc/en/detail/vid/) | 227.6K | This bot can help you find and share YouTube videos. By using this Bot you agree with… <sub>`Free` `Official`</sub> |
-| [速搜](https://tgbox.cc/en/detail/toncnbot/) | 174.9K | Telegram中文社区索引机器人，帮助您找到感兴趣的群组、频道和机器人！ |
+| [速搜](https://tgbox.cc/en/detail/toncnbot/) | 176.1K | Telegram中文社区索引机器人，帮助您找到感兴趣的群组、频道和机器人！ |
 | [GIF Search](https://tgbox.cc/en/detail/gif/) | 136.7K | <sub>`Free` `Official`</sub> |
 
 <details>
@@ -1634,7 +1634,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Bing Image Search](https://tgbox.cc/en/detail/bing/) | 67.7K | <sub>`Free` `Official`</sub> |
 | [一起搜电影](https://tgbox.cc/en/detail/sotv/) | 59.2K | TG must be a video search engine to find your favorite movies and TV shows! welcome to… <sub>`Movies` `TV Series`</sub> |
 | [搜啦🔍资源搜索机器人 @soula](https://tgbox.cc/en/detail/soula/) | 22.3K | Search @SouLa English and easily search for Telegram groups, channels, videos, music and… |
-| [aiso中文搜索🔍](https://tgbox.cc/en/detail/aiso/) | 21.8K | English search Required bots Send keywords Find groups, channels, movies, music or bots.… <sub>`Free`</sub> |
+| [aiso中文搜索🔍](https://tgbox.cc/en/detail/aiso/) | 21.4K | English search Required bots Send keywords Find groups, channels, movies, music or bots.… <sub>`Free`</sub> |
 | [MotherSearch - Telegram search](https://tgbox.cc/en/detail/mothersearchbot/) | 20.7K | Search 8M+ Telegram channels and 10B+ posts. Find channels, track topics, and discover… |
 | [Wikipedia Search](https://tgbox.cc/en/detail/wiki/) | 11.2K | <sub>`Free` `Official`</sub> |
 | [阿里云盘资源 Bot](https://tgbox.cc/en/detail/aliyunpanbot/) | — | Gather, search, collect, watch, share, and export to become the all-powerful Ali Cloud… <sub>`Cloud Drive` `Movies`</sub> |
@@ -1670,10 +1670,10 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [Fragment Auction Alerts](https://tgbox.cc/en/detail/fragment/) ✔️ | 332.4K | <sub>`Official`</sub> |
+| [Fragment Auction Alerts](https://tgbox.cc/en/detail/fragment/) ✔️ | 342.3K | <sub>`Official`</sub> |
 | [OkSearch Bot](https://tgbox.cc/en/detail/oksearchbot/) | 140.6K | A smart search assistant for Telegram. Find channels, groups, and content easily.… |
 | [Gmail Bot](https://tgbox.cc/en/detail/gmailbot/) ✔️ | 40.1K | This bot is an email client that works right inside Telegram. Connect your Gmail account… <sub>`Free` `Official`</sub> |
-| [Football Live Goals](https://tgbox.cc/en/detail/footylivebot/) | 29.3K | Receive real-time updates about live football matches. Demo: @PL\_live\_football… |
+| [Football Live Goals](https://tgbox.cc/en/detail/footylivebot/) | 28K | Receive real-time updates about live football matches. Demo: @PL\_live\_football… |
 | [Calculator](https://tgbox.cc/en/detail/calculation_smart_bot/) | 27.5K | Bot that can calculate complex math with parentheses and operations, just write me a… |
 | [打卡机器人 免费版](https://tgbox.cc/en/detail/ttjfree_bot/) | 22.3K | This robot is a free-shared version of the Card Robot for experience use. Features: Card,… <sub>`Free`</sub> |
 | [Skeddy](https://tgbox.cc/en/detail/skeddybot/) | 18.2K | Skeddy is a simple yet powerful reminder tool that can help you create and manage your… <sub>`Free`</sub> |
@@ -1720,18 +1720,18 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [ChatGPT \| Nano Banana \| Seedance](https://tgbox.cc/en/detail/gpt4telegrambot/) | 5.1M | The all-in-one AI bot: ChatGPT, Claude, Gemini, DeepSeek, Midjourney, etc. Join us:… <sub>`AI Art` `ChatGPT` `LLMs`</sub> |
-| [Mira](https://tgbox.cc/en/detail/mira_ibot/) ✔️ | 728.3K | Personal AI agent that turns conversations into actions. Channel @miramedia\_en Support… <sub>`AI Agents` `LLMs`</sub> |
-| [Syntx AI](https://tgbox.cc/en/detail/syntxaibot/) | 444.7K | The most powerful AI on TG: Seedance 2.5, Kling 3.0, VEO 3.1, Claude, GPT, Nano banana… <sub>`AI Art` `AI Video` `LLMs`</sub> |
+| [ChatGPT \| Nano Banana \| Seedance](https://tgbox.cc/en/detail/gpt4telegrambot/) | 6.1M | The all-in-one AI bot: ChatGPT, Claude, Gemini, DeepSeek, Midjourney, etc. Join us:… <sub>`AI Art` `ChatGPT` `LLMs`</sub> |
+| [Mira](https://tgbox.cc/en/detail/mira_ibot/) ✔️ | 738.9K | Personal AI agent that turns conversations into actions. Channel @miramedia\_en Support… <sub>`AI Agents` `LLMs`</sub> |
+| [Syntx AI](https://tgbox.cc/en/detail/syntxaibot/) | 450.1K | The most powerful AI on TG: Seedance 2.5, Kling 3.0, VEO 3.1, Claude, GPT, Nano banana… <sub>`AI Art` `AI Video` `LLMs`</sub> |
 | [Satu Digital](https://tgbox.cc/en/detail/satudigitalbot/) | 101.4K | 📢 Official Channel: @satu\_digital Join our official channel for hourly restock alerts,… <sub>`Free`</sub> |
 | [Uniset AI • ChatGPT](https://tgbox.cc/en/detail/uniset/) | 78.3K | Bot with access to ChatGPT, Nano Banana, Seedance and other models. Site → uniset.ai… <sub>`AI Video` `ChatGPT` `LLMs`</sub> |
 | [Blabber.live \[AI characters\]](https://tgbox.cc/en/detail/blabber_live_bot/) | 63K | A place where unique AI characters come to life Support: @lilith\_blabber \| Community:… |
 | [SHAZEN \| Ai Music Finder](https://tgbox.cc/en/detail/shazenbot/) | 61.5K | 🔍 Search through 120M+ songs with AI 💬 @alirezafrp <sub>`Music`</sub> |
-| [Kandinsky](https://tgbox.cc/en/detail/kandinsky21_bot/) ✔️ | 39.5K | Kandinsky by Sber AI <sub>`Official`</sub> |
-| [Celestia](https://tgbox.cc/en/detail/ai_celestia_bot/) | 28.3K | Telegram first AI-powered group moderator with a powerful WebApp. News and Updates:… |
-| [The Peach](https://tgbox.cc/en/detail/the_peach_admin_bot/) | 28K | Welcome to 🍑 Peach — discover, choose, and chat with AI characters. Support:… |
-| [Grok](https://tgbox.cc/en/detail/grokai/) ✔️ | 26.5K | Grok 3 is xAI's frontier language model. Now available for free to all Telegram Premium… <sub>`LLMs` `Official`</sub> |
-| [Neurogen - Nano Banana, Seedream, King…](https://tgbox.cc/en/detail/alltheliesbot/) | 21.5K | Create and share content with Nano Banana 2/Pro, Veo 3.1, Seedream 4.5, Seedance 2.0,… <sub>`AI Video`</sub> |
+| [Kandinsky](https://tgbox.cc/en/detail/kandinsky21_bot/) ✔️ | 39.1K | Kandinsky by Sber AI <sub>`Official`</sub> |
+| [Celestia](https://tgbox.cc/en/detail/ai_celestia_bot/) | 27.6K | Telegram first AI-powered group moderator with a powerful WebApp. News and Updates:… |
+| [The Peach](https://tgbox.cc/en/detail/the_peach_admin_bot/) | 27K | Welcome to 🍑 Peach — discover, choose, and chat with AI characters. Support:… |
+| [Grok](https://tgbox.cc/en/detail/grokai/) ✔️ | 25.6K | Grok 3 is xAI's frontier language model. Now available for free to all Telegram Premium… <sub>`LLMs` `Official`</sub> |
+| [Neurogen - Nano Banana, Seedream, King…](https://tgbox.cc/en/detail/alltheliesbot/) | 21.9K | Create and share content with Nano Banana 2/Pro, Veo 3.1, Seedream 4.5, Seedance 2.0,… <sub>`AI Video`</sub> |
 | [VEO3 Video Generation](https://tgbox.cc/en/detail/veomaxbot/) | 18.8K | Creating Video with Sound via Google’s VEO3 Model help? @Kristiji <sub>`AI Video`</sub> |
 | [Perplexity](https://tgbox.cc/en/detail/askplexbot/) ✔️ | 16.5K | Ask Anything! <sub>`LLMs`</sub> |
 | [Microsoft Copilot](https://tgbox.cc/en/detail/copilotofficialbot/) ✔️ | 12.9K | Your everyday AI companion, here to make life easier and talk about anything. Always here… <sub>`LLMs` `Official`</sub> |
@@ -1742,9 +1742,9 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Monthly users | About |
 | --- | ---: | --- |
 | [Chat Norris 🤠](https://tgbox.cc/en/detail/chatnorrisbot/) | 12.8K | 🎙 AI Саммари Бот для чатов Канал: @chatnorris Поддержка & реклама: @norrischat <sub>`LLMs`</sub> |
-| [Gemini Pixel Helper](https://tgbox.cc/en/detail/gemini12pro_bot/) | 11.1K | 🚀 公益升级机器人：https://t.me/gemini12pro\_bot 📢 频道：https://t.me/gemini12pro\_channel 💬… <sub>`LLMs`</sub> |
-| [CoinTrendzBot](https://tgbox.cc/en/detail/cointrendzbot/) | 11K | The \#1 Crypto Market Bot🤖 Charts, Price, News & more 📊 Setup: Add the bot to a group or… |
 | [Chatty - English Tutor](https://tgbox.cc/en/detail/chattytutorbot/) | 10.8K | Bot №1 for studying English. Channel: @ChattyEnglishBotChannel Any questions: @chatty\_boss |
+| [CoinTrendzBot](https://tgbox.cc/en/detail/cointrendzbot/) | 10.7K | The \#1 Crypto Market Bot🤖 Charts, Price, News & more 📊 Setup: Add the bot to a group or… |
+| [Gemini Pixel Helper](https://tgbox.cc/en/detail/gemini12pro_bot/) | 10.6K | 🚀 公益升级机器人：https://t.me/gemini12pro\_bot 📢 频道：https://t.me/gemini12pro\_channel 💬… <sub>`LLMs`</sub> |
 | [Fibonacci AI \| Презентации ИИ \| AI…](https://tgbox.cc/en/detail/fibonacci_presentation_bot/) | 10.4K | 🎯 Make AI presentations in 2 min \| ИИ-презентации за 2 минуты 🌐 fibonacciai.io 📱… |
 | [AI Копирайтер — тексты, посты, реклама](https://tgbox.cc/en/detail/ai_copywriter_text_bot/) | — | ИИ-копирайтер: посты для Instagram, ВК и Telegram, продающие тексты, описание товара.… |
 | [AI Резюме — резюме и сопроводительные…](https://tgbox.cc/en/detail/ai_cv_writer_bot/) | — | ИИ резюме бесплатно: составить резюме для hh.ru, сопроводительное письмо под вакансию,… |
@@ -1767,21 +1767,21 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
+| [Crypto Bot](https://tgbox.cc/en/detail/send/) | 1.3M | Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram. <sub>`Exchanges`</sub> |
 | [Crypto Bot](https://tgbox.cc/en/detail/cryptobot/) | 1.3M | Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram. <sub>`Finance`</sub> |
-| [Crypto Bot](https://tgbox.cc/en/detail/send/) | 1.2M | Use @CryptoBot to buy, sell, store, @send and pay with cryptocurrency right in Telegram. <sub>`Exchanges`</sub> |
 | [Bitpapa](https://tgbox.cc/en/detail/bitpapa_bot/) ✔️ | 1.1M | Use @Bitpapa\_bot to buy, sell, store and pay with cryptocurrency directly in Telegram <sub>`Exchanges` `Official`</sub> |
 | [xRocket](https://tgbox.cc/en/detail/tonrocketbot/) ✔️ | 592K | \#1 CEX & SocialFi platform on Telegram. @xrocketnews — news channel @TonRocketSupportBot… <sub>`TON`</sub> |
-| [xRocket](https://tgbox.cc/en/detail/xrocket/) ✔️ | 592K | \#1 CEX & SocialFi platform on Telegram. @xrocketnews — news channel @TonRocketSupportBot… <sub>`TON`</sub> |
-| [Okpay💰](https://tgbox.cc/en/detail/okpay/) | 165.9K | Easy crypto transactions, secure storage, mobile top-ups, & digital red envelopes.… <sub>`Finance`</sub> |
+| [xRocket](https://tgbox.cc/en/detail/xrocket/) ✔️ | 585.2K | \#1 CEX & SocialFi platform on Telegram. @xrocketnews — news channel @TonRocketSupportBot… <sub>`TON`</sub> |
+| [Okpay💰](https://tgbox.cc/en/detail/okpay/) | 163.6K | Easy crypto transactions, secure storage, mobile top-ups, & digital red envelopes.… <sub>`Finance`</sub> |
 | [HOT Wallet](https://tgbox.cc/en/detail/herewalletbot/) ✔️ | 156.3K | Meet TON, Solana, NEAR & Ethereum within new generation Telegram crypto wallet. Updates:… <sub>`Official` `On-chain Data`</sub> |
-| [kkpay💰](https://tgbox.cc/en/detail/kkpay/) | 80.3K | kkpay is a Chinese market dedicated wallet created by @okay Group, more in line with… <sub>`Finance`</sub> |
+| [kkpay💰](https://tgbox.cc/en/detail/kkpay/) | 88.7K | kkpay is a Chinese market dedicated wallet created by @okay Group, more in line with… <sub>`Finance`</sub> |
 | [Tonkeeper](https://tgbox.cc/en/detail/tonkeeper/) ✔️ | 38.1K | Tonkeeper bot is a wallet and a direct line to our support team. Ask us any question… <sub>`TON`</sub> |
 | [Rapira](https://tgbox.cc/en/detail/rapiranetbot/) | 29K | Official bot of the Rapira.net exchange 📢 Channel: @RapiraNews 🛟 Support:… <sub>`Exchanges`</sub> |
 | [Bitget Wallet Lite](https://tgbox.cc/en/detail/bitgetwallet_tgbot/) ✔️ | 24.2K | Join 10M+ users to securely earn and transfer crypto on the TON blockchain Learn more… <sub>`TON`</sub> |
-| [Mpay](https://tgbox.cc/en/detail/mpaycardbot/) | 22.6K | 💸 Crypto Card backed by USDT for global spending! ✨ Channel: t.me/MpayCard ✨ X:… |
+| [Mpay](https://tgbox.cc/en/detail/mpaycardbot/) | 22.3K | 💸 Crypto Card backed by USDT for global spending! ✨ Channel: t.me/MpayCard ✨ X:… |
 | [DuckChain](https://tgbox.cc/en/detail/duckchain_bot/) | 21.4K | The Telegram AI Chain. Bridge: @DuckChain\_Bridge\_bot Stake: @Bridge\_StakeBot |
-| [UXUY Wallet](https://tgbox.cc/en/detail/uxuybot/) | 20K | The first Self-Custody Multi-Chain Wallet based on Telegram, crafted by the @uxuycom team… <sub>`On-chain Data`</sub> |
-| [AMLBot](https://tgbox.cc/en/detail/cryptoaml_bot/) | 19.9K | KYT / Wallet screening Protect your crypto funds from any dangers and effectively secure… <sub>`On-chain Data`</sub> |
+| [AMLBot](https://tgbox.cc/en/detail/cryptoaml_bot/) | 20.8K | KYT / Wallet screening Protect your crypto funds from any dangers and effectively secure… <sub>`On-chain Data`</sub> |
+| [UXUY Wallet](https://tgbox.cc/en/detail/uxuybot/) | 19.3K | The first Self-Custody Multi-Chain Wallet based on Telegram, crafted by the @uxuycom team… <sub>`On-chain Data`</sub> |
 
 <details>
 <summary>Show 13 more</summary>
@@ -1789,8 +1789,8 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Monthly users | About |
 | --- | ---: | --- |
 | [极搜UT钱包](https://tgbox.cc/en/detail/utbot/) | 18.6K | Secure, convenient and anonymous storage or exchange of cryptocurrencies Official channel… <sub>`Finance`</sub> |
-| [Cwallet Bot](https://tgbox.cc/en/detail/cwallet_com_bot/) | 17.1K | Unlock the Diverse Applications of Crypto in Web3.0 World. 🔗 cwallet.com 🌍 Channel:… <sub>`On-chain Data`</sub> |
-| [MaxSwap Crypto Wallet](https://tgbox.cc/en/detail/maxswap_bot/) | 13.4K | Crypto card for Apple & Google Pay Top up with crypto \| @MaxSwap\_bot 🕹 Support… <sub>`On-chain Data`</sub> |
+| [Cwallet Bot](https://tgbox.cc/en/detail/cwallet_com_bot/) | 16.6K | Unlock the Diverse Applications of Crypto in Web3.0 World. 🔗 cwallet.com 🌍 Channel:… <sub>`On-chain Data`</sub> |
+| [MaxSwap Crypto Wallet](https://tgbox.cc/en/detail/maxswap_bot/) | 13.7K | Crypto card for Apple & Google Pay Top up with crypto \| @MaxSwap\_bot 🕹 Support… <sub>`On-chain Data`</sub> |
 | [区块链助手 - 链上信息查询](https://tgbox.cc/en/detail/querytokenbot/) | 13.3K | Chain information query assistant energy flash rental trx exchange trx address trading… <sub>`On-chain Data`</sub> |
 | [bemo \| TON Staking \| Liquid Staking \|…](https://tgbox.cc/en/detail/bemo_finance_bot/) | — | The first liquid staking platform on the TON blockchain. <sub>`TON`</sub> |
 | [ChainCrawler](https://tgbox.cc/en/detail/crawlerhunterbot/) | — | AML wallet check tool to avoid scam, rug pulls, honeypots and those under sanctions. <sub>`Security`</sub> |
@@ -1814,16 +1814,16 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [Stickers Bot](https://tgbox.cc/en/detail/stickers/) ✔️ | 661.5K | Create Telegram Stickers and get usage stats for your stickers with this bot. <sub>`Free` `Memes` `Official`</sub> |
 | [QuotLy](https://tgbox.cc/en/detail/quotlybot/) | 635.1K | I'll help create a quote from the message. To do this, write in response to the message… <sub>`Memes`</sub> |
-| [fStik — Stickers & Emoji](https://tgbox.cc/en/detail/fstikbot/) | 507.1K | Create stickers and emoji from photos, videos, GIFs. Sticker catalog and search. 🇺🇦 |
+| [fStik — Stickers & Emoji](https://tgbox.cc/en/detail/fstikbot/) | 512.8K | Create stickers and emoji from photos, videos, GIFs. Sticker catalog and search. 🇺🇦 |
 | [Sticker Downloader](https://tgbox.cc/en/detail/stickerdownloadbot/) | 38.3K | Download any telegram sticker in jpg, png & Webp formats, or whole sticker pack in zip… <sub>`Free`</sub> |
-| [EmojiTitleBot \| Text from Emojis](https://tgbox.cc/en/detail/emojititlebot/) | 29K |  |
+| [EmojiTitleBot \| Text from Emojis](https://tgbox.cc/en/detail/emojititlebot/) | 29.1K |  |
 | [Telegram Stickers to WhatsApp Transfer](https://tgbox.cc/en/detail/tgtowabot/) | 27.6K | I can transfer Telegram stickers to WhatsApp |
 | [Literally Me](https://tgbox.cc/en/detail/literalmebot/) | 19.8K | Send a photo — get stickers with your face in them Channel: @literal\_ly Support:… |
 | [Reaction & Comments](https://tgbox.cc/en/detail/reacombot/) | 18.4K | I will add reactions to your posts on the channel along with native comments Support:… |
 | [Stickers Bot](https://tgbox.cc/en/detail/sticbot/) | 15.3K | This bot can help you create a sticker pack. News and support: @BotBase |
 | [Video to Gif Converter](https://tgbox.cc/en/detail/videotogifconverterbot/) | 14.2K | This bot lets you convert your videos into GIFs and more! Contact us:… |
-| [Auto Reaction Bot ⚡️](https://tgbox.cc/en/detail/auto_reaction0_bot/) | 13.6K | Adds emoji reactions to new channel and group posts. |
-| [Sticker Emoji Downloader](https://tgbox.cc/en/detail/gimmestickerbot/) | 13.3K | This bot can help you download stickers and emojis. Support: @GimmeSupport |
+| [Auto Reaction Bot ⚡️](https://tgbox.cc/en/detail/auto_reaction0_bot/) | 13.8K | Adds emoji reactions to new channel and group posts. |
+| [Sticker Emoji Downloader](https://tgbox.cc/en/detail/gimmestickerbot/) | 12.9K | This bot can help you download stickers and emojis. Support: @GimmeSupport |
 | [QuotLy ★](https://tgbox.cc/en/detail/bakaquote_bot/) | 11.8K | I can create sticker quotes from messages in groups. Author contact:… |
 | [StickerBot](https://tgbox.cc/en/detail/sticker/) | 10.3K | This bot will help you find new relevant stickers for your favorite emoji. <sub>`Free` `Official`</sub> |
 | [Modero](https://tgbox.cc/en/detail/easymoderbot/) | 10.1K | The most simple and useful bot with custom emojis for moderation chats and forums… |
@@ -1857,16 +1857,16 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | Name | Monthly users | About |
 | --- | ---: | --- |
 | [NSW Torrent Library](https://tgbox.cc/en/detail/switch_library_bot/) | 175.8K | All our projects: https://nswtl.info Our chat: https://t.me/NSW\_TorrentLibrary\_2 Click… |
-| [File Converter](https://tgbox.cc/en/detail/newfileconverterbot/) | 58.7K | This bot allows to convert files from one format to another easily. It works with images,… <sub>`Cloud Drive` `Free`</sub> |
+| [File Converter](https://tgbox.cc/en/detail/newfileconverterbot/) | 57.7K | This bot allows to convert files from one format to another easily. It works with images,… <sub>`Cloud Drive` `Free`</sub> |
 | [Voice Remover \| AI Vocal Remover](https://tgbox.cc/en/detail/voice_remover_bot/) | 26.2K | 🎙 Voice Remover Bot - separate vocals and music in any song. <sub>`Music`</sub> |
 | [Save to PikPak](https://tgbox.cc/en/detail/pikpak_bot/) | 25.8K | Fast 🚀and safely 🔒collect files from Telegram with up to 10TB Private Cloud. Full support… |
 | [Save YouTube Video Bot](https://tgbox.cc/en/detail/savevybot/) | 25.2K | @savevybot Download file/video/audio. Shazam and Search Music. Support: @pony\_bots <sub>`Music`</sub> |
-| [iDeploy](https://tgbox.cc/en/detail/ipadlbot/) | 19.4K | Hi! We are glad to see you in our bot! Stay tuned on @ipaDL\_news. Buy a developer… |
 | [Send to Kindle 📚](https://tgbox.cc/en/detail/send2kindlebot/) | 19.3K | Send to Kindle Bot @GabrielRF http://grf.xyz <sub>`E-books`</sub> |
-| [URL Uploader](https://tgbox.cc/en/detail/uploadbot/) | 18.3K | Quick way to upload files to telegram by url. Maximum file size allowed 500MB Daily… <sub>`Cloud Drive` `Free`</sub> |
+| [iDeploy](https://tgbox.cc/en/detail/ipadlbot/) | 19.1K | Hi! We are glad to see you in our bot! Stay tuned on @ipaDL\_news. Buy a developer… |
 | [VirusTotal](https://tgbox.cc/en/detail/virustotal_av_bot/) | 18.2K | Send me a file and I will analyze it for viruses using over 70 different antiviruses.… |
+| [URL Uploader](https://tgbox.cc/en/detail/uploadbot/) | 17.7K | Quick way to upload files to telegram by url. Maximum file size allowed 500MB Daily… <sub>`Cloud Drive` `Free`</sub> |
 | [PDF Bot](https://tgbox.cc/en/detail/pdfbot/) | 17.6K | A bot that can do a lot of things related to PDF files |
-| [mp3 tools bot](https://tgbox.cc/en/detail/mp3_tools_bot/) | 14.7K | Questions/Вопросы: @Torturets |
+| [mp3 tools bot](https://tgbox.cc/en/detail/mp3_tools_bot/) | 14.9K | Questions/Вопросы: @Torturets |
 | [Get Public Link Bot](https://tgbox.cc/en/detail/getpubliclinkbot/) | 12.9K | Just Send Me any Document File of any SIZE i will Generate a External Link. Any Issues… <sub>`Cloud Drive`</sub> |
 | [Video To Audio Bot \| MP3](https://tgbox.cc/en/detail/videotoaudiookbot/) | 12.1K | Turn any video or YouTube/TikTok/Instagram link into audio (MP3) in seconds. 🎬→🎵 <sub>`Music`</sub> |
 | [My Instants Bot](https://tgbox.cc/en/detail/myinstantsbot/) | 10.6K | This bot search sounds in www.myinstants.com! |
@@ -1904,16 +1904,16 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Tribute](https://tgbox.cc/en/detail/subscribeappbot/) ✔️ | 1.8M | Monetize content through donations and subscriptions. News: @TributeNewsEN TRBT Limited… <sub>`Official`</sub> |
 | [Tribute](https://tgbox.cc/en/detail/tribute/) ✔️ | 1.8M | Monetize content through donations and subscriptions. News: @TributeNewsEN TRBT Limited… <sub>`Finance`</sub> |
 | [Manybot](https://tgbox.cc/en/detail/manybot/) | 960.4K | 🔥Manybot lets you create your own bots. Send messages, create custom commands and menus.… |
-| [LikeBot](https://tgbox.cc/en/detail/like/) | 554.5K | A cool bot to create posts with emoji-based like buttons. |
+| [LikeBot](https://tgbox.cc/en/detail/like/) | 570.5K | A cool bot to create posts with emoji-based like buttons. |
 | [TelepostBot](https://tgbox.cc/en/detail/telepostbot/) | 526.5K | Панель управления: app.telepost.me/login Официальный блог - @telepost\_blog Техподдержка… |
 | [Controller Bot](https://tgbox.cc/en/detail/controllerbot/) | 304.9K | Awesome bot for channel owners that helps you to create rich posts, view stats and more. |
-| [Channel Actions Bot - Join Approver…](https://tgbox.cc/en/detail/channelactionsbot/) | 75.8K | I can auto approve as well as disapprove new channel join requests!… |
-| [DiscussBot](https://tgbox.cc/en/detail/discussbot/) ✔️ | 34.7K | Make this bot an admin in your channel to add comment buttons to all posts. <sub>`Free` `Official`</sub> |
-| [Comments Bot](https://tgbox.cc/en/detail/commentsbot/) | 24.5K | I can help you to create posts with comments, share them to your channels or groups. <sub>`Free`</sub> |
+| [Channel Actions Bot - Join Approver…](https://tgbox.cc/en/detail/channelactionsbot/) | 78K | I can auto approve as well as disapprove new channel join requests!… |
+| [DiscussBot](https://tgbox.cc/en/detail/discussbot/) ✔️ | 33.7K | Make this bot an admin in your channel to add comment buttons to all posts. <sub>`Free` `Official`</sub> |
+| [Comments Bot](https://tgbox.cc/en/detail/commentsbot/) | 23.9K | I can help you to create posts with comments, share them to your channels or groups. <sub>`Free`</sub> |
 | [Junction Bot](https://tgbox.cc/en/detail/junction_bot/) | 21.5K | 🤖 Automates your Telegram routine Message forwarding, digests and more 🌐 junctionbot.io… |
 | [React Bot](https://tgbox.cc/en/detail/reactbot/) | 20.7K | I can help you to create rich posts with reactions and comments in your channels. |
 | [Group Help Payments \| Donations \| GH](https://tgbox.cc/en/detail/ghdonatebot/) | 16.8K | GroupHelp official bot for purchasing paid features. 📣 @ghelp 🤖 @GroupHelpBot 🌐… |
-| [Xpress Post Bot](https://tgbox.cc/en/detail/xpress_postbot/) | 13.7K | I'm Channel Managing Bot Create Posts with Buttons for your Multiple Channels Schedule… |
+| [Xpress Post Bot](https://tgbox.cc/en/detail/xpress_postbot/) | 14K | I'm Channel Managing Bot Create Posts with Buttons for your Multiple Channels Schedule… |
 
 <details>
 <summary>Show 8 more</summary>
@@ -1939,9 +1939,9 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [AximoBot \| RSS & Social Media Forwarder](https://tgbox.cc/en/detail/aximobot/) | 26.4K | 📡 AximoBot Top RSS & Social Media Forwarder to Telegram. Supports TikTok, Instagram,… |
-| [Feed Reader Bot](https://tgbox.cc/en/detail/thefeedreaderbot/) | 17.6K | The Feed Reader Bot monitors RSS feeds, X/Youtube accounts, sending you notifications… |
-| [CryptoWhale](https://tgbox.cc/en/detail/cryptowhalebot/) | 10.3K | Crypto, Stocks, FX Pricing, Charting, & News Bot Channels Main: @WhaleBotAlerts Liqs:… |
+| [AximoBot \| RSS & Social Media Forwarder](https://tgbox.cc/en/detail/aximobot/) | 24.8K | 📡 AximoBot Top RSS & Social Media Forwarder (TikTok, Instagram, YouTube, Twitter, Reddit,… |
+| [Feed Reader Bot](https://tgbox.cc/en/detail/thefeedreaderbot/) | 17.3K | The Feed Reader Bot monitors RSS feeds, X/Youtube accounts, sending you notifications… |
+| [CryptoWhale](https://tgbox.cc/en/detail/cryptowhalebot/) | 10.2K | Crypto, Stocks, FX Pricing, Charting, & News Bot Channels Main: @WhaleBotAlerts Liqs:… |
 | [El Monitorro - Feed Reader](https://tgbox.cc/en/detail/el_monitorro_bot/) | — | El Monitorro is Feed Reader. Type /help to see available commands. Join… <sub>`Free` `Open Source`</sub> |
 | [EventsAggregator](https://tgbox.cc/en/detail/eventsaggregatorbot/) | — | Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in… <sub>`Free`</sub> |
 | [Feed Man Bot](https://tgbox.cc/en/detail/feedmanbot/) | — | @FeedManBot Your perfect companion to keep up to date with all of your RSS feeds <sub>`Free`</sub> |
@@ -1998,14 +1998,14 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | [Livegram Bot](https://tgbox.cc/en/detail/livegrambot/) | 1.1M | Livegram Bot is a builder of feedback bots for Telegram. <sub>`Free`</sub> |
 | [Anonymous Bot](https://tgbox.cc/en/detail/anonymousbot/) | 26.9K | This bot used to send messages to @random\_message. Now it is sleeping. Shhh. |
 | [Random Chatss bot](https://tgbox.cc/en/detail/randomchatssbot/) | 25.4K | 👋Hey With this bot you can chat with random people from all over the world based on your… |
-| [IncogNote — anonymous messages](https://tgbox.cc/en/detail/incognotebot/) | 23.5K | 🇺🇦 A safe way to exchange anonymous messages via the link Updates: @IncogNoteEN <sub>`Exchanges`</sub> |
-| [RandomMeetBot](https://tgbox.cc/en/detail/randommeetbot/) | 20.6K | Hey lets chat. Meet random people from all over Telegram. Make new friends, discover… |
-| [AnonimeChatBot](https://tgbox.cc/en/detail/anonimechatbot/) | 13.4K | Join us today and chat with more than 200.000 users anonymously! |
+| [IncogNote — anonymous messages](https://tgbox.cc/en/detail/incognotebot/) | 23.2K | 🇺🇦 A safe way to exchange anonymous messages via the link Updates: @IncogNoteEN <sub>`Exchanges`</sub> |
+| [RandomMeetBot](https://tgbox.cc/en/detail/randommeetbot/) | 19K | Hey lets chat. Meet random people from all over Telegram. Make new friends, discover… |
+| [AnonimeChatBot](https://tgbox.cc/en/detail/anonimechatbot/) | 13.2K | Join us today and chat with more than 200.000 users anonymously! |
+| [OGChat Bot](https://tgbox.cc/en/detail/ogchatbot/) | 10.2K | Anonymous chat with random people! You can also share text, photos and videos. |
 | [Anonymous Messages & Questions Bot ·…](https://tgbox.cc/en/detail/anoninboxprobot/) | — | Anonymous messages and questions. Share your link from the start screen. More bots:… |
 | [Anonymous Group Messages · Anon Bot](https://tgbox.cc/en/detail/anonsayprobot/) | — | Anonymous messages in your group: send /anon with your text. Admins can ban abusers. More… |
 | [Anonymous Telegram Bot](https://tgbox.cc/en/detail/anonymous_telegram_bot/) | — |  |
 | [NodeForwardBot](https://tgbox.cc/en/detail/nodeforwardbot/) | — | Double-directional private chat forwarding robot, no ads, no number limit, permanent… <sub>`Open Source`</sub> |
-| [OGChat Bot](https://tgbox.cc/en/detail/ogchatbot/) | — | Anonymous chat with random people! You can also share text, photos and videos. |
 | [ThXChat - Random Chat](https://tgbox.cc/en/detail/thxchatbot/) | — | Private 1-on-1 anonymous chats. Get Matched with a random stranger for anonymous chat.… <sub>`Free`</sub> |
 | [WegramBot](https://tgbox.cc/en/detail/wegram_bot/) | — | Create your own private chat robot that doesn’t have any advertising. <sub>`Open Source`</sub> |
 | [Whisper · Secret Message Bot ·…](https://tgbox.cc/en/detail/whisperlockbot/) | — | Locked whisper only one friend can open, in any chat. More bots: addthisbot.com |
@@ -2020,7 +2020,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 | --- | ---: | --- |
 | [Telemetrio](https://tgbox.cc/en/detail/telemetr_io_bot/) | 181.1K | The bot creates a New Year's greeting card with Telegram channel stats for 2023 and… |
 | [TGStat Bot](https://tgbox.cc/en/detail/tgstat_bot/) | 77.1K | Пришлю статистику любого Telegram-канала, чата, публикации. |
-| [Crosser Bot](https://tgbox.cc/en/detail/crosser_bot/) | 15.9K | Удаляю и защищаю от ботов, поднимаю ER, анализирую каналы. Чат: @crosser\_chat… |
+| [Crosser Bot](https://tgbox.cc/en/detail/crosser_bot/) | 16.4K | Удаляю и защищаю от ботов, поднимаю ER, анализирую каналы. Чат: @crosser\_chat… |
 | [AlphaForge 🌌 \| AI Quant](https://tgbox.cc/en/detail/alphaforgeai_bot/) | — | <sub>`AI Agents` `Finance` `Free`</sub> |
 | [Channel Stats](https://tgbox.cc/en/detail/channelstatsbot/) | — |  |
 | [统计秘书](https://tgbox.cc/en/detail/fengstatsbot/) | — | The Secretary makes various statistics in the group, the number of speeches, etc. <sub>`Free`</sub> |
@@ -2038,7 +2038,7 @@ A curated, auto-updated list of 1248 public Telegram channels, groups and bots �
 
 | Name | Monthly users | About |
 | --- | ---: | --- |
-| [Yandex Translate](https://tgbox.cc/en/detail/ytranslatebot/) | 43.3K | I can translate your messeges to any language. You can talk to new people from all around… <sub>`Free`</sub> |
+| [Yandex Translate](https://tgbox.cc/en/detail/ytranslatebot/) | 42.5K | I can translate your messeges to any language. You can talk to new people from all around… <sub>`Free`</sub> |
 | [Translator](https://tgbox.cc/en/detail/tgtranslatorbot/) | 27.2K | @tgtrns \| Translates messages in group chats. Support: @Dubzer 🦈 <sub>`Free`</sub> |
 | [Language Translation Bot](https://tgbox.cc/en/detail/am_translationbot/) | 11K | I'm Language Translator Bot. I'll Translate any language to any language |
 | [Babelgram](https://tgbox.cc/en/detail/babelgrambot/) | — | This bot can autotranslate your messages in any group chat or use it inline to translate… |
