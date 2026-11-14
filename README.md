@@ -2084,6 +2084,7 @@ A curated, auto-updated list of 1245 public Telegram channels, groups and bots �
 
 ## Related
 
+- [FinchGram](https://github.com/FinchGram/FinchGram) — Unofficial open-source Telegram client for macOS, written in Rust with Slint UI. [Website](https://www.finchgram.com).
 - [TGbox](https://github.com/TGrpg/tgbox) — the open-source directory behind this list (Astro + grammY on the Cloudflare free plan). Self-host your own.
 
 <a id="license"></a>
