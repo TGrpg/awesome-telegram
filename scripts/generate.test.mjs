@@ -92,3 +92,50 @@ test("the Traditional README links the Traditional pages and uses Traditional un
   assert.match(render(data, "zh"), /\[繁體中文\]\(README\.zh-Hant\.md\)/);
   assert.match(hant, /\[简体中文\]\(README\.zh-CN\.md\)/);
 });
+
+test("absent, empty or non-array featured data leaves the README unchanged", () => {
+  for (const locale of ["en", "zh", "zh-hant"]) {
+    const original = render(data, locale);
+    for (const featured of [[], null, {}]) {
+      assert.equal(render({ ...data, featured }, locale), original);
+    }
+    assert.ok(!original.includes('id="featured"'));
+  }
+});
+
+test("featured curation leads the highlights and TOC in each README language", () => {
+  for (const [locale, title, desc] of [
+    ["en", "⭐ Featured", "Daily updates"],
+    ["zh", "⭐ 推荐", "每日推荐"],
+    ["zh-hant", "⭐ 推薦", "每日推薦"],
+  ]) {
+    const featured = [
+      { name: "Z first", url: "https://t.me/first", descZh: desc, descEn: "Daily updates" },
+      { name: "A second", url: "https://example.com/", descZh: "", descEn: "" },
+    ];
+    const result = render({ ...data, featured }, locale);
+    const section = `<a id="featured"></a>\n\n## ${title}\n\n` +
+      `- **[Z first](https://t.me/first)** — ${desc}\n` +
+      `- **[A second](https://example.com/)**\n\n`;
+    assert.ok(result.includes(section));
+    assert.ok(result.indexOf(section) < result.indexOf('<a id="popular">'));
+    assert.ok(result.indexOf(`- [${title}](#featured)`) < result.indexOf('](#popular)'));
+    assert.equal(
+      result.replace(section, "").replace(`- [${title}](#featured)\n`, ""),
+      render(data, locale),
+    );
+  }
+});
+
+test("featured text is escaped like cells and empty localized descriptions have no dash", () => {
+  const featured = [{
+    name: "A [name] | <b>*x*</b>",
+    url: "https://example.com/a_(b)?x=1",
+    descZh: "  ",
+    descEn: "Text\nwith | <script> and **markdown**",
+  }];
+  const en = render({ ...data, featured }, "en");
+  assert.ok(en.includes(`- **[${cell(featured[0].name)}](https://example.com/a_%28b%29?x=1)** — ${cell(featured[0].descEn)}\n`));
+  const zh = render({ ...data, featured }, "zh");
+  assert.ok(zh.includes(`- **[${cell(featured[0].name)}](https://example.com/a_%28b%29?x=1)**\n`));
+});

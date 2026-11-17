@@ -39,6 +39,7 @@ const text = {
     count: "Size",
     listed: "Listed",
     contents: "Contents",
+    featured: "⭐ Featured",
     popular: "🔥 Most popular",
     newest: "🆕 Recently added",
     more: (n) => `Show ${n} more`,
@@ -84,6 +85,7 @@ const text = {
     count: "规模",
     listed: "收录",
     contents: "目录",
+    featured: "⭐ 推荐",
     popular: "🔥 最受欢迎",
     newest: "🆕 最新收录",
     more: (n) => `展开其余 ${n} 个`,
@@ -128,6 +130,7 @@ const text = {
     count: "規模",
     listed: "收錄",
     contents: "目錄",
+    featured: "⭐ 推薦",
     popular: "🔥 最受歡迎",
     newest: "🆕 最新收錄",
     more: (n) => `展開其餘 ${n} 個`,
@@ -198,6 +201,7 @@ const anchor = (...parts) => parts.join("-");
 
 export function render(data, locale) {
   const t = text[locale];
+  const featured = Array.isArray(data.featured) ? data.featured : [];
   const site = data.site.replace(/\/$/, "");
   const prefix = prefixes[locale];
   const page = (path) => `${site}${prefix}${path}`;
@@ -252,6 +256,7 @@ export function render(data, locale) {
 
   // Contents
   out.push(`## ${t.contents}`, "");
+  if (featured.length) out.push(`- [${t.featured}](#featured)`);
   out.push(`- [${t.popular}](#popular)`, `- [${t.newest}](#newest)`);
   const sections = kinds.map((kind) => {
     const entries = data.entries.filter((e) => e.kind === kind);
@@ -275,6 +280,17 @@ export function render(data, locale) {
     const c = categories.get(`${e.kind}:${e.category}`);
     return `${t.kindOne[e.kind]}${c ? ` · ${cell(catName(c))}` : ""}`;
   };
+  if (featured.length) {
+    out.push(`<a id="featured"></a>`, "", `## ${t.featured}`, "");
+    for (const item of featured) {
+      const description = cell(locale === "en" ? item.descEn : item.descZh);
+      // Unlike entry URLs, curated URLs may contain Markdown link delimiters.
+      const url = item.url.replace(/[\s()<>\\]/g, (char) => encodeURIComponent(char)
+        .replaceAll("(", "%28").replaceAll(")", "%29"));
+      out.push(`- **[${cell(item.name)}](${url})**${description ? ` — ${description}` : ""}`);
+    }
+    out.push("");
+  }
   out.push(`<a id="popular"></a>`, "", `## ${t.popular}`, "");
   out.push(
     table(
