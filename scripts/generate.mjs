@@ -1,16 +1,15 @@
-// Regenerates README.md, README.zh-CN.md, README.zh-Hant.md and data/entries.json from TGbox's
-// open data.
+// Regenerates README.md, README.zh-CN.md and README.zh-Hant.md from what TGbox publishes for this
+// list: each category's largest entries and the newest ones.
 // Zero dependencies: Node 22+ (global fetch). Usage:
-//   node scripts/generate.mjs                  # fetch https://tgbox.cc/data/entries.json
+//   node scripts/generate.mjs                  # fetch https://tgbox.cc/data/awesome.json
 //   node scripts/generate.mjs --input file.json [--input-hant file.json]
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 
-const SOURCE = "https://tgbox.cc/data/entries.json";
+const SOURCE = "https://tgbox.cc/data/awesome.json";
 /** The same data converted to Traditional Chinese by the site's build. */
-const HANT_SOURCE = "https://tgbox.cc/zh-hant/data/entries.json";
+const HANT_SOURCE = "https://tgbox.cc/zh-hant/data/awesome.json";
 const REPO = "https://github.com/TGrpg/awesome-telegram";
-const MAIN_REPO = "https://github.com/TGrpg/tgbox";
 const BOT = "https://t.me/tgboxccbot";
 /** Rows shown per category before the rest folds into <details>. */
 const VISIBLE_ROWS = 15;
@@ -29,7 +28,7 @@ const text = {
       `A curated, auto-updated list of ${n} public Telegram channels, groups and bots — with live member counts, recent posts and categories on [TGbox](SITE).`,
     nav: "[🌐 Website](SITE) · [📮 Submit yours](BOT?start=submit) · [🤝 Exchange links](BOT?start=links) · **English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-Hant.md)",
     intro:
-      "Every name below opens its page on **TGbox**, a free, open-source Telegram directory: subscriber counts and growth, recent posts, creation date, activity and similar channels, in English, Simplified and Traditional Chinese. The list is regenerated every day from the site's [open data](SITE/data/entries.json), so dead or banned entries drop out on their own.",
+      "Every name below opens its page on **TGbox**, a free Telegram directory: subscriber counts and growth, recent posts, creation date, activity and similar channels, in English, Simplified and Traditional Chinese. It shows the largest entries of each category, regenerated every day so dead or banned entries drop out on their own; the full directory is on [TGbox](SITE).",
     kinds: { channel: "Channels", group: "Groups", bot: "Bots" },
     kindOne: { channel: "channel", group: "group", bot: "bot" },
     members: { channel: "Subscribers", group: "Members", bot: "Monthly users" },
@@ -49,7 +48,7 @@ const text = {
     howTitle: "How this list works",
     how: [
       "Entries come from [TGbox](SITE): submitted by owners and users through the [bot](BOT), reviewed by admins, then re-checked by a crawler every few hours.",
-      "A GitHub Action rebuilds this README every day from [`/data/entries.json`](SITE/data/entries.json) — a copy is kept in [`data/entries.json`](data/entries.json).",
+      "A GitHub Action rebuilds this README every day from TGbox.",
       "Only public entries are listed. Adult, gambling, scam and other illegal content is not accepted.",
     ],
     contributeTitle: "Add or report an entry",
@@ -60,11 +59,11 @@ const text = {
     ],
     relatedTitle: "Related",
     related: [
-      "[TGbox](MAIN) — the open-source directory behind this list (Astro + grammY on the Cloudflare free plan). Self-host your own.",
+      "[TGbox](SITE) — the directory behind this list, in English, Simplified and Traditional Chinese.",
     ],
     licenseTitle: "License",
     license:
-      "The list is available under [CC BY 4.0](LICENSE) — attribution: “[TGbox](SITE)”. The generator script is MIT.",
+      "© TGbox. The list is available under [CC BY-NC-ND 4.0](LICENSE): share it with attribution to “[TGbox](SITE)”, but no commercial use and no adaptations, including building a similar directory from it. Versions before 2026-11-19 were CC BY 4.0. The generator script is MIT.",
     footer: "If this list helped you, a ⭐ helps others find it.",
   },
   zh: {
@@ -75,7 +74,7 @@ const text = {
       `精选并每日自动更新的 ${n} 个公开 Telegram 频道、群组和机器人（电报导航），在 [TGbox](SITE) 查看实时人数、最新消息和分类。`,
     nav: "[🌐 访问网站](SITE) · [📮 提交收录](BOT?start=submit) · [🤝 交换友链](BOT?start=links) · [English](README.md) · **简体中文** · [繁體中文](README.zh-Hant.md)",
     intro:
-      "下面每个名称都链接到 **TGbox** 上的详情页——一个免费、开源的 Telegram 导航站：订阅人数与增长、最近消息、创建时间、活跃度和相似频道，简繁英三语。列表每天根据网站的[开放数据](SITE/data/entries.json)重新生成，失效或被封的条目会自动消失。",
+      "下面每个名称都链接到 **TGbox** 上的详情页——一个免费的 Telegram 导航站：订阅人数与增长、最近消息、创建时间、活跃度和相似频道，简繁英三语。这里展示每个分类里最大的条目，每天自动重新生成，失效或被封的条目会自动消失；完整目录请到 [TGbox](SITE) 查看。",
     kinds: { channel: "频道", group: "群组", bot: "机器人" },
     kindOne: { channel: "频道", group: "群组", bot: "机器人" },
     members: { channel: "订阅", group: "成员", bot: "月活" },
@@ -95,7 +94,7 @@ const text = {
     howTitle: "列表是怎么来的",
     how: [
       "条目来自 [TGbox](SITE)：频道主和用户通过[机器人](BOT)提交，管理员审核，爬虫每隔几小时复查一次。",
-      "GitHub Action 每天根据 [`/data/entries.json`](SITE/data/entries.json) 重新生成本页，副本保存在 [`data/entries.json`](data/entries.json)。",
+      "GitHub Action 每天根据 TGbox 重新生成本页。",
       "只收录公开条目，不收录色情、赌博、诈骗等违法内容。",
     ],
     contributeTitle: "提交或举报",
@@ -106,10 +105,10 @@ const text = {
     ],
     relatedTitle: "相关项目",
     related: [
-      "[TGbox](MAIN) —— 本列表背后的开源导航站（Astro + grammY，跑在 Cloudflare 免费版上），可以自建一份。",
+      "[TGbox](SITE) —— 本列表背后的导航站，简繁英三语。",
     ],
     licenseTitle: "许可",
-    license: "列表内容以 [CC BY 4.0](LICENSE) 发布，署名「[TGbox](SITE)」；生成脚本为 MIT。",
+    license: "© TGbox。列表内容以 [CC BY-NC-ND 4.0](LICENSE) 授权：可署名「[TGbox](SITE)」分享，禁止商用和改编（包括用它搭建同类网站）。2026-11-19 之前的版本为 CC BY 4.0。生成脚本为 MIT。",
     footer: "如果这个列表对你有帮助，点个 ⭐ 让更多人看到。",
   },
   "zh-hant": {
@@ -120,7 +119,7 @@ const text = {
       `精選並每日自動更新的 ${n} 個公開 Telegram 頻道、群組和機器人（電報導航），在 [TGbox](SITE) 查看實時人數、最新消息和分類。`,
     nav: "[🌐 訪問網站](SITE) · [📮 提交收錄](BOT?start=submit) · [🤝 交換友鏈](BOT?start=links) · [English](README.md) · [简体中文](README.zh-CN.md) · **繁體中文**",
     intro:
-      "下面每個名稱都鏈接到 **TGbox** 上的詳情頁——一個免費、開源的 Telegram 導航站：訂閱人數與增長、最近消息、創建時間、活躍度和相似頻道，簡繁英三語。列表每天根據網站的[開放數據](SITE/data/entries.json)重新生成，失效或被封的條目會自動消失。",
+      "下面每個名稱都鏈接到 **TGbox** 上的詳情頁——一個免費的 Telegram 導航站：訂閱人數與增長、最近消息、創建時間、活躍度和相似頻道，簡繁英三語。這裡展示每個分類裡最大的條目，每天自動重新生成，失效或被封的條目會自動消失；完整目錄請到 [TGbox](SITE) 查看。",
     kinds: { channel: "頻道", group: "群組", bot: "機器人" },
     kindOne: { channel: "頻道", group: "群組", bot: "機器人" },
     members: { channel: "訂閱", group: "成員", bot: "月活" },
@@ -140,7 +139,7 @@ const text = {
     howTitle: "列表是怎麼來的",
     how: [
       "條目來自 [TGbox](SITE)：頻道主和用戶通過[機器人](BOT)提交，管理員審核，爬蟲每隔幾小時複查一次。",
-      "GitHub Action 每天根據 [`/data/entries.json`](SITE/data/entries.json) 重新生成本頁，副本保存在 [`data/entries.json`](data/entries.json)。",
+      "GitHub Action 每天根據 TGbox 重新生成本頁。",
       "只收錄公開條目，不收錄色情、賭博、詐騙等違法內容。",
     ],
     contributeTitle: "提交或舉報",
@@ -151,10 +150,10 @@ const text = {
     ],
     relatedTitle: "相關項目",
     related: [
-      "[TGbox](MAIN) —— 本列表背後的開源導航站（Astro + grammY，跑在 Cloudflare 免費版上），可以自建一份。",
+      "[TGbox](SITE) —— 本列表背後的導航站，簡繁英三語。",
     ],
     licenseTitle: "許可",
-    license: "列表內容以 [CC BY 4.0](LICENSE) 發佈，署名「[TGbox](SITE)」；生成腳本為 MIT。",
+    license: "© TGbox。列表內容以 [CC BY-NC-ND 4.0](LICENSE) 授權：可署名「[TGbox](SITE)」分享，禁止商用和改編（包括用它搭建同類網站）。2026-11-19 之前的版本為 CC BY 4.0。生成腳本為 MIT。",
     footer: "如果這個列表對你有幫助，點個 ⭐ 讓更多人看到。",
   },
 };
@@ -210,7 +209,6 @@ export function render(data, locale) {
     s
       .replaceAll("SITE", site + prefix)
       .replaceAll("BOT", BOT)
-      .replaceAll("MAIN", MAIN_REPO)
       .replaceAll("REPO", REPO);
   // Links into the site's data file must not get the locale prefix.
   const fixData = (s) => (prefix ? s.replaceAll(`${site}${prefix}/data/`, `${site}/data/`) : s);
@@ -238,13 +236,13 @@ export function render(data, locale) {
     "",
     `# ${t.title} [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)`,
     "",
-    f(t.tagline(data.stats.total)),
+    f(t.tagline(data.entries.length)),
     "",
     f(t.nav),
     "",
     `[![Entries](https://img.shields.io/badge/${encodeURIComponent(t.kinds.channel)}%20%2B%20${encodeURIComponent(t.kinds.group)}%20%2B%20${encodeURIComponent(t.kinds.bot)}-${data.stats.total}-2AABEE?logo=telegram&logoColor=white)](${page("/")})`,
     `[![Updated](https://img.shields.io/badge/updated-${date.replaceAll("-", "--")}-brightgreen)](${REPO}/actions/workflows/update.yml)`,
-    `[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)`,
+    `[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)`,
     "",
     `</div>`,
     "",
@@ -368,7 +366,6 @@ async function main() {
     return null;
   });
   if (hant) await writeFile(new URL(text["zh-hant"].file, root), render(hant, "zh-hant"));
-  await writeFile(new URL("data/entries.json", root), `${JSON.stringify(data, null, 1)}\n`);
   console.log(`wrote ${data.entries.length} entries (${data.generatedAt})`);
 }
 

@@ -65,7 +65,8 @@ test("names link to the detail page of the README's locale", () => {
   assert.match(en, /\[Title big\]\(https:\/\/tgbox\.cc\/en\/detail\/big\/\)/);
   assert.match(zh, /\[Title big\]\(https:\/\/tgbox\.cc\/detail\/big\/\)/);
   // The data file has no locale prefix.
-  assert.match(en, /https:\/\/tgbox\.cc\/data\/entries\.json/);
+  // The data file is not advertised, and the list doesn't claim the site is open source.
+  assert.doesNotMatch(en, /data\/entries\.json|open-source/);
   assert.doesNotMatch(en, /\/en\/data\//);
   assert.match(en, /\[A \\\| B \\<script\\>\]/);
 });
@@ -83,7 +84,7 @@ test("the Traditional README links the Traditional pages and uses Traditional un
   const hant = render(data, "zh-hant");
   assert.match(hant, /^# Awesome Telegram 中文資源合集/m);
   assert.match(hant, /\[Title big\]\(https:\/\/tgbox\.cc\/zh-hant\/detail\/big\/\)/);
-  assert.match(hant, /https:\/\/tgbox\.cc\/data\/entries\.json/);
+  assert.doesNotMatch(hant, /data\/entries\.json|開源/);
   assert.doesNotMatch(hant, /\/zh-hant\/data\//);
   assert.match(hant, /\*\*繁體中文\*\*/);
   assert.equal(compact(120_000, "zh-hant"), "12萬");

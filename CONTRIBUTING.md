@@ -2,7 +2,7 @@
 
 **English** · [简体中文](#简体中文)
 
-This list is generated. Every day a GitHub Action downloads [tgbox.cc/data/entries.json](https://tgbox.cc/data/entries.json) and rewrites `README.md`, `README.zh-CN.md` and `data/entries.json`, so hand edits to those files are lost.
+This list is generated. Every day a GitHub Action reads TGbox and rewrites the READMEs, so hand edits to those files are lost.
 
 - **Add an entry:** send the link to [@tgboxccbot](https://t.me/tgboxccbot?start=submit). Admins review it; once approved it's on [tgbox.cc](https://tgbox.cc) within minutes and here the next day. You can also [open a suggestion issue](https://github.com/TGrpg/awesome-telegram/issues/new?template=submit.yml).
 - **Fix or remove an entry:** [report it](https://github.com/TGrpg/awesome-telegram/issues/new?template=report.yml). Owners can ask for removal the same way.
@@ -12,7 +12,7 @@ What gets listed: public Telegram channels, groups and bots that are active and 
 
 ## 简体中文
 
-本列表是自动生成的：GitHub Action 每天下载 [tgbox.cc/data/entries.json](https://tgbox.cc/data/entries.json)，重写 `README.md`、`README.zh-CN.md` 和 `data/entries.json`，手动修改这些文件会被覆盖。
+本列表是自动生成的：GitHub Action 每天读取 TGbox 并重写各语言的 README，手动修改这些文件会被覆盖。
 
 - **提交条目：**把链接发给 [@tgboxccbot](https://t.me/tgboxccbot?start=submit)，管理员审核通过后几分钟内出现在 [tgbox.cc](https://tgbox.cc)，第二天出现在这里。也可以[提交推荐 issue](https://github.com/TGrpg/awesome-telegram/issues/new?template=submit.yml)。
 - **纠错或删除：**[举报条目](https://github.com/TGrpg/awesome-telegram/issues/new?template=report.yml)，所有者申请删除也走这里。
